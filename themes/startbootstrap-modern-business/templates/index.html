@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {% if category == 'comunicados' %}
+        Comunicados de Prensa
+    {% else %}
+        {{ SITENAME }}
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    {% if output_file == 'index.html' %}
+    <header>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <!-- Diapositiva 1 -->
+                <div class="carousel-item active" style="background-image: url('{{ SITEURL }}/imagenes/diapositiva-coahuila-01.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Primer diapositiva</h3>
+                        <p>Una descripción breve.</p>
+                    </div>
+                </div>
+                <!-- Diapositiva 2 -->
+                <div class="carousel-item" style="background-image: url('{{ SITEURL }}/imagenes/diapositiva-coahuila-02.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Segunda diapositiva</h3>
+                        <p>Una descripción breve.</p>
+                    </div>
+                </div>
+                <!-- Diapositiva 3 -->
+                <div class="carousel-item" style="background-image: url('{{ SITEURL }}/imagenes/diapositiva-coahuila-03.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Tercera diapositiva</h3>
+                        <p>Una descripción breve.</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Siguiente</span>
+            </a>
+        </div>
+    </header>
+    {% endif %}
+    <div class="container">
+        <h1 class="mt-4 mb-3">
+            {% if category == 'comunicados' %}
+                Comunicados de Prensa
+            {% else %}
+                {{ SITENAME }}
+            {% endif %}
+        </h1>
+        {% if output_file == 'index.html' %}
+        <div class="row">
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <h4 class="card-header">Indicadores</h4>
+                    <div class="card-body">
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-dark">Próximamente</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <h4 class="card-header">Infografías</h4>
+                    <div class="card-body">
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-dark">Próximamente</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-4">
+                <div class="card h-100">
+                    <h4 class="card-header">Datos Abiertos</h4>
+                    <div class="card-body">
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-dark">Próximamente</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% for article in articles %}
+        <div class="card mb-4">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}.html">
+                            {% if article.image %}
+                            <img class="img-fluid rounded" src="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}" alt="Imagen previa">
+                            {% else %}
+                            <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="Imagen previa">
+                            {% endif %}
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}.html"><h2 class="card-title">{{ article.title }}</h2></a>
+                        <p class="card-text">{{ article.summary }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-muted">
+                28 de febrero de 2018
+            </div>
+        </div>
+        {% else %}
+        No hay contenido.
+        {% endfor %}
+    </div>
+{% endblock %}

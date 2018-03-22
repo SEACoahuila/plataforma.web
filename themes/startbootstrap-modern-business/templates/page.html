@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "BlogPosting",
+          "publisher":
+          {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "{{ SITENAME }}",
+            "url": "{{ SITEURL }}",
+            "logo": "{{ SITEURL }}/{{ SITELOGO }}"
+          },
+          "author": "{{ page.author }}",
+          "name": "{{ page.title }}",
+          "headline": "{{ page.title }}",
+          "description": "{{ page.summary }}",
+          "dateCreated": "{{ page.date }}",
+          "datePublished": "{{ page.date }}",
+          "dateModified": "{{ page.modified }}",
+          {% if page.image %}
+          "image": "{{ SITEURL }}/{{ page.category }}/{{ page.slug }}/{{ page.image }}",
+          {% else %}
+          "image": "{{ SITEURL }}/{{ SITELOGO }}",
+          {% endif %}
+          "url": "{{ SITEURL }}/{{ page.url }}"
+        }
+        </script>
+        <article>
+            <h1 class="mt-4 mb-3">{{ page.title }}</h1>
+            <hr>
+{{ page.content }}
+        </article>
+        <hr>
+    </div>
+{% endblock %}

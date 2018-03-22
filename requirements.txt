@@ -1,0 +1,9 @@
+
+# Pelican es un creador de sitios web estáticos
+pelican==3.7.1
+
+# Markdown
+markdown==2.6.10
+
+# Click mejora los comandos
+click==6.7

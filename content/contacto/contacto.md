@@ -1,13 +1,15 @@
 Title: Contacto
-Slug: index
+Slug: contacto
 Summary: Datos de contacto.
 Date: 2018-02-19 19:16
 Modified: 2018-03-05 19:00
 
+
 ### Dirección
 
-Blvd. Luis Donaldo Colosio No. 703.
-Fracc. Valle Real 2do. Sector.
+Blvd. Luis Donaldo Colosio No. 703.<br>
+Fracc. Valle Real.<br>
+Tercer Piso.<br>
 Saltillo, Coahuila de Zaragoza, México. C.P. 25205.
 
 ### Horario de atención

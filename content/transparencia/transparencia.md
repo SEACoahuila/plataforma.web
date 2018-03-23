@@ -1,5 +1,5 @@
 Title: Transparencia
-Slug: index
+Slug: transparencia
 Summary: Acceso a la información pública.
 Date: 2018-02-21 09:00
 Modified: 2018-03-08 12:13

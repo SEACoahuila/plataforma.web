@@ -1,5 +1,5 @@
 Title: Institucional
-Slug: index
+Slug: institucional
 Summary: Información de esta institución.
 Date: 2018-02-19 19:30
 Modified: 2018-02-19 19:30

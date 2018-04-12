@@ -60,6 +60,13 @@
             {% endif %}
         </h1>
         {% if output_file == 'index.html' %}
+        <div class="alert alert-dark alert-dismissible fade show" role="alert">
+            <strong>Este sitio web está en construcción.</strong> Por lo que existen páginas incompletas o enlaces rotos.
+            La fecha programada de término es el <strong>30 de abril de 2018.</strong>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="card h-100">
@@ -101,22 +108,19 @@
             <div class="card-body">
                 <div class="row">
                     <div class="col-lg-6">
-                        <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}.html">
+                        <a href="{{ SITEURL }}/{{ article.url }}">
                             {% if article.image %}
-                            <img class="img-fluid rounded" src="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}" alt="Imagen previa">
+                            <img class="img-fluid rounded" src="{{ SITEURL }}/{{ article.url }}/{{ article.image }}" alt="Imagen previa">
                             {% else %}
-                            <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="Imagen previa">
+                            <img class="img-fluid rounded" src="http://placehold.it/600x300" alt="Imagen previa">
                             {% endif %}
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a href="{{ SITEURL }}/{{ article.category }}/{{ article.slug }}.html"><h2 class="card-title">{{ article.title }}</h2></a>
+                        <a href="{{ SITEURL }}/{{ article.url }}"><h2 class="card-title">{{ article.title }}</h2></a>
                         <p class="card-text">{{ article.summary }}</p>
                     </div>
                 </div>
-            </div>
-            <div class="card-footer text-muted">
-                28 de febrero de 2018
             </div>
         </div>
         {% else %}

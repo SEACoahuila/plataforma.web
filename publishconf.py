@@ -11,10 +11,10 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Tema Clean Blog
-THEME = 'themes/startbootstrap-clean-blog'
+#THEME = 'themes/startbootstrap-clean-blog'
 
 # Tema Moder Business EN DESARROLLO
-#THEME = 'themes/startbootstrap-modern-business'
+THEME = 'themes/startbootstrap-modern-business'
 
 # Feed generation
 FEED_ALL_ATOM = None
@@ -32,9 +32,9 @@ TRANSLATION_FEED_RSS = None
 FEED_MAX_ITEMS = 24
 RSS_FEED_SUMMARY_ONLY = True
 
-# Para publicar
-DEFAULT_PAGINATION = False
+# Para publicar, los URLs son absolutos
 RELATIVE_URLS = False
+DEFAULT_PAGINATION = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
 

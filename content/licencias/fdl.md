@@ -1,6 +1,7 @@
 Title: GNU Free Documentation License
 Slug: fdl
 Summary: Licencia de Documentación Libre GNU (FDL).
+Author: Licencias
 Date: 2018-03-15 12:20
 Modified: 2018-03-15 12:20
 

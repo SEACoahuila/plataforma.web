@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# Autoría
-AUTHOR = 'SEA Coahuila'
+# Sitio
 SITENAME = 'Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
 SITEURL = 'http://www.seacoahuila.org.mx'
 SITELOGO = 'imagenes/coahuila.png'
@@ -11,16 +10,30 @@ SITELOGO = 'imagenes/coahuila.png'
 # Directorio donde esta el contenido
 PATH = 'content'
 
-# Directorios que tienen las publicaciones
+# Directorios que tienen los articulos
 ARTICLE_PATHS = ['comunicados']
 
-# Directorios que tienen páginas, no publicaciones
-PAGE_PATHS = ['contacto', 'declaraciones', 'institucional', 'transparencia']
+# Directorios que tienen páginas fijas, no artículos
+PAGE_PATHS = ['cpc', 'licencias', 'secretaria-ejecutiva', 'terminos']
 
-# Directorios y archivos que son estáticos
-# Agregue los que tienen subdirectorios con archivos para las publicaciones
-STATIC_PATHS = ['comunicados', 'declaraciones', 'imagenes', 'transparencia',
-                'CNAME', 'favicon.ico', 'LICENSE', 'README.md']
+# Directorios y archivos que son fijos
+# Agregue también los directorios con archivos para las artículos
+STATIC_PATHS = ['imagenes', 'CNAME', 'favicon.ico', 'LICENSE', 'README.md',
+                'comunicados', 'cpc', 'secretaria-ejecutiva']
+
+# Usar el nombre del directorio como la categoría
+USE_FOLDER_AS_CATEGORY = True
+
+# Los artículos van en directorios por categoría
+ARTICLE_URL = '{category}/{slug}/'
+ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
+
+# Autor por defecto
+AUTHOR = 'SEA Coahuila'
+
+# Las páginas fijas van en directorios autor/categoria/
+PAGE_URL = '{author}/{category}/{slug}/'
+PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema Clean Blog
 #THEME = 'themes/startbootstrap-clean-blog'
@@ -44,17 +57,11 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Se usa la categoría como estructura de directorios
-ARTICLE_URL = '{category}/{slug}.html'
-ARTICLE_SAVE_AS = '{category}/{slug}.html'
-PAGE_URL = '{category}/{slug}.html'
-PAGE_SAVE_AS = '{category}/{slug}.html'
-
 # Copiar las fuentes
 OUTPUT_SOURCES = False
 
-# En desarrollo
-DEFAULT_PAGINATION = False
+# En desarrollo, los URL son relativos
 RELATIVE_URLS = True
+DEFAULT_PAGINATION = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False

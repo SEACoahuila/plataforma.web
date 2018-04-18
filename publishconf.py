@@ -34,7 +34,6 @@ RSS_FEED_SUMMARY_ONLY = True
 
 # Para publicar, los URLs son absolutos
 RELATIVE_URLS = False
-DEFAULT_PAGINATION = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
 
@@ -53,10 +52,18 @@ SITEMAP = {
         'pages': 0.5,
     },
     'changefreqs': {
-        'articles': 'always',
+        'articles': 'daily',
         'indexes': 'hourly',
         'pages': 'daily'
     },
-    'exclude': ['archives.html', 'tags.html', 'categories.html',
-                'author/', '/category', 'tag/']
+    'exclude': [
+        'archives.html',
+        'tags.html',
+        'categories.html',
+        'author/']
 }
+
+# Paginacion
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 8
+DEFAULT_ORPHANS = 2

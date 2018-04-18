@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # Sitio
-SITENAME = 'Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
+SITENAME = 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
 SITEURL = 'http://www.seacoahuila.org.mx'
 SITELOGO = 'imagenes/coahuila.png'
 
@@ -63,6 +63,10 @@ OUTPUT_SOURCES = False
 
 # En desarrollo, los URL son relativos
 RELATIVE_URLS = True
-DEFAULT_PAGINATION = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
+
+# Paginacion
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 8
+DEFAULT_ORPHANS = 2

@@ -10,13 +10,14 @@
             {
               "@context": "http://schema.org",
               "@type": "Article",
-              "publisher":
-              {
-                "@context": "http://schema.org",
+              "publisher": {
                 "@type": "Organization",
                 "name": "{{ SITENAME }}",
-                "url": "{{ SITEURL }}",
-                "logo": "{{ SITEURL }}/{{ SITELOGO }}"
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                },
+                "url": "{{ SITEURL }}"
               },
               "author": "{{ article.author }}",
               "name": "{{ article.title }}",

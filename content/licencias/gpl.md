@@ -1,9 +1,9 @@
 Title: GNU General Public License
 Slug: gpl
 Summary: Licencia Pública General GNU (GPL).
-Author: Licencias
+Author: General
 Date: 2018-03-15 12:20
-Modified: 2018-03-15 12:20
+Modified: 2018-04-16 11:00
 
 
 ### GNU GENERAL PUBLIC LICENSE

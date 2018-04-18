@@ -1,9 +1,9 @@
 Title: Términos de Uso de la Información
-Slug: terminos-uso-informacion
-Summary: .
-Author: Licencias
+Slug: informacion
+Summary: Términos de uso de la información.
+Author: General
 Date: 2018-03-15 12:40
-Modified: 2018-03-15 12:40
+Modified: 2018-04-16 11:00
 
 
 ### Aviso para el usuario
@@ -25,7 +25,7 @@ El Usuario:
 
 El **SEA Coahuila**:
 
-* El **SEA Coahuila** no será responsable por la interpretación y aplicación que el usuario haga de los resultados obtenidos a través del uso de la información; por lo que cualquier decisión basada en su interpretación excluye al **SEA Coahuila** de responsabilidad alguna. Así mismo, el IMPLAN Torreón no será responsable de las diferencias obtenidas por precisiones, redondeos o truncamientos numéricos, así como por cambios técnicos o tecnológicos que puedan incidir en tales resultados.
+* El **SEA Coahuila** no será responsable por la interpretación y aplicación que el usuario haga de los resultados obtenidos a través del uso de la información; por lo que cualquier decisión basada en su interpretación excluye al **SEA Coahuila** de responsabilidad alguna. Así mismo, el **SEA Coahuila** no será responsable de las diferencias obtenidas por precisiones, redondeos o truncamientos numéricos, así como por cambios técnicos o tecnológicos que puedan incidir en tales resultados.
 * La vigencia de estos Términos de Libre Uso es por tiempo indefinido siempre que no se contravengan las disposiciones anteriores.
-* El uso no autorizado en contravención de estos Términos de Libre Uso, podrá ser sancionado de acuerdo con la legislación vigente aplicable. En caso de existir controversia, el usuario está de acuerdo expresamente en someterse a la jurisdicción de los tribunales competentes en la ciudad de Torreón, Coahuila de Zaragoza, renunciando al fuero que pudiera corresponderle por razón de domicilio presente, futuro o cualquier otra causa.
+* El uso no autorizado en contravención de estos Términos de Libre Uso, podrá ser sancionado de acuerdo con la legislación vigente aplicable. En caso de existir controversia, el usuario está de acuerdo expresamente en someterse a la jurisdicción de los tribunales competentes en la ciudad de Saltillo, Coahuila de Zaragoza, renunciando al fuero que pudiera corresponderle por razón de domicilio presente, futuro o cualquier otra causa.
 * El **SEA Coahuila** se reserva el derecho a modificar en cualquier momento los presentes Términos de Libre Uso.

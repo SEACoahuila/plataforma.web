@@ -10,6 +10,26 @@
 
 {% block content %}
     {% if output_file == 'index.html' %}
+    <!-- Organizacion Schema.org -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Blvd. Luis Donaldo Colosio No. 703. Fracc. Valle Real.",
+            "addressLocality": "Saltillo",
+            "addressRegion": "Coahuila de Zaragoza",
+            "addressCountry": "MX",
+            "postalCode": "25205"
+        },
+        "email": "informacion@seacoahuila.org.mx",
+        "name": "Sistema Anticorrupción del Estado de Coahuila de Zaragoza",
+        "telephone": "(884) 688 1546",
+        "url": "http://www.seacoahuila.org.mx"
+    }
+    </script>
+    <!-- Carrusel -->
     <header>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -60,6 +80,7 @@
             {% endif %}
         </h1>
         {% if output_file == 'index.html' %}
+        <!-- Aviso importante -->
         <div class="alert alert-dark alert-dismissible fade show" role="alert">
             <strong>Este sitio web está en construcción.</strong> Por lo que existen páginas incompletas o enlaces rotos.
             La fecha programada de término es el <strong>30 de abril de 2018.</strong>
@@ -67,6 +88,7 @@
                 <span aria-hidden="true">&times;</span>
             </button>
         </div>
+        <!-- Destacados -->
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="card h-100">
@@ -103,6 +125,7 @@
             </div>
         </div>
         {% endif %}
+        <!-- Indice -->
         {% for article in articles %}
         <div class="card mb-4">
             <div class="card-body">
@@ -124,7 +147,7 @@
             </div>
         </div>
         {% else %}
-        No hay contenido.
+        No hay artículos.
         {% endfor %}
     </div>
 {% endblock %}

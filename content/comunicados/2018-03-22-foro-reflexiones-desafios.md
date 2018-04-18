@@ -1,7 +1,7 @@
 Title: En foro "Reflexiones y Desafíos" expone CPC avances de la implementación del Sistema Estatal Anticorrupción
 Slug: 2018-03-22-foro-reflexiones-desafios
 Summary: Llevado a cabo el 22 de marzo de 2018 por agrupaciones como Participación Ciudadana 29, Consejo Cívico de las Instituciones de Coahuila Sureste y Laguna, la Universidad Iberoamericana, Renacer Lagunero y Coparmex Laguna.
-Tags: Reuniones
+Tags: Presentaciones
 Date: 2018-03-22 15:50
 Modified: 2018-03-22 15:50
 Image: preview.jpg

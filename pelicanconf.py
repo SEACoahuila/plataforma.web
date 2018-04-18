@@ -14,7 +14,7 @@ PATH = 'content'
 ARTICLE_PATHS = ['comunicados']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['cpc', 'licencias', 'secretaria-ejecutiva', 'terminos']
+PAGE_PATHS = ['anuncios', 'cpc', 'licencias', 'secretaria-ejecutiva', 'terminos']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios con archivos para las artículos
@@ -31,7 +31,8 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 # Autor por defecto
 AUTHOR = 'SEA Coahuila'
 
-# Las páginas fijas van en directorios autor/categoria/
+# Las páginas fijas van en directorios autor/categoria/titulo/
+# Autores: CPC, Secretaría Ejecutiva, Términos, Licencias
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 

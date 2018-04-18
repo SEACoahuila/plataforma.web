@@ -1,7 +1,7 @@
 Title: Capacitación del ICAI del Sistema de Portales de Obligaciones de Transparencia (SIPOT)
 Slug: 2018-04-06-capacitacion-icai-sipot-pnt
 Summary: Con la finalidad de conocer las mejoras del Sistema de Portales de Obligaciones de Transparencia (SIPOT), en relación a la carga de información a la Plataforma Nacional de Transparencia.
-Tags: Sesión Ordinaria, Comisión Ejecutiva, Comité Coordinador, Reunión, Órgano de Gobierno
+Tags: Capacitaciones
 Date: 2018-04-06 15:05
 Modified: 2018-04-06 15:05
 Image: preview.jpg

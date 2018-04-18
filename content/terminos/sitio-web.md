@@ -1,25 +1,25 @@
 Title: Términos del Uso del Sitio Web
-Slug: terminos-uso-sitio
-Summary: .
-Author: Licencias
+Slug: sitio-web
+Summary: Términos de uso del sitio web.
+Author: General
 Date: 2018-03-15 12:40
-Modified: 2018-03-15 12:40
+Modified: 2018-04-16 11:00
 
 
 ### Aviso para el usuario
 
-El uso del sitio del IMPLAN Torreón en Internet trcimplan.gob.mx, trcimplan.mx o de cualquiera de sus componentes, implica la aceptación expresa de los siguientes:
+El uso del sitio del **SEA Coahuila** en Internet www.seacoahuila.org.mx o de cualquiera de sus componentes, implica la aceptación expresa de los siguientes:
 
 ### Términos de uso del sitio del **SEA Coahuila** en internet
 
 * El **SEA Coahuila** siempre ha otorgado la mayor importancia a difundir información de calidad, apegada a las mejores metodologías, por ello ha creado este sitio en Internet para facilitar a los usuarios el acceso a la información que genera y recopila.
-* Este sitio contiene medidas de seguridad para proteger la información de cualquier alteración realizada por terceros, sin embargo, el IMPLAN Torreón no asume ninguna responsabilidad por la alteración o manipulación de los datos una vez publicados en él.
+* Este sitio contiene medidas de seguridad para proteger la información de cualquier alteración realizada por terceros, sin embargo, el **SEA Coahuila** no asume ninguna responsabilidad por la alteración o manipulación de los datos una vez publicados en él.
 * Este sitio en Internet ofrece enlaces a otros organismos nacionales e internacionales. No obstante, el **SEA Coahuila** no asume ningún tipo de responsabilidad por el contenido, ni por el uso de esos sitios.
 * Las leyes, reglamentos y demás disposiciones que aparecen en el sitio no crean derechos ni establecen obligaciones distintas de las contenidas en las disposiciones publicadas en el Diario Oficial de la Federación.
 
 El Usuario:
 
-* Puede utilizar la información del **SEA Coahuila** con apego a lo dispuesto en los [Términos de Libre Uso de la Información del IMPLAN Torreón](terminos-informacion.html).
+* Puede utilizar la información del **SEA Coahuila** con apego a lo dispuesto en los Términos de Uso de la Información.
 * Se obliga a hacer buen uso del sitio, respetando la normatividad vigente en la materia, y a no causar daños en el mismo.
 * Debe contar con un equipo que cumpla con las características mínimas necesarias para navegar en el sitio.
 * Exime al **SEA Coahuila** de toda responsabilidad por los daños que el uso del sitio le pudieran ocasionar en forma incidental o consecuente con su equipo, información, patrimonio o persona.

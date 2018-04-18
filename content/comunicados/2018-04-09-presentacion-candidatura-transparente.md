@@ -1,7 +1,7 @@
 Title: Presentación del programa de "Candidatura Transparente"
 Slug: 2018-04-09-presentacion-candidatura-transparente
 Summary: En el Instituto Electoral de Coahuila se presentó la plataforma Candidatura Transparente que sirve para conocer y comparar las propuestas de las y los candidatos que aspiran a un cargo de elección popular.
-Tags: Sesión Ordinaria, Comisión Ejecutiva, Comité Coordinador, Reunión, Órgano de Gobierno
+Tags: Presentaciones
 Date: 2018-04-09 13:59
 Modified: 2018-04-09 13:59
 Image: preview.jpg

@@ -3,10 +3,10 @@ Slug: art-21-46-aportaciones-nacionales-o-internacionales-para-emergencia-o-desa
 Summary: Aportaciones nacionales o internacionales, para emergencia o desastre.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-02-23 09:00
+Modified: 2018-04-20 17:30
 
 
-Fecha de última actualización: 27 de febrero de 2018
+Fecha de última actualización: 30 de marzo 2018.
 
 **La Secretaría Ejecutiva no ha recibido aportación en dinero o en
 especie de personas físicas o morales, nacionales o internacionales a

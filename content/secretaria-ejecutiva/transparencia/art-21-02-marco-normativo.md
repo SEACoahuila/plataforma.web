@@ -3,8 +3,10 @@ Slug: art-21-02-marco-normativo
 Summary: Marco normativo.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-03-08 12:41
+Modified: 2018-04-20 17:30
 
+
+Fecha de última actualización: 30 de marzo 2018.
 
 ### Constituciones políticas
 

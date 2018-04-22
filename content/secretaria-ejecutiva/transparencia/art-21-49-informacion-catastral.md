@@ -3,10 +3,10 @@ Slug: art-21-49-informacion-catastral
 Summary: Información catastral.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-02-23 09:00
+Modified: 2018-04-20 17:30
 
 
-Fecha de última actualización: 23 de febrero de 2018
+Fecha de última actualización: 30 de marzo 2018.
 
 ### NO APLICA
 

@@ -15,7 +15,7 @@ Fecha de última actualización: 30 de marzo 2018.
 ### Dirección de Diagnóstico y Políticas Públicas
 
 * [Luis Alberto Gutiérrez Arizpe - PDF](cv-laga.pdf)
-* [Génesis Nohemí Ceniceros Guerra - PDF](cv-gncg.pdf)
+* [Génesis Noemí Ceniceros Guerra - PDF](cv-gncg.pdf)
 * [Rodolfo Gutiérrez González - PDF](cv-rgg.pdf)
 
 ### Dirección de Servicios Generales

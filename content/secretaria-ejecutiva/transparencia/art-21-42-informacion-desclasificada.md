@@ -6,4 +6,14 @@ Date: 2018-02-23 09:00
 Modified: 2018-02-23 09:00
 
 
-<div class="alert alert-info" role="alert">Aviso: El contenido de esta página está en desarrollo.</div>
+Fecha de última actualización: 30 de marzo 2018.
+
+Por el momento la Secretaría Ejecutiva del Sistema Anticorrupción del
+Estado de Coahuila de Zaragoza, no ha generado información
+desclasificada.
+
+En caso de que se genere información al respecto, será publicada.
+
+Por lo que se le informa que el funcionario responsable de la presente
+información es el **Lic. Mauricio Contreras Montoya,** Titular de la
+Unidad de Asuntos Jurídicos.

@@ -8,8 +8,8 @@ Modified: 2018-04-17 21:18
 
 ### Misión
 
-> Somos un organismo descentralizado de apoyo técnico al comité
-coordinador del Sistema Anticorrupción de Coahuila, que provee insumos
+> Somos un organismo descentralizado de apoyo técnico al Comité
+Coordinador del Sistema Anticorrupción de Coahuila, que provee insumos
 necesarios para el diseño, ejecución y evaluación de políticas públicas
 en materia de prevención, reducción y combate a la corrupción, faltas
 administrativas y control de recursos públicos, a fin de dar respuestas

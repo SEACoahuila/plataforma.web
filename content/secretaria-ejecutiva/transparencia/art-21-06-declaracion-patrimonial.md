@@ -15,7 +15,7 @@ Fecha de última actualización: 30 de marzo 2018.
 ### Dirección de Diagnóstico y Políticas Públicas
 
 * [Luis Alberto Gutiérrez Arizpe - PDF](vesion-publica-de-la-declaracion-anual-laga.pdf)
-* [Génesis Nohemí Ceniceros Guerra - PDF](vesion-publica-de-la-declaracion-anual-gncg.pdf)
+* [Génesis Noemí Ceniceros Guerra - PDF](vesion-publica-de-la-declaracion-anual-gncg.pdf)
 * [Rodolfo Gutiérrez González - PDF](vesion-publica-de-la-declaracion-anual-rgg.pdf)
 
 ### Dirección de Servicios Generales

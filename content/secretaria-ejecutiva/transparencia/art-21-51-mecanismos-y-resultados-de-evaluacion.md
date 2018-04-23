@@ -31,5 +31,5 @@ por no ser información relacionada con sus funciones, motivo por el
 cual no existe información respecto del presente rubro.**
 
 Por lo que se le informa que el funcionario responsable de la presente
-información es el C.P. Rosalío Medina Martínez, Director de Servicios
-Generales.
+información es el **C.P. Rosalío Medina Martínez,** Director de
+Servicios Generales.

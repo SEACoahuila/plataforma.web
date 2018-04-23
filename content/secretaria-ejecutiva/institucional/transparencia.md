@@ -71,17 +71,4 @@ a la Información pública" (Art. 70).
 
 ### Art. 22 Gastos de publiciad
 
-1. Presupuesto aprobado
-2. Contrato, monto y factura
-3. Nombre de la campaña
-4. Fecha de inicio y fecha de término
-5. Dependencia o dirección que lo solicita
-6. Tipo de medio de comunicación
-7. Costo por centímetro o por segundo
-8. Padrón de proveedores
-
-### Art. 25
-
-1. Reglamentos
-2. Iniciativas de leyes o decretos
-3. Convenios de colaboración
+* [Gastos de publiciad]({filename}/secretaria-ejecutiva/transparencia/art-22.md)

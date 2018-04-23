@@ -26,6 +26,11 @@ De 09:00 a 15:00 de lunes a viernes.
 
 ### Correos electrónicos
 
-* <adquisiciones@seacoahuila.org.mx>
-* <informacion@seacoahuila.org.mx>
-* <transparencia@seacoahuila.org.mx>
+Propósitos               | Correos electrónicos
+-------------------------|-----------------------------------
+Adquisiciones            | <adquisiciones@seacoahuila.org.mx>
+Sólo entrega de facturas | <facturas@seacoahuila.org.mx>
+Capacitación             | <capacitacion@seacoahuila.org.mx>
+Recursos Humanos         | <recursos.humanos@seacoahuila.org.mx>
+Transparencia            | <transparencia@seacoahuila.org.mx>
+Información general      | <informacion@seacoahuila.org.mx>

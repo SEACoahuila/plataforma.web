@@ -14,5 +14,5 @@ Asuntos Jurídicos.
 
 ### Descargar
 
-* [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - DOCX 38KB](convenio-colaboracion-auditoria-superior-del-estado.pdf)
+* [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - DOCX 38KB](convenio-colaboracion-auditoria-superior-del-estado.docx)
 * [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - PDF 229KB](convenio-colaboracion-auditoria-superior-del-estado.pdf)

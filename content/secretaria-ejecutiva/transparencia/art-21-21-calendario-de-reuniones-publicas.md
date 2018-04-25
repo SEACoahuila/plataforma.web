@@ -3,7 +3,7 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-23 17:20
+Modified: 2018-04-23 22:00
 
 
 Fecha de última actualización: 30 de marzo 2018.
@@ -35,14 +35,14 @@ para desahogar los asuntos de su competencia.
 
 ### Sesiones Ordinarias del Órgano de Gobierno
 
-* 22 de enero 2018
+* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria del Órgano de Gobierno PDF](2018-01-22-primera-sesion-ordinaria-organo-gobierno.pdf)
 * 26 de abril 2018
 * 17 de julio 2018
 * 04 de octubre 2018
 
 ### Sesiones Extraordinarias del Órgano de Gobierno
 
-* 23 de noviembre 2017
+* 23 de noviembre 2017 - [Acta de la Primera Sesión Extraordinaria del Órgano de Gobierno PDF](2017-11-23-primera-sesion-extraordinaria-del-organo-gobierno.pdf)
 * 15 marzo 2018
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y
@@ -56,6 +56,8 @@ integran.
 * 19 de abril 2018
 * 12 de julio 2018
 * 18 de octubre 2018
+
+[Acta de Instalación de la Comisión Ejecutiva PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente
 información es el **Lic. Mauricio Contreras Montoya,** Titular de la

@@ -8,10 +8,6 @@ Modified: 2018-04-23 17:20
 
 Fecha de última actualización: 30 de marzo 2018.
 
-Se le informa que el funcionario responsable de la presente información
-es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
-Asuntos Jurídicos.
-
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a
 disposición de la ciudadanía el mecanismo para presentar solicitudes de
 información pública de su interés en el sistema INFOCOAHUILA.
@@ -54,3 +50,7 @@ En la Secretaría Ejecutiva del Sistema Estatal Anticorrupción estamos a
 sus órdenes para resolver las dudas o inquietudes sobre la Información
 Pública de Oficio y para ello [le invitamos a
 contactarnos](../contacto/).
+
+Se le informa que el funcionario responsable de la presente información
+es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
+Asuntos Jurídicos.

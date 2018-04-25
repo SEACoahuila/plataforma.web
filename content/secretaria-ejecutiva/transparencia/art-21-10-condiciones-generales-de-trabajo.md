@@ -20,12 +20,12 @@ Asimismo se informa que la **Secretaría Ejecutiva** no cuenta con ningún
 sindicato, por lo que no se han entregado recursos económicos o en
 especie.
 
-Por lo que se le informa que el funcionario responsable de la presente
-información es el **Lic. Mauricio Contreras Montoya,** Titular de la
-Unidad de Asuntos Jurídicos.
-
 ### Descargar
 
 * [Constitución Política Federal](../art-21-02-marco-normativo/constitucion-politica-federal.pdf)
 * [Constitución Política del Estado de Coahuila de Zaragoza](../art-21-02-marco-normativo/constitucion-politica-del-estado-de-coahuila-de-zaragoza.pdf)
 * [Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](../art-21-02-marco-normativo/reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
+
+Por lo que se le informa que el funcionario responsable de la presente
+información es el **Lic. Mauricio Contreras Montoya,** Titular de la
+Unidad de Asuntos Jurídicos.

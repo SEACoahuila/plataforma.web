@@ -8,10 +8,6 @@ Modified: 2018-04-23 17:20
 
 Fecha de última actualización: 30 de marzo 2018.
 
-Se le informa que el funcionario responsable de la presente información
-es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
-Asuntos Jurídicos.
-
 ### Descargar
 
 * [Adjudicación directa - XLSX](adjudicacion-directa.xlsx)
@@ -24,3 +20,7 @@ Asuntos Jurídicos.
 * [Contrato de Obra Pública 002-2018 - DOCX](contrato-obra-publica-002-2018.docx)
 * [Contrato de Obra Pública 002-2018 - PDF](contrato-obra-publica-002-2018.pdf)
 * [Invitaciones - XLSX](invitaiones.xlsx)
+
+Se le informa que el funcionario responsable de la presente información
+es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
+Asuntos Jurídicos.

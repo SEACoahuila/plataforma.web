@@ -13,7 +13,6 @@ Fecha de última actualización: 30 de marzo 2018.
 * [Constitución Política Federal](constitucion-politica-federal.pdf)
 * [Constitución Política del Estado de Coahuila de Zaragoza](constitucion-politica-del-estado-de-coahuila-de-zaragoza.pdf)
 
-
 ### Leyes federales
 
 * [Ley de Fiscalización y Rendición de Cuentas de la Federación](ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.pdf)
@@ -24,7 +23,6 @@ Fecha de última actualización: 30 de marzo 2018.
 * [Ley General de Responsabilidades Administrativas](ley-general-de-responsabilidades-administrativas.pdf)
 * [Ley General de Transparencia y Acceso a la Información Pública](ley-general-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
 * [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados](ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados.pdf)
-
 
 ### Leyes locales
 
@@ -41,7 +39,14 @@ Fecha de última actualización: 30 de marzo 2018.
 * [Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza](ley-organica-de-la-administracion-publica-del-estado-de-coahuila-de-zaragoza.pdf)
 * [Ley para Prevenir y Sancionar Prácticas de Corrupción del Estado de Coahuila de Zaragoza](ley-para-prevenir-y-sancionar-practicas-de-corrupcion-del-estado-de-coahuila-de-zaragoza.pdf)
 
-
 ### Reglamentos estatales
 
 * [Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
+
+### Acuerdos, lineamientos y recomendaciones
+
+* [Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales - Lineamientos SIPOT](lineamientos-sipot.pdf)
+
+Se le informa que el funcionario responsable de la presente información
+es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
+Asuntos Jurídicos.

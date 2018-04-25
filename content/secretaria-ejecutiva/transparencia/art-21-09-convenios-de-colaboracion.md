@@ -8,11 +8,11 @@ Modified: 2018-04-20 17:30
 
 Fecha de última actualización: 30 de marzo 2018.
 
-Se le informa que el funcionario responsable de la presente información
-es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
-Asuntos Jurídicos.
-
 ### Descargar
 
 * [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - DOCX 38KB](convenio-colaboracion-auditoria-superior-del-estado.docx)
 * [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - PDF 229KB](convenio-colaboracion-auditoria-superior-del-estado.pdf)
+
+Se le informa que el funcionario responsable de la presente información
+es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
+Asuntos Jurídicos.

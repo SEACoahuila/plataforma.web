@@ -15,10 +15,10 @@ de Zaragoza,  proporciona la información correspondiente a la
 georreferenciación e imagen de las obras públicas asignadas o
 realizadas por esta institución de conformidad con lo siguiente:
 
-Por lo que se le informa que el funcionario responsable de la presente
-información es **C.P. Rosalío Medina Martínez,** Director de Servicios
-Generales.
-
 ### Descargar
 
 * [Georreferenciación e Imágenes de las Obras Públicas](georreferenciacion-imagenes-obras-publicas.pdf)
+
+Por lo que se le informa que el funcionario responsable de la presente
+información es **C.P. Rosalío Medina Martínez,** Director de Servicios
+Generales.

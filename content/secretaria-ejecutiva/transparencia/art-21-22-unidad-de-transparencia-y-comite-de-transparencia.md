@@ -13,10 +13,6 @@ reuniones ordinarias y/o extraordinarias** del Comité de Transparencia,
 ya que no se recibieron solicitudes de información pública en este
 trimestre.
 
-Así mismo, se informa que el funcionario responsable de la presente
-información es el **Lic. Mauricio Contreras Montoya,** Titular de la
-Unidad de Asuntos Jurídicos.
-
 ### Descargar
 
 * [Unidad de Transparencia](unidad-de-transparencia.pdf)
@@ -25,3 +21,7 @@ Unidad de Asuntos Jurídicos.
 ### Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza
 
 * [INFOCOAHUILA](http://189.254.130.35/infocoahuila/)
+
+Así mismo, se informa que el funcionario responsable de la presente
+información es el **Lic. Mauricio Contreras Montoya,** Titular de la
+Unidad de Asuntos Jurídicos.

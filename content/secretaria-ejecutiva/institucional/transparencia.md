@@ -72,3 +72,7 @@ a la Información pública" (Art. 70).
 ### Art. 22 Gastos de publiciad
 
 * [Gastos de publiciad]({filename}/secretaria-ejecutiva/transparencia/art-22.md)
+
+### Art. 70
+
+* [Tabla de Aplicabilidad]({filename}/secretaria-ejecutiva/transparencia/art-70.md)

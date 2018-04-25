@@ -3,7 +3,7 @@ Slug: contacto
 Summary: Datos de contacto de la Secretaría Ejecutiva del SEA Coahuila.
 Author: Secretaría Ejecutiva
 Date: 2018-02-19 19:16
-Modified: 2018-03-05 19:00
+Modified: 2018-04-25 10:50
 
 
 ### Dirección
@@ -19,10 +19,9 @@ Saltillo, Coahuila de Zaragoza, México. C.P. 25205.
 
 De 09:00 a 15:00 de lunes a viernes.
 
-### Teléfonos
+### Teléfono
 
-(884) 688 1546<br>
-(884) 688 2178
+(844) 688 2178
 
 ### Correos electrónicos
 

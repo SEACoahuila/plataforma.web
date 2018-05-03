@@ -23,6 +23,7 @@ Fecha de última actualización: 30 de marzo 2018.
 * [Rosalío Medina Martínez - PDF](cv-rmm.pdf)
 * [Elizabeth Abigail Carranza Castro - PDF](cv-eacc.pdf)
 * [Estefanía Alejandra Guevara Meza - PDF](cv-eagm.pdf)
+* [Luis Alonso Valero Ramos - PDF](cv-lavr.pdf)
 
 ### Unidad de Sistemas de Información
 

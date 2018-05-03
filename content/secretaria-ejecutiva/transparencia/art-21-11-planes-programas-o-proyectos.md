@@ -10,7 +10,7 @@ Fecha de última actualización: 30 de marzo 2018.
 
 ### Descargar
 
-* [Programa de Trabajo de la Secretaría Ejecutiva 18/abril/2018 - PDF 109KB](programa-de-trabajo-de-la-secretaria-ejecutiva-2018-04-18.pdf)
+* [Programa de Trabajo de la Secretaría Ejecutiva 30/marzo/2018 - PDF 109KB](programa-de-trabajo-de-la-secretaria-ejecutiva-2018-03-30.pdf)
 
 Se le informa que el funcionario responsable de la presente información
 es el **Lic. Luis Alberto Gutiérrez Arizpe,** Director de Diagnóstico y

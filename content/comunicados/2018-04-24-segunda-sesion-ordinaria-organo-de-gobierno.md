@@ -3,7 +3,7 @@ Slug: 2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno
 Summary: Aprueba Órgano de Gobierno informe de avance de gestión financiera correspondiente al primer trimestre de 2018, de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 Tags: Sesiones, Órgano de Gobierno
 Date: 2018-04-24 15:42
-Modified: 2018-04-24 15:42
+Modified: 2018-04-27 17:25
 Image: preview.jpg
 
 

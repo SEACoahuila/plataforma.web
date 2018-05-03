@@ -23,6 +23,7 @@ Fecha de última actualización: 30 de marzo 2018.
 * [Rosalío Medina Martínez - PDF](vesion-publica-de-la-declaracion-anual-rmm.pdf)
 * [Elizabeth Abigail Carranza Castro - PDF](vesion-publica-de-la-declaracion-anual-eacc.pdf)
 * [Estefanía Alejandra Guevara Meza - PDF](vesion-publica-de-la-declaracion-anual-eagm.pdf)
+* [Luis Alonso Valero Ramos - PDF](vesion-publica-de-la-declaracion-anual-lavr.pdf)
 
 ### Unidad de Sistemas de Información
 

@@ -21,10 +21,6 @@
                 {{ SITENAME }}
             {% endif %}
         </h1>
-        {% if output_file == 'index.html' %}
-            {% include 'inicial-avisos.html' %}
-            {% include 'inicial-destacados.html' %}
-        {% endif %}
         {% if articles %}
             <!-- Articulos -->
             {% for article in articles_page.object_list %}

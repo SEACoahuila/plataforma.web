@@ -10,10 +10,11 @@ Image: preview.jpg
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 El día de hoy, se llevó a cabo la primera sesión ordinaria de la
-Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila,
-con la participación de todos sus integrantes, **Mtra. Marcela Castañeda
-Agüero, Mtra. Ana Yuri Solís Gaona, Lic. María de Lourdes de Koster
-López, Ing. Juan Adolfo Von Bertrab Saracho** y **Lic. Carlos Rangel Orona.**
+**Comisión Ejecutiva** del **Sistema Anticorrupción del Estado de
+Coahuila,** con la participación de todos sus integrantes, **Mtra.
+Marcela Castañeda Agüero, Mtra. Ana Yuri Solís Gaona, Lic. María de
+Lourdes de Koster López, Ing. Juan Adolfo Von Bertrab Saracho** y
+**Lic. Carlos Rangel Orona.**
 
 Durante la instalación de la Comisión, la Secretaria Técnica verificó
 el quórum, dio lectura y se aprobó el orden del día.

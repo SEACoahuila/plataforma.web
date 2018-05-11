@@ -11,10 +11,10 @@ Comunicado de Prensa.
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 
-Saltillo, Coahuila.- Integrantes del **Comité Coordinador del Sistema
-Estatal Anticorrupción en Coahuila** participaron en una reunión de
-trabajo y deliberación del **Plan de Trabajo del Comité Coordinador**
-para este año.
+Saltillo, Coahuila.- Integrantes del **Comité Coordinador** del
+**Sistema Estatal Anticorrupción en Coahuila** participaron en una
+reunión de trabajo y deliberación del **Plan de Trabajo del Comité
+Coordinador** para este año.
 
 El pasado miércoles 28 de febrero de 2018, en la Sala de Juntas de la
 Auditoría Superior del Estado acudieron **Armando Plata Sandoval,**

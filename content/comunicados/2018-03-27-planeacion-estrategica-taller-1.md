@@ -1,7 +1,7 @@
 Title: Primer Taller de Planeación Estratégica
 Slug: 2018-03-27-planeacion-estrategica-taller-1
 Summary: Con el fin de definir la identidad institucional que guiarán los objetivos generales y estratégicos, el personal de la Secretaría Ejecutiva los elaboró con metodologías participativas.
-Tags: Capacitaciones
+Tags: Capacitaciones, Secretaría Ejecutiva
 Date: 2018-03-27 23:59
 Modified: 2018-04-18 15:04
 Image: preview.jpg

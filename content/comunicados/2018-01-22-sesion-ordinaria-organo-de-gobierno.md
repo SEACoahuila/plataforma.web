@@ -10,10 +10,10 @@ Comunicado de Prensa.
 
 Saltillo, Coahuila a 22 de Enero de 2018
 
-En **Sesión Ordinaria del Órgano de Gobierno del Sistema Estatal
-Anticorrupción,** fue aprobado por unanimidad de sus integrantes el
-**Presupuesto de Egresos para el Ejercicio Fiscal 2018 de la Secretaría
-Ejecutiva.**
+En **Sesión Ordinaria** del **Órgano de Gobierno** del **Sistema
+Estatal Anticorrupción,** fue aprobado por unanimidad de sus
+integrantes el **Presupuesto de Egresos para el Ejercicio Fiscal 2018
+de la Secretaría Ejecutiva.**
 
 En dicho presupuesto se determinó asignar para el rubro de Servicios
 Personales un total de 15 millones 466 mil 248 pesos y 70 centavos;

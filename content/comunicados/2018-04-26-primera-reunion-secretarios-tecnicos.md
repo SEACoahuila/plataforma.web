@@ -1,7 +1,7 @@
 Title: Primera Reunión Nacional de Secretarios Técnicos
 Slug: 2018-04-26-primera-reunion-secretarios-tecnicos
 Summary: Acude la Secretaria Técnica de la Secretaría Ejecutiva del Sistema Anticorrupción de Coahuila a la Primera Reunión Nacional de Secretarios Técnicos.
-Tags: Reuniones
+Tags: Reuniones, Secretaría Ejecutiva
 Date: 2018-04-26 16:05
 Modified: 2018-04-26 16:05
 Image: preview.jpg

@@ -3,7 +3,7 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-23 22:00
+Modified: 2018-05-10 15:20
 
 
 Fecha de última actualización: 30 de marzo 2018.
@@ -14,6 +14,10 @@ lo siguiente:
 
 De conformidad con lo dispuesto por el artículo 13, de la Ley del
 Sistema Anticorrupción del Estado de Coahuila de Zaragoza;
+
+### Instalación del Comité Coordinador
+
+* 25 de octubre 2017 - [Acta de Instalación del Comité Coordinador](2017-10-25-acta-instalacion-comite-coordinador.pdf)
 
 El **Comité Coordinador** se reunirá en sesión ordinaria cada tres meses y
 sus sesiones serán públicas.
@@ -32,6 +36,10 @@ Coahuila de Zaragoza.
 El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias
 por año, además de las extraordinarias que se consideren convenientes
 para desahogar los asuntos de su competencia.
+
+### Instalación del Órgano de Gobierno
+
+* 25 de octubre de 2017 - [Acta de Instalación del Órgano de Gobierno](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
 
 ### Sesiones Ordinarias del Órgano de Gobierno
 

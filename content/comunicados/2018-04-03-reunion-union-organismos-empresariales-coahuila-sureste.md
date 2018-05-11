@@ -1,7 +1,7 @@
 Title: Proponen acciones contra la corrupción integrantes de Unión de Organismos Empresariales Coahuila-Sureste
 Slug: 2018-04-03-reunion-union-organismos-empresariales-coahuila-sureste
 Summary: Manifestaron su preocupación por la prevalencia de posibles situaciones irregulares en los procesos y trámites, que afectan el desarrollo de la economía de la región y la entidad.
-Tags: Reuniones
+Tags: Consejo de Participación Ciudadana, Reuniones
 Date: 2018-04-03 17:25
 Modified: 2018-04-03 17:25
 Image: preview.jpg

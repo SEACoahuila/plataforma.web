@@ -1,7 +1,7 @@
 Title: Tesis doctoral en UAdeC, advierte sobre efectos de la corrupción en entidades del país
 Slug: 2018-03-16-presentacion-tesis-efectos-corrupcion-crecimiento-mexico
 Summary: El investigador David Franco Chichao presentó el tema "Efectos de la Corrupción en el Crecimiento de México", cuyos alcances involucran los sobornos que paga un ciudadano al realizar trámites en oficinas federales, estatales o municipales.
-Tags: Presentaciones
+Tags: Consejo de Participación Ciudadana, Presentaciones, Secretaría Ejecutiva
 Date: 2018-03-16 18:20
 Modified: 2018-03-16 18:20
 Image: preview.jpg

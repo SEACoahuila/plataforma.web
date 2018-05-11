@@ -1,7 +1,7 @@
 Title: Segundo Taller de Planeación Estratégica
 Slug: 2018-04-12-planeacion-estrategica-taller-2
 Summary: En la sede del SEA Coahuila se dió continuidad al Taller de Planeación Estratégica trabajando en los objetivos estratégicos y la parte teórica de la programación.
-Tags: Capacitaciones
+Tags: Capacitaciones, Secretaría Ejecutiva
 Date: 2018-04-12 23:59
 Modified: 2018-04-18 15:10
 Image: preview.jpg

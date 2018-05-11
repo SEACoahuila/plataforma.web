@@ -1,7 +1,7 @@
 Title: Representantes de la Secretaría Ejecutiva del asisten al Foro de consulta ciudadana del Plan de Gestión Institucional 2018-2024 de la Fiscalía General del Estado
 Slug: 2018-03-22-foro-fiscalia-consulta-ciudadana
 Summary: El foro contó con la asistencia y participación de representantes de la Secretaría Ejecutiva del SEA, al igual que ciudadanos pertenecientes a organizaciones de la sociedad civil, colegios y asociaciones de abogados, estudiantes y académicos, además de funcionarios pertenecientes en su mayoría a órganos de impartidores de justicia.
-Tags: Presentaciones
+Tags: Presentaciones, Secretaría Ejecutiva
 Date: 2018-03-22 18:50
 Modified: 2018-03-22 18:50
 Image: preview.jpg

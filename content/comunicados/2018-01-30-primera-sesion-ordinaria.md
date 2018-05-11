@@ -9,8 +9,8 @@ Image: preview.jpg
 
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
-La Secretaria Técnica de la Comisión Ejecutiva del Sistema
-Anticorrupción del Estado de Coahuila de Zaragoza, verificó la
+La **Secretaria Técnica** de la **Comisión Ejecutiva** del **Sistema
+Anticorrupción del Estado de Coahuila de Zaragoza,** verificó la
 asistencia de todos los integrantes de la Comisión Ejecutiva a la
 primera reunión ordinaria 2018, y sometió y dio fe de la aprobación del
 orden del día.

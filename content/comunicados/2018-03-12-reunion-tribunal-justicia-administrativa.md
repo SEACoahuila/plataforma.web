@@ -11,9 +11,9 @@ Comunicado de Prensa.
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 
-Saltillo, Coahuila.- Integrantes del **Comité Coordinador del Sistema
-Estatal Anticorrupción de Coahuila** se reunieron el lunes 12 de marzo
-de 2018, para analizar la propuesta de lineamientos para la
+Saltillo, Coahuila.- Integrantes del **Comité Coordinador** del
+**Sistema Estatal Anticorrupción de Coahuila** se reunieron el lunes 12
+de marzo de 2018, para analizar la propuesta de lineamientos para la
 coordinación y funcionamiento del **Comité Coordinador del Sistema
 Estatal Anticorrupción,** así como el cronograma de actividades que
 desarrollará el propio Comité Coordinador.

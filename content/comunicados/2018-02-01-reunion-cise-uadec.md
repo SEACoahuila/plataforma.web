@@ -11,10 +11,10 @@ Comunicado de Prensa.
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 
-Saltillo, Coahuila.- Integrantes del Consejo de Participación Ciudadana
-(CPC) se reunió el jueves 1 de febrero de 2018 con académicos del
-Centro de Investigaciones Socieconómicas (CISE) de la Universidad
-Autónoma de Coahuila (UAdeC) en el campus Saltillo.
+Saltillo, Coahuila.- Integrantes del **Consejo de Participación
+Ciudadana (CPC)** se reunió el jueves 1 de febrero de 2018 con
+académicos del **Centro de Investigaciones Socieconómicas (CISE)** de
+la **Universidad Autónoma de Coahuila (UAdeC)** en el campus Saltillo.
 
 Durante la sesión de información estuvieron, el presidente del CPC,
 **Manuel Gil Navarro** y las consejeras **Ana Yuri Solís Gaona y

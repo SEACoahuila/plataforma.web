@@ -7,7 +7,7 @@ Modified: 2018-03-16 18:20
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### El investigador David Franco Chichao presentó el tema "Efectos de la Corrupción en el Crecimiento de México", cuyos alcances involucran los sobornos que paga un ciudadano al realizar trámites en oficinas federales, estatales o municipales
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

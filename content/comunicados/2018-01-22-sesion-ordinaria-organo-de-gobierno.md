@@ -6,7 +6,7 @@ Date: 2018-01-22 15:10
 Modified: 2018-01-22 15:10
 
 
-Comunicado de Prensa.
+### En Sesión Ordinaria del Órgano de Gobierno del Sistema Estatal Anticorrupción, fue aprobado por unanimidad de sus integrantes el Presupuesto de Egresos para el Ejercicio Fiscal 2018 de la Secretaría Ejecutiva
 
 Saltillo, Coahuila a 22 de Enero de 2018
 

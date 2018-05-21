@@ -7,7 +7,7 @@ Modified: 2018-03-15 17:45
 Image: preview.jpg
 
 
-Comunicado de prensa.
+### En sesión pública del Comité Coordinador de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción se aprobó el Plan de Trabajo
 
 Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 

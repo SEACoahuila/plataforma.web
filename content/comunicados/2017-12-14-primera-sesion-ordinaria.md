@@ -7,6 +7,8 @@ Modified: 2017-12-14 11:10
 Image: preview.jpg
 
 
+### El objetivo de la reunión fue proponer algunas líneas generales de trabajo de la Comisión, así como establecer un calendario de sesiones ordinarias y extraordinarias para el año 2018
+
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 El día de hoy, se llevó a cabo la primera sesión ordinaria de la

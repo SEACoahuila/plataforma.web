@@ -7,6 +7,8 @@ Modified: 2018-04-18 15:04
 Image: preview.jpg
 
 
+### Con el fin de definir la identidad institucional que guiarán los objetivos generales y estratégicos, el personal de la Secretaría Ejecutiva los elaboró con metodologías participativas
+
 Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 
 Saltillo, Coahuila.- El día de hoy, acudió la **Mtra. Marcela Castañeda

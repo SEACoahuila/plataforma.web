@@ -7,7 +7,7 @@ Modified: 2018-03-12 11:35
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### Integrantes del Comité Coordinador del SEA Coahuila se reunieron para analizar la propuesta de lineamientos para la coordinación y funcionamiento así como el cronograma de actividades
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

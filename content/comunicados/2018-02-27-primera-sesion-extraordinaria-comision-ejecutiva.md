@@ -7,6 +7,8 @@ Modified: 2018-02-27 11:50
 Image: preview.jpg
 
 
+### Se revisó el avance del programa de trabajo de la Comisión Ejecutiva
+
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 La coordinadora de la **Comisión Ejecutiva,** a cargo de la consejera

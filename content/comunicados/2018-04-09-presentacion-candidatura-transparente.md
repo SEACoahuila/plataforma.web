@@ -7,6 +7,8 @@ Modified: 2018-04-09 13:59
 Image: preview.jpg
 
 
+### En el Instituto Electoral de Coahuila se presentó la plataforma Candidatura Transparente que sirve para conocer y comparar las propuestas de las y los candidatos que aspiran a un cargo de elección popular
+
 El día de hoy, asistió la **Lic. María de Lourdes de Koster,** en
 representación del **Consejo de Participación Ciudadana,** la **Mtra.
 Marcela Castañeda Agüero, Secretaria Técnica** y personal que conforman

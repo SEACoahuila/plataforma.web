@@ -7,9 +7,7 @@ Modified: 2018-04-13 16:59
 Image: preview.jpg
 
 
-Comunicado de prensa.
-
-### En reunión de trabajo integrantes del Comité Coordinador analizan programa de capacitación y designación de órganos internos de control de los OCA's.
+### En reunión de trabajo integrantes del Comité Coordinador analizan programa de capacitación y designación de órganos internos de control de los OCA's
 
 Secretaría Ejecutiva del Sistema Estatal Anticorrupción. Consejo de
 Participación Ciudadana del SEA.

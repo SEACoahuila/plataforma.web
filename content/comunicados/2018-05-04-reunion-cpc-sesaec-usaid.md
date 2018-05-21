@@ -1,13 +1,13 @@
 Title: Preside USAID reunión con Secretaría Ejecutiva del Sistema Anticorrupción y representantes del Consejo de Participación Ciudadana
 Slug: 2018-05-04-reunion-cpc-sesaec-usaid
-Summary: Representantes de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) sostuvieron una productiva reunión con la Secretaria Técnica e integrantes del Consejo de Participación Ciudadana.
+Summary: Representantes de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) sostuvieron una productiva reunión con la Secretaria Técnica e integrantes del Consejo de Participación Ciudadana
 Tags: Consejo de Participación Ciudadana, Reuniones, Secretaría Ejecutiva
 Date: 2018-05-04 15:46
 Modified: 2018-05-07 11:30
 Image: preview.jpg
 
 
-Comunicado de prensa.
+### Representantes de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) sostuvieron una productiva reunión con la Secretaria Técnica e integrantes del Consejo de Participación Ciudadana
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

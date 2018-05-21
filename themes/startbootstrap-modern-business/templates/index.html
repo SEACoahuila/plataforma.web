@@ -3,6 +3,24 @@
 {% block title %}
     {% if category == 'comunicados' %}
         Comunicados de Prensa
+    {% elif tag == 'capacitaciones' %}
+        Capacitaciones
+    {% elif tag == 'comision-ejecutiva' %}
+        Comisión Ejecutiva
+    {% elif tag == 'comite-coordinador' %}
+        Comité Coordinador
+    {% elif tag == 'consejo-de-participacion-ciudadana' %}
+        Consejo de Participación Ciudadana
+    {% elif tag == 'organo-de-gobierno' %}
+        Órgano de Gobierno
+    {% elif tag == 'presentaciones' %}
+        Presentaciones
+    {% elif tag == 'Reuniones' %}
+        Reuniones
+    {% elif tag == 'secretaria-ejecutiva' %}
+        Secretaría Ejecutiva
+    {% elif tag == 'sesiones' %}
+        Sesiones
     {% else %}
         {{ SITENAME }}
     {% endif %}
@@ -17,6 +35,24 @@
         <h1 class="mt-4 mb-3">
             {% if category == 'comunicados' %}
                 Comunicados de Prensa
+            {% elif tag == 'capacitaciones' %}
+                Capacitaciones
+            {% elif tag == 'comision-ejecutiva' %}
+                Comisión Ejecutiva
+            {% elif tag == 'comite-coordinador' %}
+                Comité Coordinador
+            {% elif tag == 'consejo-de-participacion-ciudadana' %}
+                Consejo de Participación Ciudadana
+            {% elif tag == 'organo-de-gobierno' %}
+                Órgano de Gobierno
+            {% elif tag == 'presentaciones' %}
+                Presentaciones
+            {% elif tag == 'Reuniones' %}
+                Reuniones
+            {% elif tag == 'secretaria-ejecutiva' %}
+                Secretaría Ejecutiva
+            {% elif tag == 'sesiones' %}
+                Sesiones
             {% else %}
                 {{ SITENAME }}
             {% endif %}

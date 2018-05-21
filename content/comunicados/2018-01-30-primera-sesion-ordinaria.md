@@ -7,6 +7,8 @@ Modified: 2018-01-30 09:10
 Image: preview.jpg
 
 
+### El 30 de enero 2018 se acordó continuar con la elaboración de la propuesta del programa de trabajo y se buscarán reuniones con los integrantes del Comité Coordinador para complementar el diagnóstico y establecer las directrices generales
+
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 La **Secretaria Técnica** de la **Comisión Ejecutiva** del **Sistema

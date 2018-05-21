@@ -7,7 +7,7 @@ Modified: 2018-03-22 15:50
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### Llevado a cabo el 22 de marzo de 2018 por agrupaciones como Participación Ciudadana 29, Consejo Cívico de las Instituciones de Coahuila Sureste y Laguna, la Universidad Iberoamericana, Renacer Lagunero y Coparmex Laguna
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

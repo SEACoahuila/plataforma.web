@@ -7,6 +7,8 @@ Modified: 2018-04-18 15:12
 Image: preview.jpg
 
 
+### En éste taller se pusieron en práctica las mejoras del Sistema de Portales de Obligaciones de Transparencia (SIPOT), en relación a la carga de información a la Plataforma Nacional de Transparencia.
+
 <img class="img-fluid" src="foto-pnt-1.jpg" alt="Taller PNT 1">
 
 El pasado viernes 13 de abril del año en curso, se impartió un taller

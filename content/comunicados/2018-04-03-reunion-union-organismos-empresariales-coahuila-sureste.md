@@ -7,7 +7,7 @@ Modified: 2018-04-03 17:25
 Image: preview.jpg
 
 
-Comunicado de prensa.
+### Manifestaron su preocupación por la prevalencia de posibles situaciones irregulares en los procesos y trámites, que afectan el desarrollo de la economía de la región y la entidad
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

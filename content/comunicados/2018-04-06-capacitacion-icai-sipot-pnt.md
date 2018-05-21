@@ -7,6 +7,8 @@ Modified: 2018-04-18 15:08
 Image: preview.jpg
 
 
+### Con la finalidad de conocer las mejoras del Sistema de Portales de Obligaciones de Transparencia (SIPOT), en relación a la carga de información a la Plataforma Nacional de Transparencia
+
 <img class="img-fluid" src="foto-icai-capacitacion.jpg" alt="ICAI capacitación SIPOT">
 
 El pasado viernes 06 de abril del año en curso, se impartió una

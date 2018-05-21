@@ -3,8 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+{% if article %}
+    <meta name="description" content="{{ article.summary }}">
+    <meta name="author" content="{{ article.author.name }}">
+{% elif page %}
+    <meta name="description" content="{{ page.summary }}">
+    <meta name="author" content="{{ page.author.name }}">
+{% else %}
+    <meta name="description" content="{{ SITENAME }}">
+    <meta name="author" content="{{ AUTHOR }}">
+{% endif %}
     <title>{% block title %}{% endblock %}</title>
     <!-- Iconos -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico">
@@ -15,8 +23,10 @@
     <link rel="apple-touch-icon" href="{{ SITEURL }}/imagenes/apple-touch-icon-120x120.png" sizes="120x120">
     <link rel="apple-touch-icon" href="{{ SITEURL }}/imagenes/apple-touch-icon-152x152.png" sizes="152x152">
     <link rel="apple-touch-icon" href="{{ SITEURL }}/imagenes/apple-touch-icon-180x180.png" sizes="180x180">
+{% if FEED_ALL_RSS %}
     <!-- RSS Feed -->
-    <link rel="alternate" href="{{ SITEURL }}/feeds/all.rss.xml" type="application/rss+xml" title="{{ SITENAME }}">
+    <link rel="alternate" href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" title="{{ SITENAME }} Full RSS Feed" />
+{% endif %}
     <!-- Diseno -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">

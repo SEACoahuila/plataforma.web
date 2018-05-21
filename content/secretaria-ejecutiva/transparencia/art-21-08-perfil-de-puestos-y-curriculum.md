@@ -3,7 +3,7 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-23 17:20
+Modified: 2018-05-21 14:05
 
 
 Fecha de última actualización: 30 de marzo 2018.
@@ -21,7 +21,7 @@ Fecha de última actualización: 30 de marzo 2018.
 ### Dirección de Servicios Generales
 
 * [Rosalío Medina Martínez - PDF](cv-rmm.pdf)
-* [Elizabeth Abigail Carranza Castro - PDF](cv-eacc.pdf)
+* [Juan Francisco Ramos del Bosque - PDF](cv-jfrb.pdf)
 * [Estefanía Alejandra Guevara Meza - PDF](cv-eagm.pdf)
 * [Luis Alonso Valero Ramos - PDF](cv-lavr.pdf)
 
@@ -43,6 +43,10 @@ Fecha de última actualización: 30 de marzo 2018.
 ### Unidad de Capacitación
 
 * [Graciela Padilla Hernández - PDF](cv-gph.pdf)
+
+### Unidad de Vinculación Interinstitucional
+
+* [Amparo Ruiz Montes - PDF](cv-arm.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente
 información es el **C.P. Rosalío Medina Martínez,** Director de

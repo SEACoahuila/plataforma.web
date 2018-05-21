@@ -7,9 +7,7 @@ Modified: 2018-04-27 17:25
 Image: preview.jpg
 
 
-Comunicado de prensa.
-
-### Aprueba Órgano de Gobierno informe de avance de gestión financiera correspondiente al primer trimestre de 2018, de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+### Aprueba Órgano de Gobierno informe de avance de gestión financiera correspondiente al primer trimestre de 2018, de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción
 
 Secretaría Ejecutiva del Sistema Estatal Anticorrupción. Consejo de
 Participación Ciudadana del SEA.

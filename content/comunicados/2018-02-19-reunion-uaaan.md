@@ -7,7 +7,7 @@ Modified: 2018-02-19 10:50
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### En reunión para conocer el Plan de Trabajo 2018, académicos de la UAAAN proponen acciones a integrantes del Comité de Participación
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

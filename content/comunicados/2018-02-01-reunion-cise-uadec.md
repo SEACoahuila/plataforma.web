@@ -1,13 +1,13 @@
 Title: CPC se reúne con académicos del Centro de Investigaciones Socieconómicas (CISE) de la UAdeC
 Slug: 2018-02-01-reunion-cise-uadec
-Summary: En la Unidad Camporredondo donde participaron investigadores y académicos de la UAdeC.
+Summary: CPC se reúne con académicos del Centro de Investigaciones Socieconómicas (CISE) en la Unidad Camporredondo donde participaron investigadores y académicos de la UAdeC
 Tags: Reuniones, Consejo de Participación Ciudadana
 Date: 2018-02-01 15:20
 Modified: 2018-02-01 15:20
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### CPC se reúne con académicos del Centro de Investigaciones Socieconómicas (CISE) en la Unidad Camporredondo donde participaron investigadores y académicos de la UAdeC
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

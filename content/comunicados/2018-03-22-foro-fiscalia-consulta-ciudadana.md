@@ -7,7 +7,7 @@ Modified: 2018-03-22 18:50
 Image: preview.jpg
 
 
-22 de Marzo de 2018
+### El foro contó con la asistencia y participación de representantes de la Secretaría Ejecutiva del SEA, al igual que ciudadanos pertenecientes a organizaciones de la sociedad civil, colegios y asociaciones de abogados, estudiantes y académicos, además de funcionarios pertenecientes en su mayoría a órganos de impartidores de justicia
 
 Saltillo, Coahuila.
 

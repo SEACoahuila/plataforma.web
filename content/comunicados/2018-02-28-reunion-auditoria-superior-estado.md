@@ -7,7 +7,7 @@ Modified: 2018-02-28 12:30
 Image: preview.jpg
 
 
-Comunicado de Prensa.
+### Se presentó los detalles y alcances de la propuesta de Plan de Trabajo del Comité Coordinador para este 2018
 
 Sistema Anticorrupción del Estado de Coahuila. Consejo de Participación Ciudadana.
 

@@ -7,6 +7,8 @@ Modified: 2018-04-18 15:10
 Image: preview.jpg
 
 
+### En la sede del SEA Coahuila se dió continuidad al Taller de Planeación Estratégica trabajando en los objetivos estratégicos y la parte teórica de la programación
+
 Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 
 Saltillo, Coahuila.- El día de hoy, la **Mtra. Marcela Castañeda

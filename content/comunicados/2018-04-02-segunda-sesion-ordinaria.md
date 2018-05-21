@@ -7,6 +7,8 @@ Modified: 2018-04-02 15:25
 Image: preview.jpg
 
 
+### Se trataron los avances en las acciones plasmadas en el programa de trabajo de cada una de las Comisiones temáticas, estas son: jurídica, vinculación con municipios, capacitación y difusión, coordinación interinstitucional, y de políticas públicas y sistemas de información
+
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 El 2 de abril del presente, tuvo a efecto la **segunda sesión

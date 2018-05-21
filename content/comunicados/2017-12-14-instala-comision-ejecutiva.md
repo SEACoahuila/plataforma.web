@@ -7,6 +7,8 @@ Modified: 2017-12-14 09:10
 Image: preview.jpg
 
 
+### La Comisión Ejecutiva tiene a su cargo la generación de insumos técnicos para que el Comité Coordinador realice sus funciones
+
 > Coahuila tiene un avance importante en los temas de fiscalización,
 transparencia, acceso a la información y rendición de cuentas, si
 logramos capitalizar ese avance, e incidir desde la Comisión Ejecutiva

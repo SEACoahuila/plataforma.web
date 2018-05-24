@@ -1,5 +1,5 @@
 Title: Contacto con el Consejo de Participación Ciudadana
-Slug: contacto
+Slug: contacto-cpc
 Summary: Datos de contacto del Consejo de Participación Ciudadana (CPC).
 Author: CPC
 Date: 2018-02-07 15:55

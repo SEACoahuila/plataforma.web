@@ -69,9 +69,9 @@ a la Información pública" (Art. 70).
 51. [Mecanismos y resultados de evaluación]({filename}/secretaria-ejecutiva/transparencia/art-21-51-mecanismos-y-resultados-de-evaluacion.md)
 52. [Otra información]({filename}/secretaria-ejecutiva/transparencia/art-21-52-otra-informacion.md)
 
-### Art. 22 Gastos de publiciad
+### Art. 22 Gastos de publicidad
 
-* [Gastos de publiciad]({filename}/secretaria-ejecutiva/transparencia/art-22.md)
+* [Gastos de publicidad]({filename}/secretaria-ejecutiva/transparencia/art-22.md)
 
 ### Art. 70
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,9 +12,17 @@
 {% else %}
     <meta name="description" content="{{ SITENAME }}">
     <meta name="author" content="{{ AUTHOR }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ SITENAME }}">
+    <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta name="twitter:url" content="{{ SITEURL }}">
+    <meta name="og:title" content="{{ SITENAME }}">
+    <meta name="og:description" content="{{ SITEDESCRIPTION }}">
+    <meta name="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta name="og:url" content="{{ SITEURL }}">
 {% endif %}
     <title>{% block title %}{% endblock %}</title>
-    <!-- Iconos -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico">
     <link rel="icon" href="{{ SITEURL }}/imagenes/icon-hires.png" sizes="192x192">
     <link rel="icon" href="{{ SITEURL }}/imagenes/icon-normal.png" sizes="128x128">
@@ -24,10 +32,8 @@
     <link rel="apple-touch-icon" href="{{ SITEURL }}/imagenes/apple-touch-icon-152x152.png" sizes="152x152">
     <link rel="apple-touch-icon" href="{{ SITEURL }}/imagenes/apple-touch-icon-180x180.png" sizes="180x180">
 {% if FEED_ALL_RSS %}
-    <!-- RSS Feed -->
     <link rel="alternate" href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" title="{{ SITENAME }} Full RSS Feed" />
 {% endif %}
-    <!-- Diseno -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,700">
@@ -49,121 +55,20 @@
         Si es informático y le interesa trabajar con el SEA Coahuila...
             informatica (en) seacoahuila.org.mx
       -->
-    <!-- Navegacion -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+    {% include 'navigation.html' %}
+    <header>
+        {% block header %}{% endblock %}
+    </header>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    <footer class="py-5 sea-bg-gray-dark">
         <div class="container">
-            <a class="navbar-brand" href="{{ SITEURL }}/">SEA Coahuila</a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/category/comunicados.html">Comunicados</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownCPC" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CPC</a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownCPC">
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/institucional/que-es-el-cpc/">Qué es el CPC</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/institucional/plan-de-trabajo-2018/">Plan de Trabajo 2018</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/declaraciones/3-de-3/">Declaraciones 3 de 3</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/institucional/transparencia/">Transparencia</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/institucional/documentos/">Documentos</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/cpc/institucional/contacto/">Contacto</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownSE" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Secretaría Ejecutiva</a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownSE">
-                            <a class="dropdown-item" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/que-es-la-secretaria-ejecutiva/">Qué es la SE</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/transparencia/">Transparencia</a>
-                            <a class="dropdown-item" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/contacto/">Contacto</a>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- Contenido -->
-    {% block content %}{% endblock %}
-    <!-- Pie -->
-    <footer class="py-5 bg-dark">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3">
-                    <h5 class="footer-text">Comunicados clasificados</h5>
-                    <ul class="footer-text">
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/capacitaciones.html">Capacitaciones</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/comision-ejecutiva.html">Comisión Ejecutiva</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/comite-coordinador.html">Comité Coordinador</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/consejo-de-participacion-ciudadana.html">Consejo de Participación Ciudadana</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/organo-de-gobierno.html">Órgano de Gobierno</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/presentaciones.html">Presentaciones</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/reuniones.html">Reuniones</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/secretaria-ejecutiva.html">Secretaría Ejecutiva</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/tag/sesiones.html">Sesiones</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3">
-                    <h5 class="footer-text">Consejo de Participación Ciudadana</h5>
-                    <ul class="footer-text">
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/institucional/que-es-el-cpc/">Qué es el CPC</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/institucional/plan-de-trabajo-2018/">Plan de Trabajo 2018</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/declaraciones/3-de-3/">Declaraciones 3 de 3</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/institucional/transparencia/">Transparencia</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/institucional/documentos/">Documentos</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/cpc/institucional/contacto/">Contacto</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3">
-                    <h5 class="footer-text">Secretaría Ejecutiva</h5>
-                    <ul class="footer-text">
-                        <li><a class="footer-link" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/que-es-la-secretaria-ejecutiva/">Qué es la SE</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/transparencia/">Transparencia</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/secretaria-ejecutiva/institucional/contacto/">Contacto</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3">
-                    <h5 class="footer-text">Contenido general</h5>
-                    <ul class="footer-text">
-                        <li><a class="footer-link" href="{{ SITEURL }}/general/licencias/fdl/">Licencia FDL</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/general/licencias/gpl/">Licencia GPL</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/general/terminos/informacion/">Términos de uso de la información</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/general/terminos/sitio-web/">Términos del sitio web</a></li>
-                        <li><a class="footer-link" href="{{ SITEURL }}/general/anuncios/vacantes/">Vacantes</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="m-0 text-center">
-                <p>
-                    <a class="footer-link" href="https://www.youtube.com/channel/UCgzKc9c1F9ntPAi34XNfy4A" target="_blank"><i class="fa fa-youtube-square footer-fa"></i></a>
-                    <a class="footer-link" href="https://github.com/seacoahuila" target="_blank"><i class="fa fa-github-square footer-fa"></i></a>
-                    <a class="footer-link" href="{{ SITEURL }}/feeds/all.rss.xml"><i class="fa fa-rss-square footer-fa"></i></a>
-                </p>
-            </div>
-            <div class="m-0 text-center">
-                <p class="footer-text">
-                    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-                        <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png">
-                    </a>
-                    Esta obra está bajo una
-                    <a class="footer-link" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
-                </p>
-            </div>
-            <div class="m-0 text-center">
-                <p class="footer-text">
-                    <small>
-                        Sitio web elaborado con Software Libre.
-                        Usa <a class="footer-link" href="http://getpelican.com/">Pelican</a>
-                        que está programado con <a class="footer-link" href="http://python.org">Python</a>.
-                        Tema <a class="footer-link" href="https://startbootstrap.com/template-overviews/modern-business/">Modern Business</a>
-                        creado por <a class="footer-link" href="https://startbootstrap.com/">Start Bootstrap</a>.
-                        Le invitamos a descargar y estudiar este sitio web en <a class="footer-link" href="https://github.com/seacoahuila/seacoahuila.github.io">seacoahuila.github.io</a>
-                        y los repositorios abiertos de <a class="footer-link" href="https://github.com/seacoahuila">SEACoahuila en GitHub</a>.
-                    </small>
-                </p>
-            </div>
+            {% include 'footer-sitemap.html' %}
+            {% include 'footer-social.html' %}
+            {% include 'footer-licences.html' %}
         </div>
     </footer>
-    <!-- Javascript -->
     <script src="{{ SITEURL }}/theme/vendor/jquery/jquery.min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>

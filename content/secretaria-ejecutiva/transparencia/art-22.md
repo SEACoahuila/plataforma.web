@@ -1,6 +1,6 @@
-Title: Artículo 22
+Title: Artículo 22 - Gastos de publicidad
 Slug: art-22
-Summary: Artículo 22.
+Summary: Artículo 22 - Gastos de publicidad.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
 Modified: 2018-04-23 17:35

@@ -1,42 +1,58 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block title %}
+    {{ page.title }} - {{ SITENAME }}
+{% endblock %}
+
+{% block header %}
+    {% if page.author == 'CPC' %}
+        {% include 'header-cpc.html' %}
+    {% elif page.author == 'Secretaría Ejecutiva' %}
+        {% include 'header-sesaec.html' %}
+    {% elif page.author == 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza' %}
+        {% include 'header-saec.html' %}
+    {% else %}
+        <div class="header-content generic-header-bg">
+            <h1 class="header-text">
+                {{ SITENAME }}
+            </h1>
+        </div>
+    {% endif %}
+{% endblock %}
 
 {% block content %}
-    <div class="container">
-        <script type="application/ld+json">
-        {
-          "@context": "http://schema.org",
-          "@type": "BlogPosting",
-          "publisher": {
-            "@type": "Organization",
-            "name": "{{ SITENAME }}",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "{{ SITEURL }}/{{ SITELOGO }}"
-            },
-            "url": "{{ SITEURL }}"
-          },
-          "author": "{{ page.author }}",
-          "name": "{{ page.title }}",
-          "headline": "{{ page.title }}",
-          "description": "{{ page.summary }}",
-          "dateCreated": "{{ page.date }}",
-          "datePublished": "{{ page.date }}",
-          "dateModified": "{{ page.modified }}",
-          {% if page.image %}
-          "image": "{{ SITEURL }}/{{ page.category }}/{{ page.slug }}/{{ page.image }}",
-          {% else %}
-          "image": "{{ SITEURL }}/{{ SITELOGO }}",
-          {% endif %}
-          "url": "{{ SITEURL }}/{{ page.url }}"
-        }
-        </script>
         <article>
+            <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ SITENAME }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                    },
+                    "url": "{{ SITEURL }}"
+                },
+                "author": "{{ page.author }}",
+                "name": "{{ page.title }}",
+                "headline": "{{ page.title }}",
+                "description": "{{ page.summary }}",
+                "dateCreated": "{{ page.date }}",
+                "datePublished": "{{ page.date }}",
+                "dateModified": "{{ page.modified }}",
+                {% if page.image %}
+                "image": "{{ SITEURL }}/{{ page.category }}/{{ page.slug }}/{{ page.image }}",
+                {% else %}
+                "image": "{{ SITEURL }}/{{ SITELOGO }}",
+                {% endif %}
+                "url": "{{ SITEURL }}/{{ page.url }}"
+            }
+            </script>
             <h1 class="mt-4 mb-3">{{ page.title }}</h1>
             <hr>
 {{ page.content }}
         </article>
         <hr>
-    </div>
 {% endblock %}

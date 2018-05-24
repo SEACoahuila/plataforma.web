@@ -1,7 +1,7 @@
 Title: Primer taller de capacitación y difusión del Sistema Anticorrupción en la región Laguna
 Slug: 2018-05-09-capacitacion-difusion-sea-region-laguna
 Summary: Con la participación de ponentes de las instancias que conforman el Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, se llevó a cabo el primer taller de capacitación y difusión del sistema, dirigido a funcionarios públicos de instancias estatales y municipales de la Región Laguna.
-Tags: Capacitaciones, Comité Coordinador, Consejo de Participación Ciudadana, Presentaciones, Reuniones, Secretaría Ejecutiva
+Tags: Capacitaciones, Comité Coordinador, Consejo de Participación Ciudadana, Presentaciones, Secretaría Ejecutiva
 Date: 2018-05-09 16:48
 Modified: 2018-05-09 16:48
 Image: preview.jpg

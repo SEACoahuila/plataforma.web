@@ -2,10 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# Sitio
+# Sitio web
 SITENAME = 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
 SITEURL = 'http://www.seacoahuila.org.mx'
-SITELOGO = 'imagenes/coahuila.png'
+SITELOGO = 'imagenes/saec.png'
+SITEDESCRIPTION = 'El Sistema Estatal Anticorrupción tiene las facultades de establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de los Entes Públicos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.'
+
+# Autor por defecto
+AUTHOR = 'SEA Coahuila'
 
 # Directorio donde esta el contenido
 PATH = 'content'
@@ -28,9 +32,6 @@ USE_FOLDER_AS_CATEGORY = True
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 
-# Autor por defecto
-AUTHOR = 'SEA Coahuila'
-
 # Las páginas fijas van en directorios autor/categoria/titulo/
 # Autores: CPC, Secretaría Ejecutiva, Términos, Licencias
 PAGE_URL = '{author}/{category}/{slug}/'
@@ -38,15 +39,25 @@ PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema Clean Blog
 #THEME = 'themes/startbootstrap-clean-blog'
-
-# Tema Modern Business EN DESARROLLO
 THEME = 'themes/startbootstrap-modern-business'
 
-# Zona horaria y lenguaje
-TIMEZONE = 'America/Mexico_City'
+# Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
+TIMEZONE = 'America/Mexico_City'
 
-# Feed generation
+# Borrar toda la salida,
+# Borra directorios ocultos en output como .git, mantenga en falso
+DELETE_OUTPUT_DIRECTORY = False
+
+# Para desarrollo, los vinculos son relativos
+RELATIVE_URLS = True
+
+# Para desarrollo, se desactiva la paginacion
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 8
+DEFAULT_ORPHANS = 2
+
+# Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
 AUTHOR_FEED_ATOM = None
@@ -58,15 +69,5 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Copiar las fuentes
-OUTPUT_SOURCES = False
-
-# En desarrollo, los URL son relativos
-RELATIVE_URLS = True
+# Para desarrollo, recomendado mantener en falso
 LOAD_CONTENT_CACHE = False
-DELETE_OUTPUT_DIRECTORY = False
-
-# Paginacion
-#DEFAULT_PAGINATION = False
-DEFAULT_PAGINATION = 8
-DEFAULT_ORPHANS = 2

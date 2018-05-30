@@ -3,10 +3,10 @@ Slug: art-21-47-servidores-publicos-con-sanciones-definitivas
 Summary: Servidores públicos con sanciones definitivas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-20 17:30
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 **Respecto a la información correspondiente al listado de servidores
 públicos con sanciones definitivas de conformidad con lo dispuesto en

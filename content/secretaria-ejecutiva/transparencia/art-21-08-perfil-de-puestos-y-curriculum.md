@@ -3,14 +3,15 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-21 14:05
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 ### Secretario Técnico
 
 * [Marcela Castañeda Agüero - PDF](cv-mca.pdf)
+* [Zabdi Gisel González Alanís - PDF](cv-zgga.pdf)
 
 ### Dirección de Diagnóstico y Políticas Públicas
 

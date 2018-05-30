@@ -3,10 +3,10 @@ Slug: art-21-19-instituciones-de-beneficencia
 Summary: Instituciones de beneficencia.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-20 17:30
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 ### NO APLICA
 

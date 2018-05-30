@@ -3,10 +3,10 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-10 15:20
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la
 Información Pública para el Estado de Coahuila de Zaragoza, se informa

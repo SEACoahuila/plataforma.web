@@ -1,9 +1,9 @@
-Title: Primera Sesión Ordinaria 2018
+Title: Primera Sesión Ordinaria 2018 de la Comisión Ejecutiva
 Slug: 2018-01-30-primera-sesion-ordinaria
 Summary: El 30 de enero 2018 se acordó continuar con la elaboración de la propuesta del programa de trabajo y se buscarán reuniones con los integrantes del Comité Coordinador para complementar el diagnóstico y establecer las directrices generales.
 Tags: Sesiones, Comisión Ejecutiva
 Date: 2018-01-30 09:10
-Modified: 2018-01-30 09:10
+Modified: 2018-05-24 18:31
 Image: preview.jpg
 
 

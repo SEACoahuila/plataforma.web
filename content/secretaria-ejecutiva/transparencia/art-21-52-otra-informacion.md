@@ -3,10 +3,10 @@ Slug: art-21-52-otra-informacion
 Summary: Otra información.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-23 17:20
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 A la fecha no existe información adicional a la que aparece publicada
 en el portal de Transparencia de la Secretaría Ejecutiva, a la que hace

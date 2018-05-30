@@ -22,3 +22,11 @@ De 09:00 a 15:00 de lunes a viernes.
 ### Teléfono
 
 (844) 688 2178
+
+### Correos electrónicos
+
+* Ana Yuri Solís Gaona: <asolis@cpccoahuila.org.mx>
+* Carlos Rangel Orona: <carlos.rangel@cpccoahuila.org.mx>
+* José Manuel Gil Navarro: <manuel.gil@cpccoahuila.org.mx>
+* Juan Adolfo Von Bertrab Saracho: <adolfo.von.bertrab@cpccoahuila.org.mx>
+* María de Lourdes de Koster López: <lourdes.de.koster@cpccoahuila.org.mx>

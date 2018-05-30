@@ -22,13 +22,13 @@ PAGE_PATHS = ['anuncios', 'cpc', 'licencias', 'secretaria-ejecutiva', 'terminos'
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios con archivos para las artículos
-STATIC_PATHS = ['imagenes', 'CNAME', 'favicon.ico', 'LICENSE', 'README.md',
+STATIC_PATHS = ['CNAME', 'favicon.ico', 'imagenes', 'LICENSE', 'README.md',
                 'comunicados', 'cpc', 'secretaria-ejecutiva']
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
 
-# Los artículos van en directorios por categoría
+# Los artículos van en directorios categoria/titulo/
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 
@@ -37,8 +37,7 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
-# Tema Clean Blog
-#THEME = 'themes/startbootstrap-clean-blog'
+# Tema
 THEME = 'themes/startbootstrap-modern-business'
 
 # Lenguaje y zona horaria

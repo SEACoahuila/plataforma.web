@@ -3,10 +3,10 @@ Slug: art-21-24-solicitudes-y-respuestas
 Summary: Solicitudes y respuestas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-23 17:20
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 A la fecha de actualización del presente no se cuenta con solicitudes
 de información a que se refiere el artículo 21, fracción XXIV de la Ley

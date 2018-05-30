@@ -3,7 +3,7 @@ Slug: 2018-03-15-segunda-sesion-extraordinaria-comision-ejecutiva
 Summary: En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo.
 Tags: Sesiones, Comisión Ejecutiva
 Date: 2018-03-15 19:50
-Modified: 2018-03-15 19:50
+Modified: 2018-05-24 18:35
 Image: preview.jpg
 
 

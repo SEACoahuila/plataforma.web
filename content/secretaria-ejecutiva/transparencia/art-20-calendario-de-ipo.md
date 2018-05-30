@@ -3,10 +3,10 @@ Slug: art-20-calendario-de-ipo
 Summary: Calendario de información pública de oficio.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-24 13:51
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 ### Descargar
 

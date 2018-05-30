@@ -3,10 +3,10 @@ Slug: art-21-45-acciones-realizadas-por-contingencias
 Summary: Acciones realizadas por contingencias.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-04-20 17:30
+Modified: 2018-05-28 14:29
 
 
-Fecha de última actualización: 30 de marzo 2018.
+Fecha de última actualización: 28 de mayo 2018.
 
 **La Secretaría Ejecutiva no ha participado en el auxilio de comunidades
 en emergencias o desastres. Sin embargo en caso de que se lleven a cabo

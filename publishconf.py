@@ -10,12 +10,6 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-# Tema Clean Blog
-#THEME = 'themes/startbootstrap-clean-blog'
-
-# Tema Moder Business EN DESARROLLO
-THEME = 'themes/startbootstrap-modern-business'
-
 # Feed generation
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
@@ -36,6 +30,11 @@ RSS_FEED_SUMMARY_ONLY = True
 RELATIVE_URLS = False
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = False
+
+# Paginacion
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 8
+DEFAULT_ORPHANS = 2
 
 # Path to the folder containing the plugins
 PLUGIN_PATHS = ['plugins']
@@ -62,8 +61,3 @@ SITEMAP = {
         'categories.html',
         'author/']
 }
-
-# Paginacion
-#DEFAULT_PAGINATION = False
-DEFAULT_PAGINATION = 8
-DEFAULT_ORPHANS = 2

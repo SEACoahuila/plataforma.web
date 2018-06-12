@@ -1,5 +1,5 @@
 Title: Documentos
-Slug: documentos
+Slug: documentos-cpc
 Summary: Documentos.
 Author: CPC
 Date: 2018-01-26 15:55

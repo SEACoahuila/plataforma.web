@@ -5,8 +5,9 @@ from __future__ import unicode_literals
 # Sitio web
 SITENAME = 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
 SITEURL = 'http://www.seacoahuila.org.mx'
-SITELOGO = 'imagenes/saec.png'
+SITELOGO = 'theme/images/saec.png'
 SITEDESCRIPTION = 'El Sistema Estatal Anticorrupción tiene las facultades de establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de los Entes Públicos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.'
+SITETWITTER = '@sesaecoah'
 
 # Autor por defecto
 AUTHOR = 'SEA Coahuila'
@@ -18,12 +19,12 @@ PATH = 'content'
 ARTICLE_PATHS = ['comunicados']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['anuncios', 'cpc', 'licencias', 'secretaria-ejecutiva', 'terminos']
+PAGE_PATHS = ['anuncios', 'cc', 'cpc', 'secretaria-ejecutiva', 'terminos']
 
 # Directorios y archivos que son fijos
-# Agregue también los directorios con archivos para las artículos
-STATIC_PATHS = ['CNAME', 'favicon.ico', 'imagenes', 'LICENSE', 'README.md',
-                'comunicados', 'cpc', 'secretaria-ejecutiva']
+# Agregue también los directorios que tienen archivos para artículos y páginas
+STATIC_PATHS = ['CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt',
+                'comunicados', 'cc', 'cpc', 'secretaria-ejecutiva']
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
@@ -33,7 +34,7 @@ ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 
 # Las páginas fijas van en directorios autor/categoria/titulo/
-# Autores: CPC, Secretaría Ejecutiva, Términos, Licencias
+# Autores: CC, CPC, Secretaría Ejecutiva, General
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
@@ -52,9 +53,9 @@ DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
-#DEFAULT_PAGINATION = False
-DEFAULT_PAGINATION = 8
-DEFAULT_ORPHANS = 2
+DEFAULT_PAGINATION = False
+#DEFAULT_PAGINATION = 8
+#DEFAULT_ORPHANS = 2
 
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None

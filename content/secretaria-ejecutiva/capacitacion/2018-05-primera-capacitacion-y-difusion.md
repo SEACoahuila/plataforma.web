@@ -3,7 +3,7 @@ Slug: 2018-05-primera-capacitacion-y-difusion
 Summary: Capacitación, promoción y difusión del SEA Coahuila para las y los servidores públicos que conforman la Administración del Gobierno del Estado de Coahuila de Zaragoza.
 Author: Secretaría Ejecutiva
 Date: 2018-06-05 09:40
-Modified: 2018-06-05 09:40
+Modified: 2018-06-12 12:54
 
 
 Como parte del [Programa de Trabajo del Comité Coordinador 2018]({filename}/cpc/institucional/plan-de-trabajo-cpc-2018.md) del **Sistema Anticorrupción del Estado de Coahuila de Zaragoza** (SAEC) se tiene como objetivo la capacitación, promoción y difusión del **SEAC** para las y los servidores públicos de Coahuila de Zaragoza.
@@ -20,11 +20,11 @@ La cual es impartida por funcionarios públicos miembros del **Comité Coordinad
 
 ### Programa
 
-* 3 de mayo 2018. Región Sureste, Arteaga.
+* 3 de mayo 2018: [Región Sureste, Arteaga.]({filename}/comunicados/2018-05-03-capacitacion-difusion-sea-region-sureste.md)
 * 9 de mayo 2018: [Región Laguna, Torreón.]({filename}/comunicados/2018-05-09-capacitacion-difusion-sea-region-laguna.md)
 * 17 de mayo 2018: [Región Centro-Desierto, Monclova.]({filename}/comunicados/2018-05-17-capacitacion-difusion-sea-region-centro.md)
 * 31 de mayo 2018: [Región Norte, Piedras Negras.]({filename}/comunicados/2018-05-31-capacitacion-difusion-sea-region-norte.md)
-* 7 de junio 2018: Región Carbonífera, Sabinas.
+* 7 de junio 2018: [Región Carbonífera, Sabinas.]({filename}/comunicados/2018-06-07-capacitacion-difusion-sea-region-carbonifera.md)
 
 ### Descargar las presentaciones individuales
 

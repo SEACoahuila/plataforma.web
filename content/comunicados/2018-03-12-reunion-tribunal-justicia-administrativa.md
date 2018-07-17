@@ -1,7 +1,7 @@
 Title: Analiza Comité Coordinador propuesta de lineamientos que regularán actuación del SEA
 Slug: 2018-03-12-reunion-tribunal-justicia-administrativa
 Summary: Integrantes del Comité Coordinador del SEA Coahuila se reunieron para analizar la propuesta de lineamientos para la coordinación y funcionamiento así como el cronograma de actividades.
-Tags: Reuniones, Comité Coordinador
+Tags: Comité Coordinador, Sesiones
 Date: 2018-03-12 11:35
 Modified: 2018-03-12 11:35
 Image: preview.jpg

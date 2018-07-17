@@ -61,3 +61,6 @@ SITEMAP = {
         'categories.html',
         'author/']
 }
+
+# Para publicar, sí usar dependencias en Internet
+USE_REMOTE_SERVICES = True

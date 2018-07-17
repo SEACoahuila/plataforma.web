@@ -3,18 +3,14 @@ Slug: art-21-25-informes-financieros-y-cuenta-publica
 Summary: Informes financieros y cuenta pública.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
-Esta Secretaría Ejecutiva inició operaciones a partir del día primero
-de enero del año dos mil dieciocho, y presentará información financiera
-en los términos y plazos que marca la Ley, siendo la fecha límite para
-la presentación del informe de avance de gestión del primer trimestre,
-el día treinta de abril del presente.
+### Descargar
 
-Una vez presentada esta información será publicada.
+* [Informe de Avance de Gestión Financiera, Primer Trimestre 2018 - PDF](informe-avance-gestion-financiera-2018-03.pdf)
 
 Por lo que se informa que el funcionario responsable de la presente
 información es el **C.P. Rosalío Medina Martínez,** Director de

@@ -3,7 +3,7 @@ Slug: plan-de-trabajo-cc-2018
 Summary: Programa de Trabajo del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CC
 Date: 2018-06-08 13:40
-Modified: 2018-06-08 13:40
+Modified: 2018-06-13 11:25
 
 
 ### Introducción
@@ -18,8 +18,7 @@ El **Comité Coordinador del Sistema Estatal Anticorrupción** establecido en el
 
 **Dicho Comité estará integrado por:**
 
-Quien Preside el Consejo de Participación Ciudadana, quien lo presidirá;
-
+* Quien Preside el Consejo de Participación Ciudadana, quien lo presidirá;
 * La o el Titular de la Auditoría Superior del Estado;
 * La o el Titular de la Fiscalía Especializada en Delitos por Hechos de Corrupción del Estado;
 * La o el Titular de la Secretaría de Fiscalización y Rendición de Cuentas;
@@ -29,7 +28,7 @@ Quien Preside el Consejo de Participación Ciudadana, quien lo presidirá;
 
 A fin de contar con una ruta de trabajo mediante la cual el Comité Coordinador lleve a cabo sus funciones, se presenta el presente **Programa de Trabajo del año 2018,** que formará parte de las acciones correspondientes a las políticas integrales en materia de prevención, control y disuasión de faltas administrativas y hechos de corrupción; así como de fiscalización y control de recursos públicos; de apoyo a la generación de una metodología para medir y dar seguimiento, con base en indicadores; las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno de competencia en los temas mencionados; así como la base para el informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de políticas y programas en la materia.
 
-Este Programa de Trabajo, se divide en cuatro apartados: I. marco jurídico; II. misión y visión; III. objetivos generales, estratégicos, y líneas de acción; IV. cronograma.
+Este Programa de Trabajo, se divide en cuatro apartados: **I.** marco jurídico; **II.** misión y visión; **III.** objetivos generales, estratégicos, y líneas de acción; **IV.** cronograma.
 
 Con el Programa de Trabajo 2018 del Comité Coordinador, se pretende generar la confianza de la ciudadanía, y a su vez, tener incidencia en el diseño, implementación y evaluación de la política integral anticorrupción del Estado de Coahuila de Zaragoza.
 
@@ -143,11 +142,11 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, **emitir los e
 
 ### II. Misión y visión del Comité Coordinador
 
-Misión
+#### Misión
 
 > Somos un Órgano Rector que diseña, promociona y evalúa las políticas públicas integrales para la prevención y el combate a la corrupción, a través del establecimiento de mecanismos eficaces de coordinación y colaboración entre los integrantes del Sistema Estatal Anticorrupción alineado al Sistema Nacional.
 
-Visión
+#### Visión
 
 > Ser un Órgano Rector garante en la adopción de medidas para el fortalecimiento Institucional en la prevención, detección y sanción, que permitan erradicar la opacidad, los actos ilícitos y de corrupción e incrementen la confianza de los ciudadanos respecto a las instituciones.
 
@@ -209,9 +208,10 @@ Visión
 1. Diseñar y proponer la creación de programas de capacitación y especialización en materia de corrupción y de responsabilidades administrativas.
 2. Diseñar y aprobar una política única de denuncia y queja, que garantice la protección al denunciante, y una plataforma digital.
 3. Creación de un protocolo que permita la presentación de quejas, denuncias o información sobre posibles actos de corrupción y faltas administrativas en el anonimato, en un formato ágil, gratuito y seguro.
-4. Exponer la posibilidad de desarrollar medidas de coordinación y organización con la Sala Especializada en materia de Anticorrupción del Tribunal de Justicia Administrativa.
+4. Recopilar y sistematizar con apoyo del Tribunal de Justicia Administrativa, a través de su Unidad Anticorrupción, los criterios y resoluciones que emita en la materia.
 5. Plantear el diseño de políticas y medidas para la debida ejecución de las resoluciones que emitan.
-6. Proponer que la Fiscalía Especializada a través de la Plataforma de Información presente información del estado en que se encuentran los expedientes o denuncias que están en proceso de investigación, o que ya hayan sido judicializados. De la misma manera, que el Tribunal de Justicia Administrativa presente información de los expedientes de responsabilidades administrativas que se encuentran en trámite o que ya hayan causado estado.
+6. Proponer que la Fiscalía Especializada a través de la Plataforma de Información presente información del estado en que se encuentran los expedientes o denuncias que están en proceso de investigación, o que ya hayan sido judicializados, de conformidad a lo que dispone la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
+7. Proponer que el Tribunal de Justicia Administrativa presente información de los expedientes de responsabilidades administrativas que se encuentran en trámite o que ya hayan causado estado, en apego a lo que señala la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
 ### Descargar
 

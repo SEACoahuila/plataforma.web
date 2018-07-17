@@ -1,7 +1,7 @@
 Title: Integrantes del Comité Coordinador analizan programa de capacitación y designación de órganos internos de control de los OCA's
 Slug: 2018-04-13-reunion-tribunal-superior-justicia-saltillo
 Summary: En la sede del Tribunal de Justicia Administrativa en Saltillo se analizaron los planes de capacitación y la estrategia para proponer un mecanismo de designación de los Órganos Internos de Control de los Organismos Constitucionales Autónomos y de la Auditoría Superior del Estado.
-Tags: Reuniones, Comité Coordinador
+Tags: Comité Coordinador, Sesiones
 Date: 2018-04-13 16:59
 Modified: 2018-04-13 16:59
 Image: preview.jpg

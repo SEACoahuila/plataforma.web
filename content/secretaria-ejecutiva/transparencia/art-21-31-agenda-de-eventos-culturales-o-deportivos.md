@@ -3,10 +3,10 @@ Slug: art-21-31-agenda-de-eventos-culturales-o-deportivos
 Summary: Agenda de eventos culturales o deportivos.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
 De conformidad con lo dispuesto por el artículo 3, del Reglamento
 Interior de la Secretaría Ejecutiva, su objeto es fungir como órgano de

@@ -3,10 +3,10 @@ Slug: art-21-32-actas-de-entrega-recepcion
 Summary: Actas de entrega-recepción.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
 A la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de
 Coahuila de Zaragoza, le son aplicables las disposiciones de la Ley de

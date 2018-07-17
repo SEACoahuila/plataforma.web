@@ -3,10 +3,10 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-09 17:50
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la
 Información Pública para el Estado de Coahuila de Zaragoza, se informa
@@ -15,19 +15,17 @@ lo siguiente:
 De conformidad con lo dispuesto por el artículo 13, de la Ley del
 Sistema Anticorrupción del Estado de Coahuila de Zaragoza;
 
-### Instalación del Comité Coordinador
+El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres meses y sus
+sesiones serán públicas.
 
-* 25 de octubre 2017 - [Acta de Instalación del Comité Coordinador](2017-10-25-acta-instalacion-comite-coordinador.pdf)
+#### Sesiones Ordinarias del Comité Coordinador
 
-El **Comité Coordinador** se reunirá en sesión ordinaria cada tres meses y
-sus sesiones serán públicas.
-
-### Sesiones Ordinarias del Comité Coordinador
-
-* 15 de marzo 2018
-* 24 de mayo 2018
+* 15 de marzo 2018 - [Acta de la Primera Sesión Ordinaria del Comité Coordinador PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 26 de junio 2018
 * 20 de septiembre 2018
 * 13 de diciembre 2018
+
+---
 
 Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de
 la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de
@@ -37,35 +35,44 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias
 por año, además de las extraordinarias que se consideren convenientes
 para desahogar los asuntos de su competencia.
 
-### Instalación del Órgano de Gobierno
+#### Sesiones Ordinarias del Órgano de Gobierno
 
-* 25 de octubre de 2017 - [Acta de Instalación del Órgano de Gobierno](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
-
-### Sesiones Ordinarias del Órgano de Gobierno
-
-* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria del Órgano de Gobierno PDF](2018-01-22-primera-sesion-ordinaria-organo-gobierno.pdf)
-* 26 de abril 2018
-* 17 de julio 2018
+* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-gobierno.pdf)
+* 24 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 04 de octubre 2018
 
-### Sesiones Extraordinarias del Órgano de Gobierno
+#### Sesiones Extraordinarias del Órgano de Gobierno
 
-* 23 de noviembre 2017 - [Acta de la Primera Sesión Extraordinaria del Órgano de Gobierno PDF](2017-11-23-primera-sesion-extraordinaria-del-organo-gobierno.pdf)
-* 15 marzo 2018
+* 23 de noviembre 2017 - [Acta de la Primera Sesión Extraordinaria - PDF](2017-11-23-primera-sesion-extraordinaria-del-organo-gobierno.pdf)
+* 15 marzo 2018 - [Acta de la Primera Sesión Extraordinaria - PDF](2018-03-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
+
+---
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y
 sesiones extraordinarias a propuesta del Secretario Técnico o de al
 menos dos de los miembros del Consejo de Participación Ciudadana que lo
 integran.
 
-### Sesiones Ordinarias de la Comisión Ejecutiva
+#### Sesiones Ordinarias de la Comisión Ejecutiva
 
-* 25 de enero 2018
-* 19 de abril 2018
-* 12 de julio 2018
-* 18 de octubre 2018
+* 14 de diciembre 2017
+* 30 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-30-primera-sesion-ordinaria-comision-ejecutiva.pdf)
+* 03 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-03-segunda-sesion-ordinaria-comision-ejecutiva.pdf)
 
-[Acta de Instalación de la Comisión Ejecutiva PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
+#### Sesiones Extraordinarias de la Comisión Ejecutiva
+
+* 22 de febrero 2018 - [Acta de la Primera Sesión Extraordinaria - PDF](2018-02-22-primera-sesion-extraordinaria-comision-ejecutiva.pdf)
+* 15 de marzo 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-03-15-segunda-sesion-extraordinaria-comision-ejecutiva.pdf)
+* 23 de mayo 2018 - [Acta de la Tercera Sesión Extraordinaria - PDF](2018-05-23-tercera-sesion-extraordinaria-comision-ejecutiva.pdf)
+* 20 de junio 2018
+
+---
+
+#### Actas de Instalación
+
+* [Acta de Instalación del Comité Coordinador - PDF](2017-10-25-acta-instalacion-comite-coordinador.pdf)
+* [Acta de Instalación del Órgano de Gobierno - PDF](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
+* [Acta de Instalación de la Comisión Ejecutiva - PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente
 información es el **Lic. Mauricio Contreras Montoya,** Titular de la

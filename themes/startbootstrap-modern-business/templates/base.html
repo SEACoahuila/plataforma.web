@@ -18,9 +18,12 @@
 {% endif %}
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,500,700">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/modern-business.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/seacoahuila.css">
+{% if USE_REMOTE_SERVICES %}
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,500,700">
+{% include 'gtag.js' %}
+{% endif %}
 </head>
 <body>
     <!--
@@ -34,8 +37,6 @@
         Así como el código hospedado en GitHub...
             https://github.com/seacoahuila/seacoahuila.github.io
             https://github.com/SEACoahuila/plataforma.web
-        Si es informático y le interesa trabajar con el SEA Coahuila...
-            informatica (en) seacoahuila.org.mx
       -->
 {% include 'navigation.html' %}
     <header>

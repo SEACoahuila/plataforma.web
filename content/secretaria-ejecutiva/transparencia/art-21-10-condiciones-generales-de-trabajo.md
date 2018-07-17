@@ -3,10 +3,10 @@ Slug: art-21-10-condiciones-generales-de-trabajo
 Summary: Condiciones generales de trabajo.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
 Las condiciones generales de trabajo del personal que labora en la
 **Secretaría Ejecutiva** se rigen por el apartado A del artículo 123 de

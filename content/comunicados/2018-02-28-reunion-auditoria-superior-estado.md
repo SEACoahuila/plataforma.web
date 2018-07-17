@@ -1,7 +1,7 @@
 Title: Analizan avances de plan de trabajo 2018 del CC del SEA Coahuila
 Slug: 2018-02-28-reunion-auditoria-superior-estado
 Summary: Se presentó los detalles y alcances de la propuesta de Plan de Trabajo del Comité Coordinador para este 2018.
-Tags: Reuniones, Comité Coordinador
+Tags: Comité Coordinador, Sesiones
 Date: 2018-02-28 12:30
 Modified: 2018-02-28 12:30
 Image: preview.jpg

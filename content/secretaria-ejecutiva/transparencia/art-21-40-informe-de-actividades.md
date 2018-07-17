@@ -3,15 +3,15 @@ Slug: art-21-40-informe-de-actividades
 Summary: Informe de actividades.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
 ### Descargar
 
-* [Informe de Avance de la Secretaría Ejecutiva - DOCX](informe-avance-se-01.docx)
-* [Informe de Avance de la Secretaría Ejecutiva - PDF](informe-avance-se-01.pdf)
+* [Primer Informe 2018 de Avance de la Secretaría Ejecutiva - PDF](informe-avance-se-2018-1.pdf)
+* [Segundo Informe 2018 de Avance de la Secretaría Ejecutiva - PDF](informe-avance-se-2018-2.pdf)
 
 Se le informa que los funcionarios responsables de la presente
 información son los titulares de las Direcciones y Unidades de la

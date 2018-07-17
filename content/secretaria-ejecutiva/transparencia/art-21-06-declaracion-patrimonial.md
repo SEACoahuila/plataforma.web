@@ -3,46 +3,49 @@ Slug: art-21-06-declaracion-patrimonial
 Summary: Declaración patrimonial.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
-### Secretario Técnico
+#### Secretario Técnico
 
-* [Marcela Castañeda Agüero - PDF](vesion-publica-de-la-declaracion-anual-mca.pdf)
+* [Marcela Castañeda Agüero - PDF](version-publica-de-la-declaracion-anual-mca.pdf)
+* [Zabdi Gisel González Alanís - PDF](version-publica-de-la-declaracion-anual-zgga.pdf)
+* [Eduardo Javier García Vélez - PDF](version-publica-de-la-declaracion-anual-ejgv.pdf)
 
-### Dirección de Diagnóstico y Políticas Públicas
+#### Dirección de Diagnóstico y Políticas Públicas
 
-* [Luis Alberto Gutiérrez Arizpe - PDF](vesion-publica-de-la-declaracion-anual-laga.pdf)
-* [Génesis Noemí Ceniceros Guerra - PDF](vesion-publica-de-la-declaracion-anual-gncg.pdf)
-* [Rodolfo Gutiérrez González - PDF](vesion-publica-de-la-declaracion-anual-rgg.pdf)
+* [Génesis Noemí Ceniceros Guerra - PDF](version-publica-de-la-declaracion-anual-gncg.pdf)
+* [Luis Alberto Gutiérrez Arizpe - PDF](version-publica-de-la-declaracion-anual-laga.pdf)
+* [Nora Elizabeth Berlanga Galván - PDF](version-publica-de-la-declaracion-anual-nebg.pdf)
+* [Rodolfo Gutiérrez González - PDF](version-publica-de-la-declaracion-anual-rgg.pdf)
 
-### Dirección de Servicios Generales
+#### Dirección de Servicios Generales
 
-* [Rosalío Medina Martínez - PDF](vesion-publica-de-la-declaracion-anual-rmm.pdf)
-* [Elizabeth Abigail Carranza Castro - PDF](vesion-publica-de-la-declaracion-anual-eacc.pdf)
-* [Estefanía Alejandra Guevara Meza - PDF](vesion-publica-de-la-declaracion-anual-eagm.pdf)
-* [Luis Alonso Valero Ramos - PDF](vesion-publica-de-la-declaracion-anual-lavr.pdf)
+* [Estefanía Alejandra Guevara Meza - PDF](version-publica-de-la-declaracion-anual-eagm.pdf)
+* [Juan Francisco Ramos del Bosque - PDF](version-publica-de-la-declaracion-anual-jfrb.pdf)
+* [Luis Alonso Valero Ramos - PDF](version-publica-de-la-declaracion-anual-lavr.pdf)
+* [Rosalío Medina Martínez - PDF](version-publica-de-la-declaracion-anual-rmm.pdf)
 
-### Unidad de Sistemas de Información
+#### Unidad de Asuntos Jurídicos
 
-* [Guillermo Valdés Lozano - PDF](vesion-publica-de-la-declaracion-anual-gvl.pdf)
+* [Bárbara Melisa Canales Aguirre - PDF](version-publica-de-la-declaracion-anual-bmca.pdf)
+* [Mauricio Contreras Montoya - PDF](version-publica-de-la-declaracion-anual-mcm.pdf)
+* [Rosalba Ixchel Rodríguez Villagrana - PDF](version-publica-de-la-declaracion-anual-rirv.pdf)
+* [Laura Elena González Castañeda - PDF](version-publica-de-la-declaracion-anual-legc.pdf)
 
-### Unidad de Asuntos Jurídicos
+#### Unidad de Capacitación
 
-* [Mauricio Contreras Montoya - PDF](vesion-publica-de-la-declaracion-anual-mcm.pdf)
-* [Rosalba Ixchel Rodríguez Villagrana - PDF](vesion-publica-de-la-declaracion-anual-rirv.pdf)
-* [Laura Elena González Castañeda - PDF](vesion-publica-de-la-declaracion-anual-legc.pdf)
-* [Bárbara Melisa Canales Aguirre - PDF](vesion-publica-de-la-declaracion-anual-bmca.pdf)
+* [Graciela Padilla Hernández - PDF](version-publica-de-la-declaracion-anual-gph.pdf)
 
-### Unidad de Comunicación
+#### Unidad de Comunicación
 
-* [Rolando Franco Olguín - PDF](vesion-publica-de-la-declaracion-anual-rfo.pdf)
+* [Rolando Franco Olguín - PDF](version-publica-de-la-declaracion-anual-rfo.pdf)
 
-### Unidad de Capacitación
+#### Unidad de Sistemas de Información
 
-* [Graciela Padilla Hernández - PDF](vesion-publica-de-la-declaracion-anual-gph.pdf)
+* [Guillermo Valdés Lozano - PDF](version-publica-de-la-declaracion-anual-gvl.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente
 información es el **C.P. Rosalío Medina Martínez,** Director de

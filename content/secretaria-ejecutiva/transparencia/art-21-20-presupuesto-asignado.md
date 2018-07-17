@@ -3,17 +3,28 @@ Slug: art-21-20-presupuesto-asignado
 Summary: Presupuesto asignado.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-05-28 14:29
+Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 28 de mayo 2018.
+Fecha de última actualización: 29 de junio 2018.
 
-Esta Secretaría Ejecutiva inició operaciones a partir del día primero
-de enero del año dos mil dieciocho, y presentará información financiera
-en los términos y plazos que marca la Ley, siendo la fecha límite para
-la presentación del informe de avance de gestión del primer trimestre,
-el día treinta de abril del presente. Una vez presentada esta
-información será publicada.
+Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
+
+### Presupuesto de Egresos Autorizado Ejercicio 2018
+
+Capítulo del Gasto | Nombre                                                 | Presupuesto
+:-----------------:|--------------------------------------------------------|---------------:
+1000               | Servicios Personales                                   | $15,466,248.70
+2000               | Materiales y Suministros                               |  $1,958,440.00
+3000               | Servicios Generales                                    | $14,678,095.48
+4000               | Transferencias, Asignaciones, Subsidios y Otras Ayudas |             $-
+5000               | Bienes Muebles e Inmuebles                             |  $3,365,215.82
+TOTAL              |                                                        | $35,468,000.00
+
+### Descargar
+
+* [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2018.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2018.pdf)
 
 Por lo que se informa que el funcionario responsable de la presente
 información es el **C.P. Rosalío Medina Martínez,** Director de

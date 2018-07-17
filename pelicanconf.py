@@ -38,7 +38,7 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
-# Tema
+# Tema Start Bootstrap, Modern Business
 THEME = 'themes/startbootstrap-modern-business'
 
 # Lenguaje y zona horaria
@@ -71,3 +71,6 @@ TRANSLATION_FEED_RSS = None
 
 # Para desarrollo, recomendado mantener en falso
 LOAD_CONTENT_CACHE = False
+
+# Para desarrollo, no usar dependencias en Internet
+USE_REMOTE_SERVICES = False

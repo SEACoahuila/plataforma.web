@@ -44,7 +44,7 @@ El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupad
 
 1. Consolidación Institucional.
 2. Diagnóstico de la Corrupción en Coahuila.
-3. Diseño y elaboración del Plan Estatal Anticorrupción 2019-2023.
+3. Diseño y elaboración de la Política Estatal Anticorrupción 2019-2023.
 4. Vinculación Interinstitucional.
 5. Vinculación con organismos de la sociedad civil, universidades y sector privado.
 6. Diseño y desarrollo de la Plataforma Estatal de Información.
@@ -72,7 +72,7 @@ El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupad
 
 #### Diagnóstico de la Corrupción en Coahuila
 
-**Objetivo:** Contar con un diagnóstico de la corrupción en Coahuila a partir de una revisión documental y estadística que permita sentar las bases para el diseño de las políticas públicas de prevención y combate a la corrupción, además de constituirse como un insumo para la elaboración del Plan Estatal Anticorrupción 2019-2023.
+**Objetivo:** Contar con un diagnóstico de la corrupción en Coahuila a partir de una revisión documental y estadística que permita sentar las bases para el diseño de las políticas públicas de prevención y combate a la corrupción, además de constituirse como un insumo para la elaboración de la Política Estatal Anticorrupción 2019-2023.
 
 **Líneas de acción:**
 
@@ -86,17 +86,17 @@ El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupad
 
 ---
 
-#### Diseño y elaboración del Plan Estatal Anticorrupción 2019-2023
+#### Diseño y elaboración de la Política Estatal Anticorrupción 2019-2023
 
-**Objetivo:**  Diseñar y elaborar el Plan Estatal Anticorrupción 2019-2023 basado en una metodología con enfoque de participación ciudadana; a partir del cual emanen las políticas integrales, programas y proyectos de prevención y combate a la corrupción, así como las prioridades y metas a cumplir en el corto, mediano y largo plazo.
+**Objetivo:**  Diseñar y elaborar la Política Estatal Anticorrupción 2019-2023 basado en una metodología con enfoque de participación ciudadana; a partir del cual emanen las políticas integrales, programas y proyectos de prevención y combate a la corrupción, así como las prioridades y metas a cumplir en el corto, mediano y largo plazo.
 
 **Líneas de acción:**
 
-* Diseño del proyecto para la elaboración del Plan Estatal Estatal Anticorrupción 2019-2023
-* Diseño de herramientas de investigación para el Plan Estatal Anticorrupción.
+* Diseño del proyecto para la elaboración de la Política Estatal Anticorrupción 2019-2023.
+* Diseño de herramientas de investigación para de la Política Estatal Anticorrupción 2019-2023.
 * Sistematización y análisis de la información.
 * Redacción y aprobación del documento.
-* Presentación y retroalimentación del Plan Estatal con sociedad civil, universidades y sector privado.
+* Presentación y retroalimentación de la Política Estatal Anticorrupción 2019-2023 con sociedad civil, universidades y sector privado.
 * Publicación y difusión.
 
 ---
@@ -107,7 +107,7 @@ El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupad
 
 **Líneas de acción:**
 
-* Realizar foros de participación ciudadana para la elaboración del Plan Estatal Anticorrupción 2019-2023.
+* Realizar foros de participación ciudadana para la elaboración de la Política Estatal Anticorrupción 2019-2023.
 * Realizar foros ciudadanos sobre buenas prácticas en materia de transparencia, combate a la corrupción y acceso a la información pública.
 * Impulsar la capacitación y sensibilización en torno al tema de combate a la corrupción, transparencia y cultura de la legalidad en organizaciones de la sociedad civil, sector privado, universidades, medios de comunicación y ciudadanía en general.
 * Realizar convenios de colaboración y coordinación con los diferentes organismos de la sociedad civil y ciertos organismos internacionales, así como con todos los entes públicos para la prevención y combate a la corrupción.

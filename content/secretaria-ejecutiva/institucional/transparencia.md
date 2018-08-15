@@ -73,6 +73,12 @@ a la Información pública" (Art. 70).
 
 * [Gastos de publicidad]({filename}/secretaria-ejecutiva/transparencia/art-22.md)
 
+### Art. 25
+
+1. [Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones.]({filename}/secretaria-ejecutiva/transparencia/art-25-01-reglamentos-de-las-leyes.md)
+2. [Las iniciativas de leyes o decretos y demás disposiciones generales o particulares en materia administrativa.]({filename}/secretaria-ejecutiva/transparencia/art-25-02-iniciativas-leyes-o-decretos.md)
+3. [Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado, señalando el objeto, las partes y tiempo de duración.]({filename}/secretaria-ejecutiva/transparencia/art-25-03-convenios-coordinacion-concertacion.md)
+
 ### Art. 70
 
 * [Tabla de Aplicabilidad]({filename}/secretaria-ejecutiva/transparencia/art-70.md)

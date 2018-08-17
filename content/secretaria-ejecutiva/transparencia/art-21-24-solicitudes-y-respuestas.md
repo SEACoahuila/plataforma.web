@@ -3,10 +3,20 @@ Slug: art-21-24-solicitudes-y-respuestas
 Summary: Solicitudes y respuestas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-05 21:14
+Modified: 2018-08-16 15:32
 
 
-Fecha de última actualización: 29 de junio 2018.
+Fecha de última actualización: 16 de agosto 2018.
+
+### Actas Comité de Transparencia
+
+* [Instalación](acta-comite-transparencia-2018-05-10-instalacion.pdf)
+* [Primera Sesión Extraordinaria](acta-comite-transparencia-2018-05-10-primera-sesion-extraordinaria.pdf)
+* [Segunda Sesión Extraordinaria](acta-comite-transparencia-2018-06-18-segunda-sesion-extraordinaria.pdf)
+* [Tercera Sesión Extraordinaria](acta-comite-transparencia-2018-06-19-tercera-sesion-extraordinaria.pdf)
+* [Cuarta Sesión Extraordinaria](acta-comite-transparencia-2018-06-20-cuarta-sesion-extraordinaria.pdf)
+
+### Solicitudes y respuestas
 
 * [00310518](00310518.pdf) - 05/04/2018 - C. Miranda Reyes Ortega
 * [00345918](00345918.pdf) - 17/04/2018 - C. Enrique Montejano

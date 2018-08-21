@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 29 de junio 2018.
+Fecha de última actualización: 15 de agosto 2018.
 
 Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores
 públicos, ni ha emitido comisión alguna, motivo por el cual no existe

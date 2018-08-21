@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 29 de junio 2018.
+Fecha de última actualización: 15 de agosto 2018.
 
 La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de
 Coahuila de Zaragoza, no ha generado información reservada a que se

@@ -3,10 +3,10 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-09 17:50
+Modified: 2018-08-24 12:35
 
 
-Fecha de última actualización: 15 de agosto 2018.
+Fecha de última actualización: 24 de agosto 2018.
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la
 Información Pública para el Estado de Coahuila de Zaragoza, se informa
@@ -20,8 +20,8 @@ sesiones serán públicas.
 
 #### Sesiones Ordinarias del Comité Coordinador
 
-* 15 de marzo 2018 - [Acta de la Primera Sesión Ordinaria del Comité Coordinador PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 26 de junio 2018
+* 15 de marzo 2018 - [Acta de la Primera Sesión Ordinaria del Comité Coordinador - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 26 de junio 2018 - [Acta de la Segunda Sesión Ordinaria del Comité Coordinador - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
 * 20 de septiembre 2018
 * 13 de diciembre 2018
 
@@ -37,8 +37,9 @@ para desahogar los asuntos de su competencia.
 
 #### Sesiones Ordinarias del Órgano de Gobierno
 
-* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-gobierno.pdf)
+* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 24 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 26 de junio 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 04 de octubre 2018
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
@@ -55,7 +56,6 @@ integran.
 
 #### Sesiones Ordinarias de la Comisión Ejecutiva
 
-* 14 de diciembre 2017
 * 30 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-30-primera-sesion-ordinaria-comision-ejecutiva.pdf)
 * 03 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-03-segunda-sesion-ordinaria-comision-ejecutiva.pdf)
 

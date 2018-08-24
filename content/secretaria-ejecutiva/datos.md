@@ -3,6 +3,7 @@ Slug: datos
 Summary: Datos sobre control de la corrupción
 Author: Secretaría Ejecutiva
 Date: 2018-06-11 12:32
+Modified: 2018-08-24 15:48
 Status: hidden
 Save_as: secretaria-ejecutiva/datos/index.html
 
@@ -21,56 +22,12 @@ Save_as: secretaria-ejecutiva/datos/index.html
 </div>
 <div class="col-lg-4 col-sm-6 portfolio-item">
 <div class="card h-100">
-<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt="Project Two"></a>
+<a href="encig-2017-coahuila/"><img class="card-img-top" src="encig-2017-coahuila/preview.png" alt="ENCIG 2017 Coahuila"></a>
 <div class="card-body">
 <h4 class="card-title">
-<a href="#">Project Two</a>
+<a href="encig-2017-coahuila/">ENCIG 2017 Coahuila</a>
 </h4>
-<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-sm-6 portfolio-item">
-<div class="card h-100">
-<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt="Project Three"></a>
-<div class="card-body">
-<h4 class="card-title">
-<a href="#">Project Three</a>
-</h4>
-<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-sm-6 portfolio-item">
-<div class="card h-100">
-<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt="Project Four"></a>
-<div class="card-body">
-<h4 class="card-title">
-<a href="#">Project Four</a>
-</h4>
-<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-sm-6 portfolio-item">
-<div class="card h-100">
-<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt="Project Five"></a>
-<div class="card-body">
-<h4 class="card-title">
-<a href="#">Project Five</a>
-</h4>
-<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-sm-6 portfolio-item">
-<div class="card h-100">
-<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt="Project Six"></a>
-<div class="card-body">
-<h4 class="card-title">
-<a href="#">Project Six</a>
-</h4>
-<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+<p class="card-text">Fuente: Encuesta Nacional de Calidad e Impacto Gubernamental 2017, INEGI 2018.</p>
 </div>
 </div>
 </div>

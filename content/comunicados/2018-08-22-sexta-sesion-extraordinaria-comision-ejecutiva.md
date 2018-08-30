@@ -41,3 +41,7 @@ Ejecutiva informó el avance en la integración de las acciones del Plan de
 Trabajo del Comité Coordinador, el avance en la propuesta estatal de la política
 anticorrupción, además de la reunión llevada acaba con las y los representantes
 del Comité Coordinador.
+
+<img class="img-fluid" src="foto-1.jpg" alt="Sexta Sesión Extraordinaria 2018 de la Comisión Ejecutiva, foto 1">
+
+<img class="img-fluid" src="foto-2.jpg" alt="Sexta Sesión Extraordinaria 2018 de la Comisión Ejecutiva, foto 2">

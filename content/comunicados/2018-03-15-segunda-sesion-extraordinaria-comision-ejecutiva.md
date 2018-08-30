@@ -7,9 +7,9 @@ Modified: 2018-07-13 10:30
 Image: preview.jpg
 
 
-### En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo
-
 Comisión Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
+
+### En la que se dió seguimiento al diseño y ejecución de los objetivos estratégicos y líneas de acción planteados en el Programa de Trabajo
 
 El día de hoy, se llevó a cabo la segunda sesión extraordinaria de la
 **Comisión Ejecutiva** en el 2018, misma que tuvo como propósito, dar

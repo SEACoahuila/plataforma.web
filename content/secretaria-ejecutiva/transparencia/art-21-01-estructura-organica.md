@@ -24,6 +24,8 @@ Fecha de última actualización: 24 de agosto 2018.
 
 <img class="img-fluid" src="estructura-organica-de-la-se-del-sea-e.jpg" alt="Estructura Orgánica E">
 
+<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-f.jpg" alt="Estructura Orgánica E">
+
 ### Vacantes
 
 **No hay vacantes disponibles.**

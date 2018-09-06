@@ -19,12 +19,12 @@ PATH = 'content'
 ARTICLE_PATHS = ['comunicados']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['anuncios', 'cc', 'cpc', 'secretaria-ejecutiva', 'terminos']
+PAGE_PATHS = ['cc', 'cpc', 'general', 'secretaria-ejecutiva']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = ['CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt',
-                'comunicados', 'cc', 'cpc', 'secretaria-ejecutiva']
+                'comunicados', 'cc', 'cpc', 'general', 'secretaria-ejecutiva']
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True

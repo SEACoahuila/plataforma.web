@@ -1,6 +1,7 @@
+.directory
+*.pyc
 __pycache__
 develop_server.sh
 output
 Makefile
 *.geany
-.directory

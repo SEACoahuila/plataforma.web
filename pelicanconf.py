@@ -38,7 +38,8 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
-# Tema Start Bootstrap, Modern Business
+# Tema
+#THEME = 'themes/startbootstrap-clean-blog'
 THEME = 'themes/startbootstrap-modern-business'
 
 # Lenguaje y zona horaria

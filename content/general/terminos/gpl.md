@@ -1,9 +1,9 @@
-Title: GNU General Public License
+Title: GNU General Public License, version 3
 Slug: gpl
-Summary: Licencia Pública General GNU (GPL).
+Summary: Licencia Pública General GNU (GPL) versión 3.
 Author: General
 Date: 2018-03-15 12:20
-Modified: 2018-04-16 11:00
+Modified: 2018-09-14 12:00
 
 
 ### GNU GENERAL PUBLIC LICENSE

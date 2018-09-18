@@ -3,7 +3,7 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-08-24 12:35
+Modified: 2018-09-14 12:02
 
 
 Fecha de última actualización: 31 de agosto 2018.
@@ -58,13 +58,16 @@ integran.
 
 * 30 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-30-primera-sesion-ordinaria-comision-ejecutiva.pdf)
 * 03 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-03-segunda-sesion-ordinaria-comision-ejecutiva.pdf)
+* 17 de julio 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-07-17-tercera-sesion-ordinaria-comision-ejecutiva.pdf)
 
 #### Sesiones Extraordinarias de la Comisión Ejecutiva
 
 * 22 de febrero 2018 - [Acta de la Primera Sesión Extraordinaria - PDF](2018-02-22-primera-sesion-extraordinaria-comision-ejecutiva.pdf)
 * 15 de marzo 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-03-15-segunda-sesion-extraordinaria-comision-ejecutiva.pdf)
 * 23 de mayo 2018 - [Acta de la Tercera Sesión Extraordinaria - PDF](2018-05-23-tercera-sesion-extraordinaria-comision-ejecutiva.pdf)
-* 20 de junio 2018
+* 20 de junio 2018 - [Acta de la Cuarta Sesión Extraordinaria - PDF](2018-06-20-cuarta-sesion-extraordinaria-comision-ejecutiva.pdf)
+* 04 de julio 2018 - [Acta de la Quinta Sesión Extraordinaria - PDF](2018-07-04-quinta-sesion-extraordinaria-comision-ejecutiva.pdf)
+* 22 de agosto 2018 - [Acta de la Sexta Sesión Extraordinaria - PDF](2018-08-22-sexta-sesion-extraordinaria-comision-ejecutiva.pdf)
 
 ---
 

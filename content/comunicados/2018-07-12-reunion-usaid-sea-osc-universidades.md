@@ -1,6 +1,6 @@
 Title: Dialogan USAID e Integrantes del SEA Coahuila con Organizaciones de la Sociedad Civil y Universidades
 Slug: 2018-07-12-reunion-usaid-sea-osc-universidades
-Summary: Con el objetivo de identificar mecanismos de cooperación en materia anticorrupción, representantes de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) y del Sistema Estatal Anticorrupción, sostuvieron reunión de trabajo con integrantes de la Sociedad Civil y Universidades..
+Summary: Con el objetivo de identificar mecanismos de cooperación en materia anticorrupción, representantes de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) y del Sistema Estatal Anticorrupción, sostuvieron reunión de trabajo con integrantes de la Sociedad Civil y Universidades.
 Tags: Consejo de Participación Ciudadana, Reuniones, Secretaría Ejecutiva
 Date: 2018-07-12 19:38
 Modified: 2018-07-16 10:10

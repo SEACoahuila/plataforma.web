@@ -3,27 +3,59 @@
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
 
 {% block meta_tags %}
-    <meta name="description" content="{{ page.summary }}">
-    <meta name="keywords" content="{{ page.tags }}">
+    <meta name="description" content="{{ page.summary|striptags }}">
+    <meta name="keywords" content="{{ [page.tags|join(', '), page.category]|join(', ') }}">
     <meta name="author" content="{{ page.author.name }}">
     <meta itemprop="name" content="{{ page.title }}">
-    <meta itemprop="description" content="{{ page.summary }}">
-    <meta itemprop="image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta itemprop="description" content="{{ page.summary|striptags }}">
+    {% if page.preview %}
+    <meta itemprop="image" content="{{ SITEURL }}/{{ page.url }}{{ page.preview }}">
+    {% elif page.image %}
+    <meta itemprop="image" content="{{ SITEURL }}/{{ page.url }}{{ page.image }}">
+    {% elif page.author.name == 'CPC' %}
+    <meta itemprop="image" content="{{ SITEURL }}/theme/images/cpc.png">
+    {% elif page.author.name == 'Secretaría Ejecutiva' %}
+    <meta itemprop="image" content="{{ SITEURL }}/theme/images/sesaec.png">
+    {% else %}
+    <meta itemprop="image" content="{{ SITEURL }}/theme/images/saec.png">
+    {% endif %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ SITETWITTER }}">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.summary }}">
-    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta name="twitter:description" content="{{ page.summary|striptags }}">
+    {% if page.preview %}
+    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ page.url }}{{ page.preview }}">
+    {% elif page.image %}
+    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ page.url }}{{ page.image }}">
+    {% elif page.author.name == 'CPC' %}
+    <meta name="twitter:image:src" content="{{ SITEURL }}/theme/images/cpc.png">
+    {% elif page.author.name == 'Secretaría Ejecutiva' %}
+    <meta name="twitter:image:src" content="{{ SITEURL }}/theme/images/sesaec.png">
+    {% else %}
+    <meta name="twitter:image:src" content="{{ SITEURL }}/theme/images/saec.png">
+    {% endif %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="{{ page.url }}">
-    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
-    <meta property="og:description" content="{{ page.summary }}">
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}">
+    {% if page.preview %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.url }}{{ page.preview }}">
+    {% elif page.image %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.url }}{{ page.image }}">
+    {% elif page.author.name == 'CPC' %}
+    <meta property="og:image" content="{{ SITEURL }}/theme/images/cpc.png">
+    {% elif page.author.name == 'Secretaría Ejecutiva' %}
+    <meta property="og:image" content="{{ SITEURL }}/theme/images/sesaec.png">
+    {% else %}
+    <meta property="og:image" content="{{ SITEURL }}/theme/images/saec.png">
+    {% endif %}
+    <meta property="og:description" content="{{ page.summary|striptags }}">
     <meta property="og:site_name" content="{{ SITENAME }}">
 {% endblock %}
 
 {% block header %}
-    {% if page.author == 'CPC' %}
+    {% if page.author == 'CC' %}
+        {% include 'header-cc.html' %}
+    {% elif page.author == 'CPC' %}
         {% include 'header-cpc.html' %}
     {% elif page.author == 'Secretaría Ejecutiva' %}
         {% include 'header-sesaec.html' %}

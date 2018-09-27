@@ -103,6 +103,9 @@
 {% block content %}
     {% if output_file == 'index.html' %}
         <section class="index-content">
+            {% include 'homepage-live.html' %}
+        </section>
+        <section class="index-content">
             {% include 'homepage-highlights.html' %}
         </section>
         <section class="index-content">

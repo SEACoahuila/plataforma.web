@@ -1,4 +1,4 @@
-Title: "Taller de Implementación del Sistema Local Anticorrupción" y "Taller de Asesoría y Capacitación sobre Responsabilidades Administrativas"
+Title: Taller de Implementación del Sistema Local Anticorrupción y Taller de Asesoría y Capacitación sobre Responsabilidades Administrativas
 Slug: 2018-05-24-talleres-sefirc
 Summary: El 24 de mayo del año en curso se impartieron estos talleres los cuales estuvieron a cargo de la Secretaría de la Función Pública con el apoyo y organización del Gobierno del Estado de Coahuila a través de la Secretaría de Fiscalización y Rendición de Cuentas.
 Tags: Capacitaciones, Comité Coordinador, Consejo de Participación Ciudadana, Presentaciones

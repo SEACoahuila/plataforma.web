@@ -7,4 +7,5 @@ Status: hidden
 Save_as: cc/index.html
 
 
-* [Institucional](/cc/institucional/)
+* [Institucional]({filename}/cc/institucional.md)
+* [Informes]({filename}/cc/informes.md)

@@ -1,7 +1,7 @@
 Title: Comité Coordinador y Órgano de Gobierno del Sistema Estatal Anticorrupción celebran reunión de trabajo
 Slug: 2018-06-12-reunion-comite-coordinador-organo-gobierno
 Summary: El 12 de junio de 2018 hubo una reunión de trabajo con el fin de abordar diversos temas de la agenda, entre los que estuvieron las propuestas de designación de órganos internos de control y el programa de capacitación y difusión.
-Tags: Comité Coordinador, Órgano de Gobierno, Sesiones, Secretaría Ejecutiva
+Tags: Comité Coordinador, Órgano de Gobierno, Sesiones
 Date: 2018-06-12 17:12
 Modified: 2018-06-15 13:40
 Image: preview.jpg

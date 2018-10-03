@@ -9,7 +9,7 @@ Modified: 2018-10-03 00:15
 #### Anexos
 
 1. [Nombramiento Magistrada Sandra Luz Rodríguez Wong](01-anexo-nombramiento-magistrada-sandra-wong.pdf)
-2. [Nombramiento Fiscal Jesús Homero Flores Mier](02-anexo-nombramiento-fiscal-jesus-flores.pdf)
+2. [Nombramiento Fiscal Anticorrupción Jesús Homero Flores Mier](02-anexo-nombramiento-fiscal-jesus-flores.pdf)
 3. [Nombramiento Secretaria Técnica Marcela Castañeda Agüero](03-anexo-nombramiento-secretaria-tecnica-marcela-castaneda.pdf)
 4. [Acta de Instalación del Comité Coordinador](04-anexo-acta-instalacion-comite-coordinador-2017-10-25.pdf)
 5. [Acta de Instalación del Órgano de Gobierno](05-anexo-acta-instalacion-organo-de-gobierno-2017-10-25.pdf)
@@ -17,7 +17,7 @@ Modified: 2018-10-03 00:15
 7. [Lineamientos y Programa de Trabajo del Comité Coordinador](07-anexo-lineamientos-programa-de-trabajo-comite-coordinador.pdf)
 8. [Primera Sesión Ordinaria del Comité Coordinador](08-anexo-primera-sesion-ordinaria-comite-coordinador-2018-03-15.pdf)
 9. [Segunda Sesión Ordinaria del Comité Coordinador](09-anexo-segunda-sesion-ordinaria-comite-coordinador.pdf)
-10. [Política Pública SEFIRC](10-anexo-politica-publica-sefirc.pdf)
+10. [Política Pública Órganos Internos de Control](10-anexo-politica-publica-sefirc.pdf)
 
 #### Marco Jurídico
 

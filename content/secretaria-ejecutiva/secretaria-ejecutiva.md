@@ -2,7 +2,7 @@ Title: Secretaría Ejecutiva
 Slug: secretaria-ejecutiva
 Summary: Índice de Secretaría Ejecutiva
 Author: Secretaría Ejecutiva
-Date: 2018-06-11 12:32
+Date: 2018-10-03 19:59
 Status: hidden
 Save_as: secretaria-ejecutiva/index.html
 
@@ -20,8 +20,8 @@ Save_as: secretaria-ejecutiva/index.html
 <div class="col-lg-4 col-sm-6 portfolio-item">
 <div class="card h-100">
 <div class="card-body">
-<div style="font-size:4em; text-align:center;"><a href="institucional/plan-de-trabajo-2018/"><i class="fa fa-book" aria-hidden="true"></i></a></div>
-<h4 class="card-title"><a href="institucional/plan-de-trabajo-2018/">Programa de Trabajo 2018</a></h4>
+<div style="font-size:4em; text-align:center;"><a href="planes/plan-de-trabajo-2018/"><i class="fa fa-book" aria-hidden="true"></i></a></div>
+<h4 class="card-title"><a href="planes/plan-de-trabajo-2018/">Programa de Trabajo 2018</a></h4>
 <p class="card-text">El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupadas en diez rubros o programas estratégicos que se sustentan en la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza y el Reglamento Interno de la Secretaría Ejecutiva.</p>
 </div>
 </div>

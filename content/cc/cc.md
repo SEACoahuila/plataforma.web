@@ -2,10 +2,11 @@ Title: Comité Coordinador
 Slug: cc
 Summary: Índice del Comité Coordinador
 Author: CC
-Date: 2018-06-11 12:32
+Date: 2018-10-03 19:59
 Status: hidden
 Save_as: cc/index.html
 
 
-* [Institucional]({filename}/cc/institucional.md)
-* [Informes]({filename}/cc/informes.md)
+* [Informes](/cc/informes/)
+* [Institucional](/cc/institucional/)
+* [Planes](/cc/planes/)

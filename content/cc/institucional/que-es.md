@@ -40,4 +40,4 @@ ciudadanos respecto a las instituciones.
 
 ### Programa de Trabajo
 
-* Lea el [Programa de Trabajo 2018 del Comité Coordinador]({filename}/cc/institucional/plan-de-trabajo-cc-2018.md)
+* Lea el [Programa de Trabajo 2018 del Comité Coordinador]({filename}/cc/planes/plan-de-trabajo-cc-2018.md)

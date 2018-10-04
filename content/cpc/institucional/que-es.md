@@ -33,4 +33,4 @@ consideren necesarias para el buen funcionamiento del Sistema.
 
 ### Plan de Trabajo
 
-* Lea el [Plan de Trabajo 2018 del Consejo de Participación Ciudadana]({filename}/cpc/institucional/plan-de-trabajo-cpc-2018.md)
+* Lea el [Plan de Trabajo 2018 del Consejo de Participación Ciudadana]({filename}/cpc/planes/plan-de-trabajo-cpc-2018.md)

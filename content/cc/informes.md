@@ -1,5 +1,5 @@
 Title: Informes del Comité Coordinador
-Slug: informes
+Slug: informes-cc
 Summary: Informes del Comité Coordinador
 Author: CC
 Date: 2018-10-02 20:50

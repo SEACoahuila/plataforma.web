@@ -42,4 +42,4 @@ imparcial, profesional y efectivo.
 
 ### Programa de Trabajo
 
-* Lea el [Programa de Trabajo 2018 de la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/institucional/plan-de-trabajo-2018.md)
+* Lea el [Programa de Trabajo 2018 de la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/planes/plan-de-trabajo-2018.md)

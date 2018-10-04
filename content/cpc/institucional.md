@@ -9,5 +9,4 @@ Save_as: cpc/institucional/index.html
 
 * [Qué es el CPC]({filename}/cpc/institucional/que-es.md)
 * [Documentos]({filename}/cpc/institucional/documentos.md)
-* [Plan de Trabajo 2018]({filename}/cpc/institucional/plan-de-trabajo-cpc-2018.md)
 * [Contacto]({filename}/cpc/institucional/contacto.md)

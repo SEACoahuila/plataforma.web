@@ -3,12 +3,12 @@ Slug: 2018-informe-anual
 Summary: Informe Anual 2018 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 Author: CC
 Date: 2018-10-02 20:55
-Modified: 2018-10-03 00:15
+Modified: 2018-10-03 20:25
 
 
 #### Anexos
 
-1. [Nombramiento Magistrada Sandra Luz Rodríguez Wong](01-anexo-nombramiento-magistrada-sandra-wong.pdf)
+1. [Nombramiento Magistrada Presidenta Sandra Luz Rodríguez Wong](01-anexo-nombramiento-magistrada-sandra-wong.pdf)
 2. [Nombramiento Fiscal Anticorrupción Jesús Homero Flores Mier](02-anexo-nombramiento-fiscal-jesus-flores.pdf)
 3. [Nombramiento Secretaria Técnica Marcela Castañeda Agüero](03-anexo-nombramiento-secretaria-tecnica-marcela-castaneda.pdf)
 4. [Acta de Instalación del Comité Coordinador](04-anexo-acta-instalacion-comite-coordinador-2017-10-25.pdf)

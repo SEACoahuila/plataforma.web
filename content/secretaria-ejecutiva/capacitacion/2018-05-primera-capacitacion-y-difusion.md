@@ -6,7 +6,7 @@ Date: 2018-06-05 09:40
 Modified: 2018-06-12 12:54
 
 
-Como parte del [Programa de Trabajo del Comité Coordinador 2018]({filename}/cpc/institucional/plan-de-trabajo-cpc-2018.md) del **Sistema Anticorrupción del Estado de Coahuila de Zaragoza** (SAEC) se tiene como objetivo la capacitación, promoción y difusión del **SEAC** para las y los servidores públicos de Coahuila de Zaragoza.
+Como parte del [Programa de Trabajo del Comité Coordinador 2018]({filename}/cpc/planes/plan-de-trabajo-cpc-2018.md) del **Sistema Anticorrupción del Estado de Coahuila de Zaragoza** (SAEC) se tiene como objetivo la capacitación, promoción y difusión del **SEAC** para las y los servidores públicos de Coahuila de Zaragoza.
 
 La cual es impartida por funcionarios públicos miembros del **Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza** (CC).
 

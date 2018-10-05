@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 31 de agosto 2018.
+Fecha de última actualización: 3 de octubre 2018.
 
 **A la fecha no existe información adicional a la que aparece publicada
 en el portal de Transparencia de la Secretaría Ejecutiva, a la que hace

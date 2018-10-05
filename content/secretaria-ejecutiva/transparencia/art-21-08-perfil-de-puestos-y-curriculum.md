@@ -6,12 +6,13 @@ Date: 2018-02-23 09:00
 Modified: 2018-08-31 15:50
 
 
-Fecha de última actualización: 31 de agosto 2018.
+Fecha de última actualización: 3 de octubre 2018.
 
 #### Secretario Técnico
 
 * [Marcela Castañeda Agüero <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-mca.pdf)
 * [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-zgga.pdf)
+* [Gadi Berenice Harnández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Eduardo Javier García Vélez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-ejgv.pdf)
 
 #### Dirección de Diagnóstico y Políticas Públicas
@@ -48,6 +49,7 @@ Fecha de última actualización: 31 de agosto 2018.
 #### Unidad de Comunicación
 
 * [Rolando Franco Olguín <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-rfo.pdf)
+* [María Elizabeth Samaniego Lira <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-mesl.pdf)
 
 #### Unidad de Sistemas de Información
 

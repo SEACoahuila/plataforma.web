@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 31 de agosto 2018.
+Fecha de última actualización: 3 de octubre 2018.
 
 ### Constituciones políticas
 
@@ -42,6 +42,7 @@ Fecha de última actualización: 31 de agosto 2018.
 ### Reglamentos estatales
 
 * [Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
+* [Lineamientos de Austeridad de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](lineamientos-de-austeridad-de-la-sesaec.pdf)
 
 ### Acuerdos, lineamientos y recomendaciones
 

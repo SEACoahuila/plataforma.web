@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-08-16 15:32
 
 
-Fecha de última actualización: 31 de agosto 2018.
+Fecha de última actualización: 3 de octubre 2018.
 
 ### Actas Comité de Transparencia
 
@@ -37,6 +37,14 @@ Fecha de última actualización: 31 de agosto 2018.
 * [00569518](00569518.pdf) - 15/06/2017 - Jose García Haro
 * [00558318](00558318.pdf) - 13/06/2018 - Servicios Integrales de Salud Nova, S.A. De C.V.
 * [00581418](00581418.pdf) - 19/06/2018 - Baltazar Greco Cepeda
+* [00629618](00629618.pdf) - 16/07/2018 - Carlota Pérez
+* [00631318](00631318.pdf) - 17/07/2018 - Karla Inzunza
+* [00636218](00636218.pdf) - 18/07/2018 - Mayte Merlín Flores
+* [00735318](00735318.pdf) - 27/08/2018 - Carlos Gutiérrez
+* [00768518](00768518.pdf) - 03/09/2018 - Ángel Guzmán
+* [00780318](00780318.pdf) - 06/09/2018 - Armando Hoyos
+* [00780418](00780418.pdf) - 06/09/2018 - Armando Hoyos
+* [00780518](00780518.pdf) - 06/09/2018 - Armando Hoyos
 
 Por lo que se le informa que el funcionario responsable de la presente
 información es el **Lic. Mauricio Contreras Montoya,** Titular de la

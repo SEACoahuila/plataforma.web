@@ -3,20 +3,16 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-09-14 12:02
+Modified: 2018-10-11 16:46
 
 
 Fecha de última actualización: 3 de octubre 2018.
 
-A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la
-Información Pública para el Estado de Coahuila de Zaragoza, se informa
-lo siguiente:
+A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
-De conformidad con lo dispuesto por el artículo 13, de la Ley del
-Sistema Anticorrupción del Estado de Coahuila de Zaragoza;
+De conformidad con lo dispuesto por el artículo 13, de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza;
 
-El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres meses y sus
-sesiones serán públicas.
+El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres meses y sus sesiones serán públicas.
 
 #### Sesiones Ordinarias del Comité Coordinador
 
@@ -27,13 +23,9 @@ sesiones serán públicas.
 
 ---
 
-Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de
-la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de
-Coahuila de Zaragoza.
+Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
-El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias
-por año, además de las extraordinarias que se consideren convenientes
-para desahogar los asuntos de su competencia.
+El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia.
 
 #### Sesiones Ordinarias del Órgano de Gobierno
 
@@ -44,15 +36,12 @@ para desahogar los asuntos de su competencia.
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 
-* 23 de noviembre 2017 - [Acta de la Primera Sesión Extraordinaria - PDF](2017-11-23-primera-sesion-extraordinaria-del-organo-gobierno.pdf)
+* 23 de noviembre 2017 - [Acta de la Primera Sesión Extraordinaria - PDF](2017-11-23-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 15 marzo 2018 - [Acta de la Primera Sesión Extraordinaria - PDF](2018-03-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 
 ---
 
-La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y
-sesiones extraordinarias a propuesta del Secretario Técnico o de al
-menos dos de los miembros del Consejo de Participación Ciudadana que lo
-integran.
+La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.
 
 #### Sesiones Ordinarias de la Comisión Ejecutiva
 
@@ -77,6 +66,4 @@ integran.
 * [Acta de Instalación del Órgano de Gobierno - PDF](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
 * [Acta de Instalación de la Comisión Ejecutiva - PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente
-información es el **Lic. Mauricio Contreras Montoya,** Titular de la
-Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

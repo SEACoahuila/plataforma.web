@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"pass_config"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"Pla",
+				"PlataformaWebAutores"
+			],
+			[
+				"see",
+				"seedwebplatform"
+			],
+			[
+				"pla",
+				"plataforma_web_etiquetas"
+			],
+			[
+				"comu",
+				"comunicado"
+			],
+			[
+				"flask",
+				"flaskViewsRecover\tFlaskViewsRecover"
+			],
+			[
+				"comuni",
+				"comunicado"
+			],
+			[
+				"plata",
+				"plataforma_web_comunicados"
+			],
+			[
+				"eti",
+				"etiquetas"
+			],
+			[
+				"flaskV",
+				"flaskViewsEdit\tFlaskViewsEdit"
+			],
+			[
+				"auto",
+				"autores"
+			],
+			[
+				"aut",
+				"autores"
+			],
+			[
+				"Plataf",
+				"PlataformaWebAutoresForm"
+			],
+			[
+				"etiqu",
+				"etiquetas"
+			],
+			[
+				"platafor",
+				"plataforma_web_etiquetas"
+			],
+			[
+				"platafo",
+				"plataforma_web_etiquetas"
+			],
+			[
+				"autor",
+				"autor"
+			],
+			[
+				"Plata",
+				"PlataformaWebAutores"
+			],
+			[
+				"plataf",
+				"plataforma_web_autores"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/comunicados/2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva.md",
+			"settings":
+			{
+				"buffer_size": 2597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: New Class"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"snippet fl",
+				"Snippet: FlaskViewsDetail"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"spell",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web",
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content",
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/comunicados"
+	],
+	"file_history":
+	[
+		"/home/guivaloz/Documentos/SEACoahuila/USI Plataforma Digital Estatal/2018-09/PlataformaWeb.tex",
+		"/home/guivaloz/Documentos/VirtualEnv/Correcaminos/README.md",
+		"/home/guivaloz/Documentos/Docker/Central/README.md",
+		"/home/guivaloz/Documentos/Docker/Central/central/app.py",
+		"/home/guivaloz/Documentos/Docker/Central/cli/commands/cmd_plataformaweb.py",
+		"/home/guivaloz/Documentos/Docker/Central/cli/commands/cmd_db.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_regiones/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_unidades/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_ejes/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_indicadores/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/usuarios/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_datos/forms.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/views.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/templates/layouts/navigation.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/__init__.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/models.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/views.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/templates/plataforma_web_comunicados/detail.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/templates/plataforma_web_comunicados/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/templates/plataforma_web_comunicados/edit.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/templates/plataforma_web_comunicados/list.html",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsDetail.sublime-snippet",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_comunicados/__init__.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/templates/catalogos_fuentes/edit.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/templates/catalogos_fuentes/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/templates/catalogos_fuentes/detail.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/templates/catalogos_fuentes/list.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/views.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_fuentes/models.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/templates/plataforma_web_etiquetas/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/templates/plataforma_web_etiquetas/list.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/templates/plataforma_web_etiquetas/edit.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/templates/plataforma_web_etiquetas/detail.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_regiones/templates/catalogos_regiones/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/catalogos_unidades/templates/catalogos_unidades/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_datos/templates/indicadores_datos/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_ejes/templates/indicadores_ejes/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/indicadores_indicadores/templates/indicadores_indicadores/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/templates/plataforma_web_autores/new.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/templates/plataforma_web_autores/list.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/templates/plataforma_web_autores/edit.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/templates/plataforma_web_autores/detail.html",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_autores/models.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/models.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/views.py",
+		"/home/guivaloz/Documentos/Docker/Central/central/blueprints/plataforma_web_etiquetas/__init__.py",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsRecover.sublime-snippet",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsDelete.sublime-snippet",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsNew.sublime-snippet",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsEdit.sublime-snippet",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsListActive.sublime-snippet",
+		"/home/guivaloz/.config/sublime-text-3/Packages/User/FlaskViewsListDeleted.sublime-snippet",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/InformeDeAvance201809.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P02ComisionEjecutiva.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P03Diagnosticos.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P03DisenoPlanesProgramas.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P03ProcesosNormativosLegales.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P03ActividadesCapacitacionVinculacion.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P02OrganoDeGobierno.tex",
+		"/home/guivaloz/Documentos/GitHub/guivaloz/SEACoahuila/SESAEC Informe de Avance/2018-09/P02ComiteCoordinador.tex",
+		"/home/guivaloz/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/comunicados/2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SEACoahuilaPlataformaWeb.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

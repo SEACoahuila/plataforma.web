@@ -88,10 +88,19 @@
 	"buffers":
 	[
 		{
-			"file": "content/comunicados/2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva.md",
+			"file": "content/secretaria-ejecutiva/transparencia/art-21-07-viaticos-y-gastos-de-representacion.md",
 			"settings":
 			{
-				"buffer_size": 2597,
+				"buffer_size": 704,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/secretaria-ejecutiva/transparencia/art-21-21-calendario-de-reuniones-publicas.md",
+			"settings":
+			{
+				"buffer_size": 4214,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -167,10 +176,13 @@
 	[
 		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web",
 		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content",
-		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/comunicados"
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva",
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia"
 	],
 	"file_history":
 	[
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/robots.txt",
+		"/home/guivaloz/Documentos/GitHub/SEACoahuila/plataforma.web/content/comunicados/2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva.md",
 		"/home/guivaloz/Documentos/SEACoahuila/USI Plataforma Digital Estatal/2018-09/PlataformaWeb.tex",
 		"/home/guivaloz/Documentos/VirtualEnv/Correcaminos/README.md",
 		"/home/guivaloz/Documentos/Docker/Central/README.md",
@@ -270,33 +282,60 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/comunicados/2018-10-10-octava-sesion-extraordinaria-comision-ejecutiva.md",
+					"file": "content/secretaria-ejecutiva/transparencia/art-21-07-viaticos-y-gastos-de-representacion.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2597,
+						"buffer_size": 704,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								386,
-								386
+								219,
+								219
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/secretaria-ejecutiva/transparencia/art-21-21-calendario-de-reuniones-publicas.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2170,
+								2170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 814.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -381,8 +420,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 301.0,
+	"side_bar_visible": false,
+	"side_bar_width": 357.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

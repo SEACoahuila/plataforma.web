@@ -3,7 +3,7 @@ Slug: contacto-cpc
 Summary: Datos de contacto del Consejo de Participación Ciudadana (CPC).
 Author: CPC
 Date: 2018-02-07 15:55
-Modified: 2018-08-29 10:52
+Modified: 2018-10-15 11:20
 
 
 ### Dirección
@@ -27,6 +27,6 @@ De 09:00 a 16:00 de lunes a viernes.
 
 * Ana Yuri Solís Gaona: <asolis@cpccoahuila.org.mx>
 * Carlos Rangel Orona: <carlos.rangel@cpccoahuila.org.mx>
-* José Manuel Gil Navarro: <manuel.gil@cpccoahuila.org.mx>
+* Jafia Pacheco Valtierra: <jafia.pacheco@cpccoahuila.org.mx>
 * Juan Adolfo Von Bertrab Saracho: <adolfo.von.bertrab@cpccoahuila.org.mx>
 * María de Lourdes de Koster López: <lourdes.de.koster@cpccoahuila.org.mx>

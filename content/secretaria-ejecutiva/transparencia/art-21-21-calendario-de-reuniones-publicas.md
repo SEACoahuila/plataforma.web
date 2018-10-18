@@ -3,7 +3,7 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-10-11 16:46
+Modified: 2018-10-12 13:31
 
 
 Fecha de última actualización: 3 de octubre 2018.
@@ -32,7 +32,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 24 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 26 de junio 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 04 de octubre 2018
+* 17 de julio 2018 - [Acta de la Cuarta Sesión Ordinaria - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 

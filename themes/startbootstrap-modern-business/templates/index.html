@@ -70,38 +70,55 @@
     {% if output_file == 'index.html' %}
         {% include 'header-saec.html' %}
     {% else %}
-        <div class="header-content generic-header-bg">
-            <h1 class="header-text">
-                {% if category == 'comunicados' %}
-                    Comunicados de Prensa
-                {% elif tag == 'capacitaciones' %}
-                    Capacitaciones
-                {% elif tag == 'comision-ejecutiva' %}
-                    Comisión Ejecutiva
-                {% elif tag == 'comite-coordinador' %}
-                    Comité Coordinador
-                {% elif tag == 'consejo-de-participacion-ciudadana' %}
-                    Consejo de Participación Ciudadana
-                {% elif tag == 'organo-de-gobierno' %}
-                    Órgano de Gobierno
-                {% elif tag == 'presentaciones' %}
-                    Presentaciones
-                {% elif tag == 'Reuniones' %}
-                    Reuniones
-                {% elif tag == 'secretaria-ejecutiva' %}
-                    Secretaría Ejecutiva
-                {% elif tag == 'sesiones' %}
-                    Sesiones
-                {% else %}
-                    {{ SITENAME }}
-                {% endif %}
-            </h1>
-        </div>
+        {% if category == 'comunicados' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Comunicados de Prensa</h1>
+            </div>
+        {% elif tag == 'capacitaciones' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Capacitaciones</h1>
+            </div>
+        {% elif tag == 'comision-ejecutiva' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Comisión Ejecutiva</h1>
+            </div>
+        {% elif tag == 'comite-coordinador' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Comité Coordinador</h1>
+            </div>
+        {% elif tag == 'consejo-de-participacion-ciudadana' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Consejo de Participación Ciudadana</h1>
+            </div>
+        {% elif tag == 'organo-de-gobierno' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Órgano de Gobierno</h1>
+            </div>
+        {% elif tag == 'presentaciones' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Presentaciones</h1>
+            </div>
+        {% elif tag == 'Reuniones' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Reuniones</h1>
+            </div>
+        {% elif tag == 'secretaria-ejecutiva' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Secretaría Ejecutiva</h1>
+            </div>
+        {% elif tag == 'sesiones' %}
+            <div class="header-content generic-header-bg">
+                <h1 class="header-text">Sesiones</h1>
+            </div>
+        {% endif %}
     {% endif %}
 {% endblock %}
 
 {% block content %}
     {% if output_file == 'index.html' %}
+        <section class="index-content">
+            {% include 'homepage-billboard.html' %}
+        </section>
         <section class="index-content">
             {% include 'homepage-highlights.html' %}
         </section>

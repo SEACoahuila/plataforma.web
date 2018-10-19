@@ -6,6 +6,8 @@ Date: 2018-10-18 11:00
 Modified: 2018-10-18 11:00
 
 
+<img class="img-fluid" src="foro-regional-pna-banner.jpg" alt="Foro Regional para elaborar la Política Nacional Anticorrupción">
+
 El 30 de octubre 2018 se llevará a cabo el **Foro Regional para la creación de la Política Nacional Anticorrupción (PNA)** en la ciudad de **Saltillo, Coahuila de Zaragoza**. El objetivo es realizar el proceso de consulta pública, de alcance estatal, mostrando el primer borrador de la **PNA**, con el fin de obtener opiniones, comentarios e insumos de actores clave.
 
 ### Registro

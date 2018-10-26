@@ -7,6 +7,15 @@ Status: hidden
 Save_as: secretaria-ejecutiva/transparencia/index.html
 
 
+### Art. 18
+
+1. [Plataforma Nacional de Transparencia](https://www.plataformadetransparencia.org.mx/)
+4. **Contacto y buzón de quejas y sugerencias:**
+
+    * Puede usar el [Formulario de quejas y sugerencias](https://goo.gl/forms/v9fUknvCjxNUqNzA2)
+    * Enviar un mensaje vía correo electrónico a [quejas.y.sugerencias@seacoahuila.org.mx](mailto:quejas.y.sugerencias@seacoahuila.org.mx)
+    * O llamar al teléfono (844) 688 2178 de 09:00 a 16:00 de lunes a viernes
+
 ### Art. 20
 
 * [Calendario de información pública de oficio]({filename}/secretaria-ejecutiva/transparencia/art-20-calendario-de-ipo.md)

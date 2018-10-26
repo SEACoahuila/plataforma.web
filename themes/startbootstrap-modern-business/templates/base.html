@@ -48,6 +48,9 @@
     </div>
     <footer class="py-5 sea-bg-gray-dark">
         <div class="container">
+{% if output_file == 'index.html' %}
+{% include 'footer-transparency.html' %}
+{% endif %}
 {% include 'footer-sitemap.html' %}
 {% include 'footer-integrantes.html' %}
 {% include 'footer-social.html' %}

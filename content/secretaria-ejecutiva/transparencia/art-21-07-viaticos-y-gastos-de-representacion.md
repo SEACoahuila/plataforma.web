@@ -8,6 +8,8 @@ Modified: 2018-10-11 16:46
 
 Fecha de última actualización: 3 de octubre 2018.
 
+El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no genera gastos de representación, en caso de ser generados serán reportados.
+
 ### Descargar
 
 * [Viáticos del Personal, primer trimestre 2018 - PDF](viaticos-personal-2018-03.pdf)

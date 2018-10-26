@@ -13,17 +13,18 @@ El 30 de octubre 2018 se llevará a cabo el **Foro Regional para la creación de
 ### Registro
 
 <div class="well">
-<a class="btn btn-lg btn-secondary btn-block" target="_blank" href="https://goo.gl/forms/MODnt1uULPf6mtOs1">Para registrarse, llene y envíe este formulario (requiere cuenta en Google).</a>
+<a class="btn btn-lg btn-secondary btn-block" target="_blank" href="https://goo.gl/forms/MODnt1uULPf6mtOs1">Para registrarse use este formulario</a>
+<p style="text-align: center; margin-top: 0.4em;">Requiere cuenta en Google.</p>
 <p style="text-align: center; font-size: 1.2em; margin-top: 0.4em;">O llame al teléfono (844) 688 2178 de lunes a viernes 9 a 16 horas.</p>
 </div>
 
-### Sede "Hotel Double Tree Suites by Hilton" Saltillo
+### Sede "Hotel Double Tree Suites by Hilton" en Saltillo, Coahuila de Zaragoza
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3601.278044395113!2d-100.96731564904982!3d25.49577198367848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86886d4c0acbcb67%3A0xae2f87a2bc416f8e!2sDoubleTree+Suites+by+Hilton+Saltillo!5e0!3m2!1ses!2smx!4v1539883842959" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Convenio "Hotel Double Tree Suites by Hilton" Saltillo
+### Si requiere hospedaje, puede solicitar al hotel sede el convenio:
 
-Ref.: Convenio Tarifa Especial "Foro Regional Anticorrupción 29 y 30 de Octubre"
+Ref.: **Convenio Tarifa Especial "Foro Regional Anticorrupción 29 y 30 de Octubre"**
 
 * Tarifa Especial $1,690.00 más impuestos: Suite Sencilla King Size o Queen Jr. con Sofá Cama. Desayuno Bufete. Persona extra $190.00. Agregado a la tarifa con desayuno.
 * Tarifa Especial $1,890.00 más impuestos: Suite Doble con dos camas Queen con Sofá Cama. Desayuno Bufete. Persona extra $190.00. Agregado a la tarifa con desayuno.

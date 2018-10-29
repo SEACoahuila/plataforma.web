@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-08-16 15:32
 
 
-Fecha de última actualización: 3 de octubre 2018.
+Fecha de última actualización: 29 de octubre 2018.
 
 ### Actas Comité de Transparencia
 

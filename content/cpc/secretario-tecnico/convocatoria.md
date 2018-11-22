@@ -6,23 +6,16 @@ Date: 2017-10-20 09:10
 Modified: 2017-10-20 09:10
 
 
-El Consejo de Participación Ciudadana del Sistema Estatal Anticorrupción, con
-fundamento en los artículos 33 y 34 de la Ley del Sistema Anticorrupción del Estado
-de Coahuila de Zaragoza.
+El Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, con fundamento en los artículos 33 y 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
-### Convoca
+Convoca a toda la sociedad coahuilense para que individualmente, o a través de instituciones y organizaciones públicas, privadas, sociales, académicas, empresariales, sindicales, profesionales u otras, postulen ciudadanas y ciudadanos para integrar:
 
-A toda la sociedad coahuilense para que individualmente, o a través de instituciones
-y organizaciones públicas, privadas, sociales, académicas, empresariales,
-sindicales, profesionales u otras, postulen ciudadanas y ciudadanos para integrar:
+LA TERNA DE CANDIDATOS A SECRETARIO TÉCNICO QUE LA PRESIDENCIA SOMETERÁ A CONSIDERACIÓN DEL ÓRGANO DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COHUILA DE ZARAGOZA.
 
-LA TERNA DE CANDIDATOS A SECRETARIO TÉCNICO QUE LA PRESIDENCIA
-SOMETERÁ A CONSIDERACIÓN DEL ÓRGANO DE GOBIERNO DE LA
-SECRETARÍA EJECUTIVA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO.
+### Descargar convocatoria 2018
 
-Este proceso de selección se realizará con las siguientes bases, que incluyen plazos
-y criterios de selección.
+* [Convocatoria 2018 - archivo PDF](convocatoria-st-2018.pdf)
 
-### Descargar
+### Descargar convocatoria 2017
 
-* [Convocatoria - archivo PDF](convocatoria-st.pdf)
+* [Convocatoria 2017 - archivo PDF](convocatoria-st-2017.pdf)

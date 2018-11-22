@@ -3,16 +3,18 @@ Slug: art-21-01-estructura-organica
 Summary: Factor humano que integra la Secretaría Ejecutiva.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-09 17:42
+Modified: 2018-11-22 12:35
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 ### Facultades y responsabilidades
 
 * [Reglamento Interior de la SE del SEA - PDF](reglamento-interior-sesaec.pdf)
 
 ### Estructura orgánica
+
+* Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea.pdf)
 
 <img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.jpg" alt="Estructura Orgánica A">
 
@@ -30,10 +32,4 @@ Fecha de última actualización: 05 de noviembre 2018.
 
 **No hay vacantes disponibles.**
 
-### Descargar
-
-* [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea.pdf)
-
-Por lo que se le informa que el funcionario responsable de la presente
-información es el **C.P. Rosalío Medina Martínez,** Director de
-Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

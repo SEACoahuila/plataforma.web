@@ -6,11 +6,11 @@ Date: 2018-01-07 15:00
 Modified: 2018-01-07 15:00
 
 
-### Descargar
+### Descargar archivos de 2017
 
-* [CEST Ana Yuri Solís - archivo XLSX](cedulas-de-evaluacion-srio-tecnico-aysg-vp.xlsx)
-* [CEST Carlos Rangel - archivo XLSX](cedulas-de-evaluacion-srio-tecnico-cro-vp.xlsx)
-* [CEST Juan Adolfo Von Bertrab - archivo XLSX](cedulas-de-evaluacion-srio-tecnico-havbs-vp.xlsx)
-* [CEST José Manuel Gil Navarro - archivo XLSX](cedulas-de-evaluacion-srio-tecnico-jmgn-vp.xlsx)
-* [CEST versión público - archivo XLSX](cedulas-de-evaluacion-srio-tecnico-mlkl-vp.xlsx)
-* [Promedio de cédulas de evaluación Srio. Técnico - archivo XLSX](promedio-cedulas-de-evaluacion-st-vp.xlsx)
+* [CEST Ana Yuri Solís - archivo XLSX](cedulas-de-evaluacion-st-2017-aysg-vp.xlsx)
+* [CEST Carlos Rangel - archivo XLSX](cedulas-de-evaluacion-st-2017-cro-vp.xlsx)
+* [CEST Juan Adolfo Von Bertrab - archivo XLSX](cedulas-de-evaluacion-st-2017-havbs-vp.xlsx)
+* [CEST José Manuel Gil Navarro - archivo XLSX](cedulas-de-evaluacion-st-2017-jmgn-vp.xlsx)
+* [CEST versión público - archivo XLSX](cedulas-de-evaluacion-st-2017-mlkl-vp.xlsx)
+* [Promedio de cédulas de evaluación Srio. Técnico - archivo XLSX](promedio-cedulas-de-evaluacion-st-2017-vp.xlsx)

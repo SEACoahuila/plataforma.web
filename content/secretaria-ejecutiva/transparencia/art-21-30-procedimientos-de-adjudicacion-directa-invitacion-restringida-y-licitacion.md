@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 ### Descargar
 
@@ -21,6 +21,4 @@ Fecha de última actualización: 05 de noviembre 2018.
 * [Contrato de Obra Pública 002-2018 - PDF](contrato-obra-publica-002-2018.pdf)
 * [Invitaciones - XLSX](invitaiones.xlsx)
 
-Se le informa que el funcionario responsable de la presente información
-es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de
-Asuntos Jurídicos.
+Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

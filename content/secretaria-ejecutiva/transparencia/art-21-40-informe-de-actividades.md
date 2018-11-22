@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-10-11 20:50
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 ### Descargar
 
@@ -14,7 +14,4 @@ Fecha de última actualización: 05 de noviembre 2018.
 * [Segundo Informe 2018 de Avance de la Secretaría Ejecutiva - PDF](informe-avance-se-2018-2.pdf)
 * [Tercer Informe 2018 de Avance de la Secretaría Ejecutiva - PDF](informe-avance-se-2018-3.pdf)
 
-Se le informa que los funcionarios responsables de la presente
-información son los titulares de las Direcciones y Unidades de la
-Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila
-de Zaragoza.
+Se le informa que los funcionarios responsables de la presente información son los titulares de las Direcciones y Unidades de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.

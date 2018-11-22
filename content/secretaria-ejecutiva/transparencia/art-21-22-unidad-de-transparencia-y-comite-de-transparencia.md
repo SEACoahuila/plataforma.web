@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trámite y seguimiento hasta su conclusión, a las solicitudes de acceso a la información, cumpliendo con las formalidades y plazos señalados en la ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
@@ -21,6 +21,4 @@ La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trám
 
 * [INFOCOAHUILA](http://189.254.130.35/infocoahuila/)
 
-Así mismo, se informa que el funcionario responsable de la presente
-información es el **Lic. Mauricio Contreras Montoya,** Titular de la
-Unidad de Asuntos Jurídicos.
+Así mismo, se informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

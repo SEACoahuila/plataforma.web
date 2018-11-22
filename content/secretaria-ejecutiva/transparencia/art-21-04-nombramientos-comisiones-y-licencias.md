@@ -6,12 +6,9 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
-Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores
-públicos, ni ha emitido comisión alguna, motivo por el cual no existe
-información respecto de los rubros mencionados, proporcionando los
-nombramientos correspondientes en base a lo siguiente:
+Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos, ni ha emitido comisión alguna, motivo por el cual no existe información respecto de los rubros mencionados, proporcionando los nombramientos correspondientes en base a lo siguiente:
 
 * [C.P. Rosalío Medina Martínez - PDF](nombramiento-servicios-generales.pdf)
 * [Ing. Guillermo Valdés Lozano - PDF](nombramiento-sistemas-de-informacion.pdf)
@@ -19,6 +16,4 @@ nombramientos correspondientes en base a lo siguiente:
 * [Lic. Luis Alberto Gutiérrez Arizpe - PDF](nombramiento-diagnostico-y-politicas-publicas.pdf)
 * [Lic. Mauricio Contreras Montoya - PDF](nombramiento-asuntos-juridicos.pdf)
 
-Así mismo, se informa que el funcionario responsable de la presente
-información es el **C.P. Rosalío Medina Martínez,** Director de
-Servicios Generales.
+Así mismo, se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

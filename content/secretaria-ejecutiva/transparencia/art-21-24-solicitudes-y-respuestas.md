@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-11-02 13:02
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 ### Actas Comité de Transparencia
 
@@ -48,6 +48,4 @@ Fecha de última actualización: 05 de noviembre 2018.
 * [00780418](00780418.pdf) - 06/09/2018 - Armando Hoyos
 * [00780518](00780518.pdf) - 06/09/2018 - Armando Hoyos
 
-Por lo que se le informa que el funcionario responsable de la presente
-información es el **Lic. Mauricio Contreras Montoya,** Titular de la
-Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

@@ -6,11 +6,11 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 05 de noviembre 2018.
+Fecha de última actualización: 22 de noviembre 2018.
 
 #### Secretario Técnico
 
-* [Marcela Castañeda Agüero - PDF](version-publica-de-la-declaracion-anual-mca.pdf)
+* José Manuel Gil Navarro
 * [Zabdi Gisel González Alanís - PDF](version-publica-de-la-declaracion-anual-zgga.pdf)
 * [Eduardo Javier García Vélez - PDF](version-publica-de-la-declaracion-anual-ejgv.pdf)
 
@@ -47,6 +47,4 @@ Fecha de última actualización: 05 de noviembre 2018.
 
 * [Guillermo Valdés Lozano - PDF](version-publica-de-la-declaracion-anual-gvl.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente
-información es el **C.P. Rosalío Medina Martínez,** Director de
-Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

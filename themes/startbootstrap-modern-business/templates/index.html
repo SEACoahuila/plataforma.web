@@ -98,7 +98,7 @@
             <div class="header-content generic-header-bg">
                 <h1 class="header-text">Presentaciones</h1>
             </div>
-        {% elif tag == 'Reuniones' %}
+        {% elif tag == 'reuniones' %}
             <div class="header-content generic-header-bg">
                 <h1 class="header-text">Reuniones</h1>
             </div>
@@ -117,74 +117,73 @@
 {% block content %}
     {% if output_file == 'index.html' %}
         <section class="index-content">
-            {% include 'homepage-billboard.html' %}
-        </section>
-        <section class="index-content">
             {% include 'homepage-highlights.html' %}
         </section>
     {% endif %}
         <section class="index-content">
-            {% if articles %}
-                <!-- Articulos -->
-                {% for article in articles_page.object_list %}
-                <div class="card mb-4">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <a href="{{ SITEURL }}/{{ article.url }}">
-                                    {% if article.image %}
-                                    <img class="img-fluid rounded" src="{{ SITEURL }}/{{ article.url }}/{{ article.image }}" alt="Imagen previa">
-                                    {% else %}
-                                    <img class="img-fluid rounded" src="http://placehold.it/600x300" alt="Imagen previa">
-                                    {% endif %}
-                                </a>
-                            </div>
-                            <div class="col-lg-6">
-                                <a href="{{ SITEURL }}/{{ article.url }}"><h2 class="card-title">{{ article.title }}</h2></a>
-                                {{ article.summary }}
-                            </div>
+        {% if articles %}
+            <!-- Indice inicia -->
+            {% for article in articles_page.object_list %}
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <a href="{{ SITEURL }}/{{ article.url }}">
+                                {% if article.image %}
+                                <img class="img-fluid rounded" src="{{ SITEURL }}/{{ article.url }}/{{ article.image }}" alt="Imagen previa">
+                                {% else %}
+                                <img class="img-fluid rounded" src="http://placehold.it/600x300" alt="Imagen previa">
+                                {% endif %}
+                            </a>
+                        </div>
+                        <div class="col-lg-6">
+                            <a href="{{ SITEURL }}/{{ article.url }}"><h2 class="card-title">{{ article.title }}</h2></a>
+                            {{ article.summary }}
                         </div>
                     </div>
                 </div>
+            </div>
+            {% endfor %}
+            <!-- Indice termina -->
+            {% if articles_page %}
+            <!-- Paginacion inicia -->
+            <nav>
+                <ul class="pagination justify-content-center">
+                {% if articles_page.has_previous() %}
+                    <li class="page-item">
+                    {% if articles_page.previous_page_number() == 1 %}
+                        <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
+                            <span aria-hidden="true">&laquo;</span>
+                            <span class="sr-only">Anterior</span>
+                        </a>
+                    {% else %}
+                        <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
+                            &#60;&#60;
+                        </a>
+                    {% endif %}
+                    </li>
+                {% endif %}
+                {% for page_number in range(1, 1 + articles_paginator.num_pages) %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">
+                            {{ page_number }}
+                        </a>
+                    </li>
                 {% endfor %}
-                <!-- Paginacion -->
-                {% if articles_page %}
-                <nav>
-                    <ul class="pagination justify-content-center">
-                    {% if articles_page.has_previous() %}
-                        <li class="page-item">
-                        {% if articles_page.previous_page_number() == 1 %}
-                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
-                                <span aria-hidden="true">&laquo;</span>
-                                <span class="sr-only">Anterior</span>
-                            </a>
-                        {% else %}
-                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
-                                &#60;&#60;
-                            </a>
-                        {% endif %}
-                        </li>
-                    {% endif %}
-                    {% for page_number in range(1, 1 + articles_paginator.num_pages) %}
-                        <li class="page-item">
-                            <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">
-                                {{ page_number }}
-                            </a>
-                        </li>
-                    {% endfor %}
-                    {% if articles_page.has_next() %}
-                        <li class="page-item">
-                            <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
-                                <span aria-hidden="true">&raquo;</span>
-                                <span class="sr-only">Siguiente</span>
-                            </a>
-                        </li>
-                    {% endif %}
-                    </ul>
-                </nav>
-                {% endif%}
-            {% else %}
-                No hay artículos.
-            {% endif %}
+                {% if articles_page.has_next() %}
+                    <li class="page-item">
+                        <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
+                            <span aria-hidden="true">&raquo;</span>
+                            <span class="sr-only">Siguiente</span>
+                        </a>
+                    </li>
+                {% endif %}
+                </ul>
+            </nav>
+            <!-- Paginacion termina -->
+            {% endif%}
+        {% else %}
+            No hay artículos.
+        {% endif %}
         </section>
 {% endblock %}

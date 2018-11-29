@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 22 de noviembre 2018.
+Fecha de última actualización: 29 de noviembre 2018.
 
 En relación a este apartado de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no cuenta con inspectores y visitadores designados.
 

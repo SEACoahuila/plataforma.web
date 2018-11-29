@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-07-05 21:14
 
 
-Fecha de última actualización: 22 de noviembre 2018.
+Fecha de última actualización: 29 de noviembre 2018.
 
 De conformidad con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado de Coahuila el pasado 14 de julio de 2017, señala en la parte conducente de su transitorio tercero lo siguiente:
 

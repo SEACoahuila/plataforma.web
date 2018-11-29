@@ -3,17 +3,17 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-08-31 15:50
+Modified: 2018-11-29 12:10
 
 
-Fecha de última actualización: 22 de noviembre 2018.
+Fecha de última actualización: 29 de noviembre 2018.
 
 #### Secretario Técnico
 
 * [José Manuel Gil Navarro <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jmgn.pdf)
-* [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-zgga.pdf)
-* [Gadi Berenice Harnández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
+* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Eduardo Javier García Vélez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-ejgv.pdf)
+* [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-zgga.pdf)
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
@@ -34,6 +34,7 @@ Fecha de última actualización: 22 de noviembre 2018.
 #### Dirección de Vinculación Interinstitucional
 
 * [Amparo Ruiz Montes <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-arm.pdf)
+* [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jasm.pdf)
 
 #### Unidad de Asuntos Jurídicos
 

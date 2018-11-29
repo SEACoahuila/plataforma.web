@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-11-22 12:35
 
 
-Fecha de última actualización: 22 de noviembre 2018.
+Fecha de última actualización: 29 de noviembre 2018.
 
 ### Facultades y responsabilidades
 

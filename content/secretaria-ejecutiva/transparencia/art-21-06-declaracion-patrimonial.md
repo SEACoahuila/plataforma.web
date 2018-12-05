@@ -3,7 +3,7 @@ Slug: art-21-06-declaracion-patrimonial
 Summary: Declaración patrimonial.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-11-29 16:05
+Modified: 2018-11-30 11:27
 
 
 Fecha de última actualización: 29 de noviembre 2018.
@@ -25,7 +25,7 @@ Fecha de última actualización: 29 de noviembre 2018.
 #### Dirección de Servicios Generales
 
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-eagm.pdf)
-* Jesús Alejandro Castillo Moncada
+* [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacm.pdf)
 * José Ángel Cepeda García
 * [Juan Francisco Ramos del Bosque <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jfrb.pdf)
 * [Luis Alonso Valero Ramos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lavr.pdf)
@@ -34,7 +34,7 @@ Fecha de última actualización: 29 de noviembre 2018.
 #### Dirección de Vinculación Interinstitucional
 
 * Amparo Ruiz Montes
-* José Armando Sánchez Madrazo
+* [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jasn.pdf)
 
 #### Unidad de Asuntos Jurídicos
 

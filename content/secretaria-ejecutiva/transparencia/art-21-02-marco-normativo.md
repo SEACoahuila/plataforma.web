@@ -3,7 +3,7 @@ Slug: art-21-02-marco-normativo
 Summary: Marco normativo.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-05 21:14
+Modified: 2018-12-05 11:24
 
 
 Fecha de última actualización: 29 de noviembre 2018.

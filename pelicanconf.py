@@ -51,8 +51,6 @@ RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
 DEFAULT_PAGINATION = False
-#DEFAULT_PAGINATION = 8
-#DEFAULT_ORPHANS = 2
 
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None
@@ -69,5 +67,5 @@ TRANSLATION_FEED_RSS = None
 # Para desarrollo
 DELETE_OUTPUT_DIRECTORY = True
 LOAD_CONTENT_CACHE = True
-OUTPUT_RETENTION = [".git"]
+OUTPUT_RETENTION = ['.git', '.gitignore']
 USE_REMOTE_SERVICES = False

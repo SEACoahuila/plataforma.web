@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-11-29 12:10
 
 
-Fecha de última actualización: 29 de noviembre 2018.
+Fecha de última actualización: 7 de diciembre 2018.
 
 #### Secretario Técnico
 
@@ -28,6 +28,7 @@ Fecha de última actualización: 29 de noviembre 2018.
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacg.pdf)
 * [Juan Francisco Ramos del Bosque <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jfrb.pdf)
+* [Leydy Verónica Antonio Hernández <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-lvah.pdf)
 * [Luis Alonso Valero Ramos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-lavr.pdf)
 * [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-rmm.pdf)
 
@@ -39,9 +40,9 @@ Fecha de última actualización: 29 de noviembre 2018.
 #### Unidad de Asuntos Jurídicos
 
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-bmca.pdf)
+* [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-mcm.pdf)
 * [Rosalba Ixchel Rodríguez Villagrana <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-rirv.pdf)
-* [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-legc.pdf)
 
 #### Unidad de Capacitación
 

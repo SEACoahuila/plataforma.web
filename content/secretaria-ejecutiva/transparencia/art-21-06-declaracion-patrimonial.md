@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-11-30 11:27
 
 
-Fecha de última actualización: 29 de noviembre 2018.
+Fecha de última actualización: 7 de diciembre 2018.
 
 #### Secretario Técnico
 
@@ -26,22 +26,23 @@ Fecha de última actualización: 29 de noviembre 2018.
 
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-eagm.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacm.pdf)
-* José Ángel Cepeda García
+* [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacg.pdf)
 * [Juan Francisco Ramos del Bosque <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jfrb.pdf)
+* [Leydy Verónica Antonio Hernández <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lvah.pdf)
 * [Luis Alonso Valero Ramos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lavr.pdf)
 * [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-rmm.pdf)
 
 #### Dirección de Vinculación Interinstitucional
 
-* Amparo Ruiz Montes
-* [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jasn.pdf)
+* [Amparo Ruiz Montes <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-arm.pdf)
+* [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jasm.pdf)
 
 #### Unidad de Asuntos Jurídicos
 
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-bmca.pdf)
+* [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-mcm.pdf)
 * [Rosalba Ixchel Rodríguez Villagrana <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-rirv.pdf)
-* [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-legc.pdf)
 
 #### Unidad de Capacitación
 

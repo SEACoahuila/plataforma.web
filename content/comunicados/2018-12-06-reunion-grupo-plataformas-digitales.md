@@ -1,9 +1,9 @@
 Title: Reunión virtual del Grupo de Plataformas Digitales
 Slug: 2018-12-06-reunion-grupo-plataformas-digitales
-Summary: El diseño, desarrollo e implementación de las Plataformas Estatales es responsabilidad de las Secretarías Técnicas Estatales; pero deben de seguir los formatos y recomendaciones del Comité Coordinador del SNA.
+Summary: El diseño, desarrollo e implementación de las Plataformas Estatales es responsabilidad de las Secretarías Ejecutivas Estatales; pero deben de seguir los formatos y recomendaciones del Comité Coordinador del SNA.
 Tags: Reuniones, Secretaría Ejecutiva
 Date: 2018-12-06 14:00
-Modified: 2018-12-11 13:58
+Modified: 2018-12-12 09:32
 Image: preview.jpg
 
 

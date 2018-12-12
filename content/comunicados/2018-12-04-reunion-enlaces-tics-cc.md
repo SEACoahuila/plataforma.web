@@ -1,4 +1,4 @@
-Title: Reunión con Enlaces del Comité Coordinar en temas TIC's
+Title: Reunión con Enlaces del Comité Coordinador en temas TIC's
 Slug: 2018-12-04-reunion-enlaces-tics-cc
 Summary: El propósito fue en aras de trabajar en equipo todo el Sistema y llevar a cabo mejoras frecuentes en el sitio web del Sistema Anticorrupción del Estado de Coahuila.
 Tags: Reuniones, Secretaría Ejecutiva

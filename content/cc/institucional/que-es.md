@@ -8,7 +8,7 @@ Modified: 2018-04-17 21:18
 
 ### Funciones
 
-> El Comité Coordinador del del Sistema Anticorrupción del Estado de Coahuila de
+> El Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de
 Zaragoza es la instancia responsable de establecer mecanismos de coordinación
 entre los integrantes del Sistema Estatal, y de éste con el Sistema Nacional, y
 tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas

@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-12-05 11:24
 
 
-Fecha de última actualización: 7 de diciembre 2018.
+Fecha de última actualización: 19 de diciembre 2018.
 
 ### Constituciones políticas
 

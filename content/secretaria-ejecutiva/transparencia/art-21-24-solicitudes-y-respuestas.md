@@ -3,10 +3,10 @@ Slug: art-21-24-solicitudes-y-respuestas
 Summary: Solicitudes y respuestas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-11-02 13:02
+Modified: 2019-01-15 16:12
 
 
-Fecha de última actualización: 7 de diciembre 2018.
+Fecha de última actualización: 15 de enero 2019.
 
 ### Actas Comité de Transparencia
 
@@ -17,6 +17,11 @@ Fecha de última actualización: 7 de diciembre 2018.
 * [Cuarta Sesión Extraordinaria](acta-comite-transparencia-2018-06-20-cuarta-sesion-extraordinaria.pdf)
 * [Quinta Sesión Extraordinaria](acta-comite-transparencia-2018-08-07-quinta-sesion-extraordinaria.pdf)
 * [Sexta Sesión Extraordinaria](acta-comite-transparencia-2018-09-20-sexta-sesion-extraordinaria.pdf)
+* [Séptima Sesión Extraordinaria](acta-comite-transparencia-2018-10-18-septima-sesion-extraordinaria.pdf)
+* [Octava Sesión Extraordinaria](acta-comite-transparencia-2018-10-22-octava-sesion-extraordinaria.pdf)
+* [Novena Sesión Extraordinaria](acta-comite-transparencia-2018-10-24-novena-sesion-extraordinaria.pdf)
+* [Décima Sesión Extraordinaria](acta-comite-transparencia-2018-11-15-decima-sesion-extraordinaria.pdf)
+* [Décima Primera Sesión Extraordinaria](acta-comite-transparencia-2018-11-29-decima-primera-sesion-extraordinaria.pdf)
 
 ### Solicitudes y respuestas
 
@@ -47,5 +52,17 @@ Fecha de última actualización: 7 de diciembre 2018.
 * [00780318](00780318.pdf) - 06/09/2018 - Armando Hoyos
 * [00780418](00780418.pdf) - 06/09/2018 - Armando Hoyos
 * [00780518](00780518.pdf) - 06/09/2018 - Armando Hoyos
+* [00803018](00803018.pdf) - 01/10/2018 - Ángel Guzmán
+* [00819318](00819318.pdf) - 11/10/2018 - Red Ciudadana Mundial
+* [00856018](00856018.pdf) - 11/10/2018 - Mario Bone Murrieta
+* [00875218](00875218.pdf) - 19/10/2018 - Mario Bone Murrieta
+* [00876118](00876118.pdf) - 19/10/2018 - Victor Tlatempa
+* [00895518](00895518.pdf) - 25/10/2018 - Mario Bone Murrieta
+* [00908218](00908218.pdf) - 22/10/2018 - Ruben Covarrubias Covarrubias
+* [00913618](00913618.pdf) - 24/10/2018 - Ignacio Puente
+* [00915418](00915418.pdf) - 24/10/2018 - Laura Montoya Moctezuma
+* [00988818](00988818.pdf) - 15/11/2018 - Jaime Peres
+* [00989418](00989418.pdf) - 15/11/2018 - Jaime Peres
+* [01035718](01035718.pdf) - 29/11/2018 - Monika Govela
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

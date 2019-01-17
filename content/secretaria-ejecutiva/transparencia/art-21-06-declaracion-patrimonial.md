@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2018-11-30 11:27
 
 
-Fecha de última actualización: 7 de diciembre 2018.
+Fecha de última actualización: 19 de diciembre 2018.
 
 #### Secretario Técnico
 
@@ -57,5 +57,9 @@ Fecha de última actualización: 7 de diciembre 2018.
 
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-ejmc.pdf)
 * [Guillermo Valdés Lozano <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gvl.pdf)
+
+### Órgano Interno de Control
+
+* [Beatriz Aidé Báez Estala <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-babe.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

@@ -57,6 +57,7 @@
 {% endblock %}
 
 {% block content %}
+        <!-- Article start -->
         <article>
             <script type="application/ld+json">
             {
@@ -86,11 +87,10 @@
                 "url": "{{ SITEURL }}/{{ article.url }}"
             }
             </script>
-            <!-- Articulo inicia -->
             <h1 class="mt-4 mb-3">{{ article.title }}</h1>
             <p class="article-date">{{ article.date|strftime('%d %B %Y') }}</p>
             <hr>
 {{ article.content }}
-            <!-- Articulo termina -->
         </article>
+        <!-- Article ends -->
 {% endblock %}

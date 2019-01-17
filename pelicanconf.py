@@ -39,8 +39,8 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-#THEME = 'themes/startbootstrap-clean-blog'
 THEME = 'themes/startbootstrap-modern-business'
+#THEME = 'themes/invierno-2019'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
@@ -51,6 +51,21 @@ RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
 DEFAULT_PAGINATION = False
+#DEFAULT_PAGINATION = True
+#DEFAULT_PAGINATION = 8
+#DEFAULT_ORPHANS = 2
+
+# Para desarrollo, no hay cargas desde Internet
+USE_REMOTE_SERVICES = False
+
+# Para desarrollo, borrar todo output
+DELETE_OUTPUT_DIRECTORY = True
+
+# No eliminar de output los siguientes directorios y archivos
+OUTPUT_RETENTION = ['.git', '.gitignore']
+
+# Siempre aprovechar lo que se tenga en caché
+LOAD_CONTENT_CACHE = True
 
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None
@@ -63,9 +78,3 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
-
-# Para desarrollo
-DELETE_OUTPUT_DIRECTORY = True
-LOAD_CONTENT_CACHE = True
-OUTPUT_RETENTION = ['.git', '.gitignore']
-USE_REMOTE_SERVICES = False

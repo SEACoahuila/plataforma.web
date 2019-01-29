@@ -8,7 +8,7 @@ Modified: 2018-08-30 10:42
 
 Fecha de última actualización: 30 de agosto 2018.
 
-Vínculos externos al **Periódico Oficial del Estado de Coahuila de Zaragoza** en
+Vínculos externos al [Periódico Oficial del Estado de Coahuila de Zaragoza](http://periodico.sfpcoahuila.gob.mx/) en
 los que hay contenidos relacionados con el Sistema Estatal Anticorrupción:
 
 ### Año 2017
@@ -29,3 +29,8 @@ los que hay contenidos relacionados con el Sistema Estatal Anticorrupción:
 * [15 de junio 2018, número 48, sección 2](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/48-SS-15-JUN-2018.PDF) - Acuerdo de la Comisión de Selección para garantizar la integración del Consejo de Participación Ciudadana.
 * [17 de julio 2018, número 57, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/57-PS-17-JUL-2018.PDF) - Acuerdo del Comité Coordinador de la aprobación de la política pública para la designación de Órganos Internos de Control.
 * [21 de agosto 2018, número 67, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/67-PS-21-AGO-2018.PDF) - Aprobación de los lineamientos de austeridad de la Secretaría Ejecutiva.
+* [14 de septiembre 2018, número 74, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/74-PS-14-SEP-2018.PDF) - Acuerdo mediante el cual se emite Convocatoria pública, abierta y transparente para designar a dos ciudadanos que formarán parte de la Comisión de Selección, encargada de nombrar al Consejo de Participación Ciudadana del Sistema Estatal Anticorrupción.
+* [23 de octubre 2018, número 85, sección 2](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/85-SS-23-OCT-2018.PDF) - Plan de Trabajo de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza para el Ejercicio 2019. Informe Anual del Comité Coordinador, aprobado en la Tercera Sesión Ordinaria del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+* [26 de octubre 2018, número 86, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/86-PS-26-OCT-2018.PDF) - Declaratoria de designación de la Comisión de Selección del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+* [16 de noviembre 2018, número 92, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/92-PS-16-NOV-2018.PDF) - Acuerdo mediante el cual se emite la lista de aspirantes que cumplen con los requisitos señalados en la convocatoria para ocupar dos de nueve integrantes de la Comisión de Selección encargada de designar al Consejo de Participación Ciudadana del Sistema Estatal Anticorrupción, propuestos por Instituciones de Educación Superior y de Investigación del Estado de Coahuila de Zaragoza, así como el formato y metodología para la evaluación de los aspirantes.
+* [4 de diciembre 2018, número 97, sección 1](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/97-PS-4-DIC-2018.PDF) - Acuerdo del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, mediante el cual se realiza la designación del Titular de la Secretaría Técnica de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza. Nombramiento del Titular de la Unidad del Sistema Anticorrupción del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.

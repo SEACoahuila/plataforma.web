@@ -3,14 +3,14 @@ Slug: art-21-06-declaracion-patrimonial
 Summary: Declaración patrimonial.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-11-30 11:27
+Modified: 2019-12-19 14:40
 
 
 Fecha de última actualización: 19 de diciembre 2018.
 
 #### Secretario Técnico
 
-* José Manuel Gil Navarro
+* [José Manuel Gil Navarro <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jmgn.pdf)
 * [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Eduardo Javier García Vélez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-ejgv.pdf)
 * [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-zgga.pdf)

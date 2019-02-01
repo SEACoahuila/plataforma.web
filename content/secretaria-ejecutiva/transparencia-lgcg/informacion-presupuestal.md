@@ -5,7 +5,7 @@ Author: Secretaría Ejecutiva
 Date: 2019-01-30 14:24
 
 
-### 2018 Cuarto trimetre
+### Período
 
 * Endeudamiento Neto
 * Estado Analítico de Ingresos por Clasificación Económica

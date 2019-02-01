@@ -5,6 +5,6 @@ Author: Secretaría Ejecutiva
 Date: 2019-01-30 14:32
 
 
-### 2018 Cuarto trimetre
+### Período
 
 * Gasto por categoría programática

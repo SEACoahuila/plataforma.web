@@ -6,4 +6,4 @@ Date: 2019-01-31 11:00
 Modified: 2019-01-31 11:00
 
 
-<img class="img-fluid" src="sea-coahuila-infografia.jpg" alt="SEA Coahuila Infografía">
+<img class="img-fluid" src="sea-coahuila-infografia-1200x2890.jpg" alt="SEA Coahuila Infografía">

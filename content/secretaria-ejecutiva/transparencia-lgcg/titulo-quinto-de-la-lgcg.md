@@ -18,3 +18,4 @@ Date: 2019-02-01 13:42
 * 8.- [Información Adicional del Presupuesto de Ingresos SE SEA 2019 - PDF](sesaec-presupuesto-ingresos-2019-informacion-adicional.pdf)
 * 9.- [Información Adicional del Presupuesto de Egresos SE SEA 2019 - PDF](sesaec-presupuesto-egresos-2019-informacion-adicional.pdf)
 * 10.- [Presupuesto Ciudadano SE SEA - PDF](sesaec-presupuesto-ciudadano-2019.pdf)
+* 11.- [Fichas Técnicas de Indicadores - PDF](sesaec-indicadores-2019-fichas-tecnicas.pdf)

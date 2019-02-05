@@ -3,10 +3,10 @@ Slug: art-21-07-viaticos-y-gastos-de-representacion
 Summary: Viáticos y gastos de representación.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-10-11 16:46
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no genera gastos de representación, en caso de ser generados serán reportados.
 

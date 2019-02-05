@@ -3,10 +3,10 @@ Slug: art-21-24-solicitudes-y-respuestas
 Summary: Solicitudes y respuestas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-15 16:12
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 15 de enero 2019.
+Fecha de última actualización: 31 de enero 2019.
 
 ### Actas Comité de Transparencia
 

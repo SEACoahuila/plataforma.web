@@ -3,10 +3,10 @@ Slug: art-25-01-reglamentos-de-las-leyes
 Summary: Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones.
 Author: Secretaría Ejecutiva
 Date: 2018-07-23 13:00
-Modified: 2018-07-23 13:05
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 ### NO APLICA
 

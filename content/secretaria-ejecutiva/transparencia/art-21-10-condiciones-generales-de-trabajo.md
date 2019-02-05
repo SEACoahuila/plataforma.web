@@ -3,10 +3,10 @@ Slug: art-21-10-condiciones-generales-de-trabajo
 Summary: Condiciones generales de trabajo.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-05 21:14
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 Las condiciones generales de trabajo del personal que labora en la **Secretaría Ejecutiva** se rigen por el apartado A del artículo 123 de la **Constitución Política de los Estados Unidos Mexicanos,** por la **Constitución Política del Estado de Coahuila de Zaragoza,** esto de acuerdo a lo establecido por el artículo 7 del **Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.**
 

@@ -3,10 +3,10 @@ Slug: art-21-28-proveedores-y-contratistas
 Summary: Proveedores y contratistas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-05 21:14
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 En relación a este apartado de la Ley de Acceso a la Información para el Estado de Coahuila, se señala que de conformidad a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, dispone que los organismos públicos que gocen de autonomía derivada de la Constitución Política del Estado, aplicarán los criterios y procedimientos previstos en la citada Ley, en lo que no se contrapongan a los ordenamientos legales que lo rigen, sujetándose a sus propios Órganos de Gobierno. Por tal motivo, se remite a la Secretaría de Fiscalización y Rendición de Cuentas, por tratarse de atribuciones inherentes a esa dependencia.
 

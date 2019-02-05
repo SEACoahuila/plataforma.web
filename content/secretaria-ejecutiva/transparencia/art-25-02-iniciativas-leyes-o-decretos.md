@@ -3,10 +3,10 @@ Slug: art-25-02-iniciativas-leyes-o-decretos
 Summary: Las iniciativas de leyes o decretos y demás disposiciones generales o particulares en materia administrativa.
 Author: Secretaría Ejecutiva
 Date: 2018-07-23 13:00
-Modified: 2018-07-23 13:07
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 ### NO APLICA
 

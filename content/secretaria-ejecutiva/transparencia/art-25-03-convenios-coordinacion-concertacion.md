@@ -3,10 +3,10 @@ Slug: art-25-03-convenios-coordinacion-concertacion
 Summary: Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado, señalando el objeto, las partes y tiempo de duración.
 Author: Secretaría Ejecutiva
 Date: 2018-07-23 13:00
-Modified: 2018-07-23 13:09
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 ### NO APLICA
 

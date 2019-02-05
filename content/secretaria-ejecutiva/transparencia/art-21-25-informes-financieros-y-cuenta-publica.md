@@ -3,10 +3,10 @@ Slug: art-21-25-informes-financieros-y-cuenta-publica
 Summary: Informes financieros y cuenta pública.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-11-05 14:50
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 ### Descargar
 

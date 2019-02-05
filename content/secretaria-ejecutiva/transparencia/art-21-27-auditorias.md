@@ -3,10 +3,10 @@ Slug: art-21-27-auditorias
 Summary: Auditorías.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2018-07-05 21:14
+Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 19 de diciembre 2018.
+Fecha de última actualización: 31 de enero 2019.
 
 De conformidad con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado de Coahuila el pasado 14 de julio de 2017, señala en la parte conducente de su transitorio tercero lo siguiente:
 

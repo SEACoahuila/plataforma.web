@@ -19,13 +19,36 @@ table      { width: 100%; }
 .header-generic { background-color: #E8E8E8; }
 
 /* Sections */
-.start-page-carousel       { padding: 80px 0; background-color: #E8E8EF; }
-.start-page-about-saec     { padding: 80px 0; background-color: #E8EFE8; }
-.start-page-pages          { padding: 80px 0; background-color: #EFE8E8; }
-.start-page-billboard      { padding: 80px 0; background-color: #EFE8EF; }
-.start-page-articles       { padding: 80px 0; background-color: #EFEFE8; }
-.start-page-transparency   { padding: 80px 0; background-color: #EFEFEF; }
-.start-page-external-links { padding: 80px 0; background-color: #EFE8EF; }
+section.start-page-carousel {
+    padding: 0 0;
+    background-color: #E8E8EF;
+    min-height: 320px;
+}
+section.start-page-about-saec {
+    padding: 80px 0;
+    background-color: #E8EFE8;
+    min-height: 320px;
+}
+section.start-page-internal-links {
+    padding: 20px 0;
+    background-color: #EFE8E8;
+}
+section.start-page-billboard {
+    padding: 12px 0;
+    background-color: #EFE8EF;
+}
+section.start-page-articles {
+    padding: 80px 0;
+    background-color: #EFEFE8;
+}
+section.start-page-transparency {
+    padding: 80px 0;
+    background-color: #EFEFEF;
+}
+section.start-page-external-links {
+    padding: 80px 0;
+    background-color: #EFE8EF;
+}
 
 /* Footer */
 footer                {}

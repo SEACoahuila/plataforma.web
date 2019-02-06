@@ -34,11 +34,11 @@
 {%   include 'start-page-about-saec.html' %}
 {%   include 'start-page-internal-links.html' %}
 {%   include 'start-page-billboard.html' %}
-{%   include 'start-page-articles.html' %}
-{%   include 'start-page-transparency.html' %}
-{%   include 'start-page-external-links.html' %}
 {% endif %}
 {% block content %}{% endblock %}
+{% if output_file == 'index.html' %}
+{%   include 'start-page-transparency.html' %}
+{% endif %}
       <footer>
 {% include 'footer-sitemap.html' %}
 {% include 'footer-social-media.html' %}

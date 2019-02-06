@@ -39,8 +39,8 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-THEME = 'themes/startbootstrap-modern-business'
-#THEME = 'themes/invierno-2019'
+#THEME = 'themes/startbootstrap-modern-business'
+THEME = 'themes/invierno-2019'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'

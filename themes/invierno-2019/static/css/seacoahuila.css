@@ -12,6 +12,11 @@ strong     { font-family: Roboto,'Helvetica Neue',Arial,sans-serif; font-weight:
 blockquote { font-family: Roboto,'Helvetica Neue',Arial,sans-serif; font-weight: 300; font-size: 1.5em; }
 table      { width: 100%; }
 
+/* Navigation */
+.navigation {
+    background-color: #3b6038;
+}
+
 /* Headers */
 .header-cpc     { background-color: #DFE1E6; }
 .header-saec    { background-color: #E6DFCF; }
@@ -20,38 +25,45 @@ table      { width: 100%; }
 
 /* Sections */
 section.start-page-carousel {
+    background-color: #E1DCD3;
     padding: 0 0;
-    background-color: #E8E8EF;
     min-height: 320px;
 }
 section.start-page-about-saec {
+    background-color: #E9E9E9;
     padding: 80px 0;
-    background-color: #E8EFE8;
     min-height: 320px;
 }
 section.start-page-internal-links {
+    background-color: #E1DCD3;
     padding: 20px 0;
-    background-color: #EFE8E8;
-}
-section.start-page-billboard {
-    padding: 12px 0;
-    background-color: #EFE8EF;
-}
-section.start-page-articles {
-    padding: 80px 0;
-    background-color: #EFEFE8;
-}
-section.start-page-transparency {
-    padding: 80px 0;
-    background-color: #EFEFEF;
 }
 section.start-page-external-links {
+    background-color: #E1DCD3;
     padding: 80px 0;
+}
+section.start-page-billboard {
     background-color: #EFE8EF;
+    padding: 12px 0;
+}
+section.start-page-articles {
+    background-color: #E1DCD3;
+    padding: 80px 0;
+}
+section.start-page-transparency {
+    background-color: #E9E9E9;
+    padding: 80px 0;
+}
+
+.external-link,
+.internal-link {
+    background-color: transparent;
+    border: 0;
+    width: 8rem;
 }
 
 /* Footer */
-footer                {}
+footer                { background-color: #675E48; }
 .footer-fa            { font-size: 3em; }
 .footer-text          { color: #CCC0AC; line-height: 1.4; }
 .footer-message       { color: #E6D9C2; line-height: 1.2; font-size: 0.8rem; }

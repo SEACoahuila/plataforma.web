@@ -10,6 +10,11 @@ Fecha de última actualización: 31 de enero 2019.
 
 ### Descargar
 
+#### Cuarto Trimestre 2018
+
+* [Informe de Avance de Gestión Financiera - PDF 26.4 MB](informe-avance-gestion-financiera-2018-12.pdf)
+* [Archivos del Avance de Gestión Financiera - ZIP 1.6 MB](avance-de-gestion-financiera-2018-12.zip)
+
 #### Tercer Trimetre 2018
 
 * [Informe de Avance de Gestión Financiera - PDF 10.8 MB](informe-avance-gestion-financiera-2018-09.pdf)

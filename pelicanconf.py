@@ -42,6 +42,28 @@ PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 #THEME = 'themes/startbootstrap-modern-business'
 THEME = 'themes/invierno-2019'
 
+# Encabezados para los autores
+AUTHORS_TITLES = { 'cc': 'Comité Coordinador',
+                   'comunicados': 'Comunicados',
+                   'cpc': 'Consejo de Participación Ciudadana',
+                   'general': 'General',
+                   'secretaria-ejecutiva': 'Secretaría Ejecutiva', }
+
+# Encabezados para las categorías
+CATEGORIES_TITLES = { 'comunicados': 'Comunicados de prensa', }
+
+# Encabezados para las etiquetas
+TAGS_TITLES = {'comunicados': 'Comunicados de Prensa',
+               'capacitaciones': 'Capacitaciones',
+               'comision-ejecutiva': 'Comisión Ejecutiva',
+               'comite-coordinador': 'Comité Coordinador',
+               'consejo-de-participacion-ciudadana': 'Consejo de Participación Ciudadana',
+               'organo-de-gobierno': 'Órgano de Gobierno',
+               'presentaciones': 'Presentaciones',
+               'reuniones': 'Reuniones',
+               'secretaria-ejecutiva': 'Secretaría Ejecutiva',
+               'sesiones': 'Sesiones', }
+
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
 TIMEZONE = 'America/Mexico_City'
@@ -50,10 +72,10 @@ TIMEZONE = 'America/Mexico_City'
 RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
-DEFAULT_PAGINATION = False
-#DEFAULT_PAGINATION = True
-#DEFAULT_PAGINATION = 8
-#DEFAULT_ORPHANS = 2
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 9
+DEFAULT_ORPHANS = 2
 
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False

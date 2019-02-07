@@ -35,6 +35,7 @@
 {% endblock %}
 
 {% block content %}
+        <div class="container">
           <article class="article-post">
             <script type="application/ld+json">
             {
@@ -70,4 +71,5 @@
             <p class="article-post-meta">{{ article.author }}<br>{{ article.date|strftime('%d %B %Y') }}</p>
 {{ article.content }}
           </article>
+        </div>
 {% endblock %}

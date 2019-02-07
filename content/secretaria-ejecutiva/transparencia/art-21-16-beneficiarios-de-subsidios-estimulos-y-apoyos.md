@@ -16,7 +16,7 @@ A lo dispuesto en la Fracción XVI del Art. 21 de la Ley de Acceso a la Informac
 
 ##### Montos Pagados por Ayudas y Subsidios
 
-**Tercer Trimestre 2018**
+**Cuarto Trimestre 2018**
 
 Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
 --------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:

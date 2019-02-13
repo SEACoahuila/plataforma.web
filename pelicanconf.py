@@ -39,8 +39,8 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-#THEME = 'themes/startbootstrap-modern-business'
-THEME = 'themes/invierno-2019'
+THEME = 'themes/startbootstrap-modern-business'
+#THEME = 'themes/invierno-2019'
 
 # Encabezados para los autores
 AUTHORS_TITLES = { 'cc': 'Comité Coordinador',
@@ -72,10 +72,10 @@ TIMEZONE = 'America/Mexico_City'
 RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
-#DEFAULT_PAGINATION = False
-DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 9
-DEFAULT_ORPHANS = 2
+DEFAULT_PAGINATION = False
+#DEFAULT_PAGINATION = True
+#DEFAULT_PAGINATION = 9
+#DEFAULT_ORPHANS = 2
 
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False
@@ -87,7 +87,7 @@ DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['.git', '.gitignore']
 
 # Siempre aprovechar lo que se tenga en caché
-LOAD_CONTENT_CACHE = True
+LOAD_CONTENT_CACHE = False
 
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None

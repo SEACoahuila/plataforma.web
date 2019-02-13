@@ -3,7 +3,7 @@ Slug: art-21-02-marco-normativo
 Summary: Marco normativo.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-02-12 15:28
 
 
 Fecha de última actualización: 31 de enero 2019.
@@ -18,11 +18,13 @@ Fecha de última actualización: 31 de enero 2019.
 * [Ley de Fiscalización y Rendición de Cuentas de la Federación <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.pdf)
 * [Ley Federal de Resposabilidades de los Servidores Públicos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
 * [Ley Federal de Transparencia y Acceso a la Información Pública <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
+* [Ley Federal del Trabajo](ley-federal-del-trabajo.pdf)
 * [Ley General de Contabilidad Gubernamental <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-de-contabilidad-gubernamental.pdf)
 * [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados.pdf)
 * [Ley General de Responsabilidades Administrativas <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-de-responsabilidades-administrativas.pdf)
 * [Ley General de Transparencia y Acceso a la Información Pública <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
 * [Ley General del Sistema Nacional Anticorrupción <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-del-sistema-nacional-anticorrupcion.pdf)
+* [Presupuesto de Egresos del Estado de Coahuila de Zaragoza para el Ejercicio Fiscal 2019](presupuesto-de-egresos-del-estado-de-coahuila-de-zaragoza-para-el-ejercicio-fiscal-2019.pdf)
 
 ### Leyes locales
 

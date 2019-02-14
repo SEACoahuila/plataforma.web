@@ -39,8 +39,9 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-THEME = 'themes/startbootstrap-modern-business'
+#THEME = 'themes/startbootstrap-modern-business'
 #THEME = 'themes/invierno-2019'
+THEME = 'themes/seacoahuila-2019-02'
 
 # Encabezados para los autores
 AUTHORS_TITLES = { 'cc': 'Comité Coordinador',

@@ -34,15 +34,8 @@
 {% include 'navigation.html' %}
 {% if output_file == 'index.html' %}
 {%   include 'start-page-carrusel.html' %}
-{%   include 'start-page-cc.html' %}
-{%   include 'start-page-que-es-el-sea.html' %}
-{%   include 'start-page-cc-integrantes.html' %}
-{%   include 'start-page-destacados.html' %}
 {% endif %}
 {% block content %}{% endblock %}
-{% if output_file == 'index.html' %}
-{%   include 'start-page-transparencia.html' %}
-{% endif %}
       <footer>
 {% include 'footer-mapa-del-sitio.html' %}
 {% include 'footer-sistema-vinculos.html' %}
@@ -59,7 +52,7 @@
 {% endif %}
     <script src="{{ SITEURL }}/theme/vendor/colorbox/jquery.colorbox-min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/slider/jquery.nivo.slider.pack.js"></script>
-    <script src="{{ SITEURL }}/theme/js/seacoahuila.js"></script>
+    <script src="{{ SITEURL }}/theme/js/seacoahuila-2019-02.js"></script>
   </body>
 </html>
 

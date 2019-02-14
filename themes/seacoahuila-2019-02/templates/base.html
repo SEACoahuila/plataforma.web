@@ -19,31 +19,35 @@
 {% if USE_REMOTE_SERVICES %}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,700,900|Roboto:100,300,400,500,700">
 {%   include 'google-analytics.html' %}
 {% else %}
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">
 {% endif %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/seacoahuila.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/colorbox/colorbox.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/slider/themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/slider/nivo-slider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/seacoahuila-2019-02.css">
   </head>
   <body>
 {% include 'navigation.html' %}
 {% if output_file == 'index.html' %}
-{%   include 'start-page-carousel.html' %}
-{%   include 'start-page-about-saec.html' %}
-{%   include 'start-page-internal-links.html' %}
-{%   include 'start-page-billboard.html' %}
+{%   include 'start-page-carrusel.html' %}
+{%   include 'start-page-cc.html' %}
+{%   include 'start-page-que-es-el-sea.html' %}
+{%   include 'start-page-cc-integrantes.html' %}
+{%   include 'start-page-destacados.html' %}
 {% endif %}
 {% block content %}{% endblock %}
 {% if output_file == 'index.html' %}
-{%   include 'start-page-transparency.html' %}
+{%   include 'start-page-transparencia.html' %}
 {% endif %}
       <footer>
-{% include 'footer-sitemap.html' %}
-{% include 'footer-seac-links.html' %}
-{% include 'footer-social-media.html' %}
-{% include 'footer-licenses.html' %}
+{% include 'footer-mapa-del-sitio.html' %}
+{% include 'footer-sistema-vinculos.html' %}
+{% include 'footer-redes-sociales.html' %}
+{% include 'footer-licencias.html' %}
       </footer>
 {% if USE_REMOTE_SERVICES %}
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -53,6 +57,8 @@
     <script src="{{ SITEURL }}/theme/vendor/jquery/jquery-3.3.1.min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 {% endif %}
+    <script src="{{ SITEURL }}/theme/vendor/colorbox/jquery.colorbox-min.js"></script>
+    <script src="{{ SITEURL }}/theme/vendor/slider/jquery.nivo.slider.pack.js"></script>
     <script src="{{ SITEURL }}/theme/js/seacoahuila.js"></script>
   </body>
 </html>

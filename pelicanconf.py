@@ -87,7 +87,7 @@ DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['.git', '.gitignore']
 
 # Siempre aprovechar lo que se tenga en caché
-LOAD_CONTENT_CACHE = False
+LOAD_CONTENT_CACHE = True
 
 # Para desarrollo, se desactiva la generacion de feeds
 FEED_ALL_ATOM = None

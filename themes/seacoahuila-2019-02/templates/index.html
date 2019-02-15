@@ -43,66 +43,81 @@
 {% endblock %}
 
 {% block content %}
-{% if articles %}
-          <section class="start-page-articles" id="articles">
-            <div class="container">
-              <h2>{% block content_title %}{% endblock %}</h2>
-              <!-- Indice inicia -->
-              <div class="row">
-{%   for article in articles_page.object_list %}
-                <div class="col-lg-4 mb-4">
-                  <div class="card h-100" style="width: 18rem;">
-{%     if article.image %}
-                    <a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ SITEURL }}/{{ article.url }}{{ article.image }}" class="card-img-top" alt="Imagen previa"></a>
-{%     endif %}
-                    <div class="card-body">
-                      <p class="card-text"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>
+    <!-- Comunicados -->
+    <div id="comunicados" class="contenedor-horizontal inicio-comunicados-redes clearfix ">
+        {% if articles %}
+        <div class="wrap">
+            <div class="comunicados-home">
+                <h1>{% block content_title %}{% endblock %}</h1>
+                {% for article in articles_page.object_list %}
+                <!-- Comunicados indice -->
+                <div class="comunicado"> <a href="{{ SITEURL }}/{{ article.url }}">
+                    {% if article.image %}
+                    <div class="imagen">
+                        <img src="{{ SITEURL }}/{{ article.url }}{{ article.image }}" class="card-img-top" alt="Imagen previa">
                     </div>
-                  </div>
-                </div>
-{%   endfor %}
-              </div>
-              <!-- Indice termina -->
-{%   if articles_page %}
-              <!-- Paginacion inicia -->
-              <nav>
-                <ul class="pagination justify-content-center">
-{%     if articles_page.has_previous() %}
-                  <li class="page-item">
-{%       if articles_page.previous_page_number() == 1 %}
-                    <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
-                      <span aria-hidden="true">&laquo;</span>
-                      <span class="sr-only">Anterior</span>
-                    </a>
-{%       else %}
-                    <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
-                      &#60;&#60;
-                    </a>
-{%       endif %}
-                  </li>
-{%     endif %}
-{%     for page_number in range(1, 1 + articles_paginator.num_pages) %}
-                  <li class="page-item">
-                    <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">
-                      {{ page_number }}
-                    </a>
-                  </li>
-{%     endfor %}
-{%     if articles_page.has_next() %}
-                  <li class="page-item">
-                    <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
-                      <span aria-hidden="true">&raquo;</span>
-                      <span class="sr-only">Siguiente</span>
-                    </a>
-                  </li>
-{%     endif %}
-                </ul>
-              </nav>
-              <!-- Paginacion termina -->
-{%   endif %}
+                    {% endif %}
+                    <div class="info">
+                        <h2>{{ article.title }}</h2>
+                        <p class="fecha">{{ article.date|strftime('%d %B %Y') }}</p>
+                        {{ article.summary }}
+                    </div>
+                </a> </div>
+                {% endfor %}
+                <!-- Comunicados paginacion -->
+                {% if articles_page %}
+                <nav class="paginacion">
+                    <ul class="pagination justify-content-center">
+                        {% if articles_page.has_previous() %}
+                        <li class="page-item">
+                            {% if articles_page.previous_page_number() == 1 %}
+                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Anterior</span>
+                            </a>
+                            {% else %}
+                            <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
+                                &#60;&#60;
+                            </a>
+                            {% endif %}
+                        </li>
+                        {% endif %}
+                        {% for page_number in range(1, 1 + articles_paginator.num_pages) %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">
+                                {{ page_number }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                        {% if articles_page.has_next() %}
+                        <li class="page-item">
+                            <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Siguiente</span>
+                            </a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </nav>
+                {% endif %}
             </div>
-          </section>
-{% else %}
-          <p>No hay contenido.</p>
-{% endif %}
+            <div class="redes">
+                <div class="facebook">
+                    <div class="col-l fa"></div>
+                    <div class="col-r">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fseseacoah%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+                </div>
+                <div class="twitter">
+                    <div class="col-l fa"></div>
+                    <div class="col-r"> <a class="twitter-timeline" data-lang="es" data-height="490" data-link-color="#3B6038" href="https://twitter.com/seseacoah?ref_src=twsrc%5Etfw">Tweets by seseacoah</a>
+                        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% else %}
+    <p>No hay contenido.</p>
+    {% endif %}
 {% endblock %}

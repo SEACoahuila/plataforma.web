@@ -35,41 +35,44 @@
 {% endblock %}
 
 {% block content %}
-        <div class="container">
-          <article class="article-post">
-            <script type="application/ld+json">
-            {
-                "@context": "http://schema.org",
-                "@type": "Article",
-                "publisher": {
-                    "@type": "Organization",
-                    "name": "{{ SITENAME }}",
-                    "logo": {
-                        "@type": "ImageObject",
-                        "url": "{{ SITEURL }}/{{ SITELOGO }}"
-                    },
-                    "url": "{{ SITEURL }}"
-                },
-                "author": "{{ article.author }}",
-                "name": "{{ article.title }}",
-                "headline": "{{ article.title }}",
-                "description": "{{ article.summary|striptags }}",
-                "dateCreated": "{{ article.date }}",
-                "datePublished": "{{ article.date }}",
-                "dateModified": "{{ article.modified }}",
-                {% if article.image %}
-                "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}",
-                {% elif article.preview %}
-                "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.preview }}",
-                {% else %}
-                "image": "{{ SITEURL }}/{{ SITELOGO }}",
-                {% endif %}
-                "url": "{{ SITEURL }}/{{ article.url }}"
-            }
-            </script>
-            <h2 class="article-post-title">{{ article.title }}</h2>
-            <p class="article-post-meta">{{ article.author }}<br>{{ article.date|strftime('%d %B %Y') }}</p>
+        <div class="contenedor-horizontal comunicado">
+            <div class="comunicado-interior">
+                <article class="contenido">
+                    <script type="application/ld+json">
+                    {
+                        "@context": "http://schema.org",
+                        "@type": "Article",
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "{{ SITENAME }}",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                            },
+                            "url": "{{ SITEURL }}"
+                        },
+                        "author": "{{ article.author }}",
+                        "name": "{{ article.title }}",
+                        "headline": "{{ article.title }}",
+                        "description": "{{ article.summary|striptags }}",
+                        "dateCreated": "{{ article.date }}",
+                        "datePublished": "{{ article.date }}",
+                        "dateModified": "{{ article.modified }}",
+                        {% if article.image %}
+                        "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}",
+                        {% elif article.preview %}
+                        "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.preview }}",
+                        {% else %}
+                        "image": "{{ SITEURL }}/{{ SITELOGO }}",
+                        {% endif %}
+                        "url": "{{ SITEURL }}/{{ article.url }}"
+                    }
+                    </script>
+                    <h1 class="titulo-principal">{{ article.title }}</h1>
+                    <p class="article-date">{{ article.author }} - {{ article.date|strftime('%d %B %Y') }}</p>
+                    <hr>
 {{ article.content }}
-          </article>
+                </article>
+            </div>
         </div>
 {% endblock %}

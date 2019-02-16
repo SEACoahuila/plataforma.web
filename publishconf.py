@@ -33,7 +33,7 @@ DELETE_OUTPUT_DIRECTORY = False
 
 # Paginacion
 DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 8
+DEFAULT_PAGINATION = 6
 DEFAULT_ORPHANS = 2
 
 # Path to the folder containing the plugins
@@ -63,4 +63,4 @@ SITEMAP = {
 }
 
 # Para publicar, sí usar dependencias en Internet
-USE_REMOTE_SERVICES = True
+USE_REMOTE_SERVICES = False

@@ -16,12 +16,15 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 
 #### Sesiones Ordinarias del Comité Coordinador
 
-* 15 de marzo 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 26 de junio 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 15 de marzo 2018   - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 26 de junio 2018   - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 05 de octubre 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 08 de enero 2019   - [Acta de la Primera Sesión Ordinaria - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
-* 17 de julio 2018 - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
+* 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
+* 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
 ---
 
@@ -31,16 +34,18 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 
 #### Sesiones Ordinarias del Órgano de Gobierno
 
-* 22 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 24 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
-* 26 de junio 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 17 de julio 2018 - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 22 de enero 2018   - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 24 de abril 2018   - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 26 de junio 2018   - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 17 de julio 2018   - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 05 de octubre 2018 - [Acta de la Quinta Sesión Ordinaria - PDF](2018-10-05-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 
 * 23 de noviembre 2017  - [Acta de la Primera Sesión Extraordinaria - PDF](2017-11-23-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 15 de marzo 2018      - [Acta de la Primera Sesión Extraordinaria - PDF](2018-03-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 13 de septiembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-09-13-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
+* 20 de noviembre 2018  - [Acta de la Tercera Sesión Extraordinaria - PDF](2018-11-20-tercera-sesion-extraordinaria-organo-de-gobierno.pdf)
 
 ---
 

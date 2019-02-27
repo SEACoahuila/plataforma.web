@@ -63,4 +63,4 @@ SITEMAP = {
 }
 
 # Usar dependencias en Internet
-USE_REMOTE_SERVICES = False
+USE_REMOTE_SERVICES = True

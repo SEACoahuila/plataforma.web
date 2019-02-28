@@ -6,17 +6,16 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de enero 2019.
+Fecha de última actualización: 28 de febrero 2019.
 
 #### Secretario Técnico
 
 * [José Manuel Gil Navarro <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jmgn.pdf)
-* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Eduardo Javier García Vélez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-ejgv.pdf)
-* [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-zgga.pdf)
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
+* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Génesis Noemí Ceniceros Guerra <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gncg.pdf)
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-nebg.pdf)
@@ -27,9 +26,8 @@ Fecha de última actualización: 31 de enero 2019.
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-eagm.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacg.pdf)
-* [Juan Francisco Ramos del Bosque <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jfrb.pdf)
+* Juan Felipe Reyes Rosales
 * [Leydy Verónica Antonio Hernández <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lvah.pdf)
-* [Luis Alonso Valero Ramos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lavr.pdf)
 * [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-rmm.pdf)
 
 #### Dirección de Vinculación Interinstitucional
@@ -39,10 +37,10 @@ Fecha de última actualización: 31 de enero 2019.
 
 #### Unidad de Asuntos Jurídicos
 
+* Alan Álvarez Flores
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-bmca.pdf)
 * [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-mcm.pdf)
-* [Rosalba Ixchel Rodríguez Villagrana <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-rirv.pdf)
 
 #### Unidad de Capacitación
 
@@ -58,7 +56,7 @@ Fecha de última actualización: 31 de enero 2019.
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-ejmc.pdf)
 * [Guillermo Valdés Lozano <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gvl.pdf)
 
-### Órgano Interno de Control
+#### Órgano Interno de Control
 
 * [Beatriz Aidé Báez Estala <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-babe.pdf)
 

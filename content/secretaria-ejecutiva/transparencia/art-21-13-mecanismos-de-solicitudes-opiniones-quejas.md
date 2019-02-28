@@ -3,10 +3,10 @@ Slug: art-21-13-mecanismos-de-solicitudes-opiniones-quejas
 Summary: Mecanismos de solicitudes, opiniones, quejas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-02-28 12:20
 
 
-Fecha de última actualización: 31 de enero 2019.
+Fecha de última actualización: 28 de febrero 2019.
 
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema INFOCOAHUILA.
 
@@ -24,19 +24,19 @@ Para presentar una solicitud de información debe seguir los siguientes pasos
 
 <img class="img-fluid" src="paso-3.png" alt="Paso 3">
 
-4. En el siguiente apartado deberá indicar el sujeto obligado (Poder Ejecutivo)
+#### 4. En el siguiente apartado deberá indicar el sujeto obligado (Poder Ejecutivo)
 
 <img class="img-fluid" src="paso-4.png" alt="Paso 4">
 
-5. En seguida deberá indicar la Unidad de atención (Secretaría Ejecutiva del Sistema Estatal Anticorrupción)
+#### 5. En seguida deberá indicar la Unidad de atención (Secretaría Ejecutiva del Sistema Estatal Anticorrupción)
 
 <img class="img-fluid" src="paso-5.png" alt="Paso 5">
 
-6. Deberá indicar la forma en la que desea se le entregue la información solicitada
+#### 6. Deberá indicar la forma en la que desea se le entregue la información solicitada
 
 <img class="img-fluid" src="paso-6.png" alt="Paso 6">
 
-7. Por último, deberá contestar algunos datos de estadística y al terminar dar clic en el ícono enviar.
+#### 7. Por último, deberá contestar algunos datos de estadística y al terminar dar clic en el ícono enviar.
 
 <img class="img-fluid" src="paso-7.png" alt="Paso 7">
 

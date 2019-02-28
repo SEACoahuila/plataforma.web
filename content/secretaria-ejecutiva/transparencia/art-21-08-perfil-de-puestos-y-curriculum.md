@@ -6,17 +6,16 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de enero 2019.
+Fecha de última actualización: 28 de febrero 2019.
 
 #### Secretario Técnico
 
 * [José Manuel Gil Navarro <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jmgn.pdf)
-* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Eduardo Javier García Vélez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-ejgv.pdf)
-* [Zabdi Gisel González Alanís <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-zgga.pdf)
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
+* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Génesis Noemí Ceniceros Guerra <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gncg.pdf)
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-nebg.pdf)
@@ -27,9 +26,8 @@ Fecha de última actualización: 31 de enero 2019.
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-eagm.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacg.pdf)
-* [Juan Francisco Ramos del Bosque <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jfrb.pdf)
+* [Juan Felipe Reyes Rosales <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jfrr.pdf)
 * [Leydy Verónica Antonio Hernández <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-lvah.pdf)
-* [Luis Alonso Valero Ramos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-lavr.pdf)
 * [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-rmm.pdf)
 
 #### Dirección de Vinculación Interinstitucional
@@ -39,10 +37,10 @@ Fecha de última actualización: 31 de enero 2019.
 
 #### Unidad de Asuntos Jurídicos
 
+* [Alan Álvarez Flores <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-aaf.pdf)
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-bmca.pdf)
 * [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-mcm.pdf)
-* [Rosalba Ixchel Rodríguez Villagrana <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-rirv.pdf)
 
 #### Unidad de Capacitación
 
@@ -57,5 +55,9 @@ Fecha de última actualización: 31 de enero 2019.
 
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-ejmc.pdf)
 * [Guillermo Valdés Lozano <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gvl.pdf)
+
+#### Órgano Interno de Control
+
+* [Beatriz Aidé Báez Estala <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-babe.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

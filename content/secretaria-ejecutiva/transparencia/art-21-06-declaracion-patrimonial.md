@@ -3,7 +3,7 @@ Slug: art-21-06-declaracion-patrimonial
 Summary: Declaración patrimonial.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-03-04 10:41
 
 
 Fecha de última actualización: 28 de febrero 2019.
@@ -15,7 +15,6 @@ Fecha de última actualización: 28 de febrero 2019.
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
-* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Génesis Noemí Ceniceros Guerra <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gncg.pdf)
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-nebg.pdf)
@@ -24,6 +23,7 @@ Fecha de última actualización: 28 de febrero 2019.
 #### Dirección de Servicios Generales
 
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-eagm.pdf)
+* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacg.pdf)
 * Juan Felipe Reyes Rosales
@@ -37,7 +37,7 @@ Fecha de última actualización: 28 de febrero 2019.
 
 #### Unidad de Asuntos Jurídicos
 
-* Alan Álvarez Flores
+* [Alan Álvarez Flores <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-aaf.pdf)
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-bmca.pdf)
 * [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-mcm.pdf)

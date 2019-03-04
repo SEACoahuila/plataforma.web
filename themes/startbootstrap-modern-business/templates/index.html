@@ -1,30 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}
-    {% if category == 'comunicados' %}
-        Comunicados de Prensa
-    {% elif tag == 'capacitaciones' %}
-        Capacitaciones
-    {% elif tag == 'comision-ejecutiva' %}
-        Comisión Ejecutiva
-    {% elif tag == 'comite-coordinador' %}
-        Comité Coordinador
-    {% elif tag == 'consejo-de-participacion-ciudadana' %}
-        Consejo de Participación Ciudadana
-    {% elif tag == 'organo-de-gobierno' %}
-        Órgano de Gobierno
-    {% elif tag == 'presentaciones' %}
-        Presentaciones
-    {% elif tag == 'Reuniones' %}
-        Reuniones
-    {% elif tag == 'secretaria-ejecutiva' %}
-        Secretaría Ejecutiva
-    {% elif tag == 'sesiones' %}
-        Sesiones
-    {% else %}
-        {{ SITENAME }}
-    {% endif %}
-{% endblock %}
+{% block title %}{{ SITENAME }}{% endblock %}
 
 {% block meta_tags %}
     {% if output_file == 'index.html' %}
@@ -128,7 +104,7 @@
     {% endif %}
         <section class="index-content">
         {% if articles %}
-            <!-- Indice inicia -->
+            <!-- Indice -->
             {% for article in articles_page.object_list %}
             <div class="card mb-4">
                 <div class="card-body">
@@ -150,9 +126,8 @@
                 </div>
             </div>
             {% endfor %}
-            <!-- Indice termina -->
             {% if articles_page %}
-            <!-- Paginacion inicia -->
+            <!-- Paginacion -->
             <nav>
                 <ul class="pagination justify-content-center">
                 {% if articles_page.has_previous() %}
@@ -186,7 +161,6 @@
                 {% endif %}
                 </ul>
             </nav>
-            <!-- Paginacion termina -->
             {% endif%}
         {% else %}
             No hay artículos.

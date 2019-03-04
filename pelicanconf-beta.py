@@ -24,8 +24,8 @@ PAGE_PATHS = ['cc', 'cpc', 'general', 'secretaria-ejecutiva']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
-STATIC_PATHS = ['CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt',
-                'cc', 'comunicados', 'cpc', 'general', 'secretaria-ejecutiva']
+STATIC_PATHS = ['cc', 'comunicados', 'cpc', 'general', 'secretaria-ejecutiva',
+                'CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt', ]
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
@@ -46,7 +46,6 @@ THEME = 'themes/seacoahuila-2019-02'
 
 # Encabezados para los autores
 AUTHORS_TITLES = { 'cc': 'Comité Coordinador',
-                   'comunicados': 'Comunicados',
                    'cpc': 'Consejo de Participación Ciudadana',
                    'general': 'General',
                    'secretaria-ejecutiva': 'Secretaría Ejecutiva', }

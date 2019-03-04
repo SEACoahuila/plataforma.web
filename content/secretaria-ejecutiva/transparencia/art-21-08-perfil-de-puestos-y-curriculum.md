@@ -3,7 +3,7 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-03-04 10:00
 
 
 Fecha de última actualización: 28 de febrero 2019.
@@ -15,7 +15,6 @@ Fecha de última actualización: 28 de febrero 2019.
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
-* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Génesis Noemí Ceniceros Guerra <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gncg.pdf)
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-nebg.pdf)
@@ -24,6 +23,7 @@ Fecha de última actualización: 28 de febrero 2019.
 #### Dirección de Servicios Generales
 
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-eagm.pdf)
+* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-gbhs.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jacg.pdf)
 * [Juan Felipe Reyes Rosales <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](cv-jfrr.pdf)

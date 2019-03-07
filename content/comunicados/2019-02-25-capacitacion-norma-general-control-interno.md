@@ -1,7 +1,7 @@
 Title: Capacitación sobre Norma General de Control Interno
 Slug: 2019-02-25-capacitacion-norma-general-control-interno
 Summary: El 25 de febrero de 2019 personal de la Secretaría Ejecutiva fue capacitada sobre Norma General de Control Interno por parte de la SEFIRC.
-Tags: Secretaría Ejecutiva
+Tags: Capacitaciones, Secretaría Ejecutiva
 Date: 2019-02-25 16:24
 Modified: 2019-02-25 16:24
 Image: preview.jpg

@@ -1,7 +1,7 @@
 Title: Jornada de Capacitación y Difusión del SAEC en la Región Laguna
 Slug: 2019-03-04-jornada-capacitacion-difusion-saec-region-laguna
 Summary: El 4 de marzo de 2019 se llevó a cabo la Jornada de Capacitación y Difusión del SAEC para la Región Laguna en la Infoteca de la Universidad Autónoma de Coahuila, Unidad Torreón.
-Tags: Secretaría Ejecutiva
+Tags: Capacitaciones, Presentaciones, Secretaría Ejecutiva
 Date: 2019-03-04 16:24
 Modified: 2019-03-04 16:24
 Image: preview.jpg

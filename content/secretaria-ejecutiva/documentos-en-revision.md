@@ -7,4 +7,11 @@ Status: hidden
 Save_as: secretaria-ejecutiva/documentos-en-revision/index.html
 
 
-Pendiente.
+### Documentos
+
+* [Diagnóstico Estadístico - PDF](prueba-32/diagnostico-estadistico.pdf)
+
+### Datasets
+
+* [Dataset - CSV](prueba-32/diagnostico-estadistico-dataset.csv)
+* [Dataset - XLSX](prueba-32/diagnostico-estadistico-dataset.xlsx)

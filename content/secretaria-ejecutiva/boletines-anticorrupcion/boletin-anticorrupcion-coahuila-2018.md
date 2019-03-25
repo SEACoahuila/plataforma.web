@@ -1,16 +1,16 @@
-Title: Boletín Anticorrupción en Coahuila 2018
+Title: Boletín Anticorrupción en Coahuila, Volumen único, Año 2018
 Slug: boletin-anticorrupcion-coahuila-2018
-Summary: Boletín Anticorrupción en Coahuila 2018.
+Summary: Boletín Anticorrupción en Coahuila.
 Author: Secretaría Ejecutiva
 Date: 2019-01-10 09:26
-Modified: 2019-01-10 09:26
+Modified: 2019-03-25 12:01
 
 
 <img class="img-fluid" src="banner-boletin-anticorrupcion-2018.jpg" alt="Banner">
 
 ### Descargar
 
-* [Boletín Anticorrupción en Coahuila 2018 - PDF 5.6 MB](boletin-anticorrupcion-coahuila-2018.pdf)
+* [Boletín Anticorrupción en Coahuila, Volumen único, Año 2018 - PDF 5.6 MB](boletin-anticorrupcion-coahuila-2018.pdf)
 
 ---
 

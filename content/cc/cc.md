@@ -7,6 +7,7 @@ Status: hidden
 Save_as: cc/index.html
 
 
+* [Infografías](/cc/infografias/)
 * [Informes](/cc/informes/)
 * [Institucional](/cc/institucional/)
 * [Planes](/cc/planes/)

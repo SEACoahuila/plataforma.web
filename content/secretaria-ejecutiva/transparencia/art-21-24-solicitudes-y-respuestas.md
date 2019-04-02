@@ -3,7 +3,7 @@ Slug: art-21-24-solicitudes-y-respuestas
 Summary: Solicitudes y respuestas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-04-02 15:50
 
 
 Fecha de última actualización: 28 de febrero 2019.
@@ -24,6 +24,8 @@ Fecha de última actualización: 28 de febrero 2019.
 * [Décima Primera Sesión Extraordinaria](acta-comite-transparencia-2018-11-29-decima-primera-sesion-extraordinaria.pdf)
 
 ### Solicitudes y respuestas
+
+#### 2018
 
 * [00310518](00310518.pdf) - 05/04/2018 - C. Miranda Reyes Ortega
 * [00345918](00345918.pdf) - 17/04/2018 - C. Enrique Montejano
@@ -64,5 +66,25 @@ Fecha de última actualización: 28 de febrero 2019.
 * [00988818](00988818.pdf) - 15/11/2018 - Jaime Peres
 * [00989418](00989418.pdf) - 15/11/2018 - Jaime Peres
 * [01035718](01035718.pdf) - 29/11/2018 - Monika Govela
+* [01071518](01071518.pdf) - 09/01/2019 - Antonio Prez Gil
+* [01071618](01071618.pdf) - 09/01/2019 - Antonio Prez Gil
+
+#### 2019
+
+* [00063019](00063019.pdf) - 29/01/2019 - Rodrigo Romero
+* [00063119](00063119.pdf) - 29/01/2019 - Rodrigo Romero
+* [00063219](00063219.pdf) - 29/01/2019 - Rodrigo Romero
+* [00139419](00139419.pdf) - 12/02/2019 - México Transparente
+* [00118519](00118519.pdf) - 13/02/2019 - Bernardo Matamoros
+* [00165819](00165819.pdf) - 22/02/2019 - Yudiria Gaxiola
+* [00173419](00173419.pdf) - 22/02/2019 - Yudiria Gaxiola
+* [00164219](00164219.pdf) - 25/02/2019 - Benito Cobos
+* [00164819](00164819.pdf) - 25/02/2019 - Benito Cobos
+* [00177719](00177719.pdf) - 26/02/2019 - Yudiria Gaxiola
+* [00204719](00204719.pdf) - 26/02/2019 - Zosimo Díaz
+* [00188919](00188919.pdf) - 04/03/2019 - Yudiria Gaxiola
+* [00191419](00191419.pdf) - 04/03/2019 - Yudiria Gaxiola
+* [00237319](00237319.pdf) - 13/03/2019 - Nikte Martínez Arias
+* [00341219](00341219.pdf) - 01/04/2019 - Juan Carlos Aboytes Arriaga
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.

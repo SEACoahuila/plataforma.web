@@ -3,10 +3,10 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-03-04 11:25
+Modified: 2019-04-04 13:32
 
 
-Fecha de última actualización: 28 de febrero 2019.
+Fecha de última actualización: 29 de marzo 2019.
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
@@ -19,6 +19,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 15 de marzo 2018   - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
 * 26 de junio 2018   - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
 * 05 de octubre 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 08 de enero 2019   - [Acta de la Primer Sesión Ordinaria  - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
 
 #### Sesiones Extraordinarias del Comité Coordinador
 

@@ -3,10 +3,16 @@ Slug: art-21-27-auditorias
 Summary: Auditorías.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-04-05 13:10
 
 
 Fecha de última actualización: 29 de marzo 2019.
+
+#### Dictámenes Año 2018
+
+* [Dictamen primer trimestre de 2018](dictamen-2018-03-primer-trimestre.pdf)
+* [Dictamen segundo trimestre de 2018](dictamen-2018-06-segundo-trimestre.pdf)
+* [Dictamen tercer trimestre de 2018](dictamen-2018-09-tercer-trimestre.pdf)
 
 De conformidad con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado de Coahuila el pasado 14 de julio de 2017, señala en la parte conducente de su transitorio tercero lo siguiente:
 

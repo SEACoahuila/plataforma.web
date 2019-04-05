@@ -3,7 +3,7 @@ Slug: art-21-06-declaracion-patrimonial
 Summary: Declaración patrimonial.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-03-04 10:41
+Modified: 2019-04-05 12:35
 
 
 Fecha de última actualización: 29 de marzo 2019.
@@ -26,7 +26,7 @@ Fecha de última actualización: 29 de marzo 2019.
 * [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-gbhs.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacm.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jacg.pdf)
-* Juan Felipe Reyes Rosales
+* [Juan Felipe Reyes Rosales <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-jfrr.pdf)
 * [Leydy Verónica Antonio Hernández <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-lvah.pdf)
 * [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](version-publica-de-la-declaracion-anual-rmm.pdf)
 

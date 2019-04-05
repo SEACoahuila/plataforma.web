@@ -12,8 +12,15 @@ El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado d
 
 ### Descargar
 
+#### Viáticos 2019
+
+* [Viáticos del Personal, primer trimestre 2019 - PDF](viaticos-personal-2019-03.pdf)
+
+#### Viáticos 2018
+
 * [Viáticos del Personal, primer trimestre 2018 - PDF](viaticos-personal-2018-03.pdf)
 * [Viáticos del Personal, segundo trimestre 2018 - PDF](viaticos-personal-2018-06.pdf)
 * [Viáticos del Personal, tercer trimestre 2018 - PDF](viaticos-personal-2018-09.pdf)
+* [Viáticos del Personal, cuarto trimestre 2018 - PDF](viaticos-personal-2018-12.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

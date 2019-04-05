@@ -3,12 +3,23 @@ Slug: art-21-20-presupuesto-asignado
 Summary: Presupuesto asignado.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-04-05 13:02
 
 
 Fecha de última actualización: 29 de marzo 2019.
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
+
+### Presupuesto de Egresos Autorizado Ejercicio 2019
+
+Capítulo del Gasto | Nombre                                                 | Presupuesto
+:-----------------:|--------------------------------------------------------|---------------:
+1000               | Servicios Personales                                   | $22,567,265.00
+2000               | Materiales y Suministros                               |  $1,050,000.00
+3000               | Servicios Generales                                    |  $4,757,135.00
+4000               | Transferencias, Asignaciones, Subsidios y Otras Ayudas |             $-
+5000               | Bienes Muebles e Inmuebles                             |             $-
+TOTAL              |                                                        | $28,374,400.00
 
 ### Presupuesto de Egresos Autorizado Ejercicio 2018
 
@@ -22,6 +33,13 @@ Capítulo del Gasto | Nombre                                                 | P
 TOTAL              |                                                        | $35,468,000.00
 
 ### Descargar
+
+#### Año 2019
+
+* [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2019 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2019.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2019 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2019.pdf)
+
+#### Año 2018
 
 * [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2018.pdf)
 * [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2018.pdf)

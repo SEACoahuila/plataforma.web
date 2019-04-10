@@ -1,10 +1,16 @@
-Title: Programa de Trabajo 2018 de la Secretaría Ejecutiva
+Title: Plan de Trabajo 2018 de la Secretaría Ejecutiva
 Slug: plan-de-trabajo-2018
-Summary: Programa de Trabajo de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+Summary: Plan de Trabajo 2018 de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: Secretaría Ejecutiva
 Date: 2018-06-08 13:40
-Modified: 2018-06-08 13:40
+Modified: 2019-04-10 11:20
 
+
+### Descargar
+
+* [Plan de Trabajo 2018 de la Secretaría Ejecutiva - PDF](programa-de-trabajo-secretaria-ejecutiva-2018.pdf)
+
+---
 
 ### Introducción
 
@@ -188,8 +194,3 @@ El Programa de trabajo de la Secretaría Ejecutiva comprende actividades agrupad
 * Manual de recomendaciones y mejora continua.
 * Elaboración de reportes periódicos sobre indicadores de medición de la corrupción.
 
----
-
-### Descargar
-
-* [Programa de Trabajo 2018 de la Secretaría Ejecutiva - PDF 110 KB](programa-de-trabajo-secretaria-ejecutiva-2018.pdf)

@@ -3,7 +3,7 @@ Slug: plan-de-trabajo-2019
 Summary: Plan de Trabajo 2019 de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: Secretaría Ejecutiva
 Date: 2019-06-09 08:32
-Modified: 2019-04-10 11:20
+Modified: 2019-04-10 12:30
 
 
 ### Descargar
@@ -45,11 +45,11 @@ Estableciendo que el objeto de dicha Secretaría Ejecutiva, es fungir como órga
 
 #### Puntos del diagnóstico (problemáticas)
 
-    • Coordinación ineficiente que propicia impunidad.
-    • Cultura de la ilegalidad y escasa participación ciudadana.
-    • Deterioro institucional.
-    • Falta de profesionalización de los servidores públicos.
-    • Falta de una política integral en materia anticorrupción.
+* Coordinación ineficiente que propicia impunidad.
+* Cultura de la ilegalidad y escasa participación ciudadana.
+* Deterioro institucional.
+* Falta de profesionalización de los servidores públicos.
+* Falta de una política integral en materia anticorrupción.
 
 #### Objetivo General de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción
 
@@ -77,10 +77,15 @@ Establecer una coordinación eficaz y eficiente con las instituciones encargadas
 **Líneas de acción**
 
 1.1 Preparación de sesiones del Comité Coordinador, Órgano de Gobierno y Comisión Ejecutiva.
+
 1.2 Realizar los trámites internos necesarios para la atención de las solicitudes de apoyos, servicios y demás requerimientos de colaboración que realicen los integrantes tanto del Sistema Estatal y el Nacional, canalizar o coordinar su atención a las unidades administrativas que correspondan de la SE y dar seguimiento para su debida atención.
+
 1.3 Diseñar e implementar proyectos estratégicos en coordinación con el Comité Coordinador, el Consejo de Participación Ciudadana y el Sistema Nacional Anticorrupción.
+
 1.4 Diseñar los mecanismos, bases y principios para la coordinación interinstitucional con los tres órdenes de gobierno, los miembros del Sistema Estatal Anticorrupción y con el Sistema Nacional.
+
 1.5 Recopilación, sistematización e integración de material para elaborar informes y documentos institucionales.
+
 1.6 Coadyuvar con las autoridades competentes en la promoción de la cultura de la transparencia, de la legalidad y el combate a la corrupción.
 
 **Objetivo estratégico 2**
@@ -90,10 +95,15 @@ Generar conciencia y sensibilizar a la sociedad sobre las afectaciones que gener
 **Líneas de acción**
 
 2.1 Realizar foros ciudadanos, jornadas de capacitación, sobre buenas prácticas en materia de transparencia, combate a la corrupción y acceso a la información pública.
+
 2.2 Impulsar la capacitación y sensibilización en torno al tema de combate a la corrupción, transparencia y cultura de la legalidad en organizaciones de la sociedad civil, sector privado, universidades, medios de comunicación y ciudadanía en general.
+
 2.3 Realizar convenios de colaboración y coordinación con los diferentes organismos de la sociedad civil y organismos internacionales, dirigidos a prevenir, controlar y combatir la corrupción y las faltas administrativas.
+
 2.4 Publicar y actualizar la información pública de Oficio (IPO) en la página oficial de la Secretaría Ejecutiva y del Consejo de Participación Ciudadana.
+
 2.5 Dar contestación y seguimiento a las solicitudes de información.
+
 2.6 Proporcionar información estadística sobre la corrupción relevante, puntual, fidedigna, útil y accesible  para la ciudadanía.
 
 **Objetivo estratégico 3**
@@ -103,10 +113,15 @@ Impulsar el uso de los recursos tecnológicos con el fin de coadyuvar a las inst
 **Líneas de acción**
 
 3.1 Implementación de las tecnologías de la información y comunicación acorde a las necesidades del Sistema Estatal Anticorrupción, la Secretaría Ejecutiva y el Sistema Nacional Anticorrupción.
+
 3.2 Desarrollar proyectos estratégicos en materia de informática y tecnologías de la información para el cumplimiento de los objetivos institucionales.
+
 3.3 Implementar, mantener, actualizar y evaluar los servicios digitales cuya administración son responsabilidad de la Secretaría Ejecutiva.
+
 3.4 Integrar programas de capacitación permanente al personal de la Secretaría Ejecutiva y los integrantes del Sistema Estatal Anticorrupción, a fin de ampliar sus conocimientos en materia informática.
+
 3.5 Diseñar, coordinar y supervisar la aplicación, el desarrollo y la difusión de políticas y estándares en  materia de seguridad informática para el Sistema Estatal Anticorrupción.
+
 3.6 Investigar, experimentar y proponer herramientas de software, hardware y servicios digitales que mejoren el desempeño laboral del Sistema Estatal Anticorrupción.
 
 **Objetivo estratégico 4**
@@ -116,6 +131,7 @@ Fortalecer las habilidades, aptitudes y competencias de las y los servidores pú
 **Líneas de acción**
 
 4.1 Diseñar y/o actualizar un plan de capacitación y difusión del Sistema Estatal Anticorrupción para servidores públicos.
+
 4.2 Capacitar a las y los servidores públicos, entidades estatales, municipales y organismos descentralizados en los siguientes temas: cultura de la legalidad y la integridad, acceso a la información transparencia, rendición de cuentas y el combate a la corrupción y marco normativo del SEA y SNA.
 
 **Objetivo estratégico 5**
@@ -125,14 +141,22 @@ Generar el conocimiento, instrumentos, normas legales, estrategias, diagnóstico
 **Líneas de acción**
 
 5.1 Diseño metodológico para la elaboración de diagnósticos estadísticos de Corrupción.
+
 5.2 Actualización de diagnóstico sobre la corrupción en Coahuila.
+
 5.3 Elaboración de un mapa de riesgos de la corrupción en Coahuila.
+
 5.4 Elaboración de fichas metodológicas y batería de indicadores.
+
 5.5 Actualización del manual de recomendaciones y mejora continua.
+
 5.6 Elaboración y publicación de reportes e informes periódicos sobre indicadores de medición de la corrupción.
+
 5.7 Proponer, diseñar y desarrollar las evaluaciones que se llevarán a cabo de las políticas integrales.
+
 5.8 Seguimiento y evaluación de políticas públicas integrales.
-1.3 Monitorear las publicaciones legislativas que incidan en el ámbito de competencia del SEA.
+
+5.9 Monitorear las publicaciones legislativas que incidan en el ámbito de competencia del SEA.
 
 **Objetivo estratégico 6**
 
@@ -141,9 +165,13 @@ Gestionar y administrar eficientemente los recursos institucionales para la real
 **Líneas de acción**
 
 6.1 Diseño, aprobación, actualización e implementación de Políticas de trabajo al interior de la SE.
+
 6.2 Gestión y aprobación del Presupuesto de Egresos 2019.
+
 6.3 Administrar el presupuesto, contabilidad, tesorería, nómina y finanzas de la Secretaría Ejecutiva.
+
 6.4 Capacitación y desarrollo de aptitudes y habilidades del capital humano de la Secretaría Ejecutiva.
+
 6.5 Mantenimiento de equipos y recursos tecnológicos e informáticos.
 
 ### III. Programas

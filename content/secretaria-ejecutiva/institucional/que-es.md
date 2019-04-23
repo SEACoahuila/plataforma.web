@@ -3,7 +3,7 @@ Slug: que-es-la-secretaria-ejecutiva
 Summary: Qué es la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: Secretaría Ejecutiva
 Date: 2018-02-19 19:30
-Modified: 2018-04-17 21:18
+Modified: 2019-04-23 16:55
 
 
 ### Funciones
@@ -39,7 +39,3 @@ imparcial, profesional y efectivo.
 * Responsabilidad
 * Compromiso Social
 * Objetividad
-
-### Programa de Trabajo
-
-* Lea el [Programa de Trabajo 2018 de la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/planes/plan-de-trabajo-2018.md)

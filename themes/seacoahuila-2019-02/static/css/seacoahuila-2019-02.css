@@ -80,8 +80,7 @@ a:visited  { color: #224422; text-decoration: none; }
 .contenedor-horizontal .links li { float: left; padding: 0; list-style-type: none; width: 16.666666%; text-align: center; margin: 0; }
 .contenedor-horizontal .links a { display: block; width: 100%; padding: 0.3em; font-size: 0.8em; min-height: 100px; }
 .contenedor-horizontal .links a:hover { text-decoration: none; background-color: rgba(0, 0, 0, 0.2); }
-.contenedor-horizontal .links .icon {background-color: #DBA800;width: 55px;height: 55px;color: white;text-align: center;padding: 0.3em;z-index: 0;border-radius: 100%;font-weight: 100;font-size: 2em;margin: 0.5em auto;transform: rotate(45deg);}
-.contenedor-horizontal .links .icon:after { content: "|"; }
+.contenedor-horizontal .links .icon {width: 55px;height: 55px;color: white;text-align: center;padding: 0.3em;z-index: 0;font-weight: 100;font-size: 2em;margin: 0.5em auto;}
 .contenedor-horizontal .links p { color: #697878; text-transform: uppercase; }
 .contenedor-horizontal.transparencia-externos { padding: 1em 10%; background-color: #3B6038; }
 .contenedor-horizontal .transparencia, .contenedor-horizontal .externos { margin: 1em 0; background-color: white; border-radius: 15px; padding: 1em; width: 49%; min-height: 230px; }

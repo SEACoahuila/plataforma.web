@@ -3,7 +3,7 @@ Slug: que-es-el-cpc
 Summary: ¿Qué es el Consejo de Participación Ciudadana?
 Author: CPC
 Date: 2018-12-31 23:59
-Modified: 2018-04-17 21:44
+Modified: 2019-04-23 16:55
 
 
 ### Funciones
@@ -30,7 +30,3 @@ Estatal Anticorrupción. Es por esto que debe trabajar en conjunto con el Comit�
 Coordinador y el Secretario Técnico para la integración del componente ciudadano
 en la conformación de los informes, recomendaciones y políticas públicas que se
 consideren necesarias para el buen funcionamiento del Sistema.
-
-### Plan de Trabajo
-
-* Lea el [Plan de Trabajo 2018 del Consejo de Participación Ciudadana]({filename}/cpc/planes/plan-de-trabajo-cpc-2018.md)

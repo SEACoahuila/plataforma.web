@@ -3,7 +3,7 @@ Slug: que-es-el-cc
 Summary: Qué es el Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CC
 Date: 2018-02-19 19:30
-Modified: 2018-04-17 21:18
+Modified: 2019-04-23 16:55
 
 
 ### Funciones
@@ -37,12 +37,3 @@ ciudadanos respecto a las instituciones.
 * La o el Presidente del Consejo de la Judicatura del [Poder Judicial del Estado](https://www.pjecz.gob.mx/)
 * La o el Presidente del [Instituto Coahuilense de Acceso a la Información Pública](http://www.icai.org.mx/)
 * La o el Presidente del [Tribunal de Justicia Administrativa de Coahuila de Zaragoza](http://www.tjacoahuila.org/)
-
-### Planes de Trabajo
-
-* [Programa de Trabajo 2018 del Comité Coordinador]({filename}/cc/planes/plan-de-trabajo-cc-2018.md)
-
-### Informes
-
-* [Informe Anual 2017-2018]({filename}/cc/informes/2018-informe-anual.md)
-

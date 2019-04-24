@@ -16,12 +16,8 @@
 {% if FEED_ALL_RSS %}
     <link rel="alternate" href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" title="{{ SITENAME }} Full RSS Feed" />
 {% endif %}
-{% if USE_REMOTE_SERVICES %}
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-{% else %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">
-{% endif %}
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/colorbox/colorbox.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/slider/themes/default/default.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/slider/nivo-slider.css" type="text/css" media="screen" />
@@ -50,6 +46,7 @@
 {% include 'footer-redes-sociales.html' %}
 {% include 'footer-licencias.html' %}
     </footer>
+    <script src="{{ SITEURL }}/theme/vendor/jquery/jquery-3.3.1.min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/colorbox/jquery.colorbox-min.js"></script>
     <script src="{{ SITEURL }}/theme/vendor/slider/jquery.nivo.slider.pack.js"></script>

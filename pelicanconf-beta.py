@@ -20,12 +20,27 @@ PATH = 'content'
 ARTICLE_PATHS = ['comunicados']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['cc', 'cpc', 'general', 'secretaria-ejecutiva']
+PAGE_PATHS = [
+    'cc',
+    'cpc',
+    'general',
+    'secretaria-ejecutiva',
+    ]
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
-STATIC_PATHS = ['cc', 'comunicados', 'cpc', 'general', 'secretaria-ejecutiva',
-                'CNAME', 'favicon.ico', 'LICENSE', 'README.md', 'robots.txt', ]
+# Note que por ser /beta no tiene 'CNAME',
+STATIC_PATHS = [
+    'cc',
+    'comunicados',
+    'cpc',
+    'general',
+    'secretaria-ejecutiva',
+    'favicon.ico',
+    'LICENSE',
+    'README.md',
+    'robots.txt',
+    ]
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
@@ -45,25 +60,29 @@ PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 THEME = 'themes/seacoahuila-2019-02'
 
 # Encabezados para los autores
-AUTHORS_TITLES = { 'cc': 'Comité Coordinador',
-                   'cpc': 'Consejo de Participación Ciudadana',
-                   'general': 'General',
-                   'secretaria-ejecutiva': 'Secretaría Ejecutiva', }
+AUTHORS_TITLES = {
+    'cc': 'Comité Coordinador',
+    'cpc': 'Consejo de Participación Ciudadana',
+    'general': 'General',
+    'secretaria-ejecutiva': 'Secretaría Ejecutiva',
+    }
 
 # Encabezados para las categorías
 CATEGORIES_TITLES = { 'comunicados': 'Comunicados de prensa', }
 
 # Encabezados para las etiquetas
-TAGS_TITLES = {'comunicados': 'Comunicados de Prensa',
-               'capacitaciones': 'Capacitaciones',
-               'comision-ejecutiva': 'Comisión Ejecutiva',
-               'comite-coordinador': 'Comité Coordinador',
-               'consejo-de-participacion-ciudadana': 'Consejo de Participación Ciudadana',
-               'organo-de-gobierno': 'Órgano de Gobierno',
-               'presentaciones': 'Presentaciones',
-               'reuniones': 'Reuniones',
-               'secretaria-ejecutiva': 'Secretaría Ejecutiva',
-               'sesiones': 'Sesiones', }
+TAGS_TITLES = {
+    'comunicados': 'Comunicados de Prensa',
+    'capacitaciones': 'Capacitaciones',
+    'comision-ejecutiva': 'Comisión Ejecutiva',
+    'comite-coordinador': 'Comité Coordinador',
+    'consejo-de-participacion-ciudadana': 'Consejo de Participación Ciudadana',
+    'organo-de-gobierno': 'Órgano de Gobierno',
+    'presentaciones': 'Presentaciones',
+    'reuniones': 'Reuniones',
+    'secretaria-ejecutiva': 'Secretaría Ejecutiva',
+    'sesiones': 'Sesiones',
+    }
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'

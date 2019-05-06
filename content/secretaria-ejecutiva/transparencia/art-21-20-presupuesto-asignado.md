@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-04-05 13:02
 
 
-Fecha de última actualización: 29 de marzo 2019.
+Fecha de última actualización: 30 de abril 2019.
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
 
@@ -45,3 +45,7 @@ TOTAL              |                                                        | $3
 * [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2018.pdf)
 
 Por lo que se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+
+#### Año 2017
+
+Se hace de su conocimiento que la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no generó información en lo relativo al presupuesto en lo general y por programa, por lo que no cuenta con ejercicio fiscal 2017.

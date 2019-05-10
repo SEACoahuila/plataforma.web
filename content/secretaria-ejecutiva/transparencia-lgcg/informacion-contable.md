@@ -2,14 +2,9 @@ Title: Transparencia LGCG - Información Contable
 Slug: informacion-contable
 Summary: Transparencia LGCG - Información Contable
 Author: Secretaría Ejecutiva
-Date: 2019-01-30 14:28
+Date: 2019-04-30 16:32
 
 
-### Período
+### Primer trimestre 2019
 
-* Estado Analítico de la Deuda y Otros Pasivos
-* Estado de Actividades
-* Estado de Cambios en la Situación Financiera
-* Estado de Flujos de Efectivo
-* Estado de Situación Financiera
-* Estado de Variación en la Hacienda Pública
+* [Informe de Avance de Gestión Financiera](iagf-1t-2019-1-73.pdf)

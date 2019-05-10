@@ -16,17 +16,19 @@ Fecha de última actualización: 30 de abril 2019.
 
 * Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea.pdf)
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.jpg" alt="Estructura Orgánica A">
+<a href="estructura-organica-de-la-se-del-sea-a.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.png" alt="Estructura Orgánica"></a>
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-b.jpg" alt="Estructura Orgánica B">
+<a href="estructura-organica-de-la-se-del-sea-b.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-b.png" alt="Estructura Orgánica B"></a>
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-c.jpg" alt="Estructura Orgánica C">
+<a href="estructura-organica-de-la-se-del-sea-c.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-c.png" alt="Estructura Orgánica C"></a>
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-d.jpg" alt="Estructura Orgánica D">
+<a href="estructura-organica-de-la-se-del-sea-d.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-d.png" alt="Estructura Orgánica D"></a>
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-e.jpg" alt="Estructura Orgánica E">
+<a href="estructura-organica-de-la-se-del-sea-e.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-e.png" alt="Estructura Orgánica E"></a>
 
-<img class="img-fluid" src="estructura-organica-de-la-se-del-sea-f.jpg" alt="Estructura Orgánica E">
+<a href="estructura-organica-de-la-se-del-sea-f.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-f.png" alt="Estructura Orgánica E"></a>
+
+<a href="estructura-organica-de-la-se-del-sea-g.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-g.png" alt="Estructura Orgánica E"></a>
 
 ### Vacantes
 

@@ -138,7 +138,7 @@ a:visited  { color: #224422; text-decoration: none; }
 .contenedor-horizontal.que-es-el-sea .que-es {background-color: white;padding: 3em;width: 90%;max-width: 1140px;margin: auto;border-radius: 15px;}
 .contenedor-horizontal.que-es-el-sea .que-es h1 { color: #3B6038; font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 2.3em; padding: 0 0; font-weight: 800; }
 .contenedor-horizontal.que-es-el-sea .que-es p {padding: 2em 3em;font-family: 'Montserrat', sans-serif;color: rgba(0, 0, 0, 0.67);}
-.contenedor-horizontal .video-que-es { padding:0 6em; display:block; }
+.contenedor-horizontal .video-que-es { padding:0 6em; display:block; text-align: center; }
 
 /* Paginacion */
 a.page-link               { color: #000000; }

@@ -5,6 +5,10 @@ Author: Secretaría Ejecutiva
 Date: 2019-02-01 13:42
 
 
+### Título Quinto de la LGCG
+
+* Transparencia: [Beneficiarios de Subsidios, estímulos y apoyos]({filename}/secretaria-ejecutiva/transparencia/art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos.md)
+
 ### Período 2019
 
 * 1.- [Iniciativa del Presupuesto de Ingresos SE SEA 2019 - PDF](sesaec-presupuesto-ingresos-2019-iniciativa.pdf)

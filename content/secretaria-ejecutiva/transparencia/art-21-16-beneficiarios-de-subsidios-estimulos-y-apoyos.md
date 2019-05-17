@@ -3,7 +3,7 @@ Slug: art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos
 Summary: Beneficiarios de subsidios, estímulos y apoyos.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-05-17 12:41
 
 
 Fecha de última actualización: 30 de abril 2019.
@@ -16,7 +16,7 @@ A lo dispuesto en la Fracción XVI del Art. 21 de la Ley de Acceso a la Informac
 
 ##### Montos Pagados por Ayudas y Subsidios
 
-**Cuarto Trimestre 2018**
+**Período Primer Trimestre 2019**
 
 Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
 --------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
@@ -25,5 +25,19 @@ Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | 
          |         |          |                  |              |      |     |
          |         |          |                  |              |      |     |
          |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
+**Período Cuarto Trimestre 2018**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.

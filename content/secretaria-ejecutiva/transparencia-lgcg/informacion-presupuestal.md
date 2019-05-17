@@ -2,14 +2,14 @@ Title: Transparencia LGCG - Información Presupuestal
 Slug: informacion-presupuestal
 Summary: Transparencia LGCG - Información Presupuestal
 Author: Secretaría Ejecutiva
-Date: 2019-04-30 16:32
+Date: 2019-05-17 10:11
 
 
 ### Primer trimestre 2019
 
 1. Estado Analítico de Ingresos CE [PDF](2019-01_03-01-estado-analitico-de-ingresos-ce.pdf) [XLSX](2019-01_03-01-estado-analitico-de-ingresos-ce.xlsx)
 2. Estado Analítico de Ingresos CFF [PDF](2019-01_03-02-estado-analitico-de-ingresos-cff.pdf) [XLSX](2019-01_03-02-estado-analitico-de-ingresos-cff.xlsx)
-3. Estado Analítico de Ingresos CRI [PDF](2019-01_03-03-estado-analítico-de-ingresos-cri.pdf) [XLSX](2019-01_03-03-estado-analítico-de-ingresos-cri.xlsx)
+3. Estado Analítico de Ingresos CRI [PDF](2019-01_03-03-estado-analitico-de-ingresos-cri.pdf) [XLSX](2019-01_03-03-estado-analitico-de-ingresos-cri.xlsx)
 4. EAEPE CA [PDF](2019-01_03-04-eaepe-ca.pdf) [XLSX](2019-01_03-04-eaepe-ca.xlsx)
 5. EAEPE CE [PDF](2019-01_03-05-eaepe-ce.pdf) [XLSX](2019-01_03-05-eaepe-ce.xlsx)
 6. EAEPE COG [PDF](2019-01_03-06-eaepe-cog.pdf) [XLSX](2019-01_03-06-eaepe-cog.xlsx)

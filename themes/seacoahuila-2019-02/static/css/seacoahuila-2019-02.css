@@ -82,16 +82,19 @@ a:visited  { color: #224422; text-decoration: none; }
 .contenedor-horizontal .links a:hover { text-decoration: none; background-color: rgba(0, 0, 0, 0.2); }
 .contenedor-horizontal .links .icon {width: 55px;height: 55px;color: white;text-align: center;padding: 0.3em;z-index: 0;font-weight: 100;font-size: 2em;margin: 0.5em auto;}
 .contenedor-horizontal .links p { color: #697878; text-transform: uppercase; }
+
 .contenedor-horizontal.transparencia-externos { padding: 1em 10%; background-color: #3B6038; }
-.contenedor-horizontal .transparencia, .contenedor-horizontal .externos { margin: 1em 0; background-color: white; border-radius: 15px; padding: 1em; width: 49%; min-height: 230px; }
-.contenedor-horizontal .transparencia { float: left; }
-.contenedor-horizontal .externos { float: right; }
-.contenedor-horizontal.transparencia-externos h4 { color: #3B6038; font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 2em; padding: 0 0; font-weight: 800; }
+.contenedor-horizontal .transparencia,
+.contenedor-horizontal .externos,
+.contenedor-horizontal .quejasysugerencias { float: left; width: 30%; margin: 1em 0.3em; background-color: white; border-radius: 15px; padding: 1em; min-height: 230px; }
+.contenedor-horizontal.transparencia-externos h4 { color: #3B6038; font-family: 'Montserrat', sans-serif; text-transform: uppercase; font-size: 1.5em; padding: 0 0; font-weight: 800; }
 .contenedor-horizontal.transparencia-externos ul { width: 100%; float: left; padding: 0; margin: 0; list-style-type: none; }
-.contenedor-horizontal.transparencia-externos li { float: left; padding: 0.4em 0.25em; width: 50%; }
+.contenedor-horizontal.transparencia-externos li { padding: 0.4em 0.25em;  /*float: left; width: 50%;*/ }
 .contenedor-horizontal.transparencia-externos li a { display: block; padding: 0.8em 0; text-align: center; border-radius: 5em; font-size: 0.8em; line-height: 1.3em; color: white !important; }
-.contenedor-horizontal .externos a { background-color: #009ADE; padding: 0.8em 0.5em; }
+.contenedor-horizontal .externos a { background-color: #009ADE; /*padding: 0.8em 0.5em;*/ }
 .contenedor-horizontal .transparencia a { background-color: #DEA200; }
+.contenedor-horizontal .quejasysugerencias a { background-color: #675E48; }
+
 .contenedor-horizontal.comite-coordinador h3 { color: #697878; padding: 1em 0; font-family: Roboto; font-size: 1.7em; text-transform: inherit; width: 90%; margin: 0 auto; }
 .contenedor-horizontal.comite-coordinador { background-color: #DFDCD3; padding: 2em 0; }
 .contenedor-horizontal .miembros-prev { width: 90%; max-width: 1140px; margin: 0 auto; padding: 1em 0; }
@@ -212,7 +215,8 @@ a.footer-link:visited { color: #F2E5CC; }
     .comunicados-home .comunicado .info { width: 62%; }
     .contenedor-horizontal.transparencia-externos { padding: 1em; }
     .contenedor-horizontal .transparencia,
-    .contenedor-horizontal .externos { width: 100%; }
+    .contenedor-horizontal .externos,
+    .contenedor-horizontal .quejasysugerencias { width: 100%; }
     .contenedor-horizontal .links li { width: 31.333%; padding: 1%; }
     .contenedor-horizontal.comite-coordinador h3 { width: 100%; padding: 1em; }
     .contenedor-horizontal .miembros-prev .miembro { width: 49%; min-height: 240px; }

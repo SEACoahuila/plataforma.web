@@ -17,7 +17,7 @@ Saltillo, Coahuila de Zaragoza, México. C.P. 25205.
 
 ### Horario de atención
 
-De 09:00 a 16:00 de lunes a viernes.
+De 08:30 a 17:00 de lunes a jueves, de 08:30 a 14:30 viernes.
 
 ### Teléfono
 

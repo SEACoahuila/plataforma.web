@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 # Sitio web
 SITENAME = 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
-SITEURL = 'http://www.seacoahuila.org.mx'
-#SITEURL = 'http://www.seacoahuila.org.mx/beta'
+#SITEURL = 'http://www.seacoahuila.org.mx'
+SITEURL = 'http://www.seacoahuila.org.mx/beta'
 SITELOGO = 'theme/images/saec.png'
 SITEDESCRIPTION = 'El Sistema Estatal Anticorrupción tiene las facultades de establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de los Entes Públicos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.'
 SITETWITTER = '@sesaecoah'
@@ -17,7 +17,10 @@ AUTHOR = 'SEA Coahuila'
 PATH = 'content'
 
 # Directorios que tienen los articulos
-ARTICLE_PATHS = ['comunicados']
+ARTICLE_PATHS = [
+    'comunicados',
+    'publicaciones',
+    ]
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
@@ -29,16 +32,17 @@ PAGE_PATHS = [
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
+# Note que por ser /beta no tiene 'CNAME',
 STATIC_PATHS = [
-    'CNAME',
-    'favicon.ico',
-    'LICENSE',
-    'README.md',
-    'robots.txt',
     'cc',
     'comunicados',
     'cpc',
+    'favicon.ico',
     'general',
+    'LICENSE',
+    'publicaciones',
+    'README.md',
+    'robots.txt',
     'secretaria-ejecutiva',
     ]
 
@@ -55,13 +59,12 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-THEME = 'themes/startbootstrap-modern-business'
-#THEME = 'themes/seacoahuila-2019-02'
+#THEME = 'themes/startbootstrap-modern-business'
+THEME = 'themes/seacoahuila-2019-02'
 
 # Encabezados para los autores
 AUTHORS_TITLES = {
     'cc': 'Comité Coordinador',
-    'comunicados': 'Comunicados',
     'cpc': 'Consejo de Participación Ciudadana',
     'general': 'General',
     'secretaria-ejecutiva': 'Secretaría Ejecutiva',
@@ -92,10 +95,10 @@ TIMEZONE = 'America/Mexico_City'
 RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
-DEFAULT_PAGINATION = False
-#DEFAULT_PAGINATION = True
-#DEFAULT_PAGINATION = 6
-#DEFAULT_ORPHANS = 2
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 6
+DEFAULT_ORPHANS = 2
 
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False

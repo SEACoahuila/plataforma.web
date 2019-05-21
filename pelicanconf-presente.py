@@ -17,7 +17,10 @@ AUTHOR = 'SEA Coahuila'
 PATH = 'content'
 
 # Directorios que tienen los articulos
-ARTICLE_PATHS = ['comunicados']
+ARTICLE_PATHS = [
+    'comunicados',
+    'publicaciones',
+    ]
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
@@ -30,15 +33,16 @@ PAGE_PATHS = [
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
-    'CNAME',
-    'favicon.ico',
-    'LICENSE',
-    'README.md',
-    'robots.txt',
     'cc',
     'comunicados',
     'cpc',
+    'CNAME',
+    'favicon.ico',
     'general',
+    'LICENSE',
+    'publicaciones',
+    'README.md',
+    'robots.txt',
     'secretaria-ejecutiva',
     ]
 

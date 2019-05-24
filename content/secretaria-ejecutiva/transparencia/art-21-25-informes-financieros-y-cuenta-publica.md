@@ -3,12 +3,14 @@ Slug: art-21-25-informes-financieros-y-cuenta-publica
 Summary: Informes financieros y cuenta pública.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-05-24 12:25
 
 
 Fecha de última actualización: 30 de abril 2019.
 
-### Descargar
+#### Primer Trimestre 2019
+
+* [Informe de Avance de Gestión Financiera - PDF 16.0 MB](informe-avance-gestion-financiera-2019-03.pdf)
 
 #### Cuarto Trimestre 2018
 

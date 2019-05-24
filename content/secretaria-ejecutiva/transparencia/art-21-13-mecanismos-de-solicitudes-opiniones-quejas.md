@@ -8,11 +8,11 @@ Modified: 2019-02-28 12:20
 
 Fecha de última actualización: 30 de abril 2019.
 
-La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema INFOCOAHUILA.
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema **INFOCOAHUILA.**
 
 Para presentar una solicitud de información debe seguir los siguientes pasos
 
-#### 1) Ingresar a la página www.infocoahuila.org.mx y registrarse para crear una cuenta de usuario
+#### 1) Ingresar a la página [www.infocoahuila.org.mx](www.infocoahuila.org.mx) y registrarse para crear una cuenta de usuario
 
 <img class="img-fluid" src="paso-1.png" alt="Paso 1">
 

@@ -12,7 +12,7 @@ Author: José Octavio López Presa
 
 Por **José Octavio López Presa.** Presidente del Comité de Participación Ciudadana del Sistema Nacional Anticorrupción.
 
-<img class="img-fluid" src="domino-hand-stop-corruption.jpg" alt="Domino">
+<img class="img-fluid" src="domino-hand-stop-corruption.jpg" alt="Domino Hand Stop Corruption por Ivana Divišová">
 
 México es una república representativa, democrática, laica y federal compuesta por Estados libres y soberanos. Cuenta con tres poderes y organismos constitucionales autónomos.
 

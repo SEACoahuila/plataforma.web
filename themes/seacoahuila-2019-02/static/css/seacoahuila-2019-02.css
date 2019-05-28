@@ -143,6 +143,9 @@ a:visited  { color: #224422; text-decoration: none; }
 .contenedor-horizontal.que-es-el-sea .que-es p {padding: 2em 3em;font-family: 'Montserrat', sans-serif;color: rgba(0, 0, 0, 0.67);}
 .contenedor-horizontal .video-que-es { padding:0 6em; display:block; text-align: center; }
 
+/* Contenido */
+.contenido a { font-weight: bold; }
+
 /* Paginacion */
 a.page-link               { color: #000000; }
 a.page-link:hover,

@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-02-28 12:20
 
 
-Fecha de última actualización: 30 de abril 2019.
+Fecha de última actualización: 31 de mayo 2019.
 
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema **INFOCOAHUILA.**
 

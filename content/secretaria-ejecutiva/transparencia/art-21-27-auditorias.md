@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-04-05 13:10
 
 
-Fecha de última actualización: 30 de abril 2019.
+Fecha de última actualización: 31 de mayo 2019.
 
 #### Dictámenes Año 2018
 

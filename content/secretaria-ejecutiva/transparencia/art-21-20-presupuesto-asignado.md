@@ -44,7 +44,7 @@ TOTAL              |                                                        | $3
 * [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2018.pdf)
 * [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2018 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2018.pdf)
 
-Por lo que se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.
 
 #### Año 2017
 

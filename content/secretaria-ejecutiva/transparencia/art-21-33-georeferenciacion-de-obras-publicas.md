@@ -14,4 +14,4 @@ De conformidad con el artículo 21, fracción XXXIII de la Ley de Acceso a la In
 
 * [Georreferenciación e Imágenes de las Obras Públicas](georreferenciacion-imagenes-obras-publicas.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

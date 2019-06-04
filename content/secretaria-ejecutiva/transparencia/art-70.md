@@ -10,5 +10,5 @@ Fecha de última actualización: 31 de mayo 2019.
 
 ### Descargar
 
-* [Tabla de Aplicabilidad](tabla-de-aplicabilidad.pdf)
-* [Tabla de Actualización y Conservación](tabla-de-actualizacion-y-conservacion-de-la-infomacion.pdf)
+* [Tabla de Aplicabilidad <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](tabla-de-aplicabilidad.pdf)
+* [Tabla de Actualización y Conservación <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](tabla-de-actualizacion-y-conservacion-de-la-infomacion.pdf)

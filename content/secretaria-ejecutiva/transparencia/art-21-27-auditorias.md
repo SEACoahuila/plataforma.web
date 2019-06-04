@@ -24,4 +24,4 @@ Por lo que una vez aprobado y publicado el presupuesto en el Periódico Oficial 
 
 **En virtud de lo anterior, esta información no se ha generado al momento.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

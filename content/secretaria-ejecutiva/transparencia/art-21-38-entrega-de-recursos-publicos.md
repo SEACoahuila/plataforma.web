@@ -12,4 +12,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 **Este apartado de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza no aplica toda vez que no está dentro de las atribuciones establecidas en la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza ni en el Reglamento Interior de la Secretaría Ejecutiva.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

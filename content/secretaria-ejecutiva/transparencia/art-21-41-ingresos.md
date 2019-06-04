@@ -14,4 +14,4 @@ La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Z
 
 Lo anterior toda vez que no está dentro de sus atribuciones, según la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Martínez Medina,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

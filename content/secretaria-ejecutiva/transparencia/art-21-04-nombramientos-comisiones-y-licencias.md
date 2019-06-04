@@ -18,4 +18,4 @@ Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos
 * [Lic. Mauricio Contreras Montoya - PDF](nombramiento-asuntos-juridicos.pdf)
 * [Ing. Guillermo Valdés Lozano - PDF](nombramiento-sistemas-de-informacion.pdf)
 
-Así mismo, se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Así mismo, se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

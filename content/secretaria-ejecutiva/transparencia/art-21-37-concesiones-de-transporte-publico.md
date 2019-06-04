@@ -14,4 +14,4 @@ De conformidad con lo dispuesto por los artículos 8 y 25 de la Ley del Sistema 
 
 **Por lo anterior, es que dentro de las atribuciones de ésta Secretaría Ejecutiva no se contempla la correspondiente a concesiones de transporte público a que se refiere el artículo 21, fracción XXXVII de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, motivo por el cual no existe información respecto del presente rubro.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

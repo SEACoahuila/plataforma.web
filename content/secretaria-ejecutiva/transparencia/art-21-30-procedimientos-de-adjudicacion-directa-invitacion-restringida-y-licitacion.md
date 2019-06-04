@@ -21,4 +21,4 @@ Fecha de última actualización: 31 de mayo 2019.
 * [Contrato de Obra Pública 002-2018 - PDF](contrato-obra-publica-002-2018.pdf)
 * [Invitaciones - XLSX](invitaiones.xlsx)
 
-Se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

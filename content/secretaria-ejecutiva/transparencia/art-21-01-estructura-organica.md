@@ -3,20 +3,20 @@ Slug: art-21-01-estructura-organica
 Summary: Factor humano que integra la Secretaría Ejecutiva.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-06-04 15:16
 
 
 Fecha de última actualización: 31 de mayo 2019.
 
 ### Facultades y responsabilidades
 
-* [Reglamento Interior de la SE del SEA - PDF](reglamento-interior-sesaec.pdf)
+* [Reglamento Interior de la SE del SEA - PDF](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
 
 ### Estructura orgánica
 
 * Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea.pdf)
 
-<a href="estructura-organica-de-la-se-del-sea-a.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.png" alt="Estructura Orgánica"></a>
+<a href="estructura-organica-de-la-se-del-sea-a.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.png" alt="Estructura Orgánica A"></a>
 
 <a href="estructura-organica-de-la-se-del-sea-b.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-b.png" alt="Estructura Orgánica B"></a>
 
@@ -34,4 +34,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 **No hay vacantes disponibles.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

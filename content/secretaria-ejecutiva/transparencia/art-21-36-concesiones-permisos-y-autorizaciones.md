@@ -14,4 +14,4 @@ De conformidad con lo dispuesto por los artículos 8 y 25 de la Ley del Sistema 
 
 **Por lo anterior, es que ésta Secretaría Ejecutiva no otorga concesiones, licencias y/o autorizaciones, a que se refiere el artículo 21, fracción XXXVI de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, motivo por el cual no existe información respecto del presente rubro.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

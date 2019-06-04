@@ -14,4 +14,4 @@ Según lo dispuesto por los artículos 24 y 25 de la Ley del Sistema Anticorrupc
 
 En virtud de lo anterior, y en atención a su objetivo y atribuciones, a la Secretaría Ejecutiva no le es aplicable la fracción XXVI, del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, por lo cual no existe información respecto del presente rubro.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

@@ -12,4 +12,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 * [Remuneración Mensual por Puesto](remuneracion-mensual-por-puesto.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

@@ -87,4 +87,4 @@ Fecha de última actualización: 31 de mayo 2019.
 * [00237319](00237319.pdf) - 13/03/2019 - Nikte Martínez Arias
 * [00341219](00341219.pdf) - 01/04/2019 - Juan Carlos Aboytes Arriaga
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

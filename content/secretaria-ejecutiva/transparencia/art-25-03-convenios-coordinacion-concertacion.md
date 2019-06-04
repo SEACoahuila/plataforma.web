@@ -14,4 +14,4 @@ De conformidad con lo dispuesto por los artículos 8 y 25 de la Ley del Sistema 
 
 Por lo anterior, es que ésta Secretaría Ejecutiva no cuenta con convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado, a los que hace referencia el artículo 25, fracción III de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, por no ser información relacionada con sus funciones, motivo por el cual no existe información respecto del presente rubro.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

@@ -74,4 +74,4 @@ La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesi
 * 25 de octubre 2017   - [Acta de Instalación del Órgano de Gobierno   - PDF](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
 * 14 de diciembre 2017 - [Acta de Instalación de la Comisión Ejecutiva - PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

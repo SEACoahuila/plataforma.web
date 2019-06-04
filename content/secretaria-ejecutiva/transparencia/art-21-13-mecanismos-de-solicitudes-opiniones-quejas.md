@@ -44,4 +44,4 @@ También se pueden presentar solicitudes de manera física en nuestras instalaci
 
 En la Secretaría Ejecutiva del Sistema Estatal Anticorrupción estamos a sus órdenes para resolver las dudas o inquietudes sobre la Información Pública de Oficio y para ello [le invitamos a contactarnos](../contacto/).
 
-Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

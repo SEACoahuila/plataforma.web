@@ -12,4 +12,4 @@ La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Z
 
 No obstante lo anterior, cuando se genere información al respecto, se publicitará con debida anticipación, a fin de dar cumplimiento a la legislación aplicable.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

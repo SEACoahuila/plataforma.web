@@ -10,4 +10,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 En el periodo que se informa la Secretaría Ejecutiva no ha ejercido presupuesto en cuanto a gastos de publicidad, se informa que cuando se genere dicha información será publicada para el debido cumplimiento a la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

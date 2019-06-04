@@ -10,4 +10,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 **La Secretaría Ejecutiva no ha participado en el auxilio de comunidades en emergencias o desastres. Sin embargo en caso de que se lleven a cabo estos se publicitarán, para dar cumplimiento al artículo 21 fracción XLV de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

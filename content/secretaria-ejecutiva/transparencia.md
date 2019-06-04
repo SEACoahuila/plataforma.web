@@ -31,7 +31,7 @@ a la Información pública" (Art. 70).
 3. [Directorio de los servidores públicos]({filename}/secretaria-ejecutiva/transparencia/art-21-03-directorio.md)
 4. [Nombramientos, comisiones y licencias]({filename}/secretaria-ejecutiva/transparencia/art-21-04-nombramientos-comisiones-y-licencias.md)
 5. [Remuneración mensual]({filename}/secretaria-ejecutiva/transparencia/art-21-05-remuneracion-mensual.md)
-6. [Declaración Patrimonial]({filename}/secretaria-ejecutiva/transparencia/art-21-06-declaracion-patrimonial.md)
+6. [Declaración Patrimonial]({filename}/secretaria-ejecutiva/transparencia/art-21-06-declaracion-patrimonial.html)
 7. [Viáticos y gastos de representación]({filename}/secretaria-ejecutiva/transparencia/art-21-07-viaticos-y-gastos-de-representacion.md)
 8. [Perfil de puestos y currículum]({filename}/secretaria-ejecutiva/transparencia/art-21-08-perfil-de-puestos-y-curriculum.md)
 9. [Convenios de colaboración]({filename}/secretaria-ejecutiva/transparencia/art-21-09-convenios-de-colaboracion.md)

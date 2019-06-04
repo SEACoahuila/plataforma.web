@@ -12,4 +12,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 * [Trámites y Servicios - PDF](tramites-y-servicios.pdf)
 
-Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

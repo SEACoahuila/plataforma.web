@@ -10,4 +10,4 @@ Fecha de última actualización: 31 de mayo 2019.
 
 Por el momento la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, no cuenta con parque vehícular.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Martínez Medina,** Director de Servicios Generales.
+Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

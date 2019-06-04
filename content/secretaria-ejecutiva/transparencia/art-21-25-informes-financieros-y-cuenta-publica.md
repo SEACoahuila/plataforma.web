@@ -22,4 +22,4 @@ Fecha de última actualización: 31 de mayo 2019.
 * [Segundo Trimestre 2018 - Archivos del Avance de Gestión Financiera - ZIP 1.1 MB](avance-de-gestion-financiera-2018-06.zip)
 * [Primer Trimestre 2018 - Informe de Avance de Gestión Financiera - PDF 5.1 MB](informe-avance-gestion-financiera-2018-03.pdf)
 
-Por lo que se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Servicios Generales.
+Por lo que se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

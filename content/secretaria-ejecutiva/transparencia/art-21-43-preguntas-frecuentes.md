@@ -28,4 +28,4 @@ Su domicilio es el ubicado en Boulevard Luis Donaldo Colosio, número 703, terce
 
 Contacto (844) 688 2178.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Titular de la Unidad de Asuntos Jurídicos.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

@@ -3,14 +3,14 @@ Slug: art-21-04-nombramientos-comisiones-y-licencias
 Summary: Nombramientos, comisiones y licencias.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-04-05 12:00
+Modified: 2019-06-05 13:20
 
 
 Fecha de última actualización: 31 de mayo 2019.
 
 Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos, ni ha emitido comisión alguna, motivo por el cual no existe información respecto de los rubros mencionados, proporcionando los nombramientos correspondientes en base a lo siguiente:
 
-* [Mtro. Manuel Gil Navarro - PDF](nombramiento-secretario-tecnico.pdf)
+* [Mtro. José Manuel Gil Navarro - PDF](nombramiento-secretario-tecnico.pdf)
 * [C. Beatriz Aidé Baez Estala - PDF](nombramiento-organo-control-interno.pdf)
 * [Lic. Luis Alberto Gutiérrez Arizpe - PDF](nombramiento-diagnostico-y-politicas-publicas.pdf)
 * [Lic. Amparo Ruiz Montes - PDF](nombramiento-vinculacion-interinstitucional.pdf)

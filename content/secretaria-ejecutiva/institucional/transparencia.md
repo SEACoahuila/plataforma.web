@@ -48,7 +48,7 @@ a la Información pública" (Art. 70).
 21. [Calendario de reuniones públicas]({filename}/secretaria-ejecutiva/transparencia/art-21-21-calendario-de-reuniones-publicas.md)
 22. [Unidad de transparencia y comité de transparencia]({filename}/secretaria-ejecutiva/transparencia/art-21-22-unidad-de-transparencia-y-comite-de-transparencia.md)
 23. [Catálogos documentales de archivos]({filename}/secretaria-ejecutiva/transparencia/art-21-23-catalogos-documentales-de-archivos.md)
-24. [Solicitudes y respuestas]({filename}/secretaria-ejecutiva/transparencia/art-21-24-solicitudes-y-respuestas.md)
+24. [Solicitudes y respuestas]({filename}/secretaria-ejecutiva/transparencia/art-21-24-solicitudes-y-respuestas.html)
 25. [Informes financieros y cuenta pública]({filename}/secretaria-ejecutiva/transparencia/art-21-25-informes-financieros-y-cuenta-publica.md)
 26. [Deuda pública]({filename}/secretaria-ejecutiva/transparencia/art-21-26-deuda-publica.md)
 27. [Auditorías]({filename}/secretaria-ejecutiva/transparencia/art-21-27-auditorias.md)

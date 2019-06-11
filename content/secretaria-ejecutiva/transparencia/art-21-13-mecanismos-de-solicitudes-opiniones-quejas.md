@@ -3,7 +3,7 @@ Slug: art-21-13-mecanismos-de-solicitudes-opiniones-quejas
 Summary: Mecanismos de solicitudes, opiniones, quejas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-02-28 12:20
+Modified: 2019-06-11 09:30
 
 
 Fecha de última actualización: 31 de mayo 2019.
@@ -12,7 +12,7 @@ La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposició
 
 Para presentar una solicitud de información debe seguir los siguientes pasos
 
-#### 1) Ingresar a la página [www.infocoahuila.org.mx](www.infocoahuila.org.mx) y registrarse para crear una cuenta de usuario
+#### 1) Ingresar a la página [http://www.infocoahuila.org.mx](http://www.infocoahuila.org.mx) y registrarse para crear una cuenta de usuario
 
 <img class="img-fluid" src="paso-1.png" alt="Paso 1">
 

@@ -91,7 +91,7 @@
 {% endblock %}
 
 {% block content %}
-    {% if output_file == 'index.html' %}
+{% if output_file == 'index.html' %}
         <section class="index-content">
             {% include 'homepage-highlights.html' %}
         </section>
@@ -101,7 +101,7 @@
         <section class="index-content">
             {% include 'homepage-billboard.html' %}
         </section>
-    {% endif %}
+{% endif %}
         <section class="index-content">
         {% if articles %}
             <!-- Indice -->
@@ -168,4 +168,9 @@
             No hay artículos.
         {% endif %}
         </section>
+{% if output_file == 'index.html' %}
+        <section class="index-content">
+            {% include 'homepage-boletin-anticorrupcion.html' %}
+        </section>
+{% endif %}
 {% endblock %}

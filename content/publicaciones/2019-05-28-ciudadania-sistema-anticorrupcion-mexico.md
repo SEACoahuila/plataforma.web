@@ -13,8 +13,6 @@ Author: Ana Yuri Solís Gaona
 > DAVID ALFARO SIQUEIROS,
 > La Corrupción en el Arte
 
-### LA CIUDADANÍA EN EL SISTEMA ANTICORRUPCIÓN EN MÉXICO
-
 ##### LA PARTICIPACIÓN ES UNA CONDICIÓN NECESARIA PARA SEGUIR AVANZANDO
 
 Por **Ana Yuri Solís Gaona**, Presidenta del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila.

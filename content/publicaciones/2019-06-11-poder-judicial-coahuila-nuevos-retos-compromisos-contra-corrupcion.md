@@ -8,8 +8,6 @@ Image: preview.jpg
 Author: Miriam Cárdenas Cantú
 
 
-### PODER JUDICIAL DE COAHUILA: NUEVOS RETOS Y COMPROMISOS CONTRA LA CORRUPCIÓN
-
 ##### EL CONSEJO DE LA JUDICATURA HA SIDO DOTADO DE NUEVAS HERRAMIENTAS QUE LE PERMITEN ASUMIR EL RETO DE PARTICIPAR EN LA ESTRATEGIA DE COMBATE A LA CORRUPCIÓN.
 
 Por **Miriam Cárdenas Cantú**, Presidenta del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza.

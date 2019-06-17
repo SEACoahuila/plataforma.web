@@ -8,8 +8,6 @@ Image: preview.jpg
 Author: José Armando Plata Sandoval
 
 
-### SISTEMA NACIONAL DE FISCALIZACIÓN: UNA PERSPECTIVA DESDE LA AUDITORÍA SUPERIOR DE COAHUILA
-
 ##### LOS CIMIENTOS ESTÁN PUESTOS ¿QUÉ RETOS ENFRENTA LA IMPLEMENTACIÓN DEL SNF?
 
 Por **José Armando Plata Sandoval**, Auditor Superior del Estado de Coahuila

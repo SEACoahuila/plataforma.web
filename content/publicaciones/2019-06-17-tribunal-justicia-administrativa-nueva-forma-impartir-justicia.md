@@ -2,15 +2,15 @@ Title: Tribunal de Justicia Administrativa de Coahuila: Una Nueva Forma de Impar
 Slug: 2019-06-17-tribunal-justicia-administrativa-nueva-forma-impartir-justicia
 Summary: Ante la percepción ciudadana de que la corrupción es uno de los principales problemas nacionales, Gobierno y distintos sectores de la sociedad decidieron sumar esfuerzos para enfrentar y abatir este fenómeno.
 Tags: Publicaciones, Azimut
-Date: 2019-06-17 12:15
-Modified: 2019-06-17 12:15
+Date: 2019-06-17 12:42
+Modified: 2019-06-17 12:42
 Image: preview.jpg
 Author: Sandra Luz Rodríguez Wong
 
 
 ##### EL CAMINO DE UNO DE LOS PILARES EN LA LUCHA DE LA CORRUPCIÓN, UN ÓRGANO ESPECIALIZADO AL SERVICIO DE LOS COAHUILENSES
 
-Por **Sandra Luz Rodríguez Wong,** Magistrada Presidenta del Tribunal de Justicia Administrativa de Coahuila De Zaragoza.
+Por **Sandra Luz Rodríguez Wong,** Magistrada Presidenta del Tribunal de Justicia Administrativa de Coahuila de Zaragoza.
 
 <img class="img-fluid" src="justitia.jpg" alt="Justitia, Goddess">
 

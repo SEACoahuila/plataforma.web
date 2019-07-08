@@ -1,6 +1,6 @@
-Title: Infografía del Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva
+Title: Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva - Infográfica
 Slug: organo-de-gobierno-comision-ejecutiva-secretaria-ejecutiva
-Summary: Infografía del Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva.
+Summary: Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva - Infográfica.
 Author: Secretaría Ejecutiva
 Date: 2019-06-10 09:20
 Modified: 2019-06-10 09:20
@@ -10,4 +10,4 @@ Modified: 2019-06-10 09:20
 
 #### Descargar
 
-* [Infografía del Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva - PDF 5.4 MB](organo-de-gobierno-comision-ejecutiva-secretaria-ejecutiva.pdf)
+* [Infográfica del Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva - PDF 5.4 MB](organo-de-gobierno-comision-ejecutiva-secretaria-ejecutiva.pdf)

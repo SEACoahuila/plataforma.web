@@ -42,6 +42,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 26 de junio 2018   - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 17 de julio 2018   - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 05 de octubre 2018 - [Acta de la Quinta Sesión Ordinaria  - PDF](2018-10-05-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 08 de enero 2019   - [Acta de la Primera Sesión Ordinaria - PDF](2019-01-08-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 29 de enero 2019   - [Acta de la Segunda Sesión Ordinaria - PDF](2019-01-29-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 30 de abril 2019   - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 
 #### Sesiones Extraordinarias del Órgano de Gobierno

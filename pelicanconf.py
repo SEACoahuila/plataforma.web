@@ -32,9 +32,9 @@ PAGE_PATHS = [
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
-# Note que por ser /beta no tiene 'CNAME',
 STATIC_PATHS = [
     'cc',
+    'CNAME',
     'comunicados',
     'cpc',
     'favicon.ico',

@@ -32,11 +32,11 @@ PAGE_PATHS = [
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
+# Note que por ser /beta no tiene 'CNAME',
 STATIC_PATHS = [
     'cc',
     'comunicados',
     'cpc',
-    'CNAME',
     'favicon.ico',
     'general',
     'LICENSE',
@@ -59,13 +59,12 @@ PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
 # Tema
-THEME = 'themes/startbootstrap-modern-business'
-#THEME = 'themes/seacoahuila-2019-02'
+#THEME = 'themes/startbootstrap-modern-business'
+THEME = 'themes/seacoahuila-2019-02'
 
 # Encabezados para los autores
 AUTHORS_TITLES = {
     'cc': 'Comité Coordinador',
-    'comunicados': 'Comunicados',
     'cpc': 'Consejo de Participación Ciudadana',
     'general': 'General',
     'secretaria-ejecutiva': 'Secretaría Ejecutiva',
@@ -96,10 +95,10 @@ TIMEZONE = 'America/Mexico_City'
 RELATIVE_URLS = True
 
 # Para desarrollo, se desactiva la paginacion
-DEFAULT_PAGINATION = False
-#DEFAULT_PAGINATION = True
-#DEFAULT_PAGINATION = 6
-#DEFAULT_ORPHANS = 2
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 6
+DEFAULT_ORPHANS = 2
 
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False

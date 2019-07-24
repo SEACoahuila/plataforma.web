@@ -75,4 +75,11 @@
                 </article>
             </div>
         </div>
+{% if page.author == 'CC' %}
+    {% include 'explore-cc.html' %}
+{% elif page.author == 'CPC' %}
+    {% include 'explore-cpc.html' %}
+{% elif page.author == 'Secretaría Ejecutiva' %}
+    {% include 'explore-secretaria-ejecutiva.html' %}
+{% endif %}
 {% endblock %}

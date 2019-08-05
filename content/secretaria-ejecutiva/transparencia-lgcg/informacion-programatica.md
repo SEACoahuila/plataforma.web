@@ -3,6 +3,14 @@ Slug: informacion-programatica
 Summary: Transparencia LGCG - Información Programática
 Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
+Modified: 2019-07-31 15:35
+
+
+### Segundo trimestre 2019
+
+[Información Programática](2019-04_06-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-04_06-01-gasto-por-categoria-programatica.xlsx)
 
 
 ### Primer trimestre 2019
@@ -13,6 +21,7 @@ Date: 2019-04-30 16:32
 4. [El Cumplimiento de los Objetivos - PDF](2019-01_03-04-el-cumplimiento-de-los-objetivos.pdf)
 5. [Programa Anual de Evaluaciones - PDF](2019-01_03-05-programa-anual-de-evaluaciones.pdf)
 6. [Los Resultados de la Evaluación del Desempeño - PDF](2019-01_03-06-los-resultados-de-la-evaluacion-del-desempeno.pdf)
+
 
 ### Período 2018
 

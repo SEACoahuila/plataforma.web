@@ -3,12 +3,14 @@ Slug: informacion-contable
 Summary: Transparencia LGCG - Información Contable
 Author: Secretaría Ejecutiva
 Date: 2019-06-03 11:04
-Modified: 2019-06-03 11:04
+Modified: 2019-07-31 15:35
 
 
 ### Período 2019
 
+* [Segundo Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF 61.6 MB](informe-avance-gestion-financiera-2019-06.pdf)
 * [Primer Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF 16.0 MB](informe-avance-gestion-financiera-2019-03.pdf)
+
 
 ### Período 2018
 

@@ -3,7 +3,7 @@ Slug: art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos
 Summary: Beneficiarios de subsidios, estímulos y apoyos.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-05-17 12:41
+Modified: 2019-07-31 12:31
 
 
 Fecha de última actualización: 28 de junio 2019.
@@ -15,6 +15,18 @@ A lo dispuesto en la Fracción XVI del Art. 21 de la Ley de Acceso a la Informac
 #### Secretaría Ejecutiva del Sistema Anticorrupción del Estado De Coahuila De Zaragoza
 
 ##### Montos Pagados por Ayudas y Subsidios
+
+**Período Segundo Trimestre 2019**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+* [Informe de Avance de Gestión Financiera: Montos Pagados por Ayudas y Subsidios - PDF](2019-2T-ayudas-y-subsidios.pdf)
 
 **Período Primer Trimestre 2019**
 

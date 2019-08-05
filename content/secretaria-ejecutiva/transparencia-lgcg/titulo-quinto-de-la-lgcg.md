@@ -3,11 +3,12 @@ Slug: titulo-quinto-de-la-lgcg
 Summary: Transparencia LGCG - Título Quinto de la LGCG
 Author: Secretaría Ejecutiva
 Date: 2019-02-01 13:42
+Modified: 2019-07-31 15:35
 
 
 ### Título Quinto de la LGCG
 
-* Transparencia: [Beneficiarios de Subsidios, estímulos y apoyos]({filename}/secretaria-ejecutiva/transparencia/art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos.md)
+Transparencia: [Beneficiarios de Subsidios, estímulos y apoyos]({filename}/secretaria-ejecutiva/transparencia/art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos.md)
 
 ### Período 2019
 

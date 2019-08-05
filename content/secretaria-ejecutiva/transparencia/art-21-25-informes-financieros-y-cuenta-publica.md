@@ -6,11 +6,11 @@ Date: 2018-02-23 09:00
 Modified: 2019-06-03 11:04
 
 
-Fecha de última actualización: 28 de junio 2019.
+Fecha de última actualización: 31 de julio 2019.
 
 ### Período 2019
 
-* [Segundo Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF 61.6 MB](informe-avance-gestion-financiera-2019-06.pdf)
+* [Segundo Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF 19.8 MB](informe-avance-gestion-financiera-2019-06.pdf)
 * [Primer Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF 16.0 MB](informe-avance-gestion-financiera-2019-03.pdf)
 
 ### Período 2018

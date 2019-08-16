@@ -8,16 +8,16 @@
     <meta name="author" content="{{ AUTHOR }}">
     <meta itemprop="name" content="Categorías">
     <meta itemprop="description" content="Publicaciones por categorías.">
-    <meta itemprop="image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta itemprop="image" content="/{{ SITELOGO }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ SITETWITTER }}">
     <meta name="twitter:title" content="Categorías">
     <meta name="twitter:description" content="Publicaciones por categorías.">
-    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta name="twitter:image:src" content="/{{ SITELOGO }}">
     <meta property="og:title" content="Categorías">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
-    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:url" content="/{{ output_file }}">
+    <meta property="og:image" content="/{{ SITELOGO }}">
     <meta property="og:description" content="Publicaciones por categorías.">
     <meta property="og:site_name" content="{{ SITENAME }}">
 {% endblock %}
@@ -30,7 +30,7 @@
         <hr>
         <ul>
             {% for category, articles in categories %}
-            <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+            <li><a href="/{{ category.url }}">{{ category }}</a></li>
             {% endfor %}
         </ul>
     </div>

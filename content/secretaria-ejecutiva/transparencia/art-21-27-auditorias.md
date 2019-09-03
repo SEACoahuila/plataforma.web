@@ -6,22 +6,19 @@ Date: 2018-02-23 09:00
 Modified: 2019-04-05 13:10
 
 
-Fecha de última actualización: 31 de julio 2019.
+Fecha de última actualización: 31 de agosto 2019.
 
-#### Dictámenes Año 2018
+### Diactámenes año 2019
+
+* [Dictamen primer trimestre de 2019](dictamen-2019-03-primer-trimestre.pdf)
+* [Dictamen segundo trimestre de 2019](dictamen-2019-06-segundo-trimestre.pdf)
+
+### Dictámenes año 2018
 
 * [Dictamen primer trimestre de 2018](dictamen-2018-03-primer-trimestre.pdf)
 * [Dictamen segundo trimestre de 2018](dictamen-2018-06-segundo-trimestre.pdf)
 * [Dictamen tercer trimestre de 2018](dictamen-2018-09-tercer-trimestre.pdf)
-
-De conformidad con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado de Coahuila el pasado 14 de julio de 2017, señala en la parte conducente de su transitorio tercero lo siguiente:
-
-> "TERCERO.-...La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal..."
-
-El inicio de operaciones de la Secretaría Ejecutiva fue el pasado veintitrés de noviembre dos mil diecisiete y posterior a dicha fecha, se elaboraron los instrumentos jurídicos necesarios para su funcionamiento; tales como el Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza así como su publicación en el Periódico Oficial del Estado, el veintisiete de febrero del dos mil dieciocho.
-
-Por lo que una vez aprobado y publicado el presupuesto en el Periódico Oficial del Estado para el ejercicio fiscal comprendido del 1ª de enero al 31 de diciembre 2018 se sujetará a las disposiciones aplicables.
-
-**En virtud de lo anterior, esta información no se ha generado al momento.**
+* [Dictamen cuarto trimestre de 2018](dictamen-2018-12-tercer-trimestre.pdf)
+* [Dictamen Presupuestario 2018](dictamen-presupuestario-2018.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.

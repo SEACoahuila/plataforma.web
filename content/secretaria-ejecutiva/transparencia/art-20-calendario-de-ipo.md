@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-06-12 14:52
 
 
-Fecha de última actualización: 31 de julio 2019.
+Fecha de última actualización: 31 de agosto 2019.
 
 ### Período 2019
 

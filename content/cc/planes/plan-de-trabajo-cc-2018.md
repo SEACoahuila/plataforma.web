@@ -1,6 +1,6 @@
 Title: Programa de Trabajo 2018 del Comité Coordinador
 Slug: plan-de-trabajo-cc-2018
-Summary: Programa de Trabajo del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+Summary: Programa de Trabajo 2018 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CC
 Date: 2018-06-08 13:40
 Modified: 2018-06-13 11:25

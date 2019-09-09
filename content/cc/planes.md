@@ -7,4 +7,5 @@ Status: hidden
 Save_as: cc/planes/index.html
 
 
+* [Plan de Trabajo 2019 del Comité Coordinador]({filename}/cc/planes/plan-de-trabajo-cc-2019.md)
 * [Plan de Trabajo 2018 del Comité Coordinador]({filename}/cc/planes/plan-de-trabajo-cc-2018.md)

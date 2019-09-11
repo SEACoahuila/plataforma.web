@@ -9,7 +9,7 @@ Image: preview.jpg
 
 <img class="img-fluid" src="foto-1.jpg" alt="Presentación de la versión Beta de la Plataforma Digital Nacional, foto 1">
 
-El pasado 5 de septiembre de 2019 la **Secretaría Ejecutiva del Sistema Nacional Anticorrupción** mostró la versión beta de los Sistemas 2 y 3 de la **Plataforma Digital Nacional.**
+El pasado 5 de septiembre de 2019 la **Secretaría Ejecutiva del Sistema Nacional Anticorrupción** mostró la versión beta de los Sistemas 2 y 3 de la [Plataforma Digital Nacional](https://plataformadigitalnacional.org/).
 
 **Pablo Villarreal,** Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Nacional de la SESNA, presentó las principales funcionalidades y datos de la PDN.
 

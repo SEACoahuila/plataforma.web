@@ -6,7 +6,7 @@ Date: 2018-07-23 13:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de agosto 2019.
+Fecha de última actualización: 30 de septiembre 2019.
 
 ### NO APLICA
 

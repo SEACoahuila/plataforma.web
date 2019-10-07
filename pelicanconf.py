@@ -33,6 +33,7 @@ PAGE_PATHS = [
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
     'cc',
+    'CNAME',
     'comunicados',
     'cpc',
     'favicon.ico',

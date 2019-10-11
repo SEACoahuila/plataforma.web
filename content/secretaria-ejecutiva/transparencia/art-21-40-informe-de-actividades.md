@@ -3,7 +3,7 @@ Slug: art-21-40-informe-de-actividades
 Summary: Informe de actividades.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-10-11 14:10
 
 
 Fecha de última actualización: 30 de septiembre 2019.
@@ -11,6 +11,7 @@ Fecha de última actualización: 30 de septiembre 2019.
 ### Período 2019
 
 * [Primer Informe 2019 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2019-1.pdf)
+* [Segundo Informe 2019 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2019-2.pdf)
 
 ### Período 2018
 

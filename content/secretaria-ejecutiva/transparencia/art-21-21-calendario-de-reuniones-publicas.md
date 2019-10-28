@@ -23,7 +23,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 05 de marzo 2019   - [Acta de la Segunda Sesión Ordinaria - PDF](2019-03-05-segunda-sesion-ordinaria-comite-coordinador.pdf)
 * 30 de abril 2019   - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
 * 31 de mayo 2019    - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
-* 19 de junio 2019   - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-06-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
+* 19 de julio 2019   - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
@@ -46,7 +46,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 08 de enero 2019   - [Acta de la Primera Sesión Ordinaria - PDF](2019-01-08-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 29 de enero 2019   - [Acta de la Segunda Sesión Ordinaria - PDF](2019-01-29-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 30 de abril 2019   - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 19 de junio 2019   - [Acta de la Quinta Sesión Ordinaria  - PDF](2019-06-19-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 19 de julio 2019   - [Acta de la Quinta Sesión Ordinaria  - PDF](2019-07-19-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 

@@ -1,0 +1,431 @@
+Title: Boletín Anticorrupción en Coahuila, volumen IV, año 2019
+Slug: boletin-anticorrupcion-coahuila-2019-10
+Summary: Boletín Anticorrupción en Coahuila, volumen IV, año 2019.
+Author: Secretaría Ejecutiva
+Date: 2019-10-31 15:05
+Modified: 2019-10-31 15:05
+
+
+### Descargar
+
+<a href="boletin-anticorrupcion-coahuila-2019-10.pdf"><img class="img-fluid" src="imagen-descargar.jpg" alt="Boletín Anticorrupción en Coahuila, Volumen IV, Año 2019"></a>
+
+* [boletin-anticorrupcion-coahuila-2019-10.pdf](boletin-anticorrupcion-coahuila-2019-10.pdf) - PDF 7.6 MB
+
+
+---
+
+### INTRODUCCIÓN
+
+La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, a través de la Dirección de Vinculación Interinstitucional, presenta el Cuarto Boletín Anticorrupción del 2019, el cual tiene como objetivo informar a la sociedad en general sobre el trabajo legislativo que se realizó en materia anticorrupción en el ámbito estatal y federal durante los meses de julio y agosto del año en curso, lo anterior con fundamento en la fracción IV del artículo 29 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+En este boletín, se presentan de manera cronológica las Iniciativas con Proyecto de Decreto y los Puntos de Acuerdo propuestos en el cuarto bimestre del presente año, relacionados con el funcionamiento e integración del Sistema Anticorrupción del Estado de Coahuila, así como los trámites realizados con respecto a estos.
+
+Otros componentes de este boletín son los Puntos de Acuerdo aprobados por el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, así como los dictámenes y decretos, resultado del trabajo legislativo en el Honorable Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
+
+Este boletín continúa con el monitoreo legislativo Nacional de la LXIV Legislatura de la Cámara de Diputados de los meses de julio y agosto en materia anticorrupción y temas relacionados que son de interés para la sociedad, así como para los integrantes del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+A partir de este boletín también se suma un monitoreo de medios de comunicación impresos, en el que se dan a conocer las actividades más relevantes del Sistema Anticorrupción del Estado que se han difundido durante el periodo de julio a agosto de este año.
+
+Mtro. José Manuel Gil Navarro, Secretario Técnico
+
+Lic. Amparo Ruiz Montes, Directora de Vinculación Interinstitucional
+
+Lic. Graciela Padilla Hernández, Lic. Cyntia Moncada Siller, Edición y Diseño
+
+---
+
+## Ámbito Estatal
+
+### 02 de julio del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Edgar Sánchez Garza, de la Fracción Parlamentaria “General Francisco L. Urquizo”.
+
+**Acuerdo:**
+
+Primero.- Se solicite a la Auditoría Superior del Estado, lleve a cabo una auditoria extraordinaria en el municipio de General Cepeda, sobre las irregularidades en la ejecución y costo de las obras señaladas en el presente punto de acuerdo.
+
+Segundo.- Se solicite a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, verifique la calidad así como los costos de las obras descritas en proemio del presente punto de acuerdo, e informe del resultado a este H. Congreso del Estado de Coahuila de Zaragoza.
+
+Sentido de la votación: No fue presentada como de urgente y obvia resolución.
+Estatus: Se turnó a la Comisión de Auditoria Gubernamental y Cuenta Pública.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Gerardo Abraham Aguado Gómez, conjuntamente con las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente solicita a los titulares de la Fiscalía General del Estado y de la Fiscalía Especializada en Delitos por Hechos de Corrupción que, en Coordinación con la Auditoría Superior del Estado y con las Secretarías de Finanzas y de Fiscalización y Rendición de Cuentas de la entidad, se realicen los trabajos necesarios para darle una conclusión definitiva a las averiguaciones previas o carpetas de investigación de la mega deuda de Coahuila en un plazo prudente de tiempo.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turnó a la comisión de Finanzas.
+
+### 09 de julio del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Marcelo de Jesús Torres Cofiño, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente solicita al titular del Ejecutivo Federal, aplicar el veto a la iniciativa con proyecto de decreto que reforma la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el artículo 61, recientemente aprobada por el Senado de la República, en lo que se refiere a la partida secreta para el presidente, por ser contraria a las propuestas del mismo partido Morena y a los principios que rigen el gasto público en México.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turno a la Comisión De Presupuesto.
+
+**Punto de Acuerdo**
+
+Presentado por: Presentan conjuntamente el Diputado Edgar Sánchez Garza, de la Fracción Parlamentaria “General Francisco L. Urquizo” y el Diputado Jesús Andrés Loya Cardona, del Grupo Parlamentario “General Andrés S. Viesca”.
+
+**Acuerdo:**
+
+Primero.- Que esta Diputación Permanente, envié un exhorto tanto a la Fiscalía Estatal Anticorrupción, así como a la Secretaría de Fiscalización y Rendición de Cuentas a efecto de que inicien las denuncias así como los procedimientos administrativos, que conforme a derecho corresponden y procedan a investigar y en su caso sancionar, los actos de nepotismo, favoritismo y conflicto de intereses, señalados en el proemio de este punto de acuerdo.
+
+Segundo.- Que la presente proposición con punto de acuerdo, sea turnada a la Comisión de Asuntos Municipales de este H. Congreso, para que le den el mismo seguimiento que a las otras proposiciones con punto de acuerdo, que le han sido turnadas y que tienen que ver con actos de nepotismo y corrupción en diversos municipios del Estado, con el fin de que en su momento emita un dictamen con relación a este tema en particular.
+
+Tercero.- Que esta Diputación Permanente, envié un exhorto a la alcaldesa del municipio de Cuatro Ciénegas, Coahuila, Yolanda Cantú Moncada, solicitándole que de manera inmediata, proceda a realizar el pago de la segunda quincena del mes de junio, tanto al síndico de mayoría como al síndico fiscalizador, así como al cuarto, sexta y séptima regidora, toda vez que la retención de los salarios por simple capricho es contrario a la ley.
+
+Sentido de la votación: Se aprobó por mayoría de votos.
+
+Estatus: Se formuló comunicación mediante la cual se envió a la Comisión de Asuntos Municipales y Zonas Metropolitanas y a la Alcaldesa del Municipio de Cuatro Ciénegas, Coahuila.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares Martínez conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente, por conducto de la Comisión de Auditoría Gubernamental y Cuenta Pública, solicita   a la Auditoría Superior del Estado un informe detallado sobre los avances en las denuncias penales y administrativas presentadas en contra la Secretaría de Finanzas, correspondientes a los ejercicios fiscales 2013, 2014, 2015 y 2016. Asimismo, que explique la ASE los motivos por los que tardó tanto en presentarlas.
+
+Sentido de la votación: En virtud, de que por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Gerardo Abraham Aguado Gómez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente solicita a la Auditoría Superior del Estado que cumpla con la publicación de las denuncias que presentó en su momento en relación a los créditos ilegalmente contratados por el Poder Ejecutivo local, compromiso además adquirido con este Poder Legislativo mediante un punto de acuerdo ya aprobado.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+Correspondencia y documentación recibida por el H. Congreso Independiente, Libre y Soberano de Coahuila de Zaragoza
+
+Oficios que suscriben los síndicos y diversos regidores del Ayuntamiento de Cuatro Ciénegas, mediante el cual dan a conocer que se han violentado sus atribuciones y facultades ya que durante los seis meses de la administración municipal no se han presentado para su análisis y revisión la documentación contable y financiera que avalan los gastos realizados y que han sido afectados en el presupuesto municipal autorizado, por lo anterior no ha podido emitir opinión alguna con relación a los informes mensuales y a los avances de gestión financiera de los meses de enero a junio de 2019.
+
+Estatus: Se turnó a la comisión de Auditoría Gubernamental y Cuenta Pública.
+
+### 10 de julio del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares Martínez y el Diputado Gerardo Abraham Aguado Gómez conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente, solicita a la Secretaría de Fiscalización y Rendición de Cuentas del Estado de Coahuila, haga llegar a este Poder Legislativo copias de todos los expedientes de las denuncias de carácter administrativo presentadas por la ASE, relacionadas con los ejercicios fiscales 2010 y 2011 del Poder Ejecutivo, que ya se encuentren concluidas.
+
+Sentido de la votación: resultó ser empate de votos; por lo que la presidencia volvió a repetir la votación resultando de nueva cuenta en empate, al no haber mayoría para calificar dicho punto de acuerdo, y con fundamento en el artículo 214 de la Ley Orgánica del Congreso la presidencia ordenó que se discutiría y votaría el mencionado punto de acuerdo en la sesión inmediata.
+
+Estatus: Se envió a la Secretaría de Fiscalización y Rendición de Cuentas del Estado de Coahuila.
+
+### 06 de agosto del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada Claudia Isela Ramírez Pineda, de la Fracción Parlamentaria “Elvia Carrillo Puerto”, del Partido de la Revolución Democrática”.
+
+**Acuerdo:**
+
+Primero.- Se exhorta respetuosamente al Órgano de Control Interno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) tanto a nivel nacional como a nivel delegacional en Coahuila a investigar y sancionar los posibles actos de corrupción y mala gestión por parte de la directiva del Hospital General de Alta Especialidad del ISSSTE ubicado en Saltillo Coahuila.
+
+Segundo.- Se exhorta respetuosamente a ambos Órganos de Control Interno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) a que una vez realizadas las investigaciones informen a esta soberanía sobre los resultados de las mismas.
+
+Tercero.- Se exhorta al Director del Hospital General de Alta Especialidad del ISSSTE, a que realice las siguientes acciones con la finalidad de mejorar el servicio para los derechohabientes:
+
+1. Implementar acciones para evitar cobros indebidos por parte de los médicos a través de carteles o información disponible en espacios públicos del hospital donde se haga de conocimiento de la ciudadanía que ninguna persona está facultada para recibir dinero por algún servicio, salvo los estrictamente permitidos por la ley.
+2. Revisar y hacer cumplir de manera efectiva la asistencia de los médicos que laboran en esa institución.
+3. Que conforme a los artículos 121 a 124 de la Ley General de Transparencia y Acceso a la Información Pública, informe a esta soberanía sobre las acciones que se han tomado desde la directiva para evitar el robo de medicamentos u otros bienes pertenecientes al Hospital General de Alta Especialidad del ISSSTE.
+4. Que conforme a los artículos 121 a 124 de la Ley General de Transparencia y Acceso a la Información Pública, informe a esta soberanía la lista total de médicos que laboran en la institución y el horario que deben cumplir de forma regular.
+
+Sentido de la votación: Se aprobó por unanimidad de votos.
+
+Estatus: Se formularon comunicaciones mediante las cuales se enviaron al Órgano de Control Interno del Instituto de Seguridad y Servicios Sociales de los Trabajadores (ISSSTE) a nivel nacional y al Director del Hospital General de Alta Especialidad del ISSSTE.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Gerardo Abraham Aguado Gómez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente  solicita  a la Secretaría de Finanzas del Estado que informe a este Poder Legislativo si realmente cuentan con los documentos que acrediten el destino y aplicación de la deuda coahuilense contraída ilegalmente; y de ser así, los hagan llegar a este Congreso por conducto de la Comisión de Finanzas, en el ánimo de terminar de una vez por todas con la duda que ha persistido desde el año 2011 en relación a que supuestamente todo se gastó en inversiones públicas productivas, ya que ninguna autoridad local ha podido acreditar tal afirmación.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turnó a la Comisión de Finanzas.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada Claudia Isela Ramírez Pineda, de la Fracción Parlamentaria “Elvia Carrillo Puerto”, del Partido de la Revolución Democrática”.
+
+**Acuerdo:**
+
+Primero.- Se exhorta respetuosamente a la Contraloría Interna del Municipio de Parras de la Fuente a que conforme a sus atribuciones y competencias investigue y sancione las faltas administrativas que hayan sido cometidas en relación a las observaciones no solventadas derivadas del Pliego de Observaciones ASE-10572-2018.
+
+Segundo.- Se exhorta respetuosamente la Auditoría Superior del Estado a que conforme a lo establecido en el artículo 40 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado, inicie los procedimientos administrativos, penales y de juicio político correspondientes en contra de quienes resulten responsables  por las observaciones no solventadas derivadas del Pliego de Observaciones ASE-10572-2018.
+
+Tercero.- Se exhorta respetuosamente a la Fiscalía Especializada por Hechos de Corrupción a que en el momento procesal oportuno, realice las investigaciones correspondientes para deslindar responsabilidades por el desfalco de más de 45 millones de pesos cometidos en contra de la Administración de Parras de la Fuente a las que se hace referencia.
+
+Sentido de la votación: Se aprobó por unanimidad de votos.
+
+Estatus: Se formularon comunicaciones mediante las cuales se enviaron a la Contraloría Interna del Municipio de Parras de la Fuente, a la Auditoría Superior del Estado y a la Fiscalía Especializada por Hechos de Corrupción.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares Martínez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente, por conducto de la Comisión de Auditoría Gubernamental y Cuenta Pública, solicita  a la Auditoría Superior del Estado   un informe detallado  que contenga: a) El estatus actual de la o las denuncias penales y administrativas relativas a la inversión ilegal realizada por el Poder Judicial del Estado en la institución conocida como FICREA; y b) Los pormenores en su aspecto general de las irregularidades que este órgano fiscalizador detectó en el caso mencionado en base a sus atribuciones.
+
+Sentido de la votación: Por mayoría de votos se desechó.
+
+Correspondencia y documentación recibida por el H. Congreso Independiente, Libre y Soberano de Coahuila de Zaragoza
+
+Se recibió Informe de avance de Gestión Financiera, correspondientes al segundo trimestre del 2019 de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+Escrito del Coordinador General de la Secretaría Municipal de Acción Juvenil, mediante el cual manifiestan su inconformidad por el rechazo al punto de acuerdo presentado por el Diputado Gerardo Abraham Aguado Gómez, en el que se solicitaba a los titulares de la Fiscalía General del Estado y la Fiscalía Anticorrupción hacer lo necesario para concluir la averiguaciones previas o carpetas de investigación de la mega deuda de Coahuila.
+
+Estatus: De enterado y queda a disposición de los integrantes de esta legislatura.
+
+### 13 de agosto del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Primero.- Esta H.  Diputación Permanente  informa y, a la vez, solicita al Titular del Poder Ejecutivo, Lic. Miguel Ángel Riquelme Solís, su intervención inmediata ante las constantes violaciones a la ley cometidas por   el  Secretario de Finanzas del Estado que, de forma reiterada, realiza modificaciones presupuestales en contravención a la ley, como las señaladas en esta proposición, referentes a los capítulos de Servicios Personales; Bienes Muebles, Tangibles e Intangibles y el de Inversiones Financieras y otras Provisiones, de acuerdo a lo publicado en el Informe de Avance de Gestión Financiera, correspondiente al segundo trimestre de 2019, vulnerando las disposiciones de la Ley de Disciplina Financiera para  las Entidades Federativas y los Municipios.
+
+Segundo.- Asimismo, se dé vista de lo antes señalado a la Auditoría Superior del Estado, por conducto de la Comisión de Auditoría Gubernamental y Cuenta Pública para los efectos correspondientes.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+**Punto de Acuerdo**
+
+Presentada por: Diputado Gerardo Abraham Aguado Gómez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Primero.- Esta Diputación Permanente solicita a la Comisión Nacional Bancaria y de Valores (CNBV) la realización de una amplia investigación en torno al caso de las inversiones ilegales realizadas por el Tribunal Superior de Justicia de Coahuila en la institución denominada “FICREA”, trianguladas por medio de BANCOMER.
+
+Segundo.- Asimismo, se solicita que informe la CNBV a este Poder Legislativo sobre los antecedentes que al respecto de este caso posea.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+### 20 de agosto del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputado Marcelo de Jesús Torres Cofiño, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Que se exhorte respetuosamente al Presidente de la República, Ciudadano Andrés Manuel López Obrador, para que cumpla cabalmente con su palabra de combatir los actos de corrupción que se suscitaron en el Estado de Coahuila, durante los sexenios de los Ex Gobernadores Humberto y Rubén Moreira Valdez, particularmente respecto del  desvío y sustracción ilegal de recursos públicos, mediante el Fraude económico conocido como “Empresas Fantasma”, el cual tiene estrecha relación con el mecanismo utilizado para el hurto del dinero de los Coahuilenses que derivó en la mega deuda del Estado, tal y como se comprometiera públicamente ante los medios de comunicación durante la denominada “Conferencia Mañanera” efectuada en Palacio Nacional el día 15 de Agosto del presente año, y que conforme a su propia declaración, instruya a su gabinete legal o ampliado para que en la medida de su competencia y en el uso de sus facultades, actúen inmediatamente dándole seguimiento puntual a las investigaciones que aún siguen abiertas, y que son derivadas  de las operaciones ilícitas de desfalco a las arcas públicas de nuestro Estado; delitos que entre otros pudieran configurar un posible blanqueo de capitales que fueron sustraídos ilegalmente, y se sancione a los responsables del quebranto financiero de nuestra entidad.
+
+Sentido de la votación: Por mayoría de votos no fue calificada como de urgente y obvia resolución.
+
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada Claudia Isela Ramírez Pineda, de la Fracción Parlamentaria “Elvia Carrillo Puerto”, del Partido de la Revolución Democrática.
+
+**Acuerdo:**
+
+Único.- Se exhorta a la Fiscalía Especializada en Delitos por Hechos de Corrupción del Estado de Coahuila de Zaragoza, a efecto de que agote todas y cada una de las etapas de la carpeta de investigación FEHC/199/2018, derivada de la denuncia interpuesta por la Auditoría Superior del Estado en contra de quien resulte responsable por los hechos posiblemente constitutivos de delito en agravio del Poder Judicial del Estado de Coahuila de Zaragoza, con relación a la inversión realizada en la Sociedad Financiera Popular denominada FICREA S.A. de C.V. S.F.P.; observando en todo momento los principios de legalidad, exhaustividad, eficacia, transparencia y debido proceso, y una vez concluida la investigación informe a esta soberanía sobre los resultados de la misma.
+
+Sentido de la votación: Se aprobó por unanimidad de votos.
+
+Status: Se formuló comunicación mediante la cual se envió a la Fiscalía Especializada en Delitos por Hechos de Corrupción del Estado.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázarez Martínez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta H.  Diputación Permanente solicita a la Secretaría de Finanzas que entregue a este Poder Legislativo, por conducto de la Comisión de Finanzas, un informe a detalle del gasto ejercido y pagado por la cantidad 30 millones 037 mil 891 pesos; que contenga nombre, monto, fecha, concepto y documento de soporte de las erogaciones cargadas a la partida identificada como “46101, Transferencias a Fideicomisos del Poder Ejecutivo del Estado.
+
+Sentido de la votación: Se desechó por mayoría de votos.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada Rosa Nilda González Noriega, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta Diputación Permanente, exhorta a la Fiscalía Especializada en Delitos por Hechos de Corrupción en el Estado de Coahuila de Zaragoza, a fin de que  se concluya la carpeta de investigación, y en su caso, se sancione a la brevedad a los funcionarios y/o ex funcionarios del municipio de General Cepeda de la administración 2014-2017, relacionados con los presuntos actos de corrupción que se describen en la presente proposición.
+
+Sentido de la votación: Se aprobó por unanimidad de votos.
+
+Estatus: Se formuló comunicación mediante la cual se envió a la Fiscalía Especializada en Delitos por Hechos de Corrupción en el Estado.
+
+### 27 de agosto del 2019
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares Martínez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”.
+
+**Acuerdo:**
+
+Único.- Esta H.  Diputación Permanente  solicita  al Titular del Ejecutivo Federal, presidente Andrés Manuel López Obrador que, en su  Primer Informe de Gobierno incluya la explicación detallada de los siguientes temas: a) El monto de dinero ahorrado con los recortes presupuestales y el destino que se ha dado o se dará a dichos recursos; b) Las estrategia de su gobierno para frenar la ola de violencia que azota al país, que ya ha alcanzado niveles históricos durante esta administración; c) Los planes con los que cuenta para detonar el crecimiento económico nacional y revertir los indicadores que apuntan a un estancamiento y eventual recesión de la economía; d) Las acciones que llevará a cabo para abatir los graves rezagos en materia de salud, incluyendo lo generados por sus recortes presupuestales; e) Datos fidedignos y verificables por la ciudadanía sobre el combate al huachicoleo; f) El costo que tendrá para los mexicanos la cancelación del Aeropuerto Internacional (NAIM), y en su caso, el costo/beneficio de la cancelación de dicha obra; g) Las acciones que emprenderá su gobierno para frenar la ola de feminicidios que afecta al país, y que sigue a la alza pese a los discursos oficiales y, h) Las acciones que realizará su gobierno para combatir la corrupción, que vayan más allá de una “cartilla moral” y de la creencia de que él solo puede reducir este mal en toda la administración pública federal con “buenas intenciones”.
+
+Sentido de la votación: Se descarta por mayoría de votos.
+
+Estatus: Se turnó a la Comisión de Gobernación, Puntos Constitucionales y Justicia.
+
+**Punto de Acuerdo**
+
+Presentado por: Diputada María Eugenia Cázares Martínez, conjuntamente con y las y los Diputados del Grupo Parlamentario “Del Partido Acción Nacional”, “Con objeto de que esta Diputación Permanente, por con conducto de la Comisión de Auditoría Gubernamental y Cuenta Pública, solicite a la Auditoría Superior del Estado, investigue si en el Municipio de Matamoros, Coahuila, se ha realizado la entrega indebida de los llamados bonos o compensaciones ilegales”.
+
+**Acuerdo:**
+
+Único.- Túrnese la presente a la Comisión de Auditoría Gubernamental y Cuenta Pública, para los efectos legales correspondientes.
+
+Estatus: Se turnó a la Comisión de Auditoría Gubernamental y Cuenta Pública.
+
+---
+
+## Ámbito Federal
+
+### 31 de julio del 2019
+
+Iniciativa
+
+Presentada por: Diputada Fabiola Loya Hernández, Movimiento Ciudadano.
+
+Que reforma el artículo 114 de la Constitución Política de los Estados Unidos Mexicanos, adiciona el 107 Ter del Código Penal Federal y reforma el 74 de la Ley General de Responsabilidades Administrativas, con objeto de eliminar la prescripción de delitos en materia de corrupción.
+
+Estatus: Turnada a la Comisión de Puntos Constitucionales.
+
+Publicación: Gaceta Parlamentaria, número 5336-I, miércoles 7 de agosto de 2019. (1851).
+
+### 21 de agosto del 2019
+
+Iniciativa
+
+Presentada por: Diputado Emmanuel Reyes Carmona.
+
+Que reforma diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en materia de rendición de cuentas.
+
+Estatus: Turnada a la Comisión de Transparencia y Anticorrupción.
+
+Publicación: Gaceta Parlamentaria, número 5351-I, miércoles 28 de agosto de 2019. (1937).
+
+Iniciativa
+
+Presentada por: Diputado Emmanuel Reyes Carmona.
+
+Que reforma diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en materia de armonización legislativa.
+
+Estatus: Turnada a la Comisión de Transparencia y Anticorrupción.
+
+Publicación: Gaceta Parlamentaria, número 5351-I, miércoles 28 de agosto de 2019. (1940).
+
+Iniciativa
+
+Presentada por: Diputadas y Diputados del Grupo Parlamentario del PAN.
+
+Que reforma y adiciona diversos artículos de la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los Artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Estatus: Turnada a la Comisión de Transparencia y Anticorrupción.
+
+Publicación: Gaceta Parlamentaria, número 5351-II, miércoles 28 de agosto de 2019. (1958).
+
+Acuerdos Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
+
+En la quinta sesión ordinaria celebrada el día 19 julio de 2019, fueron aprobados los siguientes acuerdos:
+
+SEA/OG/011/2019
+
+Único: Con fundamento en el artículo 14, fracción V, del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, se aprueba por unanimidad de votos el Segundo Informe de Avance de Gestión Financiera correspondiente a los meses de abril, mayo y junio del ejercicio fiscal 2019, de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+
+SEA/OG/012/2019
+
+Único: Con fundamento en el artículo 14, fracción V, del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, se aprueba por unanimidad de los integrantes del Órgano de Gobierno, las Adecuaciones de los Estados Financieros correspondiente al Segundo Avance de Gestión Financiera, de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila.
+
+---
+
+## Seguimiento de medios de comunicación impresos
+
+### Julio 2019
+
+**El reto de “100 días” consolida a Fiscalía Anticorrupción de Coahuila: Homero Flores**
+
+Con la iniciativa del Consejo de participación Ciudadana y los integrantes del Sistema Estatal Anticorrupción, inició el reto de “100 días” en el mes de febrero del presente año, finalizando la tarde de este miércoles. Dicho reto tiene como objetivo fortalecer la comunicación, coordinación y colaboración de los diferentes órganos, dependencias e instituciones autónomas que integran el Sistema Estatal Anticorrupción (SEA), y que los ciudadanos tengan un rol más participativo y proactivo, según informó en un comunicado el titular de la Fiscalía, Jesús Homero Flores Mier (El Heraldo de Saltillo, 3 de julio de 2019).
+
+<https://www.elheraldodesaltillo.mx/2019/07/03/el-reto-de-100-dias-consolida-a-fiscalia-anticorrupcion-de-coahuila-homero-flores/>
+
+**Reparan daño al erario 54 servidores públicos de Coahuila; se pagaron más de 700 mil pesos**
+
+Un total de 54 servidores públicos de municipios y dependencias estatales repararon el daño que causaron al erario y 31 fueron puestos a disposición de un juez como parte de los resultados del Reto 100 días en el que participaron las distintas dependencias del Sistema Estatal Anticorrupción, informó Ana Yuri Solís Gaona (Vanguardia, 4 de julio de 2019).
+
+<https://vanguardia.com.mx/articulo/reparan-dano-al-erario-54-servidores-publicos-de-coahuila-se-pagaron-mas-de-700-mil-pesos>
+
+**Confianza ciudadana, principal reto del Sistema Anticorrupción**
+
+La ciudadanía coahuilense necesita mayor confianza en el Sistema Estatal Anticorrupción de Coahuila, pues la percepción de corrupción en el Estado es mayor que la que realmente se registra, sostuvo Ana Yuri Solís Gaona (Vanguardia, 12 de julio de 2019).
+
+<https://vanguardia.com.mx/articulo/confianza-ciudadana-principal-reto-del-sistema-anticorrupcion>
+
+**Privilegiarán paridad en dos órganos del SEA**
+
+La conformación de la Comisión de Selección y del Consejo de Participación Ciudadana del Sistema Estatal Anticorrupción, se tendrá que dar bajo el principio de paridad de género en la entidad, como ya ocurre en otros estados.
+
+El Congreso del Estado aprobó una reforma a los artículos 17 y 18 de la Ley del Sistema Estatal Anticorrupción del Estado de Coahuila, propuesta por el diputado local del PAN, Gerardo Aguado Gómez, quien señaló que por lo menos 18 estados del país ya contemplan la paridad de género en dos de los órganos que conforman el Sistema Anticorrupción (Vanguardia, 21 de julio de 2019).
+
+<https://vanguardia.com.mx/articulo/privilegiaran-paridad-en-dos-organos-del-sea>
+
+**Invitan a conocer nuevo sitio web del Sistema Estatal Anticorrupción de Coahuila**
+
+Con un rediseño más amigable y accesible para el usuario, la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Coahuila (SEA), presentó su nuevo sitio web www.seacoahuila.org.mx, que desde este lunes ya opera en internet, permitiendo conocer temas de relevancia como quiénes integran el Comité de Coordinadores de este organismo y sus perfiles, comunicados oficiales y publicaciones en redes sociales, además de planes de trabajo (El Heraldo de Saltillo, 22 de julio de 2019).
+
+<https://www.elheraldodesaltillo.mx/2019/07/22/invitan-a-conocer-nuevo-sitio-web-del-sistema-estatal-anticorrupcion-de-coahuila/>
+
+**Habrá a más tardar el 5 de octubre nuevo integrante del Consejo Anticorrupción**
+
+Este lunes se llevó a cabo el inicio de los trabajos por parte de la Comisión de Selección del Consejo de Participación Ciudadana (CPC) del Sistema Anticorrupción de Coahuila -cuyos integrantes fungen como encargados de elegir a los coahuilenses que integran dicho consejo- para la elección del nuevo integrante de ese organismo ciudadano, quien será designado a más tardar el 5 de octubre, de acuerdo con el calendario de dicho proceso de selección (El Heraldo de Saltillo, 29 de julio de 2019).
+
+<https://www.elheraldodesaltillo.mx/2019/07/29/habra-a-mas-tardar-el-5-de-octubre-nuevo-integrante-del-consejo-anticorrupcion/>
+
+### Agosto 2019
+
+**En Coahuila, convocan a integrar el Consejo Ciudadano Anticorrupción**
+
+Con requisitos más rigurosos, la Comisión de Selección del Sistema Estatal Anticorrupción en Coahuila, abrió la convocatoria para ser parte del Consejo de Participación Ciudadana, en esta ocasión dirigida a candidatos del sexo masculino (Milenio, 14 de agosto del 2019).
+
+<https://www.milenio.com/estados/coahuila-convocan-integrar-consejo-ciudadano-anticorrupcion>
+
+---
+
+**Presentan convocatoria para selección de nuevo integrante del CPC del Sistema Anticorrupción**
+
+Este miércoles, conforme a lo establecido en el calendario de trabajo de la Comisión de Selección del Sistema Anticorrupción del Estado de Coahuila, se dio a conocer la convocatoria para la selección del nuevo integrante del Consejo de Participación Ciudadana de ese organismo, quien será designado a más tardar el próximo cinco de octubre (El Heraldo de Saltillo, 14 de agosto de 2019).
+
+<https://www.elheraldodesaltillo.mx/2019/08/14/presentan-convocatoria-para-seleccion-de-nuevo-integrante-del-cpc-del-sistema-anticorrupcion/>

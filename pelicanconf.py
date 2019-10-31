@@ -102,8 +102,8 @@ DEFAULT_ORPHANS = 2
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False
 
-# Para desarrollo, borrar todo output
-DELETE_OUTPUT_DIRECTORY = True
+# Para desarrollo, NO borrar todo output
+DELETE_OUTPUT_DIRECTORY = False
 
 # No eliminar de output los siguientes directorios y archivos
 OUTPUT_RETENTION = ['.git', '.gitignore']

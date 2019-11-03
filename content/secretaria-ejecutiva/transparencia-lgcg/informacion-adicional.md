@@ -3,7 +3,16 @@ Slug: informacion-adicional
 Summary: Transparencia LGCG - Información Adicional
 Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
-Modified: 2019-07-31 15:35
+Modified: 2019-11-02 10:30
+
+
+### Tercer trimestre 2019
+
+[Información adicional - PDF](2019-10_09-0-informacion-adicional-con-acuse.pdf)
+
+1. Relación de Bienes Muebles [XLSX](2019-10_09-1-relacion-de-bienes-muebles.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2019-10_09-2-relacion-de-bienes-inmuebles.xlsx)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2019-10_09-4-destino-del-gasto-federalizado-y-reintegros.xlsx)
 
 
 ### Segundo trimestre 2019

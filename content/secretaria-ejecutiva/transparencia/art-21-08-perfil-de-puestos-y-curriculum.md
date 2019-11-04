@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-06-04 13:00
 
 
-Fecha de última actualización: 30 de septiembre 2019.
+Fecha de última actualización: 31 de octubre 2019.
 
 #### Secretario Técnico
 

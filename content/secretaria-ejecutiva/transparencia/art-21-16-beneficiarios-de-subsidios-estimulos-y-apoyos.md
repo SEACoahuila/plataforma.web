@@ -3,18 +3,24 @@ Slug: art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos
 Summary: Beneficiarios de subsidios, estímulos y apoyos.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-07-31 12:31
+Modified: 2019-11-04 09:10
 
 
-Fecha de última actualización: 30 de septiembre 2019.
+Fecha de última actualización: 31 de octubre 2019.
 
-### NO APLICA
+#### Montos Pagados por Ayudas y Subsidios
 
-A lo dispuesto en la Fracción XVI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza. De conformidad con la Constitución Política del Estado, y con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, **no se establecen programas de subsidio, estímulos o apoyos a ejecutar por parte de la Secretaría Ejecutiva, ni tampoco se contemplan en su presupuesto de egresos, razón por la cual no se cuenta con un listado de beneficiarios de dichos programas.**
+**Período Tercer Trimestre 2019**
 
-#### Secretaría Ejecutiva del Sistema Anticorrupción del Estado De Coahuila De Zaragoza
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
 
-##### Montos Pagados por Ayudas y Subsidios
+No se brindaron ayudas y subsidios en el período.
 
 **Período Segundo Trimestre 2019**
 

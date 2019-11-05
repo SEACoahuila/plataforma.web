@@ -3,7 +3,7 @@ Slug: art-21-21-calendario-de-reuniones-publicas
 Summary: Calendario de reuniones públicas.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-04-04 13:32
+Modified: 2019-11-05 09:16
 
 
 Fecha de última actualización: 31 de octubre 2019.
@@ -24,6 +24,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 30 de abril 2019   - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
 * 31 de mayo 2019    - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
 * 19 de julio 2019   - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de agosto 2019  - [Acta de la Séptima Sesión Ordinaria - PDF](2019-08-30-septima-sesion-ordinaria-comite-coordinador.pdf)
 
 #### Sesiones Extraordinarias del Comité Coordinador
 

@@ -16,15 +16,16 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 
 #### Sesiones Ordinarias del Comité Coordinador
 
-* 15 de marzo 2018   - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 26 de junio 2018   - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
-* 05 de octubre 2018 - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
-* 08 de enero 2019   - [Acta de la Primer Sesión Ordinaria  - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 05 de marzo 2019   - [Acta de la Segunda Sesión Ordinaria - PDF](2019-03-05-segunda-sesion-ordinaria-comite-coordinador.pdf)
-* 30 de abril 2019   - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
-* 31 de mayo 2019    - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
-* 19 de julio 2019   - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
-* 30 de agosto 2019  - [Acta de la Séptima Sesión Ordinaria - PDF](2019-08-30-septima-sesion-ordinaria-comite-coordinador.pdf)
+* 15 de marzo 2018      - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 26 de junio 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 05 de octubre 2018    - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 08 de enero 2019      - [Acta de la Primer Sesión Ordinaria  - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 05 de marzo 2019      - [Acta de la Segunda Sesión Ordinaria - PDF](2019-03-05-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de abril 2019      - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 31 de mayo 2019       - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
+* 19 de julio 2019      - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de agosto 2019     - [Acta de la Séptima Sesión Ordinaria - PDF](2019-08-30-septima-sesion-ordinaria-comite-coordinador.pdf)
+* 13 de septeimbre 2019 - [Acta de la Octava Sesión Ordinaria  - PDF](2019-09-13-octava-sesion-ordinaria-comite-coordinador.pdf)
 
 #### Sesiones Extraordinarias del Comité Coordinador
 

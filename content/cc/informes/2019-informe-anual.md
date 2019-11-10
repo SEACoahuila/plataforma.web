@@ -6,7 +6,11 @@ Date: 2019-11-08 11:30
 Modified: 2019-11-08 11:30
 
 
-### Descargar documento
+### Descargar
+
+<a href="iacc-2018-2019.pdf"><img class="img-fluid" src="2019-11-08-informe-cc-2018-0219-descargar.jpg" alt="Descargar el Informe Anual 2018-2019 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza"></a>
+
+* [Informe Anual 2018-2019 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza - PDF 1.2 MB](iacc-2018-2019.pdf)
 
 ### Introducción
 
@@ -385,8 +389,8 @@ De acuerdo con el artículo 42 de la Ley del Sistema Anticorrupción del Estado 
 
 #### Número y Porcentaje de Procedimientos Iniciados en las Entidades Autónomas 2018-2019
 
-Entidades Autónomas | Iniciados | Concluidos | Trámite | Sanción | Concluidos | Trámite | Sanción
---------------------|----------:|-----------:|--------:|--------:|-----------:|--------:|--------:
+Entidades Autónomas | Iniciados | Concluidos | Trámite | Sanción | Concluidos % | Trámite % | Sanción %
+--------------------|----------:|-----------:|--------:|--------:|-------------:|----------:|----------:
 Auditoría Superior del Estado(1)                                       |   0 |   0 |   0 |  0 |   0.0% |   0.0% |  0.0%
 Fiscaliza Especializada en Delitos por Hechos de Corrupción del Estado |   0 |   0 |   0 |  0 |   0.0% |   0.0% |  0.0%
 Secretaría de Fiscalización y Rendición de Cuentas(2)                  | 232 | 164 |  68 | 51 |  70.7% |  29.3% | 31.1%
@@ -410,6 +414,49 @@ A continuación, se presenta la gráfica que muestra el porcentaje de los proced
 
 #### Porcentaje de Procedimientos Iniciados en los municipios del Estado de Coahuila
 
+<img class="img-fluid" src="procedimientos-iniciados-municipios-2018-2019.jpg" alt="Porcentaje de Procedimientos Iniciados en los municipios del Estado de Coahuila">
+
 #### Número y Porcentaje de Procedimientos Iniciados en los municipios
 
+Municipios | Iniciados | Concluidos | Trámite | Sanción | Concluidos % | Trámite % | Sanción %
+-----------|----------:|-----------:|--------:|--------:|-------------:|----------:|----------:
+Abasolo             |    6 |   5 |   1 |   5 |  83.3% |  16.7% | 100.0%
+Acuña               |   35 |  26 |   9 |  26 |  74.3% |  25.7% | 100.0%
+Arteaga             |   17 |   0 |  17 |   0 |   0.0% | 100.0% |
+Candela             |    6 |   2 |   4 |   2 |  33.3% |  66.7% | 100.0%
+Castaños            |    2 |   0 |   2 |   0 |   0.0% | 100.0% |
+Cuatro Ciénegas     |   20 |  11 |   9 |  11 |  55.0% |  45.0% | 100.0%
+Escobedo            |   12 |  12 |   0 |  12 | 100.0% |   0.0% | 100.0%
+Francisco I. Madero |    0 |   0 |   0 |   0 |        |        |
+Frontera            |    8 |   2 |   6 |   2 |  25.0% |  75.0% | 100.0%
+General Cepeda      |   12 |   3 |   9 |   3 |  25.0% |  75.0% | 100.0%
+Guerrero            |    3 |   3 |   0 |   3 | 100.0% |   0.0% | 100.0%
+Hidalgo             |    3 |   3 |   0 |   3 | 100.0% |   0.0% | 100.0%
+Jiménez             |    0 |   0 |   0 |   0 |        |        |
+Lamadrid            |    3 |   3 |   0 |   3 | 100.0% |   0.0% | 100.0%
+Matamoros           |   61 |   0 |  61 |   0 |   0.0% | 100.0% |
+Monclova            |   96 |  20 |  76 |  15 |  20.8% |  79.2% |  75.0%
+Morelos             |  145 |   0 | 145 |   0 |   0.0% | 100.0% |
+Múzquiz             |  160 |  81 |  79 |  66 |  50.6% |  49.4% |  81.5%
+Nadadores           |    7 |   7 |   0 |   7 | 100.0% |   0.0% | 100.0%
+Nava                |   12 |   0 |  12 |   0 |   0.0% | 100.0% |
+Parras              |   27 |   0 |  27 |   0 |   0.0% | 100.0% |
+Piedras Negras      |   73 |  55 |  18 |   7 |  75.3% |  24.7% |  12.7%
+Progreso            |   12 |  12 |   0 |  12 | 100.0% |   0.0% | 100.0%
+Ramos Arizpe        |    3 |   3 |   0 |   0 | 100.0% |   0.0% |   0.0%
+Sacramento          |    0 |   0 |   0 |   0 |        |        |
+Sabinas             |   30 |   2 |  28 |   1 |   6.7% |  93.3% |  50.0%
+Saltillo            |   24 |  22 |   2 |   8 |  91.7% |   8.3% |  36.4%
+San Buenaventura    |    7 |   0 |   7 |   0 |   0.0% | 100.0% |
+San Juan de Sabinas |    0 |   0 |   0 |   0 |        |        |
+San Pedro           |    2 |   1 |   1 |   1 |  50.0% |  50.0% | 100.0%
+Sierra Mojada       |    0 |   0 |   0 |   0 |        |        |
+Torreón             |  207 |  87 | 120 |  44 |  42.0% |  58.0% |  50.6%
+Viesca              |   39 |  39 |   0 |  39 | 100.0% |   0.0% | 100.0%
+Villa Unión         |   18 |   1 |  17 |   1 |   5.6% |  94.4% | 100.0%
+Zaragoza            |   17 |  17 |   0 |  16 | 100.0% |   0.0% |  94.1%
+Total               | 1067 | 417 | 650 | 287 |  39.1% |  60.9% |  68.8%
+
 ### Anexos
+
+* [Capacitación, cooperación, promoción y difusión del SAEC - PDF](anexos-capacitacion-cooperacion-promocion-difusion.pdf)

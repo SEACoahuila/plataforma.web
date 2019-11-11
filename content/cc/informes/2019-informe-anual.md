@@ -2,6 +2,7 @@ Title: Informe Anual 2018-2019 del Comité Coordinador del Sistema Anticorrupci�
 Slug: 2019-informe-anual
 Summary: Informe Anual 2018-2019, Anexos y Marco Jurídico
 Author: CC
+Image: preview.jpg
 Date: 2019-11-08 11:30
 Modified: 2019-11-11 11:30
 

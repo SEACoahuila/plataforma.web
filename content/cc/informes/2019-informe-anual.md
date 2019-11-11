@@ -3,7 +3,7 @@ Slug: 2019-informe-anual
 Summary: Informe Anual 2018-2019, Anexos y Marco Jurídico
 Author: CC
 Date: 2019-11-08 11:30
-Modified: 2019-11-08 11:30
+Modified: 2019-11-11 11:30
 
 
 ### Descargar
@@ -34,44 +34,44 @@ Para realizar lo anterior, es necesario ajustar en todo momento las actividades 
 
 **Constituciones Políticas**
 
-* Constitución Política de los Estados Unidos Mexicanos.
-* Constitución Política del Estado de Coahuila de Zaragoza.
+* [Constitución Política de los Estados Unidos Mexicanos](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/constitucion-politica-federal.pdf)
+* [Constitución Política del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/constitucion-politica-del-estado-de-coahuila-de-zaragoza.pdf)
 
 **Leyes Federales**
 
-* Ley de Fiscalización y Rendición de Cuentas de la Federación.
-* Ley Federal de Responsabilidades de los Servidores Públicos.
-* Ley Federal de Transparencia y Acceso a la Información Pública.
-* Ley General de Contabilidad Gubernamental.
-* Ley General del Sistema Nacional Anticorrupción.
-* Ley General de Responsabilidades Administrativas.
-* Ley General de Transparencia y Acceso a la Información Pública.
-* Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-* Ley Federal del Trabajo.
+* [Ley de Fiscalización y Rendición de Cuentas de la Federación](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.pdf)
+* [Ley Federal de Resposabilidades de los Servidores Públicos](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
+* [Ley Federal de Transparencia y Acceso a la Información Pública](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
+* [Ley Federal del Trabajo](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-del-trabajo.pdf)
+* [Ley General de Contabilidad Gubernamental](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-de-contabilidad-gubernamental.pdf)
+* [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados.pdf)
+* [Ley General de Responsabilidades Administrativas](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-de-responsabilidades-administrativas.pdf)
+* [Ley General de Transparencia y Acceso a la Información Pública](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
+* [Ley General del Sistema Nacional Anticorrupción](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-del-sistema-nacional-anticorrupcion.pdf)
 
 **Leyes Locales**
 
-* Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza.
-* Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
-* Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Coahuila de Zaragoza.
-* Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza.
-* Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza.
-* Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
-* Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza.
-* Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
-* Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza.
-* Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila.
-* Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
-* Ley para Prevenir y Sancionar las Prácticas de Corrupción en los Procedimientos de Contratación Pública del Estado de Coahuila de Zaragoza y sus municipios.
+* [Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/estatuto-juridico-para-los-trabajadores-al-servicio-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-acceso-a-la-informacion-publica-para-el-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-adquisiciones-arrendameintos-y-contratacion-de-servicios-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-entidades-paraestatales-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-entrega-recepcion-del-estado-y-municipios-de-coahuila-de-zaragoza.pdf)
+* [Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-obras-publicas-y-servicios-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-responsabilidades-de-los-servidores-publicos-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-organica-de-la-administracion-publica-del-estado-de-coahuila-de-zaragoza.pdf)
+* [Ley para Prevenir y Sancionar Prácticas de Corrupción En Los Procedimientos de Contratación Pública del Estado de Coahuila de Zaragoza y sus Municipios](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-para-prevenir-y-sancionar-practicas-de-corrupcion-del-estado-de-coahuila-de-zaragoza.pdf)
 
 **Reglamentos Estatales**
 
-* Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
-* Lineamientos de Austeridad de la Secretaría Ejecutiva el Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+* [Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
+* [Lineamientos de Austeridad de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/lineamientos-de-austeridad-de-la-sesaec.pdf)
 
 **Acuerdos, lineamientos y recomendaciones**
 
-* Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos PersonalesLineamientos SIPOT.
+* [Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales - Lineamientos SIPOT](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/lineamientos-sipot.pdf)
 
 ### Sistema Anticorrupción del Estado de Coahuila
 
@@ -185,7 +185,7 @@ Para su elaboración el trabajo fue estructurado en cuatro grandes fases, las cu
 
 #### Ruta crítica por etapas para la elaboración de la Política Anticorrupción
 
-<img class="img-fluid" src="ruta-critica-etapas-elaboracion-politica-anticorrupcion.png" alt="Ruta crítica por etapas para la elaboración de la Política Anticorrupción">
+<img class="img-fluid" src="ruta-critica-etapas-elaboracion-politica-anticorrupcion.jpg" alt="Ruta crítica por etapas para la elaboración de la Política Anticorrupción">
 
 #### Componentes para la construcción de la PEAC
 

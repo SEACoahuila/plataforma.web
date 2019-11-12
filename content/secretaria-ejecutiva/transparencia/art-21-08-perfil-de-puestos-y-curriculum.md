@@ -3,13 +3,14 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-11-12 11:40
+Modified: 2019-11-12 12:02
 
 
 Fecha de última actualización: 31 de octubre 2019.
 
 #### Secretario Técnico
 
+* [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-mcm.pdf)
 * Guadalupe Ascención Olvera Patena
 
 #### Dirección de Asuntos Jurídicos y Transparencia

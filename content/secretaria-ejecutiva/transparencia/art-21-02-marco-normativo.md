@@ -16,7 +16,7 @@ Fecha de última actualización: 31 de octubre 2019.
 ### Leyes federales
 
 * [Ley de Fiscalización y Rendición de Cuentas de la Federación <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.pdf)
-* [Ley Federal de Resposabilidades de los Servidores Públicos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
+* [Ley Federal de Responsabilidades de los Servidores Públicos <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
 * [Ley Federal de Transparencia y Acceso a la Información Pública <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
 * [Ley Federal del Trabajo <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-federal-del-trabajo.pdf)
 * [Ley General de Contabilidad Gubernamental <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](ley-general-de-contabilidad-gubernamental.pdf)

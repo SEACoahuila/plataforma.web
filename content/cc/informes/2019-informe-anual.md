@@ -4,7 +4,7 @@ Summary: Informe Anual 2018-2019, Anexos y Marco Jurídico
 Author: CC
 Image: preview.jpg
 Date: 2019-11-08 11:30
-Modified: 2019-11-11 11:30
+Modified: 2019-11-12 09:50
 
 
 ### Descargar
@@ -41,7 +41,7 @@ Para realizar lo anterior, es necesario ajustar en todo momento las actividades 
 **Leyes Federales**
 
 * [Ley de Fiscalización y Rendición de Cuentas de la Federación](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion.pdf)
-* [Ley Federal de Resposabilidades de los Servidores Públicos](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
+* [Ley Federal de Responsabilidades de los Servidores Públicos](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-de-responsabilidades-de-los-servidores-publicos.pdf)
 * [Ley Federal de Transparencia y Acceso a la Información Pública](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-de-transparencia-y-acceso-a-la-informacion-publica.pdf)
 * [Ley Federal del Trabajo](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-federal-del-trabajo.pdf)
 * [Ley General de Contabilidad Gubernamental](/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo/ley-general-de-contabilidad-gubernamental.pdf)
@@ -76,11 +76,11 @@ Para realizar lo anterior, es necesario ajustar en todo momento las actividades 
 
 ### Sistema Anticorrupción del Estado de Coahuila
 
-Reforma a la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza En el marco de la actualización jurídica y normativa, la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, ha tenido tres reformas que han venido a dotar de mayor exigencia el funcionamiento del Sistema Estatal Anticorrupción, esto, al exigir que tanto el Comité Coordinador, como el propio Consejo de Participación Ciudadana, realicen sesiones ordinarias de sus plenos con frecuencia mensual, ello, con la finalidad de dardebido tratamiento y seguimiento a los temas de fiscalización, rendición de cuentas, transparencia y responsabilidades administrativas entre otros.
+Reforma a la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza En el marco de la actualización jurídica y normativa, la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, ha tenido tres reformas que han venido a dotar de mayor exigencia el funcionamiento del Sistema Estatal Anticorrupción, esto, al exigir que tanto el Comité Coordinador, como el propio Consejo de Participación Ciudadana, realicen sesiones ordinarias de sus plenos con frecuencia mensual, ello, con la finalidad de dar debido tratamiento y seguimiento a los temas de fiscalización, rendición de cuentas, transparencia y responsabilidades administrativas entre otros.
 
 Las reformas que se han efectuado son las siguientes:
 
-* En fecha 19 de marzo de 2019, se reformó el artículo 34, fracciones III y IV, en el cual fue modificad la aedad para ser designado Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza. Anteriormente establecía como requisito el tener más de treinta años al día de la designación; sin embargo, con la nueva reforma ahora se incrementa a treinta y cinco años la edad mínima para participar en la convocatoria. Además, fue el poseer al día de la designación, una antigüedad mínima de diez años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones, anteriormente se requería una antigüedad de cinco años.
+* En fecha 19 de marzo de 2019, se reformó el artículo 34, fracciones III y IV, en el cual fue modificad la edad para ser designado Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza. Anteriormente establecía como requisito el tener más de treinta años al día de la designación; sin embargo, con la nueva reforma ahora se incrementa a treinta y cinco años la edad mínima para participar en la convocatoria. Además, fue el poseer al día de la designación, una antigüedad mínima de diez años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones, anteriormente se requería una antigüedad de cinco años.
 * De igual manera, en fecha 12 de abril de 2019, se reformó el artículo 13, el cual presenta la obligación actual del Comité Coordinador para sesionar ordinariamente una vez al mes. Anteriormente se tenía la obligación de sesionar solamente cada tres meses.
 * Igualmente, en la misma fecha se reformó el artículo 20 de la citada Ley, en el cual establece ahora que el Consejo de Participación Ciudadana deberá reunirse en sesión ordinaria cada mes, previa convocatoria de su Presidente. Anteriormente el Consejo de Participación Ciudadana sesionaba una vez cada tres meses.
 * En fecha 12 de julio de 2019, también fueron reformados los artículos 17 y 18, en los cuales establecen que en la integración de la Comisión de Selección y del Consejo de Participación Ciudadana, se deberá atender el principio de paridad de género. Se concluyó que en el Consejo de Participación Ciudadana tres de sus integrantes deberán pertenecer a un mismo género y, en la Comisión de Selección cinco de sus integrantes deberán pertenecer a un mismo género.
@@ -150,7 +150,7 @@ En el marco de las acciones emprendidas por el Comité Coordinador del SAEC, se 
 
 Este taller fue dividido en dos etapas, la primera consistió en un curso, el cual contó con la presencia de los integrantes del Consejo de Participación Ciudadana (CPC), personal operativo de la Auditoría Superior del Estado de Coahuila, Fiscalía Especializada en Delitos por Hechos de Corrupción, Secretaría de Fiscalización y Rendición de Cuentas, Consejo de la Judicatura del Poder Judicial del Estado, Instituto Coahuilense de Acceso aInformación Pública, Tribunal de Justicia Administrativa y la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
-El taller fue impartido por el Instituto Nacional de Estadística y Geografía (INEGI), en las instalaciones deUniversidad Autónoma de Coahuila campus Arteaga, en el cual se presentó la información estadística que esta institución genera, desagregada por entidad federativa necesarias para el diseño y evaluación de las políticasestrategias anticorrupción. De igual forma, se dedicó un espacio para la presentación de los censos, proyectosencuestas, sus características metodológicas y los recursos tecnológicos para su uso adecuado.
+El taller fue impartido por el Instituto Nacional de Estadística y Geografía (INEGI), en las instalaciones deUniversidad Autónoma de Coahuila campus Arteaga, en el cual se presentó la información estadística que esta institución genera, desagregada por entidad federativa necesarias para el diseño y evaluación de las políticas y estrategias anticorrupción. De igual forma, se dedicó un espacio para la presentación de los censos, proyectos y encuestas, sus características metodológicas y los recursos tecnológicos para su uso adecuado.
 
 Encuesta | Prevalencia | Percepción | Denuncia
 ---------------------------------------------------|:-:|:-:|:-:
@@ -282,7 +282,7 @@ Por otro lado, el Tribunal de Justicia Administrativa llevó a cabo una exposici
 
 **En Entrevista**
 
-El Tribunal de Justicia Administrativa fue invitado al noticiero “Informa Tv” del canal 6 Saltillo para invitar a la comunidad a participar en el Primer Concurso de Ensayo: Justicia Administrativa y el Sistema Estatal Anticorrupción.
+El Tribunal de Justicia Administrativa fue invitado al noticiero “Informa TV” del canal 6 Saltillo para invitar a la comunidad a participar en el Primer Concurso de Ensayo: Justicia Administrativa y el Sistema Estatal Anticorrupción.
 
 Fue a través de la radio, que el TJA participó en diversos programas como, “Es tu Derecho, Coahuila Hoy y Hablemos de Corrupción” en los cuales se habló de temas relacionados con las responsabilidades administrativas, anticorrupción y otras actividades relacionadas con estos temas, así como también sobre funciones jurisdiccionales y la participación del Tribunal de Justicia Administrativa en el Sistema Estatal Anticorrupción.
 

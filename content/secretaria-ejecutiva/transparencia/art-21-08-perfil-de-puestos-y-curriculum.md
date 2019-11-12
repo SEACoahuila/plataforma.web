@@ -3,15 +3,14 @@ Slug: art-21-08-perfil-de-puestos-y-curriculum
 Summary: Perfil de puestos y currículum.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-06-04 13:00
+Modified: 2019-11-12 11:40
 
 
 Fecha de última actualización: 31 de octubre 2019.
 
 #### Secretario Técnico
 
-* [José Manuel Gil Navarro <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jmgn.pdf)
-* Guadalupe Ascención Olvera Paterna
+* Guadalupe Ascención Olvera Patena
 
 #### Dirección de Asuntos Jurídicos y Transparencia
 

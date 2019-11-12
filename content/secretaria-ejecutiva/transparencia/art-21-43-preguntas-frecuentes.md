@@ -3,7 +3,7 @@ Slug: art-21-43-preguntas-frecuentes
 Summary: Preguntas frecuentes.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-01-31 16:22
+Modified: 2019-11-12 11:40
 
 
 Fecha de última actualización: 31 de octubre 2019.
@@ -18,7 +18,7 @@ Funge como órgano de apoyo técnico del Comité Coordinador del Sistema Estatal
 
 ### ¿Quién representa legalmente a la Secretaría Ejecutiva?
 
-De conformidad con el artículo 18 fracción I, del Reglamento interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, la Secretaria Técnica, C. Mtro. José Manuel Gil Navarro.
+De conformidad con el artículo 18 fracción I, del Reglamento interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, el Encardo del Despacho de la Secretaria Técnica, Lic. Mauricio Contreras Montoya.
 
 ### ¿En dónde se localiza la Secretaría Ejecutiva?
 

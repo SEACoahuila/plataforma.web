@@ -7,7 +7,7 @@ SITENAME = 'Sistema Anticorrupción del Estado de Coahuila de Zaragoza'
 SITEURL = 'https://www.seacoahuila.org.mx'
 SITELOGO = 'theme/images/saec.png'
 SITEDESCRIPTION = 'El Sistema Estatal Anticorrupción tiene las facultades de establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de los Entes Públicos en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.'
-SITETWITTER = '@sesaecoah'
+SITETWITTER = '@seseacoah'
 SITEKEYWORDS = 'Sistema, Anticorrupción, Coahuila, Secretaría Ejecutiva, Comité Coordinador, Consejo de Participación Ciudadana'
 
 # Autor por defecto

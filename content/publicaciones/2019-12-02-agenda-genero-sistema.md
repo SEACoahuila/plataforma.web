@@ -9,6 +9,8 @@ Author: Lourdes de Koster López
 Status: draft
 
 
+<img class="img-fluid" src="imagen.jpg" alt="Equidad desde la base, Agenda de Género como Sistema">
+
 > Para Estefanía, por buscar siempre, ser justa en lo que decide
 
 Por **Lourdes de Koster López,** Integrante del Consejo de Participación Ciudadana del Sistema Estatal Anticorrupción.
@@ -78,3 +80,7 @@ Pero la corrupción no es un acto exclusivo de hombre o mujeres, de jóvenes o a
 2. Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza. Periodico Oficial del Estado de Coahuila de Zaragoza. Recuperado de http://congresocoahuila.gob.mx/ portal/leyes-estatales-vigentes
 3. Indicadores básicos del Instituto Nacional de las Mujeres (Inmujeres). Recuperado de http://estadistica.inmujeres. gob.mx/formas/panorama_general.php?IDTema=6&pag=1
 4. “Género y corrupción en América Latina: ¿hay alguna conexión?”. Programa de Naciones Unidas para el Desarrollo (PNUD). Recuperado de https://www.undp.org/content/dam/ chile/docs/genero/undp_cl_genero_y_Corrupcion_2014.pdf
+
+### Descargue la revista Azimut donde encontrará este artículo y muchos más
+
+<a href="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/"><img class="img-fluid" src="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/banner.jpg" alt="Revista Azimut, edición 02"></a>

@@ -9,6 +9,8 @@ Author: Cyntia Moncada Siller
 Status: draft
 
 
+<img class="img-fluid" src="imagen.jpg" alt="De condicionamiento a sextorsión, las preguntas que NO estamos haciendo">
+
 Por **Cyntia Moncada Siller.**
 
 El estudio de la relación entre género y corrupción es relativamente reciente, pero son cada vez más los estudios que urgen agregar la dimensión de género a su entendimiento con el fin de tener un panorama más claro y, por consiguiente, replantear las estrategias para evitar que la corrupción siga frenando la igualdad de género y el empoderamiento femenino.
@@ -66,3 +68,7 @@ La Asociación Internacional de Juezas (IAWJ) utilizó el término sextorción e
 4. Conclusiones y recomendaciones del “Diálogo anticorrupción y género en la lucha contra la corrupción en América Latina”, en el marco del C-20, 2018.
 5. “A comparative study of laws to prosecute corruption involving sexual explotation”. International Association of Women Judges, Internacional Combating sextortion.
 6. “Gender mainstreaming in the Transparency Fund, Banco Interamericano de Desarrollo, 2018.
+
+### Descargue la revista Azimut donde encontrará este artículo y muchos más
+
+<a href="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/"><img class="img-fluid" src="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/banner.jpg" alt="Revista Azimut, edición 02"></a>

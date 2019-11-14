@@ -9,6 +9,8 @@ Author: Teresa Guajardo Berlanga
 Status: draft
 
 
+<img class="img-fluid" src="imagen.jpg" alt="SEA, Retos desde la Perspectiva de la Rendición de Cuentas">
+
 Por **Teresa Guajardo Berlanga,** Secretaria de Fiscalización y Rendición de Cuentas del Gobierno del Estado de Coahuila.
 
 A lo largo de la historia, nuestra entidad federativa Coahuila de Zaragoza ha estado involucrada en el devenir histórico legislativo de nuestro país. Desde la Constitución Política de los Estados Unidos Mexicanos de 1917 hasta las últimas reformas que aprueban la creación de instituciones, como las del combate a la corrupción, que fijan el rumbo en nuestra entidad en este futuro reciente.
@@ -52,3 +54,7 @@ Otro de los retos es poder expresar, desde la perspectiva de cada instancia que 
 En el camino se ha avanzado, aun y como en todo trayecto que se inicia puede haber planicies y atajos, así como caminos pronunciados y complicados para el andar. Estamos convencidos que el trabajo conjunto y coordinado con las demás instancias que conforman el Sistema Estatal Anticorrupción habrá de facilitar el objetivo de transitar hacia un mejor Coahuila.
 
 El reto es complejo pero no imposible, sabemos que la ciudadanía exige resultados, reitero mi convencimiento que el proceso que se inició avanza con pasos sólidos y que los resultados que hasta ahora llevamos nos permitirán alcanzar las metas propuestas.
+
+### Descargue la revista Azimut donde encontrará este artículo y muchos más
+
+<a href="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/"><img class="img-fluid" src="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/banner.jpg" alt="Revista Azimut, edición 02"></a>

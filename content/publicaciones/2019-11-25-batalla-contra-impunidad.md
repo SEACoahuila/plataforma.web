@@ -9,6 +9,8 @@ Author: Jesús Homero Flores Mier
 Status: draft
 
 
+<img class="img-fluid" src="imagen.jpg" alt="En la Batalla Contra la Impunidad">
+
 Por **Jesús Homero Flores Mier,** Fiscal Especializado en Delitos por Hechos de Corrupción del Estado de Coahuila de Zaragoza.
 
 Tras una serie de acciones y esfuerzos en el país en materia de transparencia, rendición de cuentas y fiscalización, el día 27 de mayo del año 2015 se publicó en el Diario Oficial de la Federación el decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción. Con esto, establecer las bases del Sistema Nacional Anticorrupción, cuyo objetivo principal es la prevención, investigación y sanción de faltas administrativas y hechos de corrupción.
@@ -84,3 +86,7 @@ En concordancia con lo anterior, numerosos investigadores y especialistas han es
 Cabe destacar para el efecto de lo arriba mencionado, el desarrollo de diversas actividades realizadas con niños y jóvenes en nuestra entidad, a través de visitas a escuelas y universidades, que buscan fomentar de manera creativa e innovadora valores como la honestidad, responsabilidad, respeto, integridad, lealtad, entre otros.
 
 De esta manera, la Fiscalía Especializada reitera el cumplimiento de su obligación de colaborar en la formación de nuevas generaciones de ciudadanos que contribuyan en la eliminación de un problema tan grave como la corrupción y siempre reafirmando el compromiso de cero tolerancia a la impunidad.
+
+### Descargue la revista Azimut donde encontrará este artículo y muchos más
+
+<a href="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/"><img class="img-fluid" src="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/banner.jpg" alt="Revista Azimut, edición 02"></a>

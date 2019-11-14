@@ -9,8 +9,7 @@ Author: Ludivina Leija Rodríguez
 Status: draft
 
 
-Ética, perspectiva y equidad
-¿LA CORRUPCIÓN TIENE GÉNERO?
+<img class="img-fluid" src="imagen.jpg" alt="Ética, perspectiva y equidad, ¿La Corrupción tiene Género?">
 
 Por **Ludivina Leija Rodríguez,** Contralora General de la Universidad Autónoma de Coahuila.
 
@@ -57,3 +56,7 @@ Por lo que, concluimos reflexionando, ¿la corrupción tiene género? La respues
 4. Ramos, Y. “La corrupción y sus vínculos con el género. Una aproximación al caso mexicano”,
 Revista Mexicana de Análisis Político y Administración Pública, julio-diciembre, 2016, México.
 5. Centro Regional para América Latina y el Caribe, “Género y corrupción en América Latina. ¿Hay alguna conexión?”, 2014, Panamá.
+
+### Descargue la revista Azimut donde encontrará este artículo y muchos más
+
+<a href="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/"><img class="img-fluid" src="../../secretaria-ejecutiva/publicaciones/azimut-2019-09/banner.jpg" alt="Revista Azimut, edición 02"></a>

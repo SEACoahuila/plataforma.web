@@ -1,9 +1,11 @@
 Title: Boletín Anticorrupción en Coahuila, volumen I, año 2019
 Slug: boletin-anticorrupcion-coahuila-2019-03
-Summary: Boletín Anticorrupción en Coahuila, volumen I, año 2019.
+Summary: En este boletín, se presentan de manera cronológica las Iniciativas con Proyecto de Decreto y los Puntos de Acuerdo propuestos en los meses de enero y febrero presente año, relacionados con el funcionamiento e integración del Sistema Anticorrupción del Estado de Coahuila, así como los trámites realizados con respecto a estos.
 Author: Secretaría Ejecutiva
 Date: 2019-03-25 12:02
-Modified: 2019-03-25 12:02
+Modified: 2019-11-22 12:50
+Image: imagen-descargar.jpg
+Preview: preview.jpg
 
 
 ### Descargar

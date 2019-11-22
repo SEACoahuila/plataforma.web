@@ -30,10 +30,72 @@ ciudadanos respecto a las instituciones.
 
 ### El Comité Coordinador está integrado por
 
-* Quien Preside el [Consejo de Participación Ciudadana](http://www.cpccoahuila.org.mx/)
-* La o el Titular de la [Auditoría Superior del Estado](https://www.asecoahuila.gob.mx/)
-* La o el Titular de la [Fiscalía Especializada en Delitos por Hechos de Corrupción del Estado](http://187.189.19.101:8080/WebPGJE/fiscalia-especializada-en-delitos-por-hechos-de-corrupcion.html)
-* La o el Titular de la [Secretaría de Fiscalización y Rendición de Cuentas](http://www.sefircoahuila.gob.mx/)
-* La o el Presidente del Consejo de la Judicatura del [Poder Judicial del Estado](https://www.pjecz.gob.mx/)
-* La o el Presidente del [Instituto Coahuilense de Acceso a la Información Pública](http://www.icai.org.mx/)
-* La o el Presidente del [Tribunal de Justicia Administrativa de Coahuila de Zaragoza](http://www.tjacoahuila.org/)
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-cpc-mlkl.jpg" alt="María de Lourdes Koster López">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">María de Lourdes Koster López</h5>
+        Quien Preside el <a href="http://www.cpccoahuila.org.mx/">Consejo de Participación Ciudadana</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-asec-japs.jpg" alt="José Armando Plata Sandoval">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">José Armando Plata Sandoval</h5>
+        Titular de la <a href="https://www.asecoahuila.gob.mx/">Auditoría Superior del Estado</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-fech-jhfm.jpg" alt="Jesús Homero Flores Mier">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Jesús Homero Flores Mier</h5>
+        Titular de la <a href="http://187.189.19.101:8080/WebPGJE/fiscalia-especializada-en-delitos-por-hechos-de-corrupcion.html">Fiscalía Especializada en Delitos por Hechos de Corrupción del Estado</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-sefirc-tgb.jpg" alt="Teresa Guajardo Berlanga">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Teresa Guajardo Berlanga</h5>
+        Titular de la <a href="http://www.sefircoahuila.gob.mx/">Secretaría de Fiscalización y Rendición de Cuentas</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-pjecz-mfma.jpg" alt="Miguel Felipe Mery Ayup">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Miguel Felipe Mery Ayup</h5>
+        Presidente del Consejo de la Judicatura del <a href="https://www.pjecz.gob.mx/">Poder Judicial del Estado</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-icai-lgb.jpg" alt="Luis González Briseño">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Luis González Briseño</h5>
+        Presidente del <a href="http://www.icai.org.mx/">Instituto Coahuilense de Acceso a la Información Pública</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-tjacz-slrw.jpg" alt="Sandra Luz Rodríguez Wong">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Sandra Luz Rodríguez Wong</h5>
+        Presidente del <a href="http://www.tjacoahuila.org/">Tribunal de Justicia Administrativa de Coahuila de Zaragoza</a>
+    </div>
+</div>

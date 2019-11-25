@@ -2,11 +2,10 @@ Title: En la Batalla Contra la Impunidad
 Slug: 2019-11-25-batalla-contra-impunidad
 Summary: Desde su creación, la fiscalía trabaja en la profesionalización, la eficiencia y el respeto a los derechos humanos para cumplir con las necesidades de la sociedad coahuilense.
 Tags: Publicaciones, Azimut
-Date: 2019-11-13 12:00
-Modified: 2019-11-13 12:00
+Date: 2019-11-25 11:40
+Modified: 2019-11-25 11:40
 Image: preview.jpg
 Author: Jesús Homero Flores Mier
-Status: draft
 
 
 <img class="img-fluid" src="imagen.jpg" alt="En la Batalla Contra la Impunidad">

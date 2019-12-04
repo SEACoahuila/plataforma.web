@@ -30,3 +30,55 @@ Estatal Anticorrupción. Es por esto que debe trabajar en conjunto con el Comit�
 Coordinador y el Secretario Técnico para la integración del componente ciudadano
 en la conformación de los informes, recomendaciones y políticas públicas que se
 consideren necesarias para el buen funcionamiento del Sistema.
+
+### El Consejo de Participación Ciudadana está integrado por
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-mlkl.jpg" alt="María de Lourdes Koster López">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">María de Lourdes Koster López</h5>
+        <a href="mailto:lourdes.de.koster@cpccoahuila.org.mx">lourdes.de.koster@cpccoahuila.org.mx</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-javbs.jpg" alt="Juan Adolfo Von Bertrab Saracho">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Juan Adolfo Von Bertrab Saracho</h5>
+        <a href="mailto:adolfo.von.bertrab@cpccoahuila.org.mx">adolfo.von.bertrab@cpccoahuila.org.mx</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-cro.jpg" alt="Carlos Rangel Orona">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Carlos Rangel Orona</h5>
+        <a href="mailto:carlos.rangel@cpccoahuila.org.mx">carlos.rangel@cpccoahuila.org.mx</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-jpv.jpg" alt="Jafia Pacheco Valtierra">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Jafia Pacheco Valtierra</h5>
+        <a href="mailto:jafia.pacheco@cpccoahuila.org.mx">jafia.pacheco@cpccoahuila.org.mx</a>
+    </div>
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-mfca.jpg" alt="Miguel Francisco Crespo Alvarado">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Miguel Francisco Crespo Alvarado</h5>
+        <a href="mailto:miguel.crespo@cpccoahuila.org.mx">miguel.crespo@cpccoahuila.org.mx</a>
+    </div>
+</div>

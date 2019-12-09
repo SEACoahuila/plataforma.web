@@ -3,7 +3,7 @@ Slug: que-es-el-cpc
 Summary: ¿Qué es el Consejo de Participación Ciudadana?
 Author: CPC
 Date: 2018-12-31 23:59
-Modified: 2019-04-23 16:55
+Modified: 2019-12-04 13:32
 
 
 ### Funciones

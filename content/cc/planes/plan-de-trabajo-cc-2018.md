@@ -3,8 +3,12 @@ Slug: plan-de-trabajo-cc-2018
 Summary: Programa de Trabajo 2018 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CC
 Date: 2018-06-08 13:40
-Modified: 2018-06-13 11:25
+Modified: 2019-12-13 10:00
 
+
+### Descargar
+
+* [Programa de Trabajo 2018 del Comité Coordinador - PDF](programa-de-trabajo-comite-coordinador-2018.pdf)
 
 ### Introducción
 
@@ -212,7 +216,3 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, **emitir los e
 5. Plantear el diseño de políticas y medidas para la debida ejecución de las resoluciones que emitan.
 6. Proponer que la Fiscalía Especializada a través de la Plataforma de Información presente información del estado en que se encuentran los expedientes o denuncias que están en proceso de investigación, o que ya hayan sido judicializados, de conformidad a lo que dispone la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 7. Proponer que el Tribunal de Justicia Administrativa presente información de los expedientes de responsabilidades administrativas que se encuentran en trámite o que ya hayan causado estado, en apego a lo que señala la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
-
-### Descargar
-
-* [Programa de Trabajo 2018 del Comité Coordinador - PDF 990 KB](programa-de-trabajo-comite-coordinador-2018.pdf)

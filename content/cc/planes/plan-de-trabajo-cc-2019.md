@@ -3,8 +3,12 @@ Slug: plan-de-trabajo-cc-2019
 Summary: Programa de Trabajo 2019 del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CC
 Date: 2019-09-09 13:12
-Modified: 2019-09-09 13:12
+Modified: 2019-12-13 10:00
 
+
+### Descargar
+
+* [Programa de Trabajo 2019 del Comité Coordinador - PDF](programa-de-trabajo-comite-coordinador-2019.pdf)
 
 ### Introducción
 

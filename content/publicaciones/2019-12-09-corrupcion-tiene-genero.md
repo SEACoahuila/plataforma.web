@@ -1,12 +1,11 @@
 Title: Ética, perspectiva y equidad, ¿La Corrupción tiene Género?
 Slug: 2019-12-09-corrupcion-tiene-genero
-Summary: PENDIENTE.
+Summary: La corrupción es un fenómeno que se ha manifestado a lo largo del tiempo en nuestro país y que, sin tener un concepto general o básico para entenderlo, se ha desenvuelto de diversas formas e intensidades.
 Tags: Publicaciones, Azimut
-Date: 2019-11-13 12:00
-Modified: 2019-11-13 12:00
+Date: 2019-12-16 10:00
+Modified: 2019-12-16 10:00
 Image: preview.jpg
 Author: Ludivina Leija Rodríguez
-Status: draft
 
 
 <img class="img-fluid" src="imagen.jpg" alt="Ética, perspectiva y equidad, ¿La Corrupción tiene Género?">
@@ -15,7 +14,7 @@ Por **Ludivina Leija Rodríguez,** Contralora General de la Universidad Autónom
 
 La corrupción es un fenómeno que se ha manifestado a lo largo del tiempo en nuestro país y que, sin tener un concepto general o básico para entenderlo, se ha desenvuelto de diversas formas e intensidades. Su materialización trae como resultado una transgresión al interés público y social del Estado y afecta la confianza ciudadana tanto a las personas como a las instituciones que forman el sector gubernamental.
 
-Dicho fenómeno puede entenderse como la práctica consistente en la utilización de funciones y medios para obtener un provecho, alterando o trastocando la forma y el objeto de una cosa, de un procedimiento o de una relación1. Dentro del sector público se materializa a través del soborno; abuso de funciones; nepotismo; tráfico de influencias; conflictos de interés; enriquecimiento ilícito; entre otros.
+Dicho fenómeno puede entenderse como la práctica consistente en la utilización de funciones y medios para obtener un provecho, alterando o trastocando la forma y el objeto de una cosa, de un procedimiento o de una relación (1). Dentro del sector público se materializa a través del soborno; abuso de funciones; nepotismo; tráfico de influencias; conflictos de interés; enriquecimiento ilícito; entre otros.
 
 Actualmente, la corrupción representa un desafío importante para la mayoría de los gobiernos y de la sociedad, al traer consigo efectos considerables que con el tiempo se vuelven más complejos de medir y erradicar por sus múltiples causas y efectos. En México ha deteriorado la confianza de los actores públicos, ha vulnerado la funcionalidad de servicios públicos, la eficiencia de recursos, el ejercicio de derechos fundamentales e incluso ha causado desequilibrio en el bienestar de la convivencia social. Por ello, nuestro país se situó en 2018 en el puesto 138 de 180 con una calificación de 28 puntos sobre 100 donde 0 es altamente corrupto, de acuerdo a Transparencia Internacional, posicionándose entre los cinco países peores evaluados en América (2).
 
@@ -44,11 +43,13 @@ Podemos decir que la corrupción manifestada por discriminación ha disminuido d
 
 En resumen, la distribución de servidores públicos bajo principios de equidad de género –con excepción de las instituciones del ámbito de procuración de justicia, tanto federal como estatal, donde la proporción de hombres fue mayor a la de las mujeres– en general existe una distribución equivalente de hombres y mujeres laborando en las administraciones públicas. Mientras que, en las instituciones de los gobiernos estatales, las mujeres representan más de la mitad del personal laborando en las administraciones públicas estatales, con excepción de la Ciudad de México, Oaxaca y Chiapas, donde 6 de cada 10 servidores públicos son hombres.
 
-No obstante, los hombres por décadas han tenido mayor participación en la vida económica, política y social de México4 y, del resultado de su función, el país ha obtenido posiciones no privilegiadas en las evaluaciones del índice de la percepción de la corrupción como se mencionó en líneas anteriores. Sin embargo, la corrupción más que ser un aspecto relacionado al género, constituye un fenómeno expresado por situaciones y circunstancias que pueden presentarse a cualquier persona con independencia de su sexo.
+No obstante, los hombres por décadas han tenido mayor participación en la vida económica, política y social de México (4) y, del resultado de su función, el país ha obtenido posiciones no privilegiadas en las evaluaciones del índice de la percepción de la corrupción como se mencionó en líneas anteriores. Sin embargo, la corrupción más que ser un aspecto relacionado al género, constituye un fenómeno expresado por situaciones y circunstancias que pueden presentarse a cualquier persona con independencia de su sexo.
 
 Si bien, puede existir una relación estrecha entre género y combate a la corrupción, las reformas para la investigación y disuasión de este fenómeno, generan el mismo valor a los hombres y mujeres en cuanto a su deber de actuar de manera ética y ser responsables por sus hechos u omisiones, dentro o fuera de una institución pública.
 
 Por lo que, concluimos reflexionando, ¿la corrupción tiene género? La respuesta es sí cuando se trata de actos que discriminen la igualdad de oportunidades, de acceso, de derechos y obligaciones de unos y de otros por razón de género; sin embargo, en otro aspecto correspondería a lo contrario, cuando con independencia del género, el actuar ético y honesto del responsable es el punto de partida para la ocurrencia de un hecho de corrupción.
+
+#### Referencias
 
 1. Ochoa, R., “Corrupción. Significado y Estrategias Internacionales y Nacionales para su Prevención y Persecución”. Instituto de Investigaciones Jurídicas de la UNAM, 2017, México.
 2. Instituto Mexicano para la Competitividad, “Índice de Percepción de la Corrupción 2018”, Transparencia Internacional, 2018, México.

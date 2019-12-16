@@ -2,11 +2,10 @@ Title: SEA, Retos desde la Perspectiva de la Rendición de Cuentas
 Slug: 2019-12-16-retos-perspectiva-rendicion-cuentas
 Summary: La implementación de una nueva visión de la administración pública conlleva grandes retos y responsabilidades, sin embargo, a dos años de su creación, ya pueden medirse importantes logros en el tema.
 Tags: Publicaciones, Azimut
-Date: 2019-11-13 12:00
-Modified: 2019-11-13 12:00
+Date: 2019-12-16 10:08
+Modified: 2019-12-16 10:08
 Image: preview.jpg
 Author: Teresa Guajardo Berlanga
-Status: draft
 
 
 <img class="img-fluid" src="imagen.jpg" alt="SEA, Retos desde la Perspectiva de la Rendición de Cuentas">

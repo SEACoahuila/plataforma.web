@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-12-13 12:32
 
 
-Fecha de última actualización: 29 de noviembre 2019.
+Fecha de última actualización: 31 de diciembre 2019.
 
 ### Período 2019
 * [Tercer Trimestre 2019 - Informe de Avance de Gestión Financiera - PDF](informe-avance-gestion-financiera-2019-09.pdf)

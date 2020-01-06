@@ -11,6 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Feed generation
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 AUTHOR_FEED_ATOM = None

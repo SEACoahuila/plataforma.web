@@ -1,9 +1,9 @@
-Title: Plan de Trabajo 2018 del Consejo de Participación Ciudadana
+Title: Plan de Trabajo 2018-2019 del Consejo de Participación Ciudadana
 Slug: plan-de-trabajo-cpc-2018
 Summary: Plan de Trabajo 2018 del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CPC
 Date: 2018-02-14 09:00
-Modified: 2018-02-14 09:00
+Modified: 2020-01-09 15:40
 
 
 ### Introducción

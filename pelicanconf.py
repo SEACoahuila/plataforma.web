@@ -58,10 +58,6 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 PAGE_URL = '{author}/{category}/{slug}/'
 PAGE_SAVE_AS = '{author}/{category}/{slug}/index.html'
 
-# Tema
-#THEME = 'themes/startbootstrap-modern-business'
-THEME = 'themes/seacoahuila-2019-02'
-
 # Encabezados para los autores
 AUTHORS_TITLES = {
     'cc': 'Comité Coordinador',
@@ -71,7 +67,9 @@ AUTHORS_TITLES = {
     }
 
 # Encabezados para las categorías
-CATEGORIES_TITLES = { 'comunicados': 'Comunicados de prensa', }
+CATEGORIES_TITLES = {
+    'comunicados': 'Comunicados de prensa',
+    }
 
 # Encabezados para las etiquetas
 TAGS_TITLES = {
@@ -87,6 +85,9 @@ TAGS_TITLES = {
     'sesiones': 'Sesiones',
     }
 
+# Tema
+THEME = 'themes/seacoahuila-2019-02'
+
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
 TIMEZONE = 'America/Mexico_City'
@@ -94,13 +95,13 @@ TIMEZONE = 'America/Mexico_City'
 # Para desarrollo, los vinculos son relativos
 RELATIVE_URLS = True
 
-# Para desarrollo, se desactiva la paginacion
+# Para desarrollo, se activa la paginacion
 #DEFAULT_PAGINATION = False
 DEFAULT_PAGINATION = True
 DEFAULT_PAGINATION = 6
 DEFAULT_ORPHANS = 2
 
-# Para desarrollo, no hay cargas desde Internet
+# Para desarrollo, NO hay cargas desde Internet
 USE_REMOTE_SERVICES = False
 
 # Para desarrollo, NO borrar todo output

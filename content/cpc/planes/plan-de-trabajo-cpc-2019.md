@@ -1,9 +1,9 @@
-Title: Programa de Trabajo 2018-19
+Title: Plan de Trabajo 2018-2019 del Consejo de Participación Ciudadana
 Slug: plan-de-trabajo-cpc-2019
-Summary: Programa de Trabajo 2018-19 del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
+Summary: Programa de Trabajo 2018-2019 del Consejo de Participación Ciudadana del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 Author: CPC
 Date: 2019-02-20 20:50
-Modified: 2019-02-20 20:50
+Modified: 2020-01-09 15:40
 
 
 ### Descargar

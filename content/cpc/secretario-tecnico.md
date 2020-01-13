@@ -7,7 +7,7 @@ Status: hidden
 Save_as: cpc/secretario-tecnico/index.html
 
 
-* [Metodología para la Valoración de los Expedientes]({filename}/cpc/secretario-tecnico/metodologia-valoracion-expedientes.md)
-* [Convocatoria]({filename}/cpc/secretario-tecnico/convocatoria.md)
-* [Documentos de los Aspirantes]({filename}/cpc/secretario-tecnico/aspirantes-documentos.md)
-* [Cédulas de Evaluación]({filename}/cpc/secretario-tecnico/cedulas-evaluacion.md)
+* [Metodología para la Valoración de los Expedientes](metodologia-valoracion-expedientes/)
+* [Convocatoria](convocatoria/)
+* [Documentos de los Aspirantes](aspirantes-documentos/)
+* [Cédulas de Evaluación](cedulas-evaluacion/)

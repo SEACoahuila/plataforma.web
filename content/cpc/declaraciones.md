@@ -7,5 +7,5 @@ Status: hidden
 Save_as: cpc/declaraciones/index.html
 
 
-* [3 de 3]({filename}/cpc/declaraciones/3-de-3.md)
-* [Formato de declaración de intereses]({filename}/cpc/declaraciones/formato-declaracion-intereses.md)
+* [3 de 3](3-de-3/)
+* [Formato de declaración de intereses](formato-declaracion-intereses/)

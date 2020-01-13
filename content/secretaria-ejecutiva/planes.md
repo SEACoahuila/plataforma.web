@@ -7,5 +7,5 @@ Status: hidden
 Save_as: secretaria-ejecutiva/planes/index.html
 
 
-* [Plan de Trabajo 2019 de la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/planes/plan-de-trabajo-2019.md)
-* [Plan de Trabajo 2018 de la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/planes/plan-de-trabajo-2018.md)
+* [Plan de Trabajo 2019 de la Secretaría Ejecutiva](plan-de-trabajo-2019/)
+* [Plan de Trabajo 2018 de la Secretaría Ejecutiva](plan-de-trabajo-2018/)

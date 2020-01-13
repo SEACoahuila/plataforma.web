@@ -7,4 +7,4 @@ Status: hidden
 Save_as: secretaria-ejecutiva/capacitacion/index.html
 
 
-* [Primera Capacitación y Difusión Sistema Anticorrupción del Estado de Coahuila de Zaragoza]({filename}/secretaria-ejecutiva/capacitacion/2018-05-primera-capacitacion-y-difusion.md)
+* [Primera Capacitación y Difusión Sistema Anticorrupción del Estado de Coahuila de Zaragoza](2018-05-primera-capacitacion-y-difusion/)

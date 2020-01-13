@@ -7,5 +7,5 @@ Status: hidden
 Save_as: secretaria-ejecutiva/institucional/index.html
 
 
-* [Qué es la Secretaría Ejecutiva]({filename}/secretaria-ejecutiva/institucional/que-es.md)
-* [Contacto]({filename}/secretaria-ejecutiva/institucional/contacto.md)
+* [¿Qué es la Secretaría Ejecutiva?](que-es-la-secretaria-ejecutiva/)
+* [Contacto](contacto/)

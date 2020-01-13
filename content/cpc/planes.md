@@ -7,5 +7,5 @@ Status: hidden
 Save_as: cpc/planes/index.html
 
 
-* [Plan de Trabajo 2018 del Consejo de Participación Ciudadana]({filename}/cpc/planes/plan-de-trabajo-cpc-2018.md)
-* [Plan de Trabajo 2019 del Consejo de Participación Ciudadana]({filename}/cpc/planes/plan-de-trabajo-cpc-2019.md)
+* [Plan de Trabajo 2018 del Consejo de Participación Ciudadana](plan-de-trabajo-cpc-2018/)
+* [Plan de Trabajo 2019 del Consejo de Participación Ciudadana](plan-de-trabajo-cpc-2019/)

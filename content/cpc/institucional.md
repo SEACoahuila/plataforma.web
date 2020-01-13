@@ -7,6 +7,5 @@ Status: hidden
 Save_as: cpc/institucional/index.html
 
 
-* [Qué es el CPC]({filename}/cpc/institucional/que-es.md)
-* [Documentos]({filename}/cpc/institucional/documentos.md)
-* [Contacto]({filename}/cpc/institucional/contacto.md)
+* [¿Qué es el CPC?](que-es-el-cpc/)
+* [Contacto](contacto-cpc//)

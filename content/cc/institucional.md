@@ -7,4 +7,4 @@ Status: hidden
 Save_as: cc/institucional/index.html
 
 
-* [Qué es el Comité Coordinador]({filename}/cc/institucional/que-es.md)
+* [¿Qué es el Comité Coordinador?](que-es-el-cc//)

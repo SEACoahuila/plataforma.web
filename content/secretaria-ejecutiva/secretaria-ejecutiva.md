@@ -17,6 +17,7 @@ Save_as: secretaria-ejecutiva/index.html
 
 #### [Infografías](infografias/)
 
+* [Buenas Prácticas en la conformación y operación de los Sistemas Estatales Anticorrupción](infografias/buenas-practicas-usaid-infografia/)
 * [Declaraciones Patrimoniales y de Intereses](infografias/declaraciones-patrimoniales-intereses-infografia/)
 * [Día Internacional contra la Corrupción](infografias/dia-internacional-contra-la-corrupcion-infografia/)
 * [Órgano de Gobierno, Comisión Ejecutiva y Secretaría Ejecutiva](infografias/organo-de-gobierno-comision-ejecutiva-secretaria-ejecutiva/)

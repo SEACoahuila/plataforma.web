@@ -3,8 +3,23 @@ Slug: informacion-presupuestal
 Summary: Transparencia LGCG - Información Presupuestal
 Author: Secretaría Ejecutiva
 Date: 2019-05-17 10:11
-Modified: 2019-11-02 10:30
+Modified: 2020-02-14 14:00
 
+
+### Cuarto trimestre 2019
+
+[Información Presupuestaria - PDF](2019-10_12-00-informacion-presupuestaria.pdf)
+
+1. Estado Analítico de Ingresos CE [XLSX](2019-10_12-01-estado-analitico-de-ingresos-ce.xlsx)
+2. Estado Analítico de Ingresos CFF [XLSX](2019-10_12-02-estado-analitico-de-ingresos-cff.xlsx)
+3. Estado Analítico de Ingresos CRI [XLSX](2019-10_12-03-estado-analitico-de-ingresos-cri.xlsx)
+4. EAEPE CA [XLSX](2019-10_12-04-eaepe-ca.xlsx)
+5. EAEPE CE [XLSX](2019-10_12-05-eaepe-ce.xlsx)
+6. EAEPE COG [XLSX](2019-10_12-06-eaepe-cog.xlsx)
+7. EAEPE CFG [XLSX](2019-10_12-07-eaepe-cfg.xlsx)
+8. Endeudamiento Neto [XLSX](2019-10_12-08-endeudamiento-neto.xlsx)
+9. Intereses de la Deuda [XLSX](2019-10_12-09-intereses-de-la-deuda.xlsx)
+10. Flujo de Fondos [XLSX](2019-10_12-10-flujo-de-fondos.xlsx)
 
 ### Tercer trimestre 2019
 

@@ -3,7 +3,13 @@ Slug: informacion-programatica
 Summary: Transparencia LGCG - Información Programática
 Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
-Modified: 2019-11-02 10:30
+Modified: 2020-02-14 14:00
+
+### Cuarto trimestre 2019
+
+[Información Programática](2019-10_12-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-10_12-01-gasto-por-categoria-programatica.xlsx)
 
 
 ### Tercer trimestre 2019

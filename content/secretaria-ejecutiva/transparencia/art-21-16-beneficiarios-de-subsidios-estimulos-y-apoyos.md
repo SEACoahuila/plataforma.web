@@ -10,6 +10,11 @@ Fecha de última actualización: 31 de diciembre 2019.
 
 #### Montos Pagados por Ayudas y Subsidios
 
+**Período Cuarto Trimestre 2019**
+
+Ayudas y Subsidios [XLSX](2019-4t-ayudas-y-subsidios.xlsx)
+
+
 **Período Tercer Trimestre 2019**
 
 Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado

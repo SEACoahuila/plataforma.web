@@ -31,7 +31,8 @@ Save_as: secretaria-ejecutiva/index.html
 
 #### [Publicaciones](publicaciones/)
 
-* [Azimut mayo 2019, edición 02](publicaciones/azimut-2019-09/)
+* [Azimut enero 2020, edición 03](publicaciones/azimut-2020-01/)
+* [Azimut septiembre 2019, edición 02](publicaciones/azimut-2019-09/)
 * [Azimut mayo 2019, edición 01](publicaciones/azimut-2019-05/)
 * [Boletín Anticorrupción en Coahuila, volumen V, año 2019](publicaciones/boletin-anticorrupcion-coahuila-2019-11/)
 * [Boletín Anticorrupción en Coahuila, volumen IV, año 2019](publicaciones/boletin-anticorrupcion-coahuila-2019-10/)

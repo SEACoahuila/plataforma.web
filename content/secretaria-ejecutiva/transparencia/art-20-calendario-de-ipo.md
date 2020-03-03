@@ -3,10 +3,14 @@ Slug: art-20-calendario-de-ipo
 Summary: Calendario de información pública de oficio.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-06-12 14:52
+Modified: 2020-03-03 16:00
 
 
 Fecha de última actualización: 31 de diciembre 2019.
+
+### Período 2020
+
+* [Calendario de Actualización de la Información Pública de Oficio 2020 - PDF](calendario-ipo-sea-coahuila-2020.pdf)
 
 ### Período 2019
 

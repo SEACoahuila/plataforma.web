@@ -10,3 +10,5 @@ Image: preview.jpg
 <img class="img-fluid" src="postura-sesaec-covid-19.jpg" alt="SESAEC COVID">
 
 En salvaguarda de la salud del personal y sus familias, así como de la sociedad en general, la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, comunica que a partir de hoy 19 de marzo y hasta el 17 de abril tendrá a bien reducir al máximo, en la medida de lo posible, sus actividades administrativas.
+
+**NOTA**: Las medidas de prevención mencionadas serán ratificadas en la próxima Sesión de Órgano de Gobierno.

@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-04-05 13:10
 
 
-Fecha de última actualización: 31 de diciembre 2019.
+Fecha de última actualización: 05 de mayo 2020.
 
 ### Diactámenes año 2019
 

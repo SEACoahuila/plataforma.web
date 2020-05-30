@@ -3,10 +3,10 @@ Slug: art-21-01-estructura-organica
 Summary: Factor humano que integra la Secretaría Ejecutiva.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-06-04 15:16
+Modified: 2020-05-29 11:00
 
 
-Fecha de última actualización: 05 de mayo 2020.
+Fecha de última actualización: 29 de mayo 2020.
 
 ### Facultades y responsabilidades
 
@@ -34,4 +34,4 @@ Fecha de última actualización: 05 de mayo 2020.
 
 **No hay vacantes disponibles.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

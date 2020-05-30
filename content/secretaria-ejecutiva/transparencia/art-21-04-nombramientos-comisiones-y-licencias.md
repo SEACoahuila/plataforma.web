@@ -3,10 +3,10 @@ Slug: art-21-04-nombramientos-comisiones-y-licencias
 Summary: Nombramientos, comisiones y licencias.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-11-12 11:40
+Modified: 2020-05-29 11:00
 
 
-Fecha de última actualización: 05 de mayo 2020.
+Fecha de última actualización: 29 de mayo 2020.
 
 Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos, ni ha emitido comisión alguna, motivo por el cual no existe información respecto de los rubros mencionados, proporcionando los nombramientos correspondientes en base a lo siguiente:
 
@@ -17,4 +17,4 @@ Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos
 * [Lic. Mauricio Contreras Montoya - PDF](nombramiento-asuntos-juridicos.pdf)
 * [Ing. Guillermo Valdés Lozano - PDF](nombramiento-sistemas-de-informacion.pdf)
 
-Así mismo, se informa que el funcionario responsable de la presente información es el **C.P. Rosalío Medina Martínez,** Director de Administración y Finanzas.
+Así mismo, se informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

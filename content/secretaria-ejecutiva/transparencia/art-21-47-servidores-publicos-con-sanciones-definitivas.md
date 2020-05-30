@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 05 de mayo 2020.
+Fecha de última actualización: 29 de mayo 2020.
 
 **Respecto a la información correspondiente al listado de servidores públicos con sanciones definitivas de conformidad con lo dispuesto en la fracción XLVII del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa que el personal que labora en esta Secretaría Ejecutiva no cuenta con sanciones a la que hace referencia la fracción señalada, motivo por el cual no existe una lista al respecto.**
 

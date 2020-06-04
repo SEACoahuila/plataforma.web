@@ -1,4 +1,4 @@
-Title: Dibuja tus valores
+Title:Dibuja tus valores
 Slug: 2020-05-28-concurso-dibujo-fiscalia
 Summary: Concurso de dibujo fiscalía.
 Tags: Secretaría Ejecutiva

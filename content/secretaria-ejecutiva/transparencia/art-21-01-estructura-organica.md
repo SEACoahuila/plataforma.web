@@ -16,20 +16,6 @@ Fecha de última actualización: 29 de mayo 2020.
 
 * Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea.pdf)
 
-<a href="estructura-organica-de-la-se-del-sea-a.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-a.png" alt="Estructura Orgánica A"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-b.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-b.png" alt="Estructura Orgánica B"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-c.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-c.png" alt="Estructura Orgánica C"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-d.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-d.png" alt="Estructura Orgánica D"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-e.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-e.png" alt="Estructura Orgánica E"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-f.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-f.png" alt="Estructura Orgánica E"></a>
-
-<a href="estructura-organica-de-la-se-del-sea-g.png"><img class="img-fluid" src="estructura-organica-de-la-se-del-sea-g.png" alt="Estructura Orgánica E"></a>
-
 ### Vacantes
 
 **No hay vacantes disponibles.**

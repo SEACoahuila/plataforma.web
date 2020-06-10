@@ -3,7 +3,7 @@ Slug: art-21-04-nombramientos-comisiones-y-licencias
 Summary: Nombramientos, comisiones y licencias.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2020-05-29 11:00
+Modified: 2020-06-10 09:00
 
 
 Fecha de última actualización: 29 de mayo 2020.
@@ -13,8 +13,7 @@ Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos
 * [C. Beatriz Aidé Baez Estala - PDF](nombramiento-organo-control-interno.pdf)
 * [Lic. Luis Alberto Gutiérrez Arizpe - PDF](nombramiento-diagnostico-y-politicas-publicas.pdf)
 * [Lic. Amparo Ruiz Montes - PDF](nombramiento-vinculacion-interinstitucional.pdf)
-* [C.P. Rosalío Medina Martínez - PDF](nombramiento-servicios-generales.pdf)
+* [Lic. Elidé Alejandrina Acosta Reyes - PDF](nombramiento-administracion-y-finanzas.pdf)
 * [Lic. Mauricio Contreras Montoya - PDF](nombramiento-asuntos-juridicos.pdf)
-* [Ing. Guillermo Valdés Lozano - PDF](nombramiento-sistemas-de-informacion.pdf)
 
 Así mismo, se informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

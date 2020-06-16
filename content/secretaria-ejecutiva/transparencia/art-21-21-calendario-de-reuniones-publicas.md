@@ -60,7 +60,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 29 de octubre 2019 - [Acta de la Séptima Sesión Ordinaria   - PDF](2019-10-29-septima-sesion-ordinaria-organo-de-gobierno.pdf)
 * 25 de noviembre 2019 - [Acta de la Octava Sesión Ordinaria   - PDF](2019-11-25-octava-sesion-ordinaria-organo-de-gobierno.pdf)
 * 31 de enero 2020      - [Acta de la Primera Sesión Ordinaria - PDF](2020-01-31-primera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 21 de enero 2020      - [Acta de la Primera Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 21 de febrero 2020      - [Acta de la Primera Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 

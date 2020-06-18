@@ -3,7 +3,7 @@ Slug: art-21-20-presupuesto-asignado
 Summary: Presupuesto asignado.
 Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
-Modified: 2019-04-05 13:02
+Modified: 2020-06-18 13:00
 
 
 Fecha de última actualización: 29 de mayo 2020.

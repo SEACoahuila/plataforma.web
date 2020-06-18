@@ -3,7 +3,12 @@ Slug: informacion-contable
 Summary: Transparencia LGCG - Información Contable
 Author: Secretaría Ejecutiva
 Date: 2019-06-03 11:04
-Modified: 2020-02-14 14:00
+Modified: 2020-06-18 12:00
+
+
+### Período 2020
+
+* [Primer Trimestre 2020 - Informe de Avance de Gestión Financiera - PDF](https://drive.google.com/file/d/1RB9zbCaFmUvTJTRX_njjHmSaSyxHGd-R/view?usp=sharing)
 
 
 ### Período 2019

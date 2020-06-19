@@ -29,6 +29,7 @@ Fecha de última actualización: 29 de mayo 2020.
 #### Dirección de Vinculación Interinstitucional
 
 * [Amparo Ruiz Montes <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-arm.pdf)
+* [Cyntia Magdalena Moncada Siller <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-cmms.pdf)
 * [Estefanía Alejandra Guevara Meza <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-eagm.pdf)
 
 #### Dirección de Administración y Finanzas

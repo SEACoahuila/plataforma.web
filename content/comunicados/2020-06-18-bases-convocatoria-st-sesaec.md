@@ -1,4 +1,4 @@
-Title:Bases Convocatoria Secretario Técnico
+Title: Bases Convocatoria Secretario Técnico
 Slug: 2020-06-18-bases-convocatoria-st-sesaec
 Summary: Convocatoria Secretario Téncico
 Tags: Secretaría Ejecutiva

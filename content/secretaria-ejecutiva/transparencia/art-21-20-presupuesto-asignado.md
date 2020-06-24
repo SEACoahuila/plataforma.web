@@ -45,6 +45,11 @@ TOTAL              |                                                        | $3
 
 ### Descargar
 
+#### Año 2020
+
+* [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2020 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2020.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2019 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2020.pdf)
+
 #### Año 2019
 
 * [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2019 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2019.pdf)

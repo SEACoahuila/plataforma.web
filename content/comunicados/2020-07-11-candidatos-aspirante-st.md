@@ -1,9 +1,10 @@
 Title: Candidatos a aspirante la terna para el nombramiento del Secretario Técnico 2020
 Slug: 2020-07-11-candidatos-aspirante-st
 Summary: Descarga en archivo PDF la lista de aspirantes ST
-Tags: convocatorias
+Tags: Secretaría Ejecutiva
 Date: 2020-07-11 13:00
 Modified: 2020-07-11 13:30
+Image: preview.jpg
 
 
 ### Descargar

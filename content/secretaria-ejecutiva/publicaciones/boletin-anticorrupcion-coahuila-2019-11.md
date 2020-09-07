@@ -17,7 +17,7 @@ Preview: preview.jpg
 
 ---
 
-### Introducción
+### Introducción-
 
 La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, a través de la Dirección de Vinculación Interinstitucional, presenta el Quinto Boletín Anticorrupción del 2019, el cual tiene como objetivo informar a la sociedad en general sobre el trabajo legislativo que se realizó en materia anticorrupción en el ámbito estatal y federal durante los meses de septiembre y octubre del año en curso, lo anterior con fundamento en la fracción IV del artículo 29 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 

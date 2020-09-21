@@ -14,7 +14,7 @@ La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trám
 
 ### Descargar
 
-* [Unidad de Transparencia](unidad-de-transparencia.pdf)
+* [Unidad de Transparencia](UDTTabulador.pdf)
 * [Comité de Transparencia](comite-de-transparencia.pdf)
 
 ### Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza

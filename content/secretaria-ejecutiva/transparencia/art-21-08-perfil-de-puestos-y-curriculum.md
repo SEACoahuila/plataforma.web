@@ -10,7 +10,7 @@ Fecha de última actualización: 31 de Agosto 2020
 
 #### Secretario Técnico
 
-* [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-mcm.pdf)
+* [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-rmm.pdf)
 
 #### Dirección de Asuntos Jurídicos y Transparencia
 

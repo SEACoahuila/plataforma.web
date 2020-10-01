@@ -6,8 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de Agosto 2020
-
+Fecha de última actualización: 30 de Septiembre 2020
 ### NO APLICA
 
 Según lo dispuesto por los artículos 24 y 25 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, la Secretaría Ejecutiva del Sistema Estatal es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión que tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador del Sistema Estatal, a efecto de proveerle la asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones.

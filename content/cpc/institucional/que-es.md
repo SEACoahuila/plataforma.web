@@ -33,15 +33,6 @@ consideren necesarias para el buen funcionamiento del Sistema.
 
 ### El Consejo de Participación Ciudadana está integrado por
 
-<div class="media mb-4">
-    <div class="w-25 mr-2">
-        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-mlkl.jpg" alt="María de Lourdes Koster López">
-    </div>
-    <div class="media-body align-self-end">
-        <h5 class="mt-0">María de Lourdes Koster López</h5>
-        <a href="mailto:lourdes.de.koster@cpccoahuila.org.mx">lourdes.de.koster@cpccoahuila.org.mx</a>
-    </div>
-</div>
 
 <div class="media mb-4">
     <div class="w-25 mr-2">

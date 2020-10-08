@@ -10,6 +10,9 @@ Save_as: secretaria-ejecutiva/transparencia/index.html
 ### Art. 18
 
 1. [Plataforma Nacional de Transparencia](https://www.plataformadetransparencia.org.mx/)
+
+[InfoCoahuila](http://189.254.130.35/infocoahuila/)
+
 4. **Contacto y buzón de quejas y sugerencias:**
 
     * Puede usar el [Formulario de quejas y sugerencias](https://goo.gl/forms/v9fUknvCjxNUqNzA2)

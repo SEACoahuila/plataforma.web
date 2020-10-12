@@ -12,7 +12,7 @@ Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos
 
 
 * [CP. Rosalío Medina Martínez - PDF](
-NOMBRAMIENTO-CPROSALIOMEDINAMARTINEZ)
+NOMBRAMIENTO-CPROSALIOMEDINAMARTINEZ.pdf)
 * [C. Beatriz Aidé Baez Estala - PDF](nombramiento-organo-control-interno.pdf)
 * [Lic. Luis Alberto Gutiérrez Arizpe - PDF](nombramiento-diagnostico-y-politicas-publicas.pdf)
 * [Lic. Amparo Ruiz Montes - PDF](nombramiento-vinculacion-interinstitucional.pdf)

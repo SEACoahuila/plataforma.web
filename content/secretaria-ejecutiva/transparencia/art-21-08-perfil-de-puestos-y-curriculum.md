@@ -59,4 +59,6 @@ Fecha de última actualización: 30 de Septiembre 2020
 
 * [Beatriz Aidé Báez Estala <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-babe.pdf)
 
+#### [Perfil de Puestos](perfil-de-puestos.pdf)
+
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

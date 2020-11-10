@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 13:30
 
 
-Fecha de última actualización: 30 de Septiembre 2020
+Fecha de última actualización: 05 de Noviembre 2020.
 ### Período 2020
 
 * [Primer Trimestre 2020 - Informe de Avance de Gestión Financiera - PDF](https://drive.google.com/file/d/1p3hP6jgWHIeLBUR25U2u64wtpTiA2QMv/view?usp=sharing)

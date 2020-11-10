@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 14:00
 
 
-Fecha de última actualización: 30 de Septiembre 2020
+Fecha de última actualización: 05 de Noviembre 2020.
 
 #### Montos Pagados por Ayudas y Subsidios
 

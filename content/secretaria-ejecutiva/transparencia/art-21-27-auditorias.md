@@ -12,7 +12,7 @@ Fecha de última actualización: 05 de Noviembre 2020.
 
 * [Dictamen primer trimestre de 2020](dictamen-2020-03-primer-trimestre.pdf)
 * [Dictamen segundo trimestre de 2020](dictamen-2020-02-segundo-trimestre.pdf)
-
+* [Dictamen tercer trimestre de 2020](dictamen-2020-02-tercer-trimestre.pdf)
 
 ### Diactámenes año 2019
 

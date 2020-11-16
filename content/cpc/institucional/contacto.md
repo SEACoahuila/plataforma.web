@@ -47,3 +47,13 @@ Modified: 2019-10-07 10:34
         <a href="mailto:miguel.crespo@cpccoahuila.org.mx">miguel.crespo@cpccoahuila.org.mx</a>
     </div>
 </div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-ygmm.jpg" alt="Yolanda Guadalupe Montes Martinez">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Yolanda Guadalupe Montes Martinez</h5>
+        <a href="mailto:miguel.crespo@cpccoahuila.org.mx">yolanda.montes@cpccoahuila.org.mx</a>
+    </div>
+

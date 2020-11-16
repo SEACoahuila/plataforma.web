@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
 Fecha de última actualización: 05 de Noviembre 2020.
+
 ### NO APLICA
 
 A lo dispuesto en la Fracción XVI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza. Referente a los padrones de beneficiarios de los programas sociales. **Es importante mencionar que ni la Constitución Política del Estado de Coahuila de Zaragoza, ni la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, facultan a la Secretaría Ejecutiva  para establecer este tipo de programas, razón por la cual no se cuenta con un padrón de beneficiarios de dichos programas.**

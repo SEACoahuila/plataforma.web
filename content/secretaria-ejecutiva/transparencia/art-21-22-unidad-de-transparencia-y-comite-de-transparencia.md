@@ -12,6 +12,12 @@ La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trám
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1801.016631465175!2d-100.96104139428223!3d25.470564738400462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868812c22fd32bcf%3A0xd72f0fa4e13c6e90!2sBlvd.+Luis+Donaldo+Colosio+703%2C+Valle+Real+2do+Sector%2C+25205+Saltillo%2C+Coah.!5e0!3m2!1ses!2smx!4v1524239750191" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+### Nombramientos
+
+* [Presidente: Lic. Luis Albero Gutiérrez Arizpe](luis-gutierrez.pdf)
+* [Secretário: Lic. Mauricio Contreras Montoya](mauricio-nombramiento.pdf)
+* [Vocal: Lic. Alan Alvarez Flores](alan-nombramiento.pdf)
+
 ### Descargar
 
 * [Unidad de Transparencia](UDTTabulador.pdf)

@@ -13,4 +13,6 @@ Fecha de última actualización: 31 de Octubre 2020
 * [Programa de Trabajo de la Secretaría Ejecutiva 2019 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](programa-de-trabajo-secretaria-ejecutiva-2019.pdf)
 * [Programa de Trabajo de la Secretaría Ejecutiva 2018 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](programa-de-trabajo-secretaria-ejecutiva-2018.pdf)
 
+Nota: Se informa que cuando se genere y concluya el proceso institucional de aprobación, la documentación referida en el apartado será publicada para el debido cumplimiento a la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
+
 Se le informa que el funcionario responsable de la presente información es el **Lic. Luis Alberto Gutiérrez Arizpe,** Director de Diagnóstico y Políticas Públicas.

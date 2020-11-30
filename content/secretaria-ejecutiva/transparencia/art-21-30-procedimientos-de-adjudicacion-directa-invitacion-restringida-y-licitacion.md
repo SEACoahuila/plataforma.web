@@ -19,6 +19,6 @@ Fecha de última actualización: 05 de Noviembre 2020.
 * [Contrato de Manual de Identidad - PDF](contrato-manual-identidad.pdf)
 * [Contrato de Obra Pública 002-2018 - DOCX](contrato-obra-publica-002-2018.docx)
 * [Contrato de Obra Pública 002-2018 - PDF](contrato-obra-publica-002-2018.pdf)
-* [Invitaciones - XLSX](invitaiones.xlsx)
+* [Invitaciones - XLSX](invitaciones.xlsx)
 
 Se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

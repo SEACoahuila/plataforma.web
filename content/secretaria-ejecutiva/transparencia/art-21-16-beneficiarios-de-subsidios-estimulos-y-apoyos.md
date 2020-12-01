@@ -10,6 +10,36 @@ Fecha de última actualización: 05 de Noviembre 2020.
 
 #### Montos Pagados por Ayudas y Subsidios
 
+**Período Cuarto Trimestre 2020**
+
+Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)
+
+
+**Período Tercer Trimestre 2020**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
+**Período Segundo Trimestre 2020**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
+
 **Período Primer Trimestre 2020**
 
 Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado

@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de Octubre 2020
+Fecha de última actualización: 04 de Diciembre 2020
 
 De conformidad con lo dispuesto por el artículo 3, del Reglamento Interior de la Secretaría Ejecutiva, su objeto es fungir como órgano de apoyo técnico del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, a efecto de proveerle asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones, establecidas en la fracción III del artículo 167 de la Constitución Política del Estado de Coahuila de Zaragoza y en la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 

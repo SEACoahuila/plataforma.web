@@ -6,10 +6,10 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 31 de Octubre 2020
+Fecha de última actualización: 04 de Diciembre 2020
 
 ### Descargar
 
-* [Catálogo de Disposición Gubernamental](catalogo-de-disposicion-gubernamental.xlsx)
+* [Catálogo de Disposición Gubernamental](catalogo-de-disposicion-gubernamental-diciembre2020.xlsx)
 
 Se informa que los funcionarios responsables de la presente información son los titulares de todas las áreas de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila.

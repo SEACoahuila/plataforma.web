@@ -33,14 +33,19 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 31 de enero 2020      - [Acta de la Primer Sesión Ordinaria  - PDF](2020-01-31-primera-sesion-ordinaria-comite-coordinador.pdf)
 * 21 de febrero 2020      - [Acta de la Segunda Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-comite-coordinador.pdf)
 * 07 de mayo 2020       - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 05 de Octubre 2020       - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 
-Nota: A la fecha no se han realizado sesiones de Comité Coordinador (Última sesión realizada el 07 de mayo de 2020)
+
+ Acta de la Quinta Sesión Ordinaria de fecha 27 de noviembre de 2020- En espera de aprobación.
+
 
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
+
+Nota: Al 04 de diciembre de 2020, no se han realizado sesiones extraordinarias del Comité Coordinador.
 
 ---
 
@@ -68,7 +73,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 07 de mayo 2020    - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno1.pdf)
 * 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 
-Nota: Segunda Sesión Extraordinaria 14 de septiembre de 2020 - En espera de aprobación
+Nota: Acta de la Quinta Sesión Ordinaria de fecha 26 de octubre de 2020- En espera de aprobación.
+
 
 
 
@@ -81,8 +87,9 @@ Nota: Segunda Sesión Extraordinaria 14 de septiembre de 2020 - En espera de apr
 * 20 de noviembre 2018  - [Acta de la Tercera Sesión Extraordinaria - PDF](2018-11-20-tercera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 15 de mayo de 2019    - [Acta de la Primera Sesión Extraordinaria - PDF](2019-05-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
+* 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2020-09-14-segunda-sesion-extraordinaria-organo-de-gobierno-fn.pdf)
 
-
+Nota: Al 04 de diciembre de 2020, no se han realizado sesiones extraordinarias del Órgano de Gobierno.
 ---
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.

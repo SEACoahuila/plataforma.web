@@ -45,7 +45,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 04 de diciembre de 2020, no se han realizado sesiones extraordinarias del Comité Coordinador.
+Nota: Al 06 de enero de 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Comité Coordinador.
 
 ---
 
@@ -89,7 +89,7 @@ Nota: Acta de la Quinta Sesión Ordinaria de fecha 26 de octubre de 2020- En esp
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2020-09-14-segunda-sesion-extraordinaria-organo-de-gobierno-fn.pdf)
 
-Nota: Al 04 de diciembre de 2020, no se han realizado sesiones extraordinarias del Órgano de Gobierno.
+Nota: Al 06 de enero de 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Órgano de Gobierno.
 ---
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.

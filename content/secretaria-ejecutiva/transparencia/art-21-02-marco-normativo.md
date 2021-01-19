@@ -51,6 +51,8 @@ Fecha de última actualización: 04 de Enero 2021
 
 * [Presupuesto de Egresos del Estado de Coahuila de Zaragoza para el Ejercicio Fiscal 2020 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](presupuesto-de-egresos-del-estado-de-coahuila-de-zaragoza-para-el-ejercicio-fiscal-2020.pdf)
 
+* [Presupuesto de Egresos del Estado de Coahuila de Zaragoza para el Ejercicio Fiscal 2021 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](presupuesto-de-egresos-del-estado-de-coahuila-de-zaragoza-para-el-ejercicio-fiscal-2021.pdf)
+
 ### Acuerdos, lineamientos y recomendaciones
 
 * [Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales - Lineamientos SIPOT <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF](lineamientos-sipot.pdf)

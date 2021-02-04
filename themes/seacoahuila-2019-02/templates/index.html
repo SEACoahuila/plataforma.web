@@ -41,22 +41,20 @@
         {% if articles %}
         <div class="wrap">
             <div class="comunicados-home">
-                <h1>{% block content_title %}{% endblock %}</h1>
+                <h1 align="center">{% block content_title %}{% endblock %}Comunicados</h1>
                 {% for article in articles_page.object_list %}
-                <!-- Comunicados indice -->
-                <div class="comunicado"> <a href="/{{ article.url }}">
+   <!-- Comunicados  -->
+                  <div class="container" align="center" style="margin-top: 50px; border-top: 8px solid gray" > <a href="/{{ article.url }}">
                     {% if article.image %}
-                    <div class="imagen">
-                        <img src="/{{ article.url }}{{ article.image }}" class="card-img-top" alt="Imagen previa">
-                    </div>
+                        <img src="/{{ article.url }}{{ article.image }}" class="card-img-top" alt="Imagen previa" style="width:240px; margin-top:20px">
                     {% endif %}
-                    <div class="info">
-                        <h2>{{ article.title }}</h2>
+                        <h2 align="center" style="margin-top: 0px; padding: 0">{{ article.title }}</h2>
                         <p class="fecha">{{ article.date|strftime('%d %B %Y') }}</p>
                         {{ article.summary }}
-                    </div>
                 </a> </div>
                 {% endfor %}
+
+
                 <!-- Comunicados paginacion -->
                 {% if articles_page %}
                 <nav class="paginacion">

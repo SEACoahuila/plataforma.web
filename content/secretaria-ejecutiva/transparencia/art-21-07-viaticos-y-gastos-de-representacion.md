@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 12:00
 
 
-Fecha de última actualización: 04 de Enero 2021
+Fecha de última actualización: 05 de Febrero 2021
 
 El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no genera gastos de representación, en caso de ser generados serán reportados.
 

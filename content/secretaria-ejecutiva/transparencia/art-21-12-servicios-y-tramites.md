@@ -10,6 +10,6 @@ Fecha de última actualización: 05 de Febrero 2021
 
 ### Descargar
 
-* [Trámites y Servicios - PDF](tramites-y-servicios-enero.pdf)
+* [Trámites y Servicios - PDF](tramites-y-servicios-febrero.pdf)
 
 Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

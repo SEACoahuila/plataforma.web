@@ -18,7 +18,7 @@ Funge como órgano de apoyo técnico del Comité Coordinador del Sistema Estatal
 
 ### ¿Quién representa legalmente a la Secretaría Ejecutiva?
 
-De conformidad con el artículo 18 fracción I, del Reglamento interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, el Encargado del Despacho de la Secretaria Técnica, Lic. Mauricio Contreras Montoya.
+De conformidad con el artículo 19 fracción II, del Reglamento interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, el Encargado del Despacho de la Secretaria Técnica, Lic. Mauricio Contreras Montoya.
 
 ### ¿En dónde se localiza la Secretaría Ejecutiva?
 

@@ -18,7 +18,7 @@ Save_as: secretaria-ejecutiva/transparencia/index.html
 
     * Puede usar el [Formulario de quejas y sugerencias](https://goo.gl/forms/v9fUknvCjxNUqNzA2)
     * Enviar un mensaje vía correo electrónico a [quejas.y.sugerencias@seacoahuila.org.mx](mailto:quejas.y.sugerencias@seacoahuila.org.mx)
-    * O llamar al teléfono (844) 688 2178 de 09:00 a 16:00 de lunes a viernes
+    * O llamar al teléfono (844) 688 2178 L-J 8:30 a 15:00 horas, V 8:30 a 14:30 horas
 
 ### Art. 20
 

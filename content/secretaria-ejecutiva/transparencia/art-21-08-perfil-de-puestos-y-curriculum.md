@@ -45,6 +45,7 @@ Fecha de última actualización: 05 de Febrero 2021
 
 #### Unidad de Sistemas de Información
 
+* [René Lazalde Mañon <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cvrlm.pdf)
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ejmc.pdf)
 
 #### Unidad de Capacitación

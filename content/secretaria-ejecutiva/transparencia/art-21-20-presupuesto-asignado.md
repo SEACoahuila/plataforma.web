@@ -10,6 +10,18 @@ Fecha de última actualización: 05 de Febrero 2021
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
 
+### Presupuesto de Egresos Autorizado Ejercicio 2021
+
+Capítulo del Gasto | Nombre                                                 | Presupuesto
+:-----------------:|--------------------------------------------------------|---------------:
+1000               | Servicios Personales                                   | $22,567,265.00
+2000               | Materiales y Suministros                               |  $1,050,000.00
+3000               | Servicios Generales                                    |  $4,757,135.00
+4000               | Transferencias, Asignaciones, Subsidios y Otras Ayudas |             $-
+5000               | Bienes Muebles e Inmuebles                             |             $-
+TOTAL              |                                                        | $28,374,400.00
+
+
 ### Presupuesto de Egresos Autorizado Ejercicio 2020
 
 Capítulo del Gasto | Nombre                                                 | Presupuesto
@@ -45,10 +57,16 @@ TOTAL              |                                                        | $3
 
 ### Descargar
 
+
+#### Año 2021
+
+* [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2021 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2021.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2021 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2021.pdf)
+
 #### Año 2020
 
 * [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2020 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2020.pdf)
-* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2019 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2020.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2020 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2020.pdf)
 
 #### Año 2019
 

@@ -87,7 +87,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 20 de noviembre 2018  - [Acta de la Tercera Sesión Extraordinaria - PDF](2018-11-20-tercera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 15 de mayo de 2019    - [Acta de la Primera Sesión Extraordinaria - PDF](2019-05-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
-* 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2020-09-14-segunda-sesion-extraordinaria-organo-de-gobierno-fn.pdf)
+* 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
+
 
 Nota: Al 06 de febrero de 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Órgano de Gobierno.
 ---

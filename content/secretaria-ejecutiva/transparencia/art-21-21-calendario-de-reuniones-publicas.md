@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 05 de Febrero 2021
+Fecha de última actualización: 04 de Marzo 2021
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
@@ -35,8 +35,11 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 07 de mayo 2020       - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 05 de Octubre 2020       - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 27 de Noviembre 2020       - [Acta de la Quinta Sesión Ordinaria - PDF](2020-11-27-acta-quinta-sesion-ordinara-cc.pdf)
+* 29 de Enero 2021      - [Acta de la Primer Sesión Ordinaria - PDF](2021-01-29-acta-primer-sesion-ordinara-cc.pdf)
 
-Nota: Acta de la Primera sesión ordinaria de Comité Coordinador y Órgano de Gobierno, en espera de aprobación
+
+Nota: Acta de la segunda sesión ordinaria del Comité Coordinador, en espera de aprobación.
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Comité Coordinador.
 
 
 
@@ -74,7 +77,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-og.pdf)
 
-
+Nota: Acta de la primera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Órgano de Gobierno.  
 
 
 
@@ -90,7 +94,6 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
 
-Nota: Al 06 de febrero de 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Órgano de Gobierno.
 ---
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.

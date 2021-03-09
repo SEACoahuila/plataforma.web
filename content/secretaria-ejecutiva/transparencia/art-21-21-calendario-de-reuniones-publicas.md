@@ -38,8 +38,8 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 29 de Enero 2021      - [Acta de la Primer Sesión Ordinaria - PDF](2021-01-29-acta-primer-sesion-ordinara-cc.pdf)
 
 
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias del Comité Coordinador.  
 Nota: Acta de la segunda sesión ordinaria del Comité Coordinador, en espera de aprobación.
-Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Comité Coordinador.
 
 
 
@@ -48,7 +48,7 @@ Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extra
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 06 de febrero de 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Comité Coordinador.
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador
 
 ---
 
@@ -77,8 +77,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-og.pdf)
 
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
 Nota: Acta de la primera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
-Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extraordinarias del Órgano de Gobierno.  
 
 
 
@@ -93,6 +93,7 @@ Nota: Al 02 de marzo del 2021, no se han realizado sesiones ordinarias y/o extra
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
+Nota: Al 02 de marzo del 2021, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
 
 ---
 

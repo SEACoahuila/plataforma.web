@@ -125,8 +125,8 @@ La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesi
 
 ### Calendario de sesiones 2021
 
-* [Calendario de sesiones del comité coordinador](sesiones-cc-2021.pdf)
+* [Calendario de sesiones del comité coordinador](#)
 
-* [Calendario de sesiones del órgano de gobierno](sesiones-og-2021.pdf)
+* [Calendario de sesiones del órgano de gobierno](#)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

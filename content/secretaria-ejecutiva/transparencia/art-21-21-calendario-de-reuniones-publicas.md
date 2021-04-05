@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 04 de Marzo 2021
+Fecha de última actualización: 05 de Abril 2021
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 

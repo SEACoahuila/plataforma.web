@@ -10,7 +10,7 @@ Fecha de última actualización: 05 de Abril 2021
 
 ### Descargar
 
-* [Remuneración Mensual por Puesto](Tabulador.pdf)
+* [Remuneración Mensual por Puesto](remuneracion-mensual-por-puesto-2021-03-13.pdf)
 
 **Nota:** El servicio médico de los trabajadores de esta Secretaría Ejecutiva Anticorrupción es proporcionado por el Hospital Universitario.
 

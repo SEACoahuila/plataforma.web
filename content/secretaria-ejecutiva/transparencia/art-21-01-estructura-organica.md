@@ -14,7 +14,7 @@ Fecha de última actualización: 05 de Abril 2021
 
 ### Estructura orgánica
 
-* Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-seasep2020.pdf)
+* Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea-2021.pdf)
 
 ### Vacantes
 

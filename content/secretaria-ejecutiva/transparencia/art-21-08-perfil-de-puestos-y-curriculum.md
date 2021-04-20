@@ -25,6 +25,7 @@ Fecha de última actualización: 05 de Abril 2021
 * [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jasm.pdf)
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-nebg.pdf)
+* [Sara Ercilia Romo Mayorga<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](CV-sr.pdf)
 
 #### Dirección de Vinculación Interinstitucional
 

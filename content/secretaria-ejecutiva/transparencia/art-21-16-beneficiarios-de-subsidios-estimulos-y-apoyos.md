@@ -10,6 +10,11 @@ Fecha de última actualización: 05 de Mayo 2021
 
 #### Montos Pagados por Ayudas y Subsidios
 
+
+**Período Primer Trimestre 2021**
+
+"No se brindaron ayudas ni subsidios en el periodo"
+
 **Período Cuarto Trimestre 2020**
 
 Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)

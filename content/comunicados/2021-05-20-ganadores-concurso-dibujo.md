@@ -16,7 +16,7 @@ En la Categoría “A”, que incluye a niñas y niños de 3 a 8 años, los sele
 Los ganadores de la categoría “B” que incluyó a niñas, niños y adolescentes de 9 a 13 años, fueron: Fernanda Martínez Neira, primer lugar; Brisa Camila Ramírez Valles, segundo lugar, y Sherlyn Aguilar Pérez, el tercer lugar.
 
 Por otro lado, obtuvieron mención honorífica: Ana Julia Zubieta Mora, Natalia Mexicano Herrera, Valeria Gutiérrez Mercado, Marion Clarke de Dromantin, Sofía alejandra Saucedo, Armando Ernesto Rodríguez, Danna Renata Hernández, Ángela Michelle Ponce de Hoyos, Jorge Ángel Ramírez, Jorge Iván Bernadac, Emilia Triana Govea, Ángela Dannae Benítez, Derek Eliel Alemán y Nadia Camila Almaraz.
-
-<img class="img-fluid" src="Ganadores.jpg" alt="Dibuja tus valores">
-<img class="img-fluid" src="Menciones-Cat-A.jpg" alt="Dibuja tus valores">
-<img class="img-fluid" src="Menciones-Cat-B.jpg" alt="Dibuja tus valores">
+<br>
+<img class="img-fluid" src="Ganadores.JPG" alt="Ganadores">
+<img class="img-fluid" src="Menciones-Cat-A.JPG" alt="Cat-A">
+<img class="img-fluid" src="Menciones-Cat-B.JPG" alt="Cat-b">

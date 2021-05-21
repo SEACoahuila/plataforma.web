@@ -4,7 +4,7 @@ Summary: Ganadores de concurso de dibujo
 Tags: Secretaría Ejecutiva
 Date: 2021-05-20 13:00
 Modified: 2021-05-20 23:00
-Image: preview.jpg
+Image: preview.JPG
 
 
 ### La FEHC da a conocer a los ganadores de concurso de dibujo

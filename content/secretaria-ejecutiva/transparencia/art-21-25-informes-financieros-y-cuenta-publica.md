@@ -6,10 +6,11 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 13:30
 
 
-Fecha de última actualización: 05 de Julio 2021
+Fecha de última actualización: 29 de Julio 2021
 
 ### Período 2021
 * [Primer Trimestre 2021 - Informe de Avance de Gestión Financiera - PDF](informe-avance-gestion-financiera-2021-04.pdf)
+* [Segundo Trimestre 2021 - Informe de Avance de Gestión Financiera - PDF](informe-avance-gestion-financiera-2021-07.pdf)
 
 ### Período 2020
 * [Cuenta Pública 2020 - PDF](cuenta-publica-2020.pdf)

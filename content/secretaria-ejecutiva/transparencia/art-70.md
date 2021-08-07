@@ -6,9 +6,9 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 05 de Julio 2021
+Fecha de última actualización: 05 de Agosto 2021
 
 ### Descargar
 
-* [Tabla de Aplicabilidad <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](tabla-de-aplicabilidad-noviembre-2020.pdf)
+* [Tabla de Aplicabilidad <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](tabla-de-aplicabilidad-julio-2021.pdf)
 * [Tabla de Actualización y Conservación <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](tabla-de-actualizacion-y-conservacion-de-la-infomacion.pdf)

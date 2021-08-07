@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 05 de Julio 2021
+Fecha de última actualización: 05 de Agosto 2021
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
@@ -41,8 +41,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 
 
 Nota: Al 05 de julio del 2021, no se han realizado sesiones ordinarias del Comité Coordinador.  
-Nota: Acta de la quinta sesión ordinaria del Comité Coordinador, en espera de aprobación.
-
+Nota: Acta de la sexta sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 
 #### Sesiones Extraordinarias del Comité Coordinador
@@ -50,7 +49,7 @@ Nota: Acta de la quinta sesión ordinaria del Comité Coordinador, en espera de 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 05 de julio del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador.
+NNota: Al 05 de agosto del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador.
 ---
 
 Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
@@ -77,11 +76,11 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 07 de mayo 2020    - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno1.pdf)
 * 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno)
+* 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de julio del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
-Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de aprobación
- 
+Nota: Al 05 de agosto del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
+Nota: Acta de la tercera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
+
 
 
 
@@ -96,7 +95,7 @@ Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de julio del 2021, no se han realizado sesiones extraordinarias del Órgano de Gobierno.   
+Nota: Al 05 de julio del 2021, no se han realizado sesiones extraordinarias del Órgano de Gobierno.  
 
 ---
 

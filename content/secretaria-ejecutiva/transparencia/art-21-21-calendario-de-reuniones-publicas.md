@@ -38,6 +38,8 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 29 de Enero 2021      - [Acta de la Primer Sesión Ordinaria - PDF](2021-01-29-acta-primer-sesion-ordinara-ccr.pdf)
 * 25 de Febrero 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-acta-segunda-sesion-ordinara-cc.pdf)
 * 30 de Marzo 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-03-30-acta-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 21 de Abril 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-04-21-acta-Cuarta-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de Marzo 2021      - [Acta de la Quinta Sesión Ordinaria - PDF](2021-06-24-acta-Quinta-sesion-ordinaria-comite-coordinador.pdf)
 
 
 Nota: Al 05 de julio del 2021, no se han realizado sesiones ordinarias del Comité Coordinador.  
@@ -77,6 +79,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 
 Nota: Al 05 de agosto del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
 Nota: Acta de la tercera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 

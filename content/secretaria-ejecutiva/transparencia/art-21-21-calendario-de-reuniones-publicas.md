@@ -38,8 +38,8 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 29 de Enero 2021      - [Acta de la Primer Sesión Ordinaria - PDF](2021-01-29-acta-primer-sesion-ordinara-ccr.pdf)
 * 25 de Febrero 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-acta-segunda-sesion-ordinara-cc.pdf)
 * 30 de Marzo 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-03-30-acta-tercera-sesion-ordinaria-comite-coordinador.pdf)
-* 21 de Abril 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-04-21-acta-Cuarta-sesion-ordinaria-comite-coordinador.pdf)
-* 30 de Marzo 2021      - [Acta de la Quinta Sesión Ordinaria - PDF](2021-06-24-acta-Quinta-sesion-ordinaria-comite-coordinador.pdf)
+* 28 de Abril 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-04-21-acta-Cuarta-sesion-ordinaria-comite-coordinador.pdf)
+* 24 de Junio 2021      - [Acta de la Quinta Sesión Ordinaria - PDF](2021-06-24-acta-Quinta-sesion-ordinaria-comite-coordinador.pdf)
 
 
 Nota: Al 05 de julio del 2021, no se han realizado sesiones ordinarias del Comité Coordinador.  
@@ -51,7 +51,7 @@ Nota: Acta de la sexta sesión ordinaria del Comité Coordinador, en espera de a
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-NNota: Al 05 de agosto del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador.
+Nota: Al 05 de agosto del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador.
 ---
 
 Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.

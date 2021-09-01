@@ -19,6 +19,30 @@ Fecha de última actualización: 05 de Agosto 2021
 
 Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)
 
+**Período Segundo Trimestre 2021**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
+
+**Período Primer Trimestre 2021**
+
+Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+         |         |          |                  |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
 
 **Período Tercer Trimestre 2020**
 

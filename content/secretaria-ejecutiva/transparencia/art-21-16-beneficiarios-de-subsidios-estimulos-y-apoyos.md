@@ -15,9 +15,6 @@ Fecha de última actualización: 05 de Agosto 2021
 
 "No se brindaron ayudas ni subsidios en el periodo"
 
-**Período Cuarto Trimestre 2020**
-
-Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)
 
 **Período Segundo Trimestre 2021**
 
@@ -43,6 +40,9 @@ Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | 
          |         |          |                  |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
+**Período Cuarto Trimestre 2020**
+
+Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)
 
 **Período Tercer Trimestre 2020**
 

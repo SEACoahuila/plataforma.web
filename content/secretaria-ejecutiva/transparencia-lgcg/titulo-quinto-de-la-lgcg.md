@@ -13,7 +13,7 @@ Transparencia: [Beneficiarios de Subsidios, estímulos y apoyos]({filename}/secr
 ### Período 2021
 
 * 1.- [Iniciativa del Presupuesto de Ingresos SE SEA 2021 - PDF](sesaec-presupuesto-ingresos-2021-iniciativa.pdf)
-* 2.- [Presupuesto de Ingresos Aprobado SE SEA 2021 - PDF](sesaec-presupuesto-ingresos-2021-aprobado.pdf)
+* 2.- [Presupuesto de Ingresos Aprobado SE SEA 2021 - PDF](ingresos-2021-aprobado.PDF)
 * 3.- [Proyecto de Presupuesto de Egresos SE SEA 2021 - PDF](sesaec-presupuesto-egresos-2021-proyecto.pdf)
 * 4.- [Presupuesto de Egresos Aprobado SE SEA 2021 - PDF](sesaec-presupuesto-egresos-2021-aprobado.pdf)
 * 5.1.- [Acta de Aprobación del Presupuesto de Egresos SE SEA 2021 - PDF](sesaec-presupuesto-egresos-2021-aprobacion.pdf)

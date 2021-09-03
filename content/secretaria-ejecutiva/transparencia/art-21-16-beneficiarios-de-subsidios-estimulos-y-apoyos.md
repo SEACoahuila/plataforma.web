@@ -11,73 +11,70 @@ Fecha de última actualización: 05 de Agosto 2021
 #### Montos Pagados por Ayudas y Subsidios
 
 
-**Período Primer Trimestre 2021**
-
-"No se brindaron ayudas ni subsidios en el periodo"
-
 
 **Período Segundo Trimestre 2021**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
 
 **Período Primer Trimestre 2021**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
+
 **Período Cuarto Trimestre 2020**
 
 Ayudas y Subsidios [XLSX](2020-4t-ayudas-y-subsidios.xlsx)
 
 **Período Tercer Trimestre 2020**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
 **Período Segundo Trimestre 2020**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
 
 **Período Primer Trimestre 2020**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
@@ -89,49 +86,49 @@ Ayudas y Subsidios [XLSX](2019-4t-ayudas-y-subsidios.xlsx)
 
 **Período Tercer Trimestre 2019**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
 **Período Segundo Trimestre 2019**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 * [Informe de Avance de Gestión Financiera: Montos Pagados por Ayudas y Subsidios - PDF](2019-2T-ayudas-y-subsidios.pdf)
 
 **Período Primer Trimestre 2019**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 
 **Período Cuarto Trimestre 2018**
 
-Concepto | Ayuda A | Subsidio | Sector Económico | Beneficiario | CURP | RFC | Monto Pagado
---------:|--------:|---------:|-----------------:|-------------:|-----:|----:|------------:
-       0 |       0 |        0 |                0 |            0 |    0 |   0 |           0
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
-         |         |          |                  |              |      |     |
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
 
 No se brindaron ayudas y subsidios en el período.
 

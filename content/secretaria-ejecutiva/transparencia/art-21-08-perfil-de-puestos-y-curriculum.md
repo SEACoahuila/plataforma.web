@@ -6,7 +6,8 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 12:00
 
 
-Fecha de última actualización: 05 de Agosto 2021
+Fecha de última actualización: 06 de Septiembre 2021
+
 
 #### Secretario Técnico
 
@@ -15,14 +16,12 @@ Fecha de última actualización: 05 de Agosto 2021
 #### Dirección de Asuntos Jurídicos y Transparencia
 
 * [Bárbara Melisa Canales Aguirre <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-bmca.pdf)
-* [Elsa Mariel Dávila Acosta <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-emda.pdf)
 * [Laura Elena González Castañeda <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-legc.pdf)
 * [Mauricio Contreras Montoya <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-mcm.pdf)
 
 #### Dirección de Diagnóstico y Políticas Públicas
 
-* [Génesis Noemí Ceniceros Guerra <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-gncg.pdf)
-* [José Armando Sánchez Madrazo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jasm.pdf)
+
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-laga.pdf)
 * [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-nebg.pdf)
 * [Sara Ercilia Romo Mayorga<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](CV-sr.pdf)
@@ -38,7 +37,6 @@ Fecha de última actualización: 05 de Agosto 2021
 * [Ana Laura López Ibarra <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-alli.pdf)
 * [Elidé Alejandrina Acosta Reyes <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-eaar.pdf)
 * [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-gbhs.pdf)
-* [Héctor Hunab Ku Rodríguez Villagrana <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-hhkrv.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacm.pdf)
 * [Jorge Armando Moreno Tovar <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jamt.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacg.pdf)
@@ -48,6 +46,9 @@ Fecha de última actualización: 05 de Agosto 2021
 
 * [René Lazalde Mañon <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cvrlm.pdf)
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ejmc.pdf)
+* [Erika Farias Pérez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-efp.pdf)
+* [Alejandro Soto Treviño <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ast)
+
 
 #### Unidad de Capacitación
 

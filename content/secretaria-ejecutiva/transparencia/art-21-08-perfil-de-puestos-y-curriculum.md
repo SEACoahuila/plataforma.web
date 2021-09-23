@@ -46,10 +46,11 @@ Fecha de última actualización: 06 de Septiembre 2021
 
 * [René Lazalde Mañon <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cvrlm.pdf)
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ejmc.pdf)
-* [Erika Farias Pérez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-efp.pdf)
-* [Alejandro Soto Treviño <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ast)
+* [Erika Farias Pérez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-efp2.pdf)
+* [Alejandro Soto Treviño <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ast2.pdf)
+* [Cesar Abelardo Muñiz Motas <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-cesar.pdf)
 
-
+Cesar Abelardo Muñiz Motas
 #### Unidad de Capacitación
 
 * [Alan Álvarez Flores <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-aaf.pdf)

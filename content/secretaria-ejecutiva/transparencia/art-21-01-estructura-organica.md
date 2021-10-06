@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 11:00
 
 
-Fecha de última actualización: 06 de Septiembre 2021
+Fecha de última actualización: 06 de Octubre 2021
 
 ### Facultades y responsabilidades
 
@@ -14,7 +14,7 @@ Fecha de última actualización: 06 de Septiembre 2021
 
 ### Estructura orgánica
 
-* Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea-2021-4.pdf)
+* Descargar la [Estructura Orgánica de la SE del SEA - PDF](estructura-organica-de-la-se-del-sea-2021-5.pdf)
 
 ### Vacantes
 

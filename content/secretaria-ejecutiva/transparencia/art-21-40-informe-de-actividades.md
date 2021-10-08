@@ -8,16 +8,18 @@ Modified: 2019-10-11 14:10
 
 Fecha de última actualización: 06 de Octubre 2021
 
+### Período 2020-2021
 
-### Período 2019
+* [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2020-2021.pdf)
 
-* [Primer Informe 2019 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2019-1.pdf)
-* [Segundo Informe 2019 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2019-2.pdf)
+### Período 2019-2020
 
-### Período 2018
+* [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2019-2020.pdf)
 
-* [Primer Informe 2018 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2018-1.pdf)
-* [Segundo Informe 2018 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2018-2.pdf)
-* [Tercer Informe 2018 de Avance de la Secretaría Ejecutiva <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-avance-se-2018-3.pdf)
+
+### Período 2018-2019
+
+* [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2018-2019.pdf)
+
 
 Se le informa que los funcionarios responsables de la presente información son los titulares de las Direcciones y Unidades de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.

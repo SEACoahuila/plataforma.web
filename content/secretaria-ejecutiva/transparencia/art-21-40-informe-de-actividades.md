@@ -21,5 +21,11 @@ Fecha de última actualización: 06 de Octubre 2021
 
 * [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2018-2019.pdf)
 
+### Período 2017-2018
+
+* [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2017-2018.pdf)
+
+
+
 
 Se le informa que los funcionarios responsables de la presente información son los titulares de las Direcciones y Unidades de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.

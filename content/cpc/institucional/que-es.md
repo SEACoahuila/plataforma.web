@@ -34,15 +34,7 @@ consideren necesarias para el buen funcionamiento del Sistema.
 ### El Consejo de Participación Ciudadana está integrado por
 
 
-<div class="media mb-4">
-    <div class="w-25 mr-2">
-        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-javbs.jpg" alt="Juan Adolfo Von Bertrab Saracho">
-    </div>
-    <div class="media-body align-self-end">
-        <h5 class="mt-0">Juan Adolfo Von Bertrab Saracho</h5>
-        <a href="mailto:adolfo.von.bertrab@cpccoahuila.org.mx">adolfo.von.bertrab@cpccoahuila.org.mx</a>
-    </div>
-</div>
+
 
 <div class="media mb-4">
     <div class="w-25 mr-2">
@@ -86,4 +78,14 @@ consideren necesarias para el buen funcionamiento del Sistema.
     </div>
 
     
+</div>
+
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-javbs.jpg" alt="Juan Adolfo Von Bertrab Saracho">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Juan Carlos Guzmán Escobedo</h5>
+        <a href="mailto:adolfo.von.bertrab@cpccoahuila.org.mx">juan.guzman@cpccoahuila.org.mx</a>
+    </div>
 </div>

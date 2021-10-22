@@ -44,6 +44,7 @@ STATIC_PATHS = [
     'README.md',
     'robots.txt',
     'secretaria-ejecutiva',
+    'SEI',
     ]
 
 # Usar el nombre del directorio como la categoría

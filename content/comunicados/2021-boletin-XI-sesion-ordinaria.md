@@ -20,4 +20,4 @@ El Comité Coordinador también aprobó establecer mesas de trabajo para continu
 
 Durante la reunión se felicitó a la magistrada Sandra Rodríguez Wong por ser la Primera Galardonada del Reconocimiento Mundial Selecta Victoria, así como a la titular de la SEFIRC, Teresa Guajardo Berlanga, por su nombramiento como coordinadora nacional de la Comisión Permanente de Contralores Estados-Federación. 
 
-<img class="img-fluid" src="2021-boletin-XI-sesion-ordinaria/preview.jpeg" alt="Ganadores">
+<img class="img-fluid" src="preview.jpeg" alt="">

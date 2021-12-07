@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 06 de Noviembre 2021
+Fecha de última actualización: 03 de Diciembre 2021
 
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
@@ -45,9 +45,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 31 de Agosto 2021      - [Acta de la Séptima Sesión Ordinaria - PDF](2021-8-31-septima-sesion-ordinaria-CC.pdf)
 * 24 de Septiembre 2021      - [Acta de la Octava Sesión Ordinaria - PDF](2021-09-24-octava-sesion-ordinaria-CC.pdf)
 
-
-Nota: Al 05 de noviembre del 2021, no se han realizado sesiones ordinarias del Comité Coordinador.  
-Nota: Acta de la novena sesión ordinaria del Comité Coordinador, en espera de aprobación.
+Nota: Acta de la décima primera sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 
 #### Sesiones Extraordinarias del Comité Coordinador
@@ -86,8 +84,8 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de noviembre del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
-
+Nota: Al 05 de diciembre del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
+Nota: Acta de la cuarta sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
 
 
 
@@ -102,8 +100,7 @@ Nota: Al 05 de noviembre del 2021, no se han realizado sesiones ordinarias del �
 * 15 de mayo de 2019    - [Acta de la Primera Sesión Extraordinaria - PDF](2019-05-15-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
-
-Nota: Al 05 de noviembre del 2021, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
+Nota: Al 05 de diciembre del 2021, no se han realizado sesiones extraordinarias del Órgano de Gobierno.  
   
 ---
 

@@ -6,13 +6,12 @@ Date: 2018-02-23 09:00
 Modified: 2020-06-10 09:00
 
 
-Fecha de última actualización: 
+Fecha de última actualización: 05 de Enero 2022
 
 
 Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos, ni ha emitido comisión alguna, motivo por el cual no existe información respecto de los rubros mencionados, proporcionando los nombramientos correspondientes en base a lo siguiente:
 
 
-* [CP. Rosalío Medina Martínez - PDF](NOMBRAMIENTO-CPROSALIOMEDINAMARTINEZ.pdf)
 * [C. Beatriz Aidé Baez Estala - PDF](nombramiento-organo-control-interno.pdf)
 * [Lic. Luis Alberto Gutiérrez Arizpe - PDF](nombramiento-diagnostico-y-politicas-publicas.pdf)
 * [Lic. Amparo Ruiz Montes - PDF](nombramiento-vinculacion-interinstitucional.pdf)

@@ -6,12 +6,11 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 12:00
 
 
-Fecha de última actualización: 03 de Diciembre 2021
+Fecha de última actualización: 05 de Enero 2022
 
 
 #### Secretario Técnico
 
-* [Rosalío Medina Martínez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-rmm.pdf)
 
 #### Dirección de Asuntos Jurídicos y Transparencia
 

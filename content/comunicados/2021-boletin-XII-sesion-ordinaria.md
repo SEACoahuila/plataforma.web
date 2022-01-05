@@ -20,4 +20,4 @@ En la sesión estuvieron presentes el presidente del Consejo de Participación 
 
 
 ***
-<img class="img-fluid" src="preview.jpeg" alt="">
+<img class="img-fluid" src="preview.jpeg" alt="prev">

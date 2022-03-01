@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-06-18 13:00
 
 
-Fecha de última actualización: 01 de Febrero 2022
+Fecha de última actualización: 02 de Marzo 2022
 
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
@@ -58,6 +58,10 @@ TOTAL              |                                                        | $3
 
 ### Descargar
 
+#### Año 2022
+
+* [Presupesto de Egresos del Estado de Coahuila de Zaragoza, Ejercicio 2021 - PDF](presupuesto-de-egresos-coahuila-de-zaragoza-ejercicio-2022.pdf)
+* [Presupesto de Egresos de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, Ejercicio 2021 - PDF](presupuesto-de-egresos-sesaec-ejercicio-2022.pdf)
 
 #### Año 2021
 

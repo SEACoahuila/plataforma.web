@@ -6,12 +6,15 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 13:00
 
 
-Fecha de última actualización: 01 de Febrero 2022
+Fecha de última actualización: 02 de Marzo 2022
 
 
 ### Dictámenes año 2021
-* [Dictamen segundo trimestre de 2020](dictamen-2021-06-segundo-trimestre.pdf)
+
 * [Dictamen primer trimestre de 2021](dictamen-2021-03-primer-trimestre.pdf)
+* [Dictamen segundo trimestre de 2021](dictamen-2021-06-segundo-trimestre.pdf)
+* [Dictamen tercer trimestre de 2021](dictamen-2021-09-tercer-trimestre.pdf)
+* [Dictamen cuarto trimestre de 2021](dictamen-2021-12-cuarto-trimestre.pdf)
 
 ### Dictámenes año 2020
 

@@ -19,7 +19,7 @@ Funge como órgano de apoyo técnico del Comité Coordinador del Sistema Estatal
 
 ### ¿Quién representa legalmente a la Secretaría Ejecutiva?
 
-De conformidad con el artículo 19 fracción II, del Reglamento interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, el Secretario Técnico, C.P.  Rosalío Medina Martínez.
+De conformidad con el artículo 37, fracción I del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, la ausencia del Secretario Técnico será suplida por el Director de Asuntos Jurídicos y Transparencia, Lic. Mauricio Contreras Montoya.
 
 ### ¿En dónde se localiza la Secretaría Ejecutiva?
 

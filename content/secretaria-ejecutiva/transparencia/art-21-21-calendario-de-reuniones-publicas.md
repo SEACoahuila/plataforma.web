@@ -45,16 +45,16 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 31 de Agosto 2021      - [Acta de la Séptima Sesión Ordinaria - PDF](2021-8-31-septima-sesion-ordinaria-CC.pdf)
 * 24 de Septiembre 2021      - [Acta de la Octava Sesión Ordinaria - PDF](2021-09-24-octava-sesion-ordinaria-CC.pdf)
 * 05 de Octubre 2021      - [Acta de la Novena Sesión Ordinaria - PDF](2021-novena-sesion-ordinaria-CC.pdf)
+* 25 de Octubre 2021      - [Acta de la Décima Sesión Ordinaria - PDF](2021-decima-sesion-ordinaria-CC.pdf)
 
-Nota: Acta de la décima primera sesión ordinaria del Comité Coordinador, en espera de aprobación.
-
+Nota: Acta de la segunda sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 05 de noviembre del 2021, no se han realizado sesiones extraordinarias del Comité Coordinador.
+Nota: Al 05 de marzo del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
 ---
 
 Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
@@ -85,8 +85,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de diciembre del 2021, no se han realizado sesiones ordinarias del Órgano de Gobierno.  
-Nota: Acta de la cuarta sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
+NNota: Acta de la primera sesión ordinaria del Órgano de Gobierno, en espera de aprobación.
 
 
 
@@ -103,7 +102,7 @@ Nota: Acta de la cuarta sesión ordinaria del Órgano de Gobierno, en espera de 
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2020-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2021    - [Acta de la Primera Sesión Extraordinaria - PDF](2021-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 
-  
+Nota: Al 05 de marzo del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
 ---
 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.

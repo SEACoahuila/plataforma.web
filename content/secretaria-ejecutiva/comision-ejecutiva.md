@@ -17,7 +17,7 @@ Save_as: secretaria-ejecutiva/comision-ejecutiva/index.html
 
 * [Acta tercera sesión ordinaria Comisión Ejecutiva 10 DIC 21](tercera-sesion-ordinaria-21.pdf)
 
-* [Acya cuarta sesión ordinara Comisión Ejecutiva 28 ENERO 22](cuarta-sesion-ordinaria-22.pdf)
+* [Acta cuarta sesión ordinara Comisión Ejecutiva 28 ENERO 22](cuarta-sesion-ordinaria-22.pdf)
 
 ### Sesiones extraordinarias
 

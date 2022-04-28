@@ -11,6 +11,6 @@ Fecha de última actualización: 04 de Abril 2022
 
 ### Descargar
 
-* [Secretaría Ejecutiva - Directorio de los servidores públicos - PDF](directorio-2022-0.pdf)
+* [Secretaría Ejecutiva - Directorio de los servidores públicos - PDF](directorio-2022.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.

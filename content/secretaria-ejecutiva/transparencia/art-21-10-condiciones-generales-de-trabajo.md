@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 04 de Abril 2022
+Fecha de última actualización: 04 de Mayo 2022
 
 
 Las condiciones generales de trabajo del personal que labora en la **Secretaría Ejecutiva** se rigen por el apartado A del artículo 123 de la **Constitución Política de los Estados Unidos Mexicanos,** por la **Constitución Política del Estado de Coahuila de Zaragoza,** esto de acuerdo a lo establecido por el artículo 7 del **Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.**

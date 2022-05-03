@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-05-29 12:00
 
 
-Fecha de última actualización: 04 de Abril 2022
+Fecha de última actualización: 04 de Mayo 2022
 
 
 El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no genera gastos de representación, en caso de ser generados serán reportados.
@@ -15,7 +15,9 @@ El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado d
 
 #### Viáticos 2022
 
-* [Viáticos del Personal, primer trimestre 2022 - PDF](viaticos-personal-2022-03.pdf)
+* [Viáticos del Personal, primer trimestre 2022 - PDF](viaticos-personal-2022-01.pdf)
+
+* [Viáticos del Personal, segundo trimestre 2022 - PDF](viaticos-personal-2022-02.pdf)
 
 #### Viáticos 2021
 

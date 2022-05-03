@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-12 12:04
 
 
-Fecha de última actualización: 04 de Abril 2022
+Fecha de última actualización: 04 de Mayo 2022
 
 
 ### ¿Qué es la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila?

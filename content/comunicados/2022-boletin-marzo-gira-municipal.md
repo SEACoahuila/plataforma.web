@@ -26,3 +26,4 @@ Según el artículo seis de la Ley del Sistema Anticorrupción del Estado de Coa
 <img src="../2022-boletin-marzo-gira-municipal/5.jpg">
 <img src="../2022-boletin-marzo-gira-municipal/6.jpg">
 <img src="../2022-boletin-marzo-gira-municipal/7.jpg">
+<img src="../2022-boletin-marzo-gira-municipal/8.jpg">

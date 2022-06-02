@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
 
-Fecha de última actualización: 04 de Mayo 2022
+Fecha de última actualización: 03 de Junio 2022
 
 
 **La Secretaría Ejecutiva no ha recibido aportación en dinero o en especie de personas físicas o morales, nacionales o internacionales a través de los centros de acopio o en las instituciones de crédito para ayudar a los municipios o comunidades en emergencia o desastre. Sin embargo en caso de que se efectúen estos se publicitarán, para dar cumplimiento al artículo 21 fracción XLVI de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.**

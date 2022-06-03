@@ -6,6 +6,52 @@ Date: 2019-04-30 16:32
 Modified: 2020-06-18 12:00
 
 
+### Cuarto trimestre 2021
+
+[Información Programática](2019-10_12-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-10_12-01-gasto-por-categoria-programatica.xlsx)
+
+
+### Tercer trimestre 2021
+
+[Información Programática](2019-10_09-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-10_09-01-gasto-por-categoria-programatica.xlsx)
+
+
+### Segundo trimestre 2021
+
+[Información Programática](2019-04_06-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-04_06-01-gasto-por-categoria-programatica.xlsx)
+
+
+### Primer trimestre 2021
+
+1. Gasto por Categoría Programática [XLSX](2020-01_03-01-gasto-por-categoria-programatica.xlsx)
+
+### Cuarto trimestre 2020
+
+[Información Programática](2019-10_12-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-10_12-01-gasto-por-categoria-programatica.xlsx)
+
+
+### Tercer trimestre 2020
+
+[Información Programática](2019-10_09-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-10_09-01-gasto-por-categoria-programatica.xlsx)
+
+
+### Segundo trimestre 2020
+
+[Información Programática](2019-04_06-00-informacion-programatica.pdf)
+
+1. Gasto por Categoría Programática [XLSX](2019-04_06-01-gasto-por-categoria-programatica.xlsx)
+
+
 ### Primer trimestre 2020
 
 1. Gasto por Categoría Programática [XLSX](2020-01_03-01-gasto-por-categoria-programatica.xlsx)

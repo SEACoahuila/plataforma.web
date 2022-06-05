@@ -8,13 +8,79 @@ Modified: 2020-06-18 12:00
 
 
 
+### Cuarto trimestre 2021
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2021-4-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2021-4-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2021-4-4.xlsx)
+
+
+### Tercer trimestre 2021
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2021-3-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2021-3-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2021-3-4.xlsx)
+
+
+
+### Segundo trimestre 2021
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2021-2-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2021-2-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2021-2-4.xlsx)
+
 
 ### Primer trimestre 2021
 
-1. Relación de Bienes Muebles [XLSX](2020-01_03-01-relacion-de-bienes-muebles.xlsx)
-2. Relación de Bienes Inmuebles [XLSX](2020-01_03-02-relacion-de-bienes-inmuebles.xlsx)
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2021-1-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2021-1-2.xlsx)
 3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
-4. Destino del Gasto Federalizado y Reintegros [XLSX](2020-01_03-04-destino-del-gasto-federalizado-y-reintegros.xlsx)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2021-1-4.xlsx)
+
+
+
+### Cuarto trimestre 2020
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2020-3-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2020-3-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2020-3-4.xlsx)
+
+
+
+### Tercer trimestre 2020
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2020-2-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2020-2-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2020-2-4.xlsx)
+
+
+
+### Segundo trimestre 2020
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2020-1-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2020-1-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2019-01_03-3-el-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.pdf)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2020-1-4.xlsx)
+
 
 ### Primer trimestre 2020
 

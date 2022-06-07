@@ -1,31 +1,26 @@
-Title: La FEHC da a conocer a los ganadores de concurso de dibujo
-Slug: 2022-06-02-ganadores-concurso-dibujo
-Summary: Ganadores de concurso de dibujo
+Title: Obtiene SEA Ratificación Plata de Oficina Verde
+Slug: 2022-06-03-oficina-verde
+Summary: Eglantina Canales Gutiérrez, titular de la Secretaría del Medio Ambiente del Estado de Coahuila de Zaragoza entregó a la Secretaría Ejecutiva del Sistema Anticorrupción del Estado la constancia de Cumplimiento como Oficina Verde Ratificación Plata 2022.
 Tags: Secretaría Ejecutiva
-Date: 2022-06-02 13:00
-Modified: 2022-06-02 23:00
-Image: preview.JPG
+Date: 2022-06-03 13:00
+Modified: 2022-06-03 23:00
+Image: preview.jpg
 
 
-### La FEHC da a conocer a los ganadores de concurso de dibujo 2022
+### Obtiene SEA Ratificación Plata de Oficina Verde
 
 
-Saltillo, Coahuila, 02 de junio de 2022.-  La Fiscalía Especializada en Delitos por Hechos de Corrupción dio a conocer a los ganadores del concurso “Dibuja tus Valores” 2022, que organizó en colaboración con la Secretaría de Educación de Coahuila.
+Saltillo, Coahuila, a 3 de junio de 2022.- Eglantina Canales Gutiérrez, titular de la Secretaría del Medio Ambiente del Estado de Coahuila de Zaragoza entregó a la Secretaría Ejecutiva del Sistema Anticorrupción del Estado la constancia de Cumplimiento como Oficina Verde Ratificación Plata 2022.
+
+ 
+
+Además destacó que, gracias al trabajo en equipo se logró “no sólo la disminución en los consumos de energía y agua, sino que además se han preocupado por la separación de los residuos, el uso eficiente de los materiales de oficina y el uso responsable del transporte, así como en las estrategias complementarias, pero no menos importantes que acertadamente implementa dentro de sus instalaciones”.
+
+ 
+
+Durante el evento, estuvo presente el Comité Ambiental de la SEA Coahuila y el reconocimiento fue recibido por Mauricio Contreras Montoya, encargado del despacho de la Secretaría Técnica de la Secretaría Ejecutiva. 
 
 
 
-En la Categoría “A”, los seleccionados fueron: primer lugar, Sofía Alejandra Valeria Carrillo; segundo lugar, Camila Atenea Chagollan Contreras y, el tercer lugar, Leonardo Manuel Rodríguez Palacios.
 
 
-
-Los ganadores de la categoría “B” fueron: Danna Renata Hernández Cerda, primer lugar; Ángel Rafael Escamilla Zamora, segundo lugar, y Gustavo Adolfo Ibarra Orta, el tercer lugar.
-
-
-
-Finalmente, en la categoría “C” los ganadores fueron Lizbeth Dajana García Rubio, en el primer lugar; Miranda Solís Watanave, el segundo lugar; así como Lesley Milena Gonzáles Fernández se hizo acreedora al tercer lugar. 
-
-
-<br>
-<img class="img-fluid" src="Menciones-Cat-A.jpeg" alt="Cat-A">
-<img class="img-fluid" src="Menciones-Cat-B.jpeg" alt="Cat-b">
-<img class="img-fluid" src="Menciones-Cat-C.jpeg" alt="Ganadores">

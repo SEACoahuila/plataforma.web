@@ -47,6 +47,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 05 de Octubre 2021      - [Acta de la Novena Sesión Ordinaria - PDF](2021-novena-sesion-ordinaria-CC.pdf)
 * 25 de Octubre 2021      - [Acta de la Décima Sesión Ordinaria - PDF](2021-decima-sesion-ordinaria-CC.pdf)
 * 29 de Noviembre 2021 - [Acta de la Décima Primer Sesión Ordinaria - PDF](2021-decima-primer-sesion-ordinaria-CC.pdf)
+* 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
 
  Nota: Acta de la quinta sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
@@ -85,9 +86,9 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-
+* 25 de Octube 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-acta-Cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
-
+* 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
 
 
 
@@ -102,6 +103,7 @@ Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de
 * 03 de Agosto de 2020    - [Acta de la Primera Sesión Extraordinaria - PDF](2020-08-03-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2020    - [Acta de la Segunda Sesión Extraordinaria - PDF](2020-02-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 14 de Septiembre de 2021    - [Acta de la Primera Sesión Extraordinaria - PDF](2021-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
+* 16 de Diciembre de 2021    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
 Nota: Al 05 de junio del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
 ---

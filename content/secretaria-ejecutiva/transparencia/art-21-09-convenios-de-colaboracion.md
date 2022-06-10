@@ -15,5 +15,13 @@ Fecha de última actualización: 03 de Junio 2022
 * [Convenio de Colaboración CCIC, CPC y SESEA para el Programa de Formación y Canalización de Reportes de Posibles Hechos de Corrupción - PDF](convenio-colaboracion-ccic-cpc-sesea.pdf)
 * [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - DOCX](convenio-colaboracion-auditoria-superior-del-estado.docx)
 * [Convenio de Colaboración Auditoría Superior del Estado de Coahuila de Zaragoza - PDF](convenio-colaboracion-auditoria-superior-del-estado.pdf)
+* [Convenio de Colaboración Academia - PDF](Academia.pdf)
+* [Convenio de Colaboración ITS - PDF](ITS.pdf)
+* [Convenio de Colaboración UANE - PDF](UANE.pdf)
+* [Convenio de Colaboración Universidad Carolina - PDF](UC.pdf)
+* [Convenio de Colaboración UAC - PDF](UAC.pdf)
+* [Convenio de Colaboración IBER - PDF](IBER.pdf)
+* [Convenio de Colaboración UVM - PDF](UVM.pdf)
+* [Convenio de Colaboración VIZCAYA - PDF](Vizcaya.pdf)
 
 Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia

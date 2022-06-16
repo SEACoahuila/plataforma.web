@@ -50,7 +50,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 16 de Diciembte 2021 - [Acta de la Décima segunda Sesión Ordinaria - PDF](2021-decima-segunda-sesion-ordinaria-CC.pdf)
 * 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
 * 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
-* 31 de Marzo 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
+* 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
 
 
 
@@ -92,10 +92,10 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 25 de Octube 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-acta-Cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
-Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
 * 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
 
 
+Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
 
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
@@ -138,11 +138,17 @@ La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesi
 * 25 de octubre 2017   - [Acta de Instalación del Órgano de Gobierno   - PDF](2017-10-25-acta-instalacion-organo-de-gobierno.pdf)
 * 14 de diciembre 2017 - [Acta de Instalación de la Comisión Ejecutiva - PDF](2017-12-14-acta-instalacion-comision-ejecutiva.pdf)
 
+### Calendario de sesiones 2022
+
+* [Calendario de sesiones del comité coordinador](calendario-sesiones-cc-2022.pdf)
+
+* [Calendario de sesiones del órgano de gobierno](calendario-sesiones-og-2022.pdf)
+
 
 ### Calendario de sesiones 2021
 
-* [Calendario de sesiones del comité coordinador](#)
+* [Calendario de sesiones del comité coordinador](sesiones-cc-2021.pdf)
 
-* [Calendario de sesiones del órgano de gobierno](#)
+* [Calendario de sesiones del órgano de gobierno](sesiones-og-2021.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

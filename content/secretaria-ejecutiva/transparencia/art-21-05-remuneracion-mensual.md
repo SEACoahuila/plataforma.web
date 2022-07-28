@@ -6,12 +6,12 @@ Date: 2018-02-23 09:00
 Modified: 2019-06-06 10:24
 
 
-Fecha de última actualización: 04 de julio 2022
+Fecha de última actualización: 01 de agosto 2022
 
 
 ### Descargar
 
-* [Remuneración Mensual por Puesto](remuneracion-mensual-por-puesto-2022-7.pdf)
+* [Remuneración Mensual por Puesto](remuneracion-mensual-por-puesto-2022-8.pdf)
 
 **Nota:** El servicio médico de los trabajadores de esta Secretaría Ejecutiva Anticorrupción es proporcionado por el Hospital Universitario.
 

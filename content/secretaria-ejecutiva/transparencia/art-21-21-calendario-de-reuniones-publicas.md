@@ -6,8 +6,10 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 04 de julio 2022
+Fecha de última actualización: 01 de agosto 2022
 
+
+<h2 style="color: black">Comité Coordinador</h2>
 
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
@@ -15,27 +17,27 @@ De conformidad con lo dispuesto por el artículo 13, de la Ley del Sistema Antic
 
 El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres meses y sus sesiones serán públicas.
 
-#### Sesiones Ordinarias del Comité Coordinador
+<!-- Inicio comoté coordinador
+    __   ___   ___ ___  ____  ______    ___         __   ___    ___   ____   ___    ____  ____    ____  ___     ___   ____  
+   /  ] /   \ |   |   ||    ||      |  /  _]       /  ] /   \  /   \ |    \ |   \  |    ||    \  /    ||   \   /   \ |    \ 
+  /  / |     || _   _ | |  | |      | /  [_       /  / |     ||     ||  D  )|    \  |  | |  _  ||  o  ||    \ |     ||  D  )
+ /  /  |  O  ||  \_/  | |  | |_|  |_||    _]     /  /  |  O  ||  O  ||    / |  D  | |  | |  |  ||     ||  D  ||  O  ||    / 
+/   \_ |     ||   |   | |  |   |  |  |   [_     /   \_ |     ||     ||    \ |     | |  | |  |  ||  _  ||     ||     ||    \ 
+\     ||     ||   |   | |  |   |  |  |     |    \     ||     ||     ||  .  \|     | |  | |  |  ||  |  ||     ||     ||  .  \
+ \____| \___/ |___|___||____|  |__|  |_____|     \____| \___/  \___/ |__|\_||_____||____||__|__||__|__||_____| \___/ |__|\_|
+                                                                                                                           
+ -->
+#### Sesiones Ordinarias del Comité Coordinador (CC)
 
-* 15 de marzo 2018      - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 26 de junio 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
-* 05 de octubre 2018    - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
-* 08 de enero 2019      - [Acta de la Primer Sesión Ordinaria  - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 05 de marzo 2019      - [Acta de la Segunda Sesión Ordinaria - PDF](2019-03-05-segunda-sesion-ordinaria-comite-coordinador.pdf)
-* 30 de abril 2019      - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
-* 31 de mayo 2019       - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
-* 20 de junio 2019      - [Acta de la Quinta Sesión Ordinaria  - PDF](2019-06-20-quinta-sesion-ordinaria-comite-coordinador.pdf)
-* 19 de julio 2019      - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
-* 30 de agosto 2019     - [Acta de la Séptima Sesión Ordinaria - PDF](2019-08-30-septima-sesion-ordinaria-comite-coordinador.pdf)
-* 13 de septiembre 2019 - [Acta de la Octava Sesión Ordinaria  - PDF](2019-09-13-octava-sesion-ordinaria-comite-coordinador.pdf)
-* 04 de octubre 2019 - [Acta de la Novena Sesión Ordinaria  - PDF](2019-10-04-novena-sesion-ordinaria-comite-coordinador.pdf)
-* 25 de noviembre 2019 - [Acta de la Décima Sesión Ordinaria  - PDF](2019-11-25-decima-sesion-ordinaria-comite-coordinador.pdf)
-* 16 de diciembre 2019 - [Acta de la Decimoprimera Sesión Ordinaria  - PDF](2019-12-16-decimoprimera-sesion-ordinaria-comite-coordinador.pdf)
-* 31 de enero 2020      - [Acta de la Primer Sesión Ordinaria  - PDF](2020-01-31-primera-sesion-ordinaria-comite-coordinador.pdf)
-* 21 de febrero 2020      - [Acta de la Segunda Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-comite-coordinador.pdf)
-* 07 de mayo 2020       - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 05 de Octubre 2020       - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 27 de Noviembre 2020       - [Acta de la Quinta Sesión Ordinaria - PDF](2020-11-27-acta-quinta-sesion-ordinaria-comite-coordinador.pdf)
+
+##### Sesiones Ordinarias-CC 2022 
+
+* 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
+* 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
+* 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
+
+##### Sesiones Ordinarias-CC 2021
+
 * 29 de Enero 2021      - [Acta de la Primer Sesión Ordinaria - PDF](2021-01-29-acta-primer-sesion-ordinara-ccr.pdf)
 * 25 de Febrero 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-acta-segunda-sesion-ordinara-cc.pdf)
 * 30 de Marzo 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-03-30-acta-tercera-sesion-ordinaria-comite-coordinador.pdf)
@@ -48,33 +50,91 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 25 de Octubre 2021      - [Acta de la Décima Sesión Ordinaria - PDF](2021-decima-sesion-ordinaria-CC.pdf)
 * 29 de Noviembre 2021 - [Acta de la Décima Primer Sesión Ordinaria - PDF](2021-decima-primer-sesion-ordinaria-CC.pdf)
 * 16 de Diciembte 2021 - [Acta de la Décima segunda Sesión Ordinaria - PDF](2021-decima-segunda-sesion-ordinaria-CC.pdf)
-* 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
-* 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
-* 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
 
+##### Sesiones Ordinarias-CC 2020
 
+* 31 de enero 2020      - [Acta de la Primer Sesión Ordinaria  - PDF](2020-01-31-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 21 de febrero 2020      - [Acta de la Segunda Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 07 de mayo 2020       - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 05 de Octubre 2020       - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 27 de Noviembre 2020       - [Acta de la Quinta Sesión Ordinaria - PDF](2020-11-27-acta-quinta-sesion-ordinaria-comite-coordinador.pdf)
 
-Nota: Acta de la sexta sesión ordinaria del Comité Coordinador, en espera de aprobación.
+##### Sesiones Ordinarias-CC 2019
+
+* 08 de enero 2019      - [Acta de la Primer Sesión Ordinaria  - PDF](2019-01-08-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 05 de marzo 2019      - [Acta de la Segunda Sesión Ordinaria - PDF](2019-03-05-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de abril 2019      - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-comite-coordinador.pdf)
+* 31 de mayo 2019       - [Acta de la Cuarta Sesión Ordinaria  - PDF](2019-05-31-cuarta-sesion-ordinaria-comite-coordinador.pdf)
+* 20 de junio 2019      - [Acta de la Quinta Sesión Ordinaria  - PDF](2019-06-20-quinta-sesion-ordinaria-comite-coordinador.pdf)
+* 19 de julio 2019      - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-07-19-sexta-sesion-ordinaria-comite-coordinador.pdf)
+* 30 de agosto 2019     - [Acta de la Séptima Sesión Ordinaria - PDF](2019-08-30-septima-sesion-ordinaria-comite-coordinador.pdf)
+* 13 de septiembre 2019 - [Acta de la Octava Sesión Ordinaria  - PDF](2019-09-13-octava-sesion-ordinaria-comite-coordinador.pdf)
+* 04 de octubre 2019 - [Acta de la Novena Sesión Ordinaria  - PDF](2019-10-04-novena-sesion-ordinaria-comite-coordinador.pdf)
+* 25 de noviembre 2019 - [Acta de la Décima Sesión Ordinaria  - PDF](2019-11-25-decima-sesion-ordinaria-comite-coordinador.pdf)
+* 16 de diciembre 2019 - [Acta de la Decimoprimera Sesión Ordinaria  - PDF](2019-12-16-decimoprimera-sesion-ordinaria-comite-coordinador.pdf)
+
+##### Sesiones Ordinarias-CC 2018
+
+* 15 de marzo 2018      - [Acta de la Primera Sesión Ordinaria - PDF](2018-03-15-primera-sesion-ordinaria-comite-coordinador.pdf)
+* 26 de junio 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
+* 05 de octubre 2018    - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
+
+Nota: Acta de la séptima sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 05 de julio del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
----
+
+
+Nota: Al 05 de agosto del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
+
+
+<!-- Fin de comite coordinador-->
+
+<!-- 
+
+  ___   ____    ____   ____  ____    ___       ___      ___       ____   ___   ____   ____    ___  ____   ____   ____  ___  
+ /   \ |    \  /    | /    ||    \  /   \     |   \    /  _]     /    | /   \ |    \ |    |  /  _]|    \ |    \ |    |/   \ 
+|     ||  D  )|   __||  o  ||  _  ||     |    |    \  /  [_     |   __||     ||  o  ) |  |  /  [_ |  D  )|  _  | |  ||     |
+|  O  ||    / |  |  ||     ||  |  ||  O  |    |  D  ||    _]    |  |  ||  O  ||     | |  | |    _]|    / |  |  | |  ||  O  |
+|     ||    \ |  |_ ||  _  ||  |  ||     |    |     ||   [_     |  |_ ||     ||  O  | |  | |   [_ |    \ |  |  | |  ||     |
+|     ||  .  \|     ||  |  ||  |  ||     |    |     ||     |    |     ||     ||     | |  | |     ||  .  \|  |  | |  ||     |
+ \___/ |__|\_||___,_||__|__||__|__| \___/     |_____||_____|    |___,_| \___/ |_____||____||_____||__|\_||__|__||____|\___/ 
+                                                                                                                           
+ -->
+
+## Órgano de Gobierno
 
 Según lo dispuesto por los artículos 14 y 22 del Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.
 
 El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia.
 
-#### Sesiones Ordinarias del Órgano de Gobierno
+#### Sesiones Ordinarias del Órgano de Gobierno (OG)
 
-* 22 de enero 2018      - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 24 de abril 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
-* 26 de junio 2018      - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 17 de julio 2018      - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 05 de octubre 2018    - [Acta de la Quinta Sesión Ordinaria  - PDF](2018-10-05-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
+
+##### Sesiones Ordinarias-OG 2022
+
+* 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
+
+##### Sesiones Ordinarias-OG 2021
+
+* 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 25 de Octube 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-acta-Cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+
+##### Sesiones Ordinarias-OG 2020
+
+* 31 de enero 2020      - [Acta de la Primera Sesión Ordinaria - PDF](2020-01-31-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 21 de febrero 2020    - [Acta de la Segunda Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 07 de mayo 2020    - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno1.pdf)
+* 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
+
+##### Sesiones Ordinarias-OG 2019
+
 * 08 de enero 2019      - [Acta de la Primera Sesión Ordinaria - PDF](2019-01-08-primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 29 de enero 2019      - [Acta de la Segunda Sesión Ordinaria - PDF](2019-01-29-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
 * 30 de abril 2019      - [Acta de la Tercera Sesión Ordinaria - PDF](2019-04-30-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
@@ -83,20 +143,17 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 13 de septiembre 2019 - [Acta de la Sexta Sesión Ordinaria   - PDF](2019-09-13-sexta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 29 de octubre 2019    - [Acta de la Séptima Sesión Ordinaria   - PDF](2019-10-29-septima-sesion-ordinaria-organo-de-gobierno.pdf)
 * 25 de noviembre 2019  - [Acta de la Octava Sesión Ordinaria   - PDF](2019-11-25-octava-sesion-ordinaria-organo-de-gobierno.pdf)
-* 31 de enero 2020      - [Acta de la Primera Sesión Ordinaria - PDF](2020-01-31-primera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 21 de febrero 2020    - [Acta de la Segunda Sesión Ordinaria - PDF](2020-02-21-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
-* 07 de mayo 2020    - [Acta de la Tercera Sesión Ordinaria - PDF](2020-05-07-tercera-sesion-ordinaria-organo-de-gobierno1.pdf)
-* 30 de julio 2020    - [Acta de la Cuarta Sesión Ordinaria - PDF](2020-07-30-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 26 de octubre 2020    - [Acta de la Quinta Sesión Ordinaria - PDF](2020-10-26-acta-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 29 de enero 2021      - [Acta de la Primera Sesión Ordinaria - PDF](2021-01-29-acta-primera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 28 de abril 2021      - [Acta de la Segunda Sesión Ordinaria - PDF](2021-04-28-acta-Segunda-sesion-ordinaria-organo-de-gobierno.pdf)
-* 22 de julio 2021      - [Acta de la Tercera Sesión Ordinaria - PDF](2021-07-22-acta-Tercera-sesion-ordinaria-organo-de-gobierno.pdf)
-* 25 de Octube 2021      - [Acta de la Cuarta Sesión Ordinaria - PDF](2021-acta-Cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
-* 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
+
+##### Sesiones Ordinarias-OG 2018
+
+* 22 de enero 2018      - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-22-primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 24 de abril 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-24-segunda-sesion-ordinaria-organo-de-gobierno.pdf)
+* 26 de junio 2018      - [Acta de la Tercera Sesión Ordinaria - PDF](2018-06-26-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 17 de julio 2018      - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
+* 05 de octubre 2018    - [Acta de la Quinta Sesión Ordinaria  - PDF](2018-10-05-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
 
 
-Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
-
+Nota: Acta de la tercera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 
@@ -110,12 +167,27 @@ Nota: Acta de la segunda sesión ordinaria del Órgano de Gobierno, en espera de
 * 14 de Septiembre de 2021    - [Acta de la Primera Sesión Extraordinaria - PDF](2021-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 16 de Diciembre de 2021    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de junio del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno.
----
+Nota: Al 01 de agosto del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
 
-La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran.
 
-#### Sesiones Ordinarias de la Comisión Ejecutiva
+
+<!-- 
+La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran. -->
+
+
+<!-- 
+
+    __   ___   ___ ___  ____ _____ ____  ____         ___  ____    ___    __  __ __  ______  ____  __ __   ____ 
+   /  ] /   \ |   |   ||    / ___/|    ||    \       /  _]|    |  /  _]  /  ]|  |  ||      ||    ||  |  | /    |
+  /  / |     || _   _ | |  (   \_  |  | |  _  |     /  [_ |__  | /  [_  /  / |  |  ||      | |  | |  |  ||  o  |
+ /  /  |  O  ||  \_/  | |  |\__  | |  | |  |  |    |    _]__|  ||    _]/  /  |  |  ||_|  |_| |  | |  |  ||     |
+/   \_ |     ||   |   | |  |/  \ | |  | |  |  |    |   [_/  |  ||   [_/   \_ |  :  |  |  |   |  | |  :  ||  _  |
+\     ||     ||   |   | |  |\    | |  | |  |  |    |     \  `  ||     \     ||     |  |  |   |  |  \   / |  |  |
+ \____| \___/ |___|___||____|\___||____||__|__|    |_____|\____||_____|\____| \__,_|  |__|  |____|  \_/  |__|__
+
+ -->
+
+<!-- #### Sesiones Ordinarias de la Comisión Ejecutiva
 
 * 30 de enero 2018 - [Acta de la Primera Sesión Ordinaria - PDF](2018-01-30-primera-sesion-ordinaria-comision-ejecutiva.pdf)
 * 03 de abril 2018 - [Acta de la Segunda Sesión Ordinaria - PDF](2018-04-03-segunda-sesion-ordinaria-comision-ejecutiva.pdf)
@@ -130,7 +202,7 @@ La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesi
 * 04 de julio 2018   - [Acta de la Quinta Sesión Extraordinaria  - PDF](2018-07-04-quinta-sesion-extraordinaria-comision-ejecutiva.pdf)
 * 22 de agosto 2018  - [Acta de la Sexta Sesión Extraordinaria   - PDF](2018-08-22-sexta-sesion-extraordinaria-comision-ejecutiva.pdf)
 
----
+--- -->
 
 #### Actas de Instalación
 

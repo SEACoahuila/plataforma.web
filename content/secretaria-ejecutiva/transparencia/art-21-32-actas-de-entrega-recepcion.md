@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-08-21 16:22
 
 
-Fecha de última actualización: 04 de julio 2022
+Fecha de última actualización: 01 de agosto 2022
 ### Descargar
 
 * [Acta Administrativa de Entrega-Recepción General, 19 de octubre 2018 - PDF](acta-administrativa-entrega-recepcion-general-2018-10-19.pdf)

@@ -11,6 +11,17 @@ Fecha de última actualización: 01 de agosto 2022
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila
 
+### Presupuesto de Egresos Autorizado Ejercicio 2022
+
+Capítulo del Gasto | Nombre                                                 | Presupuesto
+:-----------------:|--------------------------------------------------------|---------------:
+1000               | Servicios Personales                                   | $22,567,265.00
+2000               | Materiales y Suministros                               |  $1,050,000.00
+3000               | Servicios Generales                                    |  $4,757,135.00
+4000               | Transferencias, Asignaciones, Subsidios y Otras Ayudas |             $-
+5000               | Bienes Muebles e Inmuebles                             |             $-
+TOTAL              |                                                        | $28,374,400.00
+
 ### Presupuesto de Egresos Autorizado Ejercicio 2021
 
 Capítulo del Gasto | Nombre                                                 | Presupuesto

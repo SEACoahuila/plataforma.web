@@ -16,21 +16,21 @@ El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado d
 #### Viáticos 2022
 
 * [Viáticos del Personal, primer trimestre 2022 - PDF](viaticos-personal-2022-01.pdf)
-
-* [Viáticos del Personal, segundo trimestre 2022 - PDF](viaticos-personal-2022-02.pdf)
+* [Viáticos del Personal, segundo trimestre 2022 - PDF](viaticos-personal-2022-06.pdf)
 
 #### Viáticos 2021
 
 * [Viáticos del Personal, primer trimestre 2021 - PDF](viaticos-personal-2021-03.pdf)
 * [Viáticos del Personal, segundo trimestre 2021 - PDF](viaticos-personal-2021-06.pdf)
 * [Viáticos del Personal, tercer trimestre 2021 - PDF](viaticos-personal-2021-09.pdf)
+* [Viáticos del Personal, cuarto trimestre 2021 - PDF](viaticos-personal-2021-12.pdf)
 
 #### Viáticos 2020
 
 * [Viáticos del Personal, primer trimestre 2020 - PDF](viaticos-personal-2020-03.pdf)
 * [Viáticos del Personal, segundo trimestre 2020 - PDF](viaticos-personal-2020-06.pdf)
 * [Viáticos del Personal, tercer trimestre 2020 - PDF](viaticos-personal-2020-09.pdf)
-
+* [Viáticos del Personal, cuarto trimestre 2020 - PDF](viaticos-personal-2020-12.pdf)
 
 
 #### Viáticos 2019

@@ -22,7 +22,9 @@ Transparencia: [Beneficiarios de Subsidios, estímulos y apoyos]({filename}/secr
 * 7.- [Calendarios de Egresos SE SEA 2022 - PDF](sesaec-egresos-2022-calendarios.pdf)
 * 8.- [Información Adicional del Presupuesto de Ingresos SE SEA 2022 - PDF](sesaec-presupuesto-ingresos-2022-informacion-adicional.pdf)
 * 9.- [Información Adicional del Presupuesto de Egresos SE SEA 2022 - PDF](sesaec-presupuesto-egresos-2022-informacion-adicional.pdf)
-
+sesaec-presupuesto-egresos-2021-informacion-adicional.pdf)
+* 10.- [Presupuesto Ciudadano SE SEA - PDF](sesaec-presupuesto-ciudadano-2022.pdf)
+* 11.- [Fichas Técnicas de Indicadores - PDF](sesaec-indicadores-2022-fichas-tecnicas.pdf)
 
 ### Período 2021
 

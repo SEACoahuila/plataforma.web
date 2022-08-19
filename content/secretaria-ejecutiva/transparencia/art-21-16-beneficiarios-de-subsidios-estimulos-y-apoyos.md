@@ -11,6 +11,18 @@ Fecha de última actualización: 01 de agosto 2022
 
 #### Montos Pagados por Ayudas y Subsidios
 
+**Período Segundo Trimestre 2022**
+
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
 **Período Primer Trimestre 2022**
 
 Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado

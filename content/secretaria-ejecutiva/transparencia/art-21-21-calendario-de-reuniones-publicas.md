@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 01 de agosto 2022
+Fecha de última actualización: 01 de septiembre 2022
 
 
 <h2 style="color: black">Comité Coordinador</h2>
@@ -35,6 +35,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
 * 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
 * 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
+* 28 de abril 2022 - [Acta de la cuarta Sesión Ordinaria - PDF](2022-cuarta-sesion-ordinaria-CC.pdf)
 
 ##### Sesiones Ordinarias-CC 2021
 
@@ -117,6 +118,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 ##### Sesiones Ordinarias-OG 2022
 
 * 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
+* 28 de abril 2022      - [Acta de la Segunda Sesión Ordinaria - PDF](2022-SeguNDA-sesion-ordinaria-organo-de-gobierno.pdf)
 
 ##### Sesiones Ordinarias-OG 2021
 

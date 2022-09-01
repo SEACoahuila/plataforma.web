@@ -1,4 +1,4 @@
-Title: Analizarán implementación del Anexo Transversal Anticorrupción
+Title: El SAEC es el primer en ser evaluado “entre pares”
 Slug: 2022-boletin-VIII-sesion-ordinaria
 Summary:  El Sistema Anticorrupción del Estado de Coahuila de Zaragoza (SAEC) es el primero en todo el país en ser evaluado en su totalidad por el Mecanismo de Revisión entre Pares de la Convención de las Naciones Unidas contra la Droga y el Delito, así lo informó el Comité Coordinador (CC) durante su Octava Sesión Ordinaria.
 Tags: Comité Coordinador, Órgano de Gobierno, Sesiones

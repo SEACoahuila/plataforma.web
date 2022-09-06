@@ -36,6 +36,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
 * 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
 * 28 de abril 2022 - [Acta de la cuarta Sesión Ordinaria - PDF](2022-cuarta-sesion-ordinaria-CC.pdf)
+* 28 de junio 2022 - [Acta de la sexta Sesión Ordinaria - PDF](2022-sexta-sesion-ordinaria-CC.pdf)
 
 ##### Sesiones Ordinarias-CC 2021
 

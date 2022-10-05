@@ -6,8 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
 
-Fecha de última actualización: 01 de septiembre 2022
-
+Fecha de última actualización: 04 de octubre 2022
 
 <h2 style="color: black">Comité Coordinador</h2>
 

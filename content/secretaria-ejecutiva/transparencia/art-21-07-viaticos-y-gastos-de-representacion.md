@@ -17,6 +17,7 @@ El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado d
 
 * [Viáticos del Personal, primer trimestre 2022 - PDF](viaticos-personal-2022-01.pdf)
 * [Viáticos del Personal, segundo trimestre 2022 - PDF](viaticos-personal-2022-06.pdf)
+* [Viáticos del Personal, tercer trimestre 2022 - PDF](viaticos-personal-2022-09.pdf)
 
 #### Viáticos 2021
 

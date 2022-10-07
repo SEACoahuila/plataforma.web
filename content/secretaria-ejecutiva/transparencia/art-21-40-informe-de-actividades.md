@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-10-11 14:10
 
 
-Fecha de última actualización: 04 de octubre 2022
+ <script src="../date.js"></script>
 
 ## Informes anuales del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 

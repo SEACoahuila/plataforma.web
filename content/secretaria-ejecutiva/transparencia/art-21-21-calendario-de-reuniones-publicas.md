@@ -5,8 +5,7 @@ Author: Secretaría Ejecutiva
 Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
-
-Fecha de última actualización: 04 de octubre 2022
+ <script src="../date.js"></script>
 
 <h2 style="color: black">Comité Coordinador</h2>
 

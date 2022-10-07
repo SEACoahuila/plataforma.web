@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2021-10-27 12:00
 
 
-Fecha de última actualización: 04 de octubre 2022
+ <script src="../date.js"></script>
 
 ### Período 2022
 * [Primer Trimestre 2022 - Informe de Avance de Gestión Financiera - PDF](https://drive.google.com/file/d/1mLJ3o9Wjq6sIpE0-wAsaCinjx3HTkSys/view?ts=626c0fd7)

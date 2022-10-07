@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-06-18 13:00
 
 
-Fecha de última actualización: 04 de octubre 2022
+ <script src="../date.js"></script>
 
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila

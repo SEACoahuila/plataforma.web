@@ -6,8 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2020-03-27 17:00
 
 
-Fecha de última actualización: 04 de octubre 2022
-
+ <script src="../date.js"></script>
 
 ### Descargar
 

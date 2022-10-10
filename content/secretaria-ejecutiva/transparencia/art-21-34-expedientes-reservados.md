@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, no ha generado información reservada a que se refiere el artículo 21, fracción XXXIV de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, motivo por el cual no existe información respecto del presente rubro.

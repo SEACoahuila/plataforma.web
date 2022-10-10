@@ -7,6 +7,7 @@ Modified: 2019-11-12 12:04
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 ### ¿Qué es la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila?

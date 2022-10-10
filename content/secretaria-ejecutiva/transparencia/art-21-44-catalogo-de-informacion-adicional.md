@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 **A la fecha no existe información adicional a la que aparece publicada en el portal de Transparencia de la Secretaría Ejecutiva, a la que hace referencia la fracción XLIV del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.**
 

@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 En el periodo que se informa la Secretaría Ejecutiva no ha ejercido presupuesto en cuanto a gastos de publicidad, se informa que cuando se genere dicha información será publicada para el debido cumplimiento a la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.

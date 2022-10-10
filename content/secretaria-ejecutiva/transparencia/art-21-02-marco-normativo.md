@@ -7,7 +7,7 @@ Modified: 2020-03-03 14:30
 
 
  <script src="../date.js"></script>
-
+<div id="date"> </div>
 
 ### Constituciones políticas
 

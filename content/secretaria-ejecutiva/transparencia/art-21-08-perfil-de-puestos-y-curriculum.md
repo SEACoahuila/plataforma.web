@@ -7,7 +7,7 @@ Modified: 2020-05-29 12:00
 
 
  <script src="../date.js"></script>
-
+<div id="date"> </div>
 
 #### Secretario Técnico
 

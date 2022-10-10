@@ -7,6 +7,7 @@ Modified: 2020-08-21 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 ### Descargar
 

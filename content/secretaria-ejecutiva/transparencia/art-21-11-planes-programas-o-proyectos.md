@@ -6,7 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-01-31 16:22
 
  <script src="../date.js"></script>
-
+<div id="date"> </div>
 
 ### Descargar
 * [Programa de Trabajo de la Secretaría Ejecutiva 2021 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](https://www.seacoahuila.org.mx/secretaria-ejecutiva/planes/Programa-trabajo-ST.pdf) 

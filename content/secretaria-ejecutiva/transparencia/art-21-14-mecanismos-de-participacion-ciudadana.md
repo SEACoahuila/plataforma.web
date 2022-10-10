@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 La Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza no ha establecido mecanismos de participación ciudadana para la toma de decisiones durante el periodo que se informa, por lo que no hay información al respecto, se hace saber que en cuanto se cuente con información se hará pública para cumplir con la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 

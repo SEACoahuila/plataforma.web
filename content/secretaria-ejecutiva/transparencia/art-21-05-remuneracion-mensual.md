@@ -7,7 +7,7 @@ Modified: 2019-06-06 10:24
 
 
  <script src="../date.js"></script>
-
+<div id="date"> </div>
 
 ### Descargar
 

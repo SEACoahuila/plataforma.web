@@ -6,6 +6,7 @@ Date: 2018-02-23 09:00
 Modified: 2019-11-25 11:30
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 <h2 style="color: black">Comité Coordinador</h2>
 

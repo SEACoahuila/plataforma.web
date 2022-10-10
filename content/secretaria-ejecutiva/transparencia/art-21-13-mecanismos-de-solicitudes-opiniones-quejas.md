@@ -7,6 +7,7 @@ Modified: 2019-06-11 09:30
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema **INFOCOAHUILA.**

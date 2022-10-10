@@ -7,7 +7,7 @@ Modified: 2020-06-10 09:00
 
 
  <script src="../date.js"></script>
-
+<div id="date"> </div>
 
 Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos, ni ha emitido comisión alguna, motivo por el cual no existe información respecto de los rubros mencionados, proporcionando los nombramientos correspondientes en base a lo siguiente:
 

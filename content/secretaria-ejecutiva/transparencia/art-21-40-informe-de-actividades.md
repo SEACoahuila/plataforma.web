@@ -7,6 +7,7 @@ Modified: 2019-10-11 14:10
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 ## Informes anuales del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 

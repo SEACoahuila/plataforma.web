@@ -7,6 +7,7 @@ Modified: 2020-05-29 13:00
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 ### Dictámenes año 2021
 

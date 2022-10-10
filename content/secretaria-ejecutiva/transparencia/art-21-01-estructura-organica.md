@@ -7,6 +7,9 @@ Modified: 2020-05-29 11:00
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
+ 
+ 
 
 ### Facultades y responsabilidades
 

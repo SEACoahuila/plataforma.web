@@ -7,6 +7,7 @@ Modified: 2020-05-29 14:00
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 #### Montos Pagados por Ayudas y Subsidios

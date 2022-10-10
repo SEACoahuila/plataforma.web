@@ -7,6 +7,7 @@ Modified: 2019-01-31 16:22
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trámite y seguimiento hasta su conclusión, a las solicitudes de acceso a la información, cumpliendo con las formalidades y plazos señalados en la ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.

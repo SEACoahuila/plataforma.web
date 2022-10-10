@@ -7,6 +7,7 @@ Modified: 2020-06-18 13:00
 
 
  <script src="../date.js"></script>
+ <div id="date"> </div>
 
 
 Secretaria Ejecutiva del Sistema Estatal Anticorrupción del Estado de Coahuila

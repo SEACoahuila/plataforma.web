@@ -29,7 +29,7 @@ opacidad, los actos ilícitos y de corrupción e incrementen la confianza de los
 ciudadanos respecto a las instituciones.
 
 ### El Comité Coordinador está integrado por
-
+<!-- 
 <div class="media mb-4">
     <div class="w-25 mr-2">
         <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-cro.jpg" alt="Carlos Rangel Orona">
@@ -38,9 +38,9 @@ ciudadanos respecto a las instituciones.
         <h5 class="mt-0">Carlos Rangel Orona</h5>
         Quien Preside el <a href="http://www.cpccoahuila.org.mx/">Consejo de Participación Ciudadana</a>
     </div>
-</div>
+</div> -->
 
-<div class="media mb-4">
+<!-- <div class="media mb-4">
     <div class="w-25 mr-2">
         <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-asec-japs.jpg" alt="José Armando Plata Sandoval">
     </div>
@@ -48,7 +48,7 @@ ciudadanos respecto a las instituciones.
         <h5 class="mt-0">José Armando Plata Sandoval</h5>
         Titular de la <a href="https://www.asecoahuila.gob.mx/">Auditoría Superior del Estado</a>
     </div>
-</div>
+</div> -->
 
 <div class="media mb-4">
     <div class="w-25 mr-2">
@@ -89,7 +89,7 @@ ciudadanos respecto a las instituciones.
         Presidente del <a href="http://www.icai.org.mx/">Instituto Coahuilense de Acceso a la Información Pública</a>
     </div>
 </div>
-
+<!-- 
 <div class="media mb-4">
     <div class="w-25 mr-2">
         <img class="img-thumbnail" width="100" height="100" src="/theme/images/cc-tjacz-slrw.jpg" alt="Sandra Luz Rodríguez Wong">
@@ -99,3 +99,4 @@ ciudadanos respecto a las instituciones.
         Presidente del <a href="http://www.tjacoahuila.org/">Tribunal de Justicia Administrativa de Coahuila de Zaragoza</a>
     </div>
 </div>
+ -->

@@ -34,8 +34,12 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
 * 25 de Febrero 2022 - [Acta de la Segunda Sesión Ordinaria - PDF](2022-segunda-sesion-ordinaria-CC.pdf)
 * 31 de Marzo 2022 - [Acta de la tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-CC.pdf)
-* 28 de abril 2022 - [Acta de la cuarta Sesión Ordinaria - PDF](2022-cuarta-sesion-ordinaria-CC.pdf)
-* 28 de junio 2022 - [Acta de la sexta Sesión Ordinaria - PDF](2022-sexta-sesion-ordinaria-CC.pdf)
+* 28 de Abril 2022 - [Acta de la cuarta Sesión Ordinaria - PDF](2022-cuarta-sesion-ordinaria-CC.pdf)
+* 27 de Mayo 2022 - [Acta de la quinta Sesión Ordinaria - PDF](2022-quinta-sesion-ordinaria-CC.pdf)
+* 28 de Junio 2022 - [Acta de la sexta Sesión Ordinaria - PDF](2022-sexta-sesion-ordinaria-CC.pdf)
+* 22 de Julio 2022 - [Acta de la séptima Sesión Ordinaria - PDF](2022-septima-sesion-ordinaria-CC.pdf)
+* 30 de Agosto 2022 - [Acta de la octava Sesión Ordinaria - PDF](2022-octava-sesion-ordinaria-CC.pdf)
+* 28 de Septiembre 2022 - [Acta de la novena Sesión Ordinaria - PDF](2022-novena-sesion-ordinaria-CC.pdf)
 
 ##### Sesiones Ordinarias-CC 2021
 
@@ -120,6 +124,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 
 * 28 de enero 2022      - [Acta de la Primera Sesión Ordinaria - PDF](2022-Primera-sesion-ordinaria-organo-de-gobierno.pdf)
 * 28 de abril 2022      - [Acta de la Segunda Sesión Ordinaria - PDF](2022-SeguNDA-sesion-ordinaria-organo-de-gobierno.pdf)
+* 22 de julio 2022      - [Acta de la Tercera Sesión Ordinaria - PDF](2022-tercera-sesion-ordinaria-organo-de-gobierno.pdf)
 
 ##### Sesiones Ordinarias-OG 2021
 

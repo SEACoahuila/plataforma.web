@@ -2,8 +2,8 @@ Title: Presentan Informe Anual de Actividades y Resultados del SAEC
 Slug: 2022-boletin-informe
 Summary:  Durante la Décima Sesión Ordinaria del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila (SAEC) de Zaragoza, el Presidente Carlos Rangel Orona, presentó el Informe Anual de Actividades que contiene los avances más relevantes en el combate a la corrupción, durante el ejercicio de octubre 2021 a octubre 2022.
 Tags: Comité Coordinador, Órgano de Gobierno, Sesiones
-Date: 2022-04-10 14:42
-Modified: 2022-04-10 14:42
+Date: 2022-10-04 14:42
+Modified: 2022-10-04 14:42
 Image: preview.png
 
 

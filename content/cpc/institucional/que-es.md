@@ -36,15 +36,6 @@ consideren necesarias para el buen funcionamiento del Sistema.
 
 
 
-<div class="media mb-4">
-    <div class="w-25 mr-2">
-        <img class="img-thumbnail" width="100" height="100" src="/theme/images/cpc-cro.jpg" alt="Carlos Rangel Orona">
-    </div>
-    <div class="media-body align-self-end">
-        <h5 class="mt-0">Carlos Rangel Orona</h5>
-        <a href="mailto:carlos.rangel@cpccoahuila.org.mx">carlos.rangel@cpccoahuila.org.mx</a>
-    </div>
-</div>
 
 <div class="media mb-4">
     <div class="w-25 mr-2">
@@ -83,5 +74,14 @@ consideren necesarias para el buen funcionamiento del Sistema.
     <div class="media-body align-self-end">
         <h5 class="mt-0">Juan Carlos Guzmán Escobedo</h5>
         <a href="mailto:carlos.guzman@cpccoahuila.org.mx">carlos.guzman@cpccoahuila.org.mx</a>
+    </div>
+</div>
+<div class="media mb-4">
+    <div class="w-25 mr-2">
+        <img class="img-thumbnail" width="100" height="100" src="/theme/images/" alt="Karla Samperio Flores">
+    </div>
+    <div class="media-body align-self-end">
+        <h5 class="mt-0">Karla Samperio Flores</h5>
+        <a href="mailto:karla.samperio@cpccoahuila.org.mx">karla.samperio@cpccoahuila.org.mx</a>
     </div>
 </div>

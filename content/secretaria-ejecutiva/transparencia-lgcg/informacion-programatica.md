@@ -6,6 +6,12 @@ Date: 2019-04-30 16:32
 Modified: 2020-06-18 12:00
 
 
+### Tercer trimestre 2022
+
+[Información Programática](#)
+
+1. Gasto por Categoría Programática [XLSX](2022-2.xlsx)
+
 ### Segundo trimestre 2022
 
 [Información Programática](#)

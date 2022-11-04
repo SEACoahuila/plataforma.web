@@ -9,6 +9,12 @@ Modified: 2020-05-29 13:00
  <script src="../date.js"></script>
  <div id="date"> </div>
 
+### Dictámenes año 2022
+
+* [Dictamen primer trimestre de 2022](dictamen-2022-03-primer-trimestre.pdf)
+* [Dictamen segundo trimestre de 2022](dictamen-2022-06-segundo-trimestre.pdf)
+* [Dictamen tercer trimestre de 2022](dictamen-2022-09-tercer-trimestre.pdf)
+
 ### Dictámenes año 2021
 
 * [Dictamen primer trimestre de 2021](dictamen-2021-03-primer-trimestre.pdf)

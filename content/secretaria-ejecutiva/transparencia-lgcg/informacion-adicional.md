@@ -5,6 +5,14 @@ Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
 Modified: 2020-06-18 12:00
 
+### Tercer trimestre 2022
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](2022-2-1.xlsx)
+2. Relación de Bienes Inmuebles [XLSX](2022-2-2.xlsx)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2022-2-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.docx)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](2022-2-4.xlsx)
 
 ### Segundo trimestre 2022
 

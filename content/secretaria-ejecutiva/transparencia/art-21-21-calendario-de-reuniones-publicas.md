@@ -84,16 +84,15 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 26 de junio 2018      - [Acta de la Segunda Sesión Ordinaria - PDF](2018-06-26-segunda-sesion-ordinaria-comite-coordinador.pdf)
 * 05 de octubre 2018    - [Acta de la Tercera Sesión Ordinaria - PDF](2018-10-05-tercera-sesion-ordinaria-comite-coordinador.pdf)
 
-Nota: Acta de la novena sesión ordinaria del Comité Coordinador, en espera de aprobación.
+Nota: Acta de la décima primera sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 #### Sesiones Extraordinarias del Comité Coordinador
 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
 
-Nota: Al 05 de septiembre del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
-Nota: Al 05 de octubre del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
 
+Nota: Al 05 de noviembre del 2022, no se han realizado sesiones extraordinarias del Comité Coordinador.
 
 
 

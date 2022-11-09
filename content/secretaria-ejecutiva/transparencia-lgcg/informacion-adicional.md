@@ -9,10 +9,10 @@ Modified: 2020-06-18 12:00
 
 [Información adicional - PDF](#)
 
-1. Relación de Bienes Muebles [XLSX](2022-2-1.xlsx)
-2. Relación de Bienes Inmuebles [XLSX](2022-2-2.xlsx)
-3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](2022-2-reporte-de-los-esquemas-bursatiles-y-de-coberturas-financieras.docx)
-4. Destino del Gasto Federalizado y Reintegros [XLSX](2022-2-4.xlsx)
+1. Relación de Bienes Muebles [XLSX](https://docs.google.com/spreadsheets/d/1WvBgPtoejLywsezaEXh7jg6e6udiEuld/edit#gid=1317851789)
+2. Relación de Bienes Inmuebles [XLSX](https://docs.google.com/spreadsheets/d/1rYyy9Ibwo9KfI2C4SfrHaiZXLAUYARDP/edit#gid=1963602718)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](https://docs.google.com/document/d/1hrvKcf-zBjCYbp82uuKF90B6R9GRSmG2/edit)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](https://docs.google.com/spreadsheets/d/1mAQeXyuq85dHEggri8g8m_7HjwmpAiKy/edit#gid=149544973)
 
 ### Segundo trimestre 2022
 

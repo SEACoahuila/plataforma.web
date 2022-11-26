@@ -159,8 +159,7 @@ El **Órgano de Gobierno** celebrará por lo menos cuatro sesiones ordinarias po
 * 17 de julio 2018      - [Acta de la Cuarta Sesión Ordinaria  - PDF](2018-07-17-cuarta-sesion-ordinaria-organo-de-gobierno.pdf)
 * 05 de octubre 2018    - [Acta de la Quinta Sesión Ordinaria  - PDF](2018-10-05-quinta-sesion-ordinaria-organo-de-gobierno.pdf)
 
-
-Nota: Acta de la tercera sesión ordinaria del Órgano de Gobierno, en espera de aprobación. 
+Nota: Acta de la décima primera sesión ordinaria del Comité Coordinador, en espera de aprobación.
 
 #### Sesiones Extraordinarias del Órgano de Gobierno
 
@@ -174,8 +173,7 @@ Nota: Acta de la tercera sesión ordinaria del Órgano de Gobierno, en espera de
 * 14 de Septiembre de 2021    - [Acta de la Primera Sesión Extraordinaria - PDF](2021-primera-sesion-extraordinaria-organo-de-gobierno.pdf)
 * 16 de Diciembre de 2021    - [Acta de la Segunda Sesión Extraordinaria - PDF](2021-segunda-sesion-extraordinaria-organo-de-gobierno.pdf)
 
-Nota: Al 05 de octubre del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
-
+Nota: Al 05 de noviembre del 2022, no se han realizado sesiones extraordinarias del Órgano de Gobierno. 
 
 <!-- 
 La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesiones extraordinarias a propuesta del Secretario Técnico o de al menos dos de los miembros del Consejo de Participación Ciudadana que lo integran. -->

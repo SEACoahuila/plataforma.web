@@ -8,6 +8,10 @@ Modified: 2020-03-03 16:00
  <script src="../date.js"></script>
 <div id="date"> </div>
 
+### Período 2023
+
+* [Calendario de Actualización de la Información Pública de Oficio 2022 - PDF](calendario-ipo-sea-coahuila-2023.pdf)
+
 ### Período 2022
 
 * [Calendario de Actualización de la Información Pública de Oficio 2022 - PDF](calendario-ipo-sea-coahuila-2022.pdf)

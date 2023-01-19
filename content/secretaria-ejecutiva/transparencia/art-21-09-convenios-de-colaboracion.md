@@ -25,4 +25,4 @@ Modified: 2020-03-27 17:00
 * [Convenio de Colaboración UVM - PDF](UVM.pdf)
 * [Convenio de Colaboración VIZCAYA - PDF](Vizcaya.pdf)
 
-Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia
+Se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Asuntos Jurídicos y Transparencia

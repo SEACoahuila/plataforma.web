@@ -12,6 +12,18 @@ Modified: 2020-05-29 14:00
 
 #### Montos Pagados por Ayudas y Subsidios
 
+**Período Primer Trimestre 2023**
+
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
 **Período Tercer Trimestre 2022**
 
 Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
@@ -193,4 +205,4 @@ Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CU
 
 No se brindaron ayudas y subsidios en el período.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

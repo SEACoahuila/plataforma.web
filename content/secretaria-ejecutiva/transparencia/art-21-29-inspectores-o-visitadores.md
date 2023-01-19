@@ -14,4 +14,4 @@ En relación a este apartado de la Ley de Acceso a la Información Pública para
 
 Lo anterior de conformidad con su Reglamento Interior.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el * L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

@@ -11,6 +11,7 @@ Modified: 2020-05-29 12:00
 
 #### Secretario Técnico
 
+* [Elidé Alejandrina Acosta Reyes <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-eaar.pdf)
 
 #### Dirección de Asuntos Jurídicos y Transparencia
 
@@ -34,8 +35,6 @@ Modified: 2020-05-29 12:00
 #### Dirección de Administración y Finanzas
 
 * [Ana Laura López Ibarra <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-alli.pdf)
-* [Elidé Alejandrina Acosta Reyes <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-eaar.pdf)
-* [Gadi Berenice Hernández Sánchez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-gbhs.pdf)
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacm.pdf)
 * [Jorge Armando Moreno Tovar <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jamt.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacg.pdf)
@@ -46,8 +45,8 @@ Modified: 2020-05-29 12:00
 * [René Lazalde Mañon <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cvrlm.pdf)
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ejmc.pdf)
 * [Erika Farias Pérez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-efp2.pdf)
-* [Alejandro Soto Treviño <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ast2.pdf)
-* [Cesar Abelardo Muñiz Motas <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-cesar.pdf)
+
+
 
 Cesar Abelardo Muñiz Motas
 #### Unidad de Capacitación
@@ -64,4 +63,4 @@ Cesar Abelardo Muñiz Motas
 
 #### [Perfil de Puestos](perfil-de-puestos.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

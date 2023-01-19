@@ -14,4 +14,4 @@ De conformidad con el artículo 21, fracción XXXIII de la Ley de Acceso a la In
 
 ### NO APLICA
 
-Por lo que se le informa que el funcionario responsable de la presente información es **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

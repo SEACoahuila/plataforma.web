@@ -13,4 +13,4 @@ Modified: 2019-06-07 11:20
 
 * [Parque Vehicular de la Secretaría Ejecutiva - PDF](listado-parque-vehicular.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

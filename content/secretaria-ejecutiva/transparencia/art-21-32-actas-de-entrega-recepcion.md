@@ -21,6 +21,9 @@ Modified: 2020-08-21 16:22
 * [Acta Administrativa de Entrega-Recepción General, 10 de julio 2020 - PDF](ACTA-ADMINISTRATI-A-ENTREGA-RECEPCION-10-DE-JULIO-DE-2020.pdf)
 * [Acta Administrativa de Entrega-Recepción General, 14 de agosto 2020 - PDF](ACTA-ADMINISTRATIvA-ENTREGA-RECEPCION-14-DE-AGOSTO-DE-2020.pdf)
 * [Acta Administrativa de Entrega-Recepción General, 13 de diciembre 2021c- PDF](ACTA-ADMINISTRATIVA-ENTREGA-RECEPCION-13-DE-DICIEMBRE-DE-2021.pdf)
+* [Acta Administrativa de Entrega-Recepción General, 01 de enero 2023- PDF](ACTA-ADMINISTRATIVA-ENTREGA-RECEPCION-01-DE-enero-DE-2023.pdf)
+* [Acta Administrativa de Entrega-DAF, 01 de enero 2023- PDF](ACTA-ADMINISTRATIVA-ENTREGA-RECEPCION-01-DE-enero-DE--DAF.pdf)
+
 
 
 A la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, le son aplicables las disposiciones de la Ley de entrega-recepción del Estado y Municipios de Coahuila de Zaragoza, en materia de actas de entrega-recepción.

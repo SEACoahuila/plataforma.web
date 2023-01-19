@@ -6,6 +6,8 @@ Date: 2018-10-03 20:28
 Status: hidden
 Save_as: cc/planes/index.html
 
+
+* [Plan de Trabajo 2023 del Comité Coordinador](plan-de-trabajo-cc-2023/programa-anual-2023.pdf)
 * [Plan de Trabajo 2021 del Comité Coordinador](plan-de-trabajo-cc-2021/programa-anual-2021.pdf)
 * [Plan de Trabajo 2020 del Comité Coordinador](plan-de-trabajo-cc-2020/programa-anual-2020.pdf)
 * [Plan de Trabajo 2019 del Comité Coordinador](plan-de-trabajo-cc-2019/)

@@ -49,4 +49,4 @@ El personal de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado d
 * [Viáticos del Personal, tercer trimestre 2018 - PDF](viaticos-personal-2018-09.pdf)
 * [Viáticos del Personal, cuarto trimestre 2018 - PDF](viaticos-personal-2018-12.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

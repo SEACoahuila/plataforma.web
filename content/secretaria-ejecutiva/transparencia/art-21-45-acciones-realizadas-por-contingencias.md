@@ -11,4 +11,4 @@ Modified: 2019-01-31 16:22
 
 **La Secretaría Ejecutiva no ha participado en el auxilio de comunidades en emergencias o desastres. Sin embargo en caso de que se lleven a cabo estos se publicitarán, para dar cumplimiento al artículo 21 fracción XLV de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Elidé Alejandrina Acosta Reyes,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.

@@ -46,5 +46,5 @@ Modified: 2021-10-27 12:00
 * [Segundo Trimestre 2018 - Archivos del Avance de Gestión Financiera - ZIP](avance-de-gestion-financiera-2018-06.zip)
 * [Primer Trimestre 2018 - Informe de Avance de Gestión Financiera - PDF](informe-avance-gestion-financiera-2018-03.pdf)
 
-Por lo que se informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Por lo que se informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.
 

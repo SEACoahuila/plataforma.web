@@ -38,4 +38,4 @@ coordinador-de-administración-y-finanzas
 
 * [C.P. Jorge Armando Moreno Tovar - PDF](coordinador-de-administración-y-finanzas.pdf)
 
-Así mismo, se informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Así mismo, se informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.

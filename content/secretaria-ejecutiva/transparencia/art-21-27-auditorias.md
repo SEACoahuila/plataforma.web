@@ -44,4 +44,4 @@ Modified: 2020-05-29 13:00
 * [Dictamen cuarto trimestre de 2018](dictamen-2018-12-tercer-trimestre.pdf)
 * [Dictamen Presupuestario 2018](dictamen-presupuestario-2018.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.

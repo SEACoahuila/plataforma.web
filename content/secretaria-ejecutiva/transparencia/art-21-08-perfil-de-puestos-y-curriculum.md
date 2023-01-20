@@ -63,4 +63,4 @@ Cesar Abelardo Muñiz Motas
 
 #### [Perfil de Puestos](perfil-de-puestos.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.

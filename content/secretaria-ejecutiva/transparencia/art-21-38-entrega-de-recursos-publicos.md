@@ -13,4 +13,4 @@ Modified: 2019-01-31 16:22
 
 **Este apartado de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza no aplica toda vez que no está dentro de las atribuciones establecidas en la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza ni en el Reglamento Interior de la Secretaría Ejecutiva.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.

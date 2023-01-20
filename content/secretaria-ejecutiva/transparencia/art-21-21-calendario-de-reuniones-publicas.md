@@ -227,4 +227,4 @@ La **Comisión Ejecutiva** celebrará sesiones ordinarias cada tres meses y sesi
 
 * [Calendario de sesiones del órgano de gobierno](sesiones-og-2021.pdf)
 
-Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.
+Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Directors de Asuntos Jurídicos y Transparencia.

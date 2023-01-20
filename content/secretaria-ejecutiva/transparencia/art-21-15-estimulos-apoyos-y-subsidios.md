@@ -12,4 +12,4 @@ Modified: 2019-01-31 16:22
 
 A lo dispuesto en la Fracción XV del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza. De conformidad con la Constitución Política del Estado, y con la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, **no se establecen programas de subsidio, estímulos o apoyos a ejecutar por parte de la Secretaría Ejecutiva, ni tampoco se contemplan en su presupuesto de egresos.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovar,** Director de Administración y Finanzas.

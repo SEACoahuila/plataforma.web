@@ -12,4 +12,4 @@ Modified: 2019-01-31 16:22
 
 En el periodo que se informa la Secretaría Ejecutiva no ha ejercido presupuesto en cuanto a gastos de publicidad, se informa que cuando se genere dicha información será publicada para el debido cumplimiento a la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovars,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovars,** Director de Administración y Finanzas.

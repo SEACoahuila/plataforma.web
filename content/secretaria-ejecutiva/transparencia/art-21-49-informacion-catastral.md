@@ -16,4 +16,4 @@ De conformidad con lo dispuesto por los artículos 8 y 25 de la Ley del Sistema 
 
 **Por lo anterior, es que ésta Secretaría Ejecutiva no cuenta con información catastral consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales; a que se refiere la fracción XLIX del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, por no ser información relacionada con sus funciones, motivo por el cual no existe información respecto del presente rubro.**
 
-Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovars,** Directora de Administración y Finanzas.
+Por lo que se le informa que el funcionario responsable de la presente información es el ** L.C. Jorge Armando Moreno Tovars,** Director de Administración y Finanzas.

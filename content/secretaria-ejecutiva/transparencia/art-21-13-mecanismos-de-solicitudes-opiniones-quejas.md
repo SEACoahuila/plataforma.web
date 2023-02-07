@@ -12,38 +12,57 @@ Modified: 2019-06-11 09:30
 
 La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, pone a disposición de la ciudadanía el mecanismo para presentar solicitudes de información pública de su interés en el sistema **INFOCOAHUILA.**
 
-Para presentar una solicitud de información debe seguir los siguientes pasos
 
-#### 1) Ingresar a la página [http://www.infocoahuila.org.mx](http://www.infocoahuila.org.mx) y registrarse para crear una cuenta de usuario
+## SOLICITUDES DE INFORMACIÓN
 
-<img class="img-fluid" src="paso-1.png" alt="Paso 1">
+ 
 
-#### 2) Una vez registrado ingresa con su usuario y contraseña
+* De manera verbal:
 
-<img class="img-fluid" src="paso-2.png" alt="Paso 2">
+En las instalaciones de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza (Unidad de Transparencia) o vía telefónica.
 
-#### 3) Aparecerá la siguiente pantalla en donde podrá escribir sus preguntas sobre la información de su interés de la
+Blvd. Luis Donaldo Colosio #703, tercer piso, Fracc. Valle Real, C.P. 25205.
 
-<img class="img-fluid" src="paso-3.png" alt="Paso 3">
+Lunes a jueves en horario de 8:30 a 15:00 hrs
 
-#### 4. En el siguiente apartado deberá indicar el sujeto obligado (Poder Ejecutivo)
+Viernes de 8:30 a 14:30 hrs
 
-<img class="img-fluid" src="paso-4.png" alt="Paso 4">
+Teléfono: 844-688-2178
 
-#### 5. En seguida deberá indicar la Unidad de atención (Secretaría Ejecutiva del Sistema Estatal Anticorrupción)
+ 
 
-<img class="img-fluid" src="paso-5.png" alt="Paso 5">
+* Mediante escrito libre:
 
-#### 6. Deberá indicar la forma en la que desea se le entregue la información solicitada
+En las instalaciones de la Secretaría Ejecutiva, por correo electrónico oficial de la Unidad de Transparencia, por fax, por correo postal o telégrafo.
 
-<img class="img-fluid" src="paso-6.png" alt="Paso 6">
+transparencia@seacoahuila.org.mx
 
-#### 7. Por último, deberá contestar algunos datos de estadística y al terminar dar clic en el ícono enviar.
+ 
 
-<img class="img-fluid" src="paso-7.png" alt="Paso 7">
+* A través de la Plataforma Nacional de Transparencia
 
-También se pueden presentar solicitudes de manera física en nuestras instalaciones en Boulevard Luis Donaldo Colosio No. 703, Piso 3, Fracc. Valle Real, C.P. 25205, Saltillo, Coahuila.
+Welcome - PNT (plataformadetransparencia.org.mx)
 
-En la Secretaría Ejecutiva del Sistema Estatal Anticorrupción estamos a sus órdenes para resolver las dudas o inquietudes sobre la Información Pública de Oficio y para ello [le invitamos a contactarnos](../contacto/).
+En el siguiente link podrá consultar la forma de registro y como realizar una solicitud de acceso:
+
+https://www.youtube.com/watch?v=fKOZ6Ep1Z2w
+
+https://www.youtube.com/watch?v=6DwO8U5SX5E
+
+ 
+
+## QUEJAS Y DENUNCIAS
+
+ 
+
+Contacto y buzón de quejas y sugerencias:
+
+Puede usar el Formulario de quejas y sugerencias
+
+Enviar un mensaje vía correo electrónico a quejas.y.sugerencias@seacoahuila.org.mx
+
+Vía telefónica: 844-688 2178
+
+ 
 
 Se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

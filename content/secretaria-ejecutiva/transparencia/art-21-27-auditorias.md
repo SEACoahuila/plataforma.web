@@ -14,6 +14,9 @@ Modified: 2020-05-29 13:00
 * [Dictamen primer trimestre de 2022](dictamen-2022-03-primer-trimestre.pdf)
 * [Dictamen segundo trimestre de 2022](dictamen-2022-06-segundo-trimestre.pdf)
 * [Dictamen tercer trimestre de 2022](dictamen-2022-09-tercer-trimestre.pdf)
+* [Dictamen cuarto trimestre de 2022](dictamen-2022-12-cuarto-trimestre.pdf)
+
+
 
 ### Dictámenes año 2021
 

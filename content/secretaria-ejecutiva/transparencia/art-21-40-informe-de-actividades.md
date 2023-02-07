@@ -11,6 +11,10 @@ Modified: 2019-10-11 14:10
 
 ## Informes anuales del Comité Coordinador del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 
+### Período 2021-2022
+
+* [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2021-2022.pdf)
+
 ### Período 2020-2021
 
 * [Informe Anual<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-anual-2020-2021.pdf)
@@ -31,8 +35,11 @@ Modified: 2019-10-11 14:10
 
 ## Informes trimestrales de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza
 
-###  Período 2022-2023
+###  Período 2022
 
 * [Informe primer trimestre<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-primer-trimestre-SE-2022.pdf)
+* [Informe segundo trimestre<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-segundo-trimestre-SE-2022.pdf)
+* [Informe tercer trimestre<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-tercer-trimestre-SE-2022.pdf)
+* [Informe cuarto trimestre<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](informe-cuarto-trimestre-SE-2022.pdf)
 
 Se le informa que los funcionarios responsables de la presente información son los titulares de las Direcciones y Unidades de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza.

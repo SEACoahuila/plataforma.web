@@ -27,6 +27,6 @@ La Unidad de Transparencia tiene entre en sus funciones la de recibir, dar trám
 
 ### Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza
 
-* [INFOCOAHUILA](http://189.254.130.35/infocoahuila/)
+* [Welcome - PNT (plataformadetransparencia.org.mx)](https://www.plataformadetransparencia.org.mx/web/guest/home)
 
 Así mismo, se informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

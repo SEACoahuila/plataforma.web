@@ -38,13 +38,16 @@ Modified: 2020-05-29 12:00
 * [Jesús Alejandro Castillo Moncada <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacm.pdf)
 * [Jorge Armando Moreno Tovar <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jamt.pdf)
 * [José Ángel Cepeda García <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jacg.pdf)
-* [Juan Felipe Reyes Rosales <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jfrr.pdf)
+* [Juan Felipe Reyes Rosales<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-jfrr.pdf)
+* [Christian Uriel Cordero García <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ccg.pdf)
 
 #### Unidad de Sistemas de Información
 
 * [René Lazalde Mañon <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cvrlm.pdf)
 * [Edna Janet Martínez Calvillo <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-ejmc.pdf)
 * [Erika Farias Pérez <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-efp2.pdf)
+* [Juan Diego Luna Cazares <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-dlc.pdf)
+
 
 
 

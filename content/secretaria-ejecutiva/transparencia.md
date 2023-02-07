@@ -84,7 +84,8 @@ a la Información pública" (Art. 70).
 49. [Información catastral]({filename}/secretaria-ejecutiva/transparencia/art-21-49-informacion-catastral.md)
 50. [Proceso catastral de valuación]({filename}/secretaria-ejecutiva/transparencia/art-21-50-proceso-catastral-de-valuacion.md)
 51. [Mecanismos y resultados de evaluación]({filename}/secretaria-ejecutiva/transparencia/art-21-51-mecanismos-y-resultados-de-evaluacion.md)
-52. [Otra información]({filename}/secretaria-ejecutiva/transparencia/art-21-52-otra-informacion.md)
+52. [Informe de los resultados de las evaluaciones a que son sujetos de forma periódica y/o trimestral por parte del Instituto]({filename}/secretaria-ejecutiva/transparencia/art-21-52-otra-informe-de-resultados.md)
+53. [Otra información]({filename}/secretaria-ejecutiva/transparencia/art-21-53-otra-informacion.md)
 
 ### Art. 22 Gastos de publicidad
 

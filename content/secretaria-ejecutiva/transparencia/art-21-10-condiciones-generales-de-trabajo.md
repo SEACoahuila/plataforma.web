@@ -15,8 +15,8 @@ Asimismo se informa que la **Secretaría Ejecutiva** no cuenta con ningún sindi
 
 ### Descargar
 
-* [Constitución Política de los Estados Unidos Mexicanos](../art-21-02-marco-normativo/constitucion-politica-federal-21.pdf)
-* [Constitución Política del Estado de Coahuila de Zaragoza](../art-21-02-marco-normativo/constitucion-politica-del-estado-de-coahuila-de-zaragoza-2020.pdf)
+* [Constitución Política de los Estados Unidos Mexicanos](../art-21-02-marco-normativo/constitucion-politica-federal-23.pdf)
+* [Constitución Política del Estado de Coahuila de Zaragoza](../art-21-02-marco-normativo/constitucion-politica-del-estado-de-coahuila-de-zaragoza-2023.pdf)
 * [Reglamento Interior de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza](../art-21-02-marco-normativo/reglamento-interior-secretaria-ejecutiva-seacoahuila.pdf)
 
 Por lo que se le informa que el funcionario responsable de la presente información es el **Lic. Mauricio Contreras Montoya,** Director de Asuntos Jurídicos y Transparencia.

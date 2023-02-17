@@ -5,6 +5,12 @@ Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
 Modified: 2020-06-18 12:00
 
+### Tercer trimestre 2022
+
+[Información Programática](#)
+
+1. Gasto por Categoría Programática [XLSX](https://docs.google.com/spreadsheets/d/12amNA5Yaj9CIpQbMetz8dUv_fCev3E9f/edit?usp=sharing&ouid=115836378895011721190&rtpof=true&sd=true)
+
 
 ### Tercer trimestre 2022
 

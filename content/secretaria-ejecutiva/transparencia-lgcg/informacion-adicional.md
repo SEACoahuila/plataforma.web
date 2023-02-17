@@ -5,6 +5,16 @@ Author: Secretaría Ejecutiva
 Date: 2019-04-30 16:32
 Modified: 2020-06-18 12:00
 
+### Cuarto trimestre 2022
+
+[Información adicional - PDF](#)
+
+1. Relación de Bienes Muebles [XLSX](https://docs.google.com/spreadsheets/d/15M5pWtxMYwOZQtiHGPS0dAkzjopqm5Ke/edit?usp=sharing&ouid=115836378895011721190&rtpof=true&sd=true)
+2. Relación de Bienes Inmuebles [XLSX](https://drive.google.com/file/d/1tn3UOXKdXnXajW1k9FYUanBjQttdAU-y/view?usp=sharing)
+3. El Reporte de los Esquemas Bursátiles y de Coberturas Financieras [PDF](https://drive.google.com/file/d/1tn3UOXKdXnXajW1k9FYUanBjQttdAU-y/view?usp=sharing)
+4. Destino del Gasto Federalizado y Reintegros [XLSX](https://docs.google.com/spreadsheets/d/14K0NLuTPsb36g9run2Fq0NooiMuMjqo3/edit?usp=sharing&ouid=115836378895011721190&rtpof=true&sd=true)
+
+
 ### Tercer trimestre 2022
 
 [Información adicional - PDF](#)

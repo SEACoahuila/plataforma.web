@@ -29,6 +29,14 @@ Save_as: secretaria-ejecutiva/comision-ejecutiva/index.html
 
 * [Acta novena sesión ordinara Comisión Ejecutiva 28 JUNIO 22](novena-sesion-ordinaria-22.pdf)
 
+* [Acta primera sesión ordinaria Comisión Ejecutiva 31 OCTUBRE 22](primera-sesion-ordinaria-22.pdf)
+
+* [Acta segunda sesión ordinaria Comisión Ejecutiva 17 NOVIEMBRE 22](segunda-sesion-ordinaria-22.pdf)
+
+* [Acta tercera sesión ordinaria Comisión Ejecutiva 15 DICIEMBRE 22](tercera-sesion-ordinaria-22.pdf)
+
+* [Acta cuarta sesión ordinara Comisión Ejecutiva 19 ENERO 23](cuarta-sesion-ordinaria-23.pdf)
+
 ### Sesiones extraordinarias
 
 * [Acta primera sesión extraordinaria Comisión Ejecutiva 14 ENERO 22](primera-sesion-extraordinaria-22.pdf)

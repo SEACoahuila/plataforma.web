@@ -7,4 +7,9 @@ Status: hidden
 Save_as: secretaria-ejecutiva/capacitacion/index.html
 
 
+* [Capacitación a municipios 2023](capacitacion-municipios-2023/)
+
+
 * [Primera Capacitación y Difusión Sistema Anticorrupción del Estado de Coahuila de Zaragoza](2018-05-primera-capacitacion-y-difusion/)
+
+

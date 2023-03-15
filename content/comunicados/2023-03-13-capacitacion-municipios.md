@@ -4,7 +4,7 @@ Summary:
 Tags: Secretaría Ejecutiva
 Date: 2023-03-13 12:00
 Modified: 202-03-13 13:00
-Image: preview.JPG 
+Image: preview.png 
 
 
 <img class="img-fluid" src="foto-01.jpg" alt="Capacitación a municipios, foto 1">

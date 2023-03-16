@@ -10,3 +10,5 @@ Modified: 2023-03-13 15:30
 El resultado de este trabajo ya puede consultarse en la página <a href="https://www.unodc.org/lpomex/es/noticias/diciembre-2022/metodologia-para-el-fomento-de-la-participacion-ciudadana-en-la-prevencion-y-combate-a-la-corrupcion.html">https://www.unodc.org/lpomex/es/noticias/diciembre-2022/metodologia-para-el-fomento-de-la-participacion-ciudadana-en-la-prevencion-y-combate-a-la-corrupcion.html</a>, es de libre acceso y puede ser aplicado en cualquier país, estado o municipio. 
 
 Esta metodología permitirá “generar estrategias de participación ciudadana para la prevención y combate a la corrupción, en corresponsabilidad con sociedad civil, instituciones de gobierno y universidades, y con base en los principios que establece la Agenda 2030” (UNODC).
+
+* [Metodología para el Fomento a la Participación Ciudadana en el Combate a la Corrupción ](metodologia-para-el-fomento.pdf)

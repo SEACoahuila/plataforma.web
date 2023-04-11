@@ -24,6 +24,18 @@ Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CU
 
 No se brindaron ayudas y subsidios en el período.
 
+**Período Cuarto Trimestre 2022**
+
+Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado
+--------:|--------:|---------:|----------------------------:|-------------:|-----:|----:|------------:
+       0 |       0 |        0 |                           0 |            0 |    0 |   0 |           0
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+         |         |          |                             |              |      |     |
+
+No se brindaron ayudas y subsidios en el período.
+
 **Período Tercer Trimestre 2022**
 
 Concepto | Ayuda A | Subsidio | Sector (Económico o Social) | Beneficiario | CURP | RFC | Monto Pagado

@@ -33,7 +33,6 @@ Esta Secretaría Ejecutiva no ha otorgado licencia alguna a servidores públicos
 * [Lic. Juan Felipe Reyes Rosales - PDF](nom-jfrr.pdf)
 * [C. José Angel Cepeda García - PDF](nom-jacg.pdf)
 * [C.P. Ana Laura López Ibarra](nom-all.pdf)
-* [Lic. Nora Elizabeth Berlanga Galvan - PDF](nom-nebg.pdf)
 * [Lic. Estefanía Alejandra Guervara Meza - PDF](nom-eagm.pdf)
 * [Lic. Laura Elena Gonzalez Castañeda - PDF](nom-legc.pdf)
 

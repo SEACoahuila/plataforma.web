@@ -23,7 +23,6 @@ Modified: 2020-05-29 12:00
 
 
 * [Luis Alberto Gutiérrez Arizpe <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-laga.pdf)
-* [Nora Elizabeth Berlanga Galván <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](cv-nebg.pdf)
 * [Sara Ercilia Romo Mayorga<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](CV-sr.pdf)
 
 #### Dirección de Vinculación Interinstitucional

@@ -10,6 +10,10 @@ Modified: 2019-11-25 11:30
 
 <h2 style="color: black">Comité Coordinador</h2>
 
+#### Convocatorias Comité Coordinador
+
+* [Convocatorias 2022](convocatorias-cc-2022.pdf)
+
 A lo dispuesto en la Fracción XXI del Art. 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, se informa lo siguiente:
 
 De conformidad con lo dispuesto por el artículo 13, de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza;
@@ -29,6 +33,7 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 #### Sesiones Ordinarias del Comité Coordinador (CC)
 
 
+
 ##### Sesiones Ordinarias-CC 2022 
 
 * 28 de Enero 2022 - [Acta de la Primera Sesión Ordinaria - PDF](2022-primer-sesion-ordinaria-CC.pdf)
@@ -44,9 +49,6 @@ El **​Comité Coordinador** ​se reunirá en sesión ordinaria cada tres mese
 * 28 de Octubre 2022 - [Acta de la Décima Primera Sesión Ordinaria - PDF](2022-decima-primera-sesion-ordinaria-CC.pdf)
 * 29 de Noviembre 2022 - [Acta de la Décima Segunda Sesión Ordinaria - PDF](2022-decima-segunda-sesion-ordinaria-CC.pdf)
 * 16 de Diciembre 2022 - [Acta de la Décima Tercera Sesión Ordinaria - PDF](2022-decima-tercera-sesion-ordinaria-CC.pdf)
-
-
-
 
 
 ##### Sesiones Ordinarias-CC 2021
@@ -98,6 +100,8 @@ Nota: Acta de la décima primera sesión ordinaria del Comité Coordinador, en e
 
 * 17 de julio 2018     - [Acta de la Primer Sesión Extraordinaria - PDF](2018-07-17-primera-sesion-extraordinaria-comite-coordinador.pdf)
 * 20 de noviembre 2018 - [Acta de la Segunda Sesión Extraordinaria - PDF](2018-11-20-segunda-sesion-extraordinaria-comite-coordinador.pdf)
+
+
 
 Nota: Al 05 de enero de 2023, no se han realizado sesiones extraordinarias del Comité Coordinador.
 
